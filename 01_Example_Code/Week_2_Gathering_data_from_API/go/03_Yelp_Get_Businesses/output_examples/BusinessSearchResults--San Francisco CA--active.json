@@ -1,0 +1,1859 @@
+{
+ "businesses": [
+  {
+   "id": "6PzyzeiWjJ0fPpuKZffn9g",
+   "alias": "california-academy-of-sciences-san-francisco",
+   "name": "California Academy of Sciences",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CUhjEmCbFNP76WK6ENRVlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/california-academy-of-sciences-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3328,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "aquariums",
+     "title": "Aquariums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.466041,
+    "Latitude": 37.769816
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "55 Music Concourse Dr",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94118",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "55 Music Concourse Dr",
+     "San Francisco, CA 94118"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153798000",
+   "display_phone": "(415) 379-8000",
+   "distance": 4138.258776192306
+  },
+  {
+   "id": "68bV30ys1GMvVOLta6ylXQ",
+   "alias": "plank-oakland",
+   "name": "Plank",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/D1Dxm6wCA4myAHLa1IjCLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/plank-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2170,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.2763133,
+    "Latitude": 37.7948519
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "98 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94607",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "98 Broadway",
+     "Oakland, CA 94607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15108170980",
+   "display_phone": "(510) 817-0980",
+   "distance": 12768.546034377177
+  },
+  {
+   "id": "J3C1Eenep01AKjTBsEx3qg",
+   "alias": "muir-woods-national-monument-mill-valley",
+   "name": "Muir Woods National Monument",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MgjJw0oK--7cVaieBFJIpg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/muir-woods-national-monument-mill-valley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1726,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "hiking",
+     "title": "Hiking"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.578095,
+    "Latitude": 37.89538
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 Muir Woods Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Mill Valley",
+    "zip_code": "94941",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1 Muir Woods Rd",
+     "Mill Valley, CA 94941"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155612850",
+   "display_phone": "(415) 561-2850",
+   "distance": 19331.278122518688
+  },
+  {
+   "id": "EnClsPfQ3j-9triBsg3YnQ",
+   "alias": "san-francisco-zoo-san-francisco",
+   "name": "San Francisco Zoo",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RzKcWijh2ZG6ccj7K-Yyaw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/san-francisco-zoo-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1586,
+   "categories": [
+    {
+     "alias": "zoos",
+     "title": "Zoos"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.503209,
+    "Latitude": 37.734824
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Sloat Blvd At The Great Hwy",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94132",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "Sloat Blvd At The Great Hwy",
+     "San Francisco, CA 94132"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157537080",
+   "display_phone": "(415) 753-7080",
+   "distance": 8610.82267400569
+  },
+  {
+   "id": "fPYCsVL3s0vM13jJeOWAig",
+   "alias": "urban-putt-san-francisco",
+   "name": "Urban Putt",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/z-AipVh5V0-7U3FyfiuNaw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/urban-putt-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1561,
+   "categories": [
+    {
+     "alias": "mini_golf",
+     "title": "Mini Golf"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.416826814485,
+    "Latitude": 37.7557019908942
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1096 S Van Ness Ave",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1096 S Van Ness Ave",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153411080",
+   "display_phone": "(415) 341-1080",
+   "distance": 2146.6686018019227
+  },
+  {
+   "id": "Tf_27JvnneEx0Tz79UwShg",
+   "alias": "mission-dolores-park-san-francisco",
+   "name": "Mission Dolores Park",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SGLE6aljiop98_V95ukb-g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mission-dolores-park-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1533,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "basketballcourts",
+     "title": "Basketball Courts"
+    },
+    {
+     "alias": "tennis",
+     "title": "Tennis"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.427052,
+    "Latitude": 37.759764
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "19th \u0026 Dolores St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94114",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "19th \u0026 Dolores St",
+     "San Francisco, CA 94114"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158312700",
+   "display_phone": "(415) 831-2700",
+   "distance": 1812.4690217701766
+  },
+  {
+   "id": "zoyMy0c09FCkNkH0EifV_w",
+   "alias": "oakland-zoo-oakland",
+   "name": "Oakland Zoo",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QEHkUtwNceytA3Zu012yIw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/oakland-zoo-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1445,
+   "categories": [
+    {
+     "alias": "zoos",
+     "title": "Zoos"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.1503818,
+    "Latitude": 37.7537286
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9777 Golf Links Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94605",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "9777 Golf Links Rd",
+     "Oakland, CA 94605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106329525",
+   "display_phone": "(510) 632-9525",
+   "distance": 23764.53957498307
+  },
+  {
+   "id": "KIVq5BlJKTipwtB3NATX0g",
+   "alias": "golden-gate-park-san-francisco",
+   "name": "Golden Gate Park",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oCSD9OX9gPcLdVCoalxDzQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/golden-gate-park-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1271,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4544136,
+    "Latitude": 37.7726466
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "501 Stanyan St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94117",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "501 Stanyan St",
+     "San Francisco, CA 94117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158312700",
+   "display_phone": "(415) 831-2700",
+   "distance": 3115.7150271174064
+  },
+  {
+   "id": "WV2fVK6OJfzn2BkRGpbP7A",
+   "alias": "twin-peaks-san-francisco",
+   "name": "Twin Peaks",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7gSHbzFVYBydhyW2EclWHg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/twin-peaks-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1244,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.447519302368,
+    "Latitude": 37.7521564122127
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "501 Twin Peaks Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94114",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "501 Twin Peaks Blvd",
+     "San Francisco, CA 94114"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158312700",
+   "display_phone": "(415) 831-2700",
+   "distance": 3536.317683361589
+  },
+  {
+   "id": "DBxaAG84IfoTVyJLHOwbQA",
+   "alias": "sauced-bbq-and-spirits-walnut-creek-3",
+   "name": "Sauced BBQ \u0026 Spirits",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9JAuocdzotTNynU9P4rYpA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sauced-bbq-and-spirits-walnut-creek-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1211,
+   "categories": [
+    {
+     "alias": "burgers",
+     "title": "Burgers"
+    },
+    {
+     "alias": "southern",
+     "title": "Southern"
+    },
+    {
+     "alias": "axethrowing",
+     "title": "Axe Throwing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.06200510774427,
+    "Latitude": 37.89922377087696
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1410 Locust St",
+    "address2": "",
+    "address3": "",
+    "city": "Walnut Creek",
+    "zip_code": "94596",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1410 Locust St",
+     "Walnut Creek, CA 94596"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19254335957",
+   "display_phone": "(925) 433-5957",
+   "distance": 34294.980648537836
+  },
+  {
+   "id": "-fqw8aDcx1Sgjs-4u__Aiw",
+   "alias": "fort-funston-san-francisco-3",
+   "name": "Fort Funston",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gOcfkMjAq7Ta65qlUMt_hw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fort-funston-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1146,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.50041,
+    "Latitude": 37.714988
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "206 Fort Funston Rd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94118",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "206 Fort Funston Rd",
+     "San Francisco, CA 94118"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155614323",
+   "display_phone": "(415) 561-4323",
+   "distance": 9752.799511535342
+  },
+  {
+   "id": "P6X9hff8GAqNHJjhyr0ENQ",
+   "alias": "aquarium-of-the-bay-san-francisco",
+   "name": "Aquarium Of The Bay",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LqtMuNTMoyE4IyLic94CgA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aquarium-of-the-bay-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 940,
+   "categories": [
+    {
+     "alias": "aquariums",
+     "title": "Aquariums"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.409323172894,
+    "Latitude": 37.808666
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "PIER 39 Embarcadero \u0026 Beach St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94133",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "PIER 39 Embarcadero \u0026 Beach St",
+     "San Francisco, CA 94133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156235300",
+   "display_phone": "(415) 623-5300",
+   "distance": 3857.601372319966
+  },
+  {
+   "id": "15ysmt_MGcIDHwm_BERJ6Q",
+   "alias": "ifly-indoor-skydiving-sf-bay-union-city",
+   "name": "iFLY Indoor Skydiving - SF Bay",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zsazUzSBP2zjZWTFykhozA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ifly-indoor-skydiving-sf-bay-union-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 926,
+   "categories": [
+    {
+     "alias": "skydiving",
+     "title": "Skydiving"
+    },
+    {
+     "alias": "eventplanning",
+     "title": "Party \u0026 Event Planning"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.065536,
+    "Latitude": 37.5983916
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "31310 Alvarado-Niles Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Union City",
+    "zip_code": "94587",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "31310 Alvarado-Niles Rd",
+     "Union City, CA 94587"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104894359",
+   "display_phone": "(510) 489-4359",
+   "distance": 36807.845528361344
+  },
+  {
+   "id": "_ZFDiOgdQkZlD7Y_e9Ddmw",
+   "alias": "sonoma-zipline-adventures-occidental",
+   "name": "Sonoma Zipline Adventures",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VWuz7bdMpr6qQQkMBhlYdw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sonoma-zipline-adventures-occidental?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 923,
+   "categories": [
+    {
+     "alias": "tours",
+     "title": "Tours"
+    },
+    {
+     "alias": "zipline",
+     "title": "Ziplining"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.97393,
+    "Latitude": 38.434083
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6250 Bohemian Hwy",
+    "address2": "",
+    "address3": "",
+    "city": "Occidental",
+    "zip_code": "95465",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "6250 Bohemian Hwy",
+     "Occidental, CA 95465"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18884947868",
+   "display_phone": "(888) 494-7868",
+   "distance": 87901.5123216462
+  },
+  {
+   "id": "sqItQk-sTld7Voi35EJYgw",
+   "alias": "lucky-strike-san-francisco-san-francisco-2",
+   "name": "Lucky Strike San Francisco",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eRhAXAJJVAVo_FmxipI27Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lucky-strike-san-francisco-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 920,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.3926361,
+    "Latitude": 37.7784204
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "200 King St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94107",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "200 King St",
+     "San Francisco, CA 94107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154008260",
+   "display_phone": "(415) 400-8260",
+   "distance": 2384.598550833893
+  },
+  {
+   "id": "yniMfk_yS1sk9dxPLDVchg",
+   "alias": "lands-end-trail-san-francisco",
+   "name": "Lands End Trail",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fnBHgWpQz3bgHvpYwg4EjA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lands-end-trail-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 920,
+   "categories": [
+    {
+     "alias": "hiking",
+     "title": "Hiking"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.510029,
+    "Latitude": 37.780077
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "680 Point Lobos Ave",
+    "address2": "",
+    "address3": "Golden Gate National Recreation Area",
+    "city": "San Francisco",
+    "zip_code": "94121",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "680 Point Lobos Ave",
+     "Golden Gate National Recreation Area",
+     "San Francisco, CA 94121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 7985.966910776178
+  },
+  {
+   "id": "H8naPxTB9BUQJTRcQuoXtA",
+   "alias": "ocean-beach-san-francisco",
+   "name": "Ocean Beach",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ao7zeSpJGhOdZTK5BMvWKw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ocean-beach-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 906,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "beaches",
+     "title": "Beaches"
+    },
+    {
+     "alias": "surfing",
+     "title": "Surfing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.510990426,
+    "Latitude": 37.7702848665
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Point Lobos Ave, Great Hwy",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94121",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "Point Lobos Ave, Great Hwy",
+     "San Francisco, CA 94121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154265240",
+   "display_phone": "(415) 426-5240",
+   "distance": 8066.563362374623
+  },
+  {
+   "id": "IqHbzs_kMRzX1MLjlkRetQ",
+   "alias": "9round-fitness-san-francisco",
+   "name": "9Round Fitness",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zz9zSmVrHYil8f3e7mMMUA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/9round-fitness-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 861,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.46205,
+    "Latitude": 37.72537360247992
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1850 Ocean Ave",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94112",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1850 Ocean Ave",
+     "San Francisco, CA 94112"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155354990",
+   "display_phone": "(415) 535-4990",
+   "distance": 6662.503031725419
+  },
+  {
+   "id": "MKqtBlDciknkwW0q_Xa-Ow",
+   "alias": "crissy-field-san-francisco-4",
+   "name": "Crissy Field",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Aybew4R1MIPte0jG1h0GJw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/crissy-field-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 825,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "beaches",
+     "title": "Beaches"
+    },
+    {
+     "alias": "hiking",
+     "title": "Hiking"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.458308262209,
+    "Latitude": 37.8036602516771
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "603 Mason St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94129",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "603 Mason St",
+     "San Francisco, CA 94129"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155614323",
+   "display_phone": "(415) 561-4323",
+   "distance": 4528.742842988148
+  },
+  {
+   "id": "G0hXK-1uwd-Ed2Mwdajidg",
+   "alias": "blazing-saddles-bike-rentals-and-tours-san-francisco-7",
+   "name": "Blazing Saddles Bike Rentals \u0026 Tours",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tmpNyolM_f5bXjwfdx3o5A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blazing-saddles-bike-rentals-and-tours-san-francisco-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 801,
+   "categories": [
+    {
+     "alias": "bikes",
+     "title": "Bikes"
+    },
+    {
+     "alias": "bikerentals",
+     "title": "Bike Rentals"
+    },
+    {
+     "alias": "biketours",
+     "title": "Bike tours"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.4208,
+    "Latitude": 37.80604
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2715 Hyde St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2715 Hyde St",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152028888",
+   "display_phone": "(415) 202-8888",
+   "distance": 3467.5467107029235
+  },
+  {
+   "id": "fTlqRlDPtOMayvZM46LVlA",
+   "alias": "baker-beach-san-francisco",
+   "name": "Baker Beach",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ipsa-OOGxjSSGCIkvqxLgQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/baker-beach-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 788,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "beaches",
+     "title": "Beaches"
+    },
+    {
+     "alias": "fishing",
+     "title": "Fishing"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4836395,
+    "Latitude": 37.79055812746036
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1770 Gibson Rd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94129",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1770 Gibson Rd",
+     "San Francisco, CA 94129"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155614323",
+   "display_phone": "(415) 561-4323",
+   "distance": 5907.860779287754
+  },
+  {
+   "id": "C_gqdm7AJjpl6z8DCIyjxg",
+   "alias": "city-sports-club-san-francisco-3",
+   "name": "City Sports Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bAH7W5ijiVfZwmqkcmPYxw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/city-sports-club-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 745,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "sports_clubs",
+     "title": "Sports Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.47616,
+    "Latitude": 37.72977
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3201 20th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94132",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3201 20th Ave",
+     "San Francisco, CA 94132"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156801006",
+   "display_phone": "(415) 680-1006",
+   "distance": 7077.060115586338
+  },
+  {
+   "id": "vmFTH-SBgHiPHiweUxMEMQ",
+   "alias": "point-isabel-regional-shoreline-richmond-3",
+   "name": "Point Isabel Regional Shoreline",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-RO1EKFzUTae88YQfHxFYw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/point-isabel-regional-shoreline-richmond-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 736,
+   "categories": [
+    {
+     "alias": "dog_parks",
+     "title": "Dog Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.324733,
+    "Latitude": 37.900962
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2701 Isabel St",
+    "address2": "",
+    "address3": "",
+    "city": "Richmond",
+    "zip_code": "94808",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2701 Isabel St",
+     "Richmond, CA 94808"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18883272757",
+   "display_phone": "(888) 327-2757",
+   "distance": 16297.21109486177
+  },
+  {
+   "id": "fauyt6HXSNgcwNmQsZu7fw",
+   "alias": "six-flags-hurricane-harbor-concord-2",
+   "name": "Six Flags Hurricane Harbor",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/U6ZXy1GSqGBqQHr1d-6-bw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/six-flags-hurricane-harbor-concord-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 711,
+   "categories": [
+    {
+     "alias": "waterparks",
+     "title": "Water Parks"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.05141,
+    "Latitude": 37.97385
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1950 Waterworld Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Concord",
+    "zip_code": "94520",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1950 Waterworld Pkwy",
+     "Concord, CA 94520"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19256091364",
+   "display_phone": "(925) 609-1364",
+   "distance": 39142.13525636304
+  },
+  {
+   "id": "diJ1MrwpI2zsZSkyY-PL6Q",
+   "alias": "24-hour-fitness-san-francisco-san-francisco",
+   "name": "24 Hour Fitness - San Francisco",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5q0F3werX4VX-s248hO1Pw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/24-hour-fitness-san-francisco-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 641,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.42098236084,
+    "Latitude": 37.7869453430176
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1200 Van Ness Ave",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1200 Van Ness Ave",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157762200",
+   "display_phone": "(415) 776-2200",
+   "distance": 1347.973108418005
+  },
+  {
+   "id": "hEXhf40Y9PdnYJzT_LEJlg",
+   "alias": "mission-bowling-club-san-francisco",
+   "name": "Mission Bowling Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/50zZyUfdN5ArY-G8XloS9A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mission-bowling-club-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 635,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "breakfast_brunch",
+     "title": "Breakfast \u0026 Brunch"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.41672,
+    "Latitude": 37.76393
+   },
+   "transactions": [
+    "restaurant_reservation",
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "3176 17th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3176 17th St",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158632695",
+   "display_phone": "(415) 863-2695",
+   "distance": 1246.747881768186
+  },
+  {
+   "id": "bt3mS_fhHWj4K-RJa1nXtQ",
+   "alias": "lake-merritt-oakland",
+   "name": "Lake Merritt",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nGMGOMCJbsuPqnZ8UHVz7Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lake-merritt-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 633,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "lakes",
+     "title": "Lakes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.258297,
+    "Latitude": 37.801238
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "568 Bellevue Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94610",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "568 Bellevue Ave",
+     "Oakland, CA 94610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 14456.726642788793
+  },
+  {
+   "id": "JLdOPH6tKXGQKRGQCGdWAw",
+   "alias": "24-hour-fitness-potrero-hill-san-francisco",
+   "name": "24 Hour Fitness - Potrero Hill",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/W4nKb0_ILDnFyLTDzZtYLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/24-hour-fitness-potrero-hill-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 627,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.410309149703,
+    "Latitude": 37.7665133
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1645 Bryant St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1645 Bryant St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154374188",
+   "display_phone": "(415) 437-4188",
+   "distance": 1228.0646500648554
+  },
+  {
+   "id": "bbXvP-TFIdVAjMjZwyfHaA",
+   "alias": "escapesf-san-francisco",
+   "name": "EscapeSF",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/972w__S03BbhiTLe2czNwA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/escapesf-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 616,
+   "categories": [
+    {
+     "alias": "escapegames",
+     "title": "Escape Games"
+    },
+    {
+     "alias": "teambuilding",
+     "title": "Team Building Activities"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.40445,
+    "Latitude": 37.79369
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "602 Kearny St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "602 Kearny St",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152941718",
+   "display_phone": "(415) 294-1718",
+   "distance": 2466.9951634711133
+  },
+  {
+   "id": "5WOuvAbuInHIUR8rAwWBvw",
+   "alias": "bay-area-discovery-museum-sausalito",
+   "name": "Bay Area Discovery Museum",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qg7NjuDvD74Dsitns_gJyw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bay-area-discovery-museum-sausalito?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 604,
+   "categories": [
+    {
+     "alias": "childrensmuseums",
+     "title": "Children's Museums"
+    },
+    {
+     "alias": "daycamps",
+     "title": "Day Camps"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4763544728872,
+    "Latitude": 37.835217950160974
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "557 McReynolds Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Sausalito",
+    "zip_code": "94965",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "557 McReynolds Rd",
+     "Sausalito, CA 94965"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153393900",
+   "display_phone": "(415) 339-3900",
+   "distance": 8367.905587938085
+  },
+  {
+   "id": "MyIuu8mIooaF76XBSdFf1w",
+   "alias": "lake-chabot-regional-park-castro-valley",
+   "name": "Lake Chabot Regional Park",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3-VtB9NlsNUU35pe2NanHQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lake-chabot-regional-park-castro-valley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 599,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "lakes",
+     "title": "Lakes"
+    },
+    {
+     "alias": "fishing",
+     "title": "Fishing"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.104521261377,
+    "Latitude": 37.7171153612484
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17600 Lake Chabot Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Castro Valley",
+    "zip_code": "94546",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "17600 Lake Chabot Rd",
+     "Castro Valley, CA 94546"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18883272757",
+   "display_phone": "(888) 327-2757",
+   "distance": 28421.619179975176
+  },
+  {
+   "id": "PQ0SjSnrBseAbMMHLX7aug",
+   "alias": "adventure-cat-sailing-charters-san-francisco-2",
+   "name": "Adventure Cat Sailing Charters",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LozVYW2P2SPKR7BNEaaH6g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/adventure-cat-sailing-charters-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 588,
+   "categories": [
+    {
+     "alias": "boating",
+     "title": "Boating"
+    },
+    {
+     "alias": "boatcharters",
+     "title": "Boat Charters"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.410921,
+    "Latitude": 37.81021
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Pier 39",
+    "address2": "",
+    "address3": "Dock J",
+    "city": "San Francisco",
+    "zip_code": "94133",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "Pier 39",
+     "Dock J",
+     "San Francisco, CA 94133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157771630",
+   "display_phone": "(415) 777-1630",
+   "distance": 3996.353375378389
+  },
+  {
+   "id": "p0ZKfGY8s8V_uPqGNdTsOg",
+   "alias": "topgolf-san-jose-2",
+   "name": "Topgolf",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4CF9h1f4zEkkd7y2pZlRGw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/topgolf-san-jose-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 582,
+   "categories": [
+    {
+     "alias": "golf",
+     "title": "Golf"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -121.969768777771,
+    "Latitude": 37.423119127730246
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "10 Topgolf Dr",
+    "address2": "",
+    "address3": "",
+    "city": "San Jose",
+    "zip_code": "95002",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "10 Topgolf Dr",
+     "San Jose, CA 95002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14084046436",
+   "display_phone": "(408) 404-6436",
+   "distance": 55670.4573122087
+  },
+  {
+   "id": "PrREJ1T-nkFBbAE-zta7ZQ",
+   "alias": "city-sports-club-berkeley-6",
+   "name": "City Sports Club",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SJ5ITM6DFyLT6IYYRx29cg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/city-sports-club-berkeley-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 576,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "sports_clubs",
+     "title": "Sports Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.28752,
+    "Latitude": 37.85043
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3100 San Pablo Ave",
+    "address2": "Ste 110",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94702",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3100 San Pablo Ave",
+     "Ste 110",
+     "Berkeley, CA 94702"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15102015576",
+   "display_phone": "(510) 201-5576",
+   "distance": 14294.804099345436
+  },
+  {
+   "id": "R7vETirhUSr6oFecTuWZ-g",
+   "alias": "childrens-fairyland-oakland",
+   "name": "Children's Fairyland",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tVCcyLerwozxyZ2M2fwuFQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/childrens-fairyland-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 571,
+   "categories": [
+    {
+     "alias": "amusementparks",
+     "title": "Amusement Parks"
+    },
+    {
+     "alias": "playgrounds",
+     "title": "Playgrounds"
+    },
+    {
+     "alias": "childrensmuseums",
+     "title": "Children's Museums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.258861,
+    "Latitude": 37.80894
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "699 Bellevue Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94610",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "699 Bellevue Ave",
+     "Oakland, CA 94610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104522259",
+   "display_phone": "(510) 452-2259",
+   "distance": 14605.654557413298
+  },
+  {
+   "id": "KHD2YKVXfD1S_JC7JH4dDA",
+   "alias": "captain-kirks-san-francisco-sailing-sausalito-2",
+   "name": "Captain Kirk's San Francisco Sailing",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iruCVf0r4ATRV1UEiOkA1g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/captain-kirks-san-francisco-sailing-sausalito-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 567,
+   "categories": [
+    {
+     "alias": "boating",
+     "title": "Boating"
+    },
+    {
+     "alias": "boatcharters",
+     "title": "Boat Charters"
+    },
+    {
+     "alias": "boattours",
+     "title": "Boat Tours"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.49810518069955,
+    "Latitude": 37.8686409409109
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "150 Harbor Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Sausalito",
+    "zip_code": "94965",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "150 Harbor Dr",
+     "Sausalito, CA 94965"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16509300740",
+   "display_phone": "(650) 930-0740",
+   "distance": 12507.606246732632
+  },
+  {
+   "id": "9vmPjuRuNf2jYSdS0szEuw",
+   "alias": "redwood-regional-park-oakland",
+   "name": "Redwood Regional Park",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/78K4BX6SxFlOS2QZE2WfcA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/redwood-regional-park-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 563,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.16296285276096,
+    "Latitude": 37.81152441175849
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7867 Redwood Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94619",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "7867 Redwood Rd",
+     "Oakland, CA 94619"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18883272757",
+   "display_phone": "(888) 327-2757",
+   "distance": 22897.975583038835
+  },
+  {
+   "id": "gVinOWjKjGl1iJ4Byj_d4w",
+   "alias": "k1-speed-south-san-francisco",
+   "name": "K1 Speed",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EENvVi4JxRlagXXqZxMevQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/k1-speed-south-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 560,
+   "categories": [
+    {
+     "alias": "amusementparks",
+     "title": "Amusement Parks"
+    },
+    {
+     "alias": "gokarts",
+     "title": "Go Karts"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.40419,
+    "Latitude": 37.63947
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "160 Beacon St",
+    "address2": "",
+    "address3": "",
+    "city": "South San Francisco",
+    "zip_code": "94080",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "160 Beacon St",
+     "South San Francisco, CA 94080"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16507410215",
+   "display_phone": "(650) 741-0215",
+   "distance": 15120.466486054387
+  },
+  {
+   "id": "FyxwgZSkyUMu9r-8ywUbUA",
+   "alias": "24-hour-fitness-millbrae-millbrae-2",
+   "name": "24 Hour Fitness - Millbrae",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wgRT1osFGCLWgIWXkjP-Sw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/24-hour-fitness-millbrae-millbrae-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 555,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.39740058423659,
+    "Latitude": 37.60458654366226
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "979 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Millbrae",
+    "zip_code": "94030",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "979 Broadway",
+     "Millbrae, CA 94030"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16506511003",
+   "display_phone": "(650) 651-1003",
+   "distance": 19036.648179852018
+  },
+  {
+   "id": "owNUwSqBLnG2YK6dXY9WYA",
+   "alias": "bay-to-breakers-san-francisco-2",
+   "name": "Bay to Breakers",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JXIAAQo41Xh3z3B9M5dXYA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bay-to-breakers-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 551,
+   "categories": [
+    {
+     "alias": "races",
+     "title": "Races \u0026 Competitions"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3936209,
+    "Latitude": 37.7906161
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "200 Howard St",
+    "address2": "Ste 410",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "200 Howard St",
+     "Ste 410",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2846.0030273223406
+  }
+ ],
+ "total": 8400,
+ "region": {
+  "center": {
+   "longitude": -122.4194,
+   "Latitude": 37.7749
+  }
+ }
+}

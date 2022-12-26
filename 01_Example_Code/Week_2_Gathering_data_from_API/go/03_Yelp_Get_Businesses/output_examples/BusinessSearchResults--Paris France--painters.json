@@ -1,0 +1,1320 @@
+{
+ "businesses": [
+  {
+   "id": "Of3LGk-TJf0nfu55VbUHuA",
+   "alias": "accessible-boulogne-billancourt",
+   "name": "Accessible",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/accessible-boulogne-billancourt?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.24261,
+    "Latitude": 48.8352
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "167 bd Jean Jaurès",
+    "address2": "",
+    "address3": "",
+    "city": "Boulogne Billancourt",
+    "zip_code": "92100",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "167 bd Jean Jaurès",
+     "92100 Boulogne Billancourt",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148258596",
+   "display_phone": "+33 1 48 25 85 96",
+   "distance": 8364.931355583263
+  },
+  {
+   "id": "LiokvLZEIhL_c_XKHX_lRw",
+   "alias": "robert-le-héros-paris-5",
+   "name": "Robert Le Héros",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mbKymLcAxMJXSBW6CQGEVw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/robert-le-h%C3%A9ros-paris-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    },
+    {
+     "alias": "interiordesign",
+     "title": "Interior Design"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.36212,
+    "Latitude": 48.8615
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13 rue de Saintonge",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "13 rue de Saintonge",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144593322",
+   "display_phone": "+33 1 44 59 33 22",
+   "distance": 907.4834529670849
+  },
+  {
+   "id": "cIcU3RyKFXpa4BfuCss70A",
+   "alias": "magic-moquette-maurepas",
+   "name": "magic moquette",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zM4cgPPdbNtL11L7D3mIYA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/magic-moquette-maurepas?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 1.9411,
+    "Latitude": 48.76138
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "12 Square Marche",
+    "address2": "",
+    "address3": "",
+    "city": "Maurepas",
+    "zip_code": "78310",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "12 Square Marche",
+     "78310 Maurepas",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33684750113",
+   "display_phone": "+33 6 84 75 01 13",
+   "distance": 31912.33342421783
+  },
+  {
+   "id": "JeL8AbJt7JztcyY8fHBROw",
+   "alias": "ozanam-service-paris",
+   "name": "Ozanam Service",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ozanam-service-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "nonprofit",
+     "title": "Community Service/Non-Profit"
+    },
+    {
+     "alias": "painters",
+     "title": "Painters"
+    },
+    {
+     "alias": "movers",
+     "title": "Movers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.29077,
+    "Latitude": 48.84052
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "153 Rue Croix Nivert",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "153 Rue Croix Nivert",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145314215",
+   "display_phone": "+33 1 45 31 42 15",
+   "distance": 4837.516535535492
+  },
+  {
+   "id": "t_KC0PyZqEWwWquBDVuPHQ",
+   "alias": "galerie-art-3-paris",
+   "name": "Galerie Art 3",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/diEYpK1bY0cAaqBfmV4UDg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/galerie-art-3-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "interiordesign",
+     "title": "Interior Design"
+    },
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.2918654,
+    "Latitude": 48.8571044
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3 Avenue Suffren",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 Avenue Suffren",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145670943",
+   "display_phone": "+33 1 45 67 09 43",
+   "distance": 4414.422985751581
+  },
+  {
+   "id": "HoTHzpcULJk4BsCHSmSFWg",
+   "alias": "shantun-paris",
+   "name": "Shantun",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shantun-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3970468,
+    "Latitude": 48.8650039
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "75 Avenue Gambetta",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "75 Avenue Gambetta",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146365716",
+   "display_phone": "+33 1 46 36 57 16",
+   "distance": 3411.2140964401106
+  },
+  {
+   "id": "pXPUicSEQQ0HozTBtXKdpA",
+   "alias": "ar-decor-paris-2",
+   "name": "AR Decor",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/X8Q1C6LGStFuLxUwsJ21iA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ar-decor-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.286555,
+    "Latitude": 48.8688477
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "75 rue Boissiere",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75116",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "75 rue Boissiere",
+     "75116 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33662448175",
+   "display_phone": "+33 6 62 44 81 75",
+   "distance": 4991.395439529968
+  },
+  {
+   "id": "YZfD24hlh6zHjS13ra8f3A",
+   "alias": "emmanuel-sorin-paris",
+   "name": "Emmanuel Sorin",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wIu0pHQN4xdF4hk8HOxyYw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/emmanuel-sorin-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3925451,
+    "Latitude": 48.8503142
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "284 Boulevard Voltaire",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "284 Boulevard Voltaire",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143485057",
+   "display_phone": "+33 1 43 48 50 57",
+   "distance": 3033.4606927897416
+  },
+  {
+   "id": "ySm16z4EicOi53JU7p25pg",
+   "alias": "sobad-vigneux-sur-seine",
+   "name": "Sobad",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sobad-vigneux-sur-seine?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.4395551,
+    "Latitude": 48.6899665
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4 Rue F",
+    "address2": "",
+    "address3": "",
+    "city": "Vigneux sur Seine",
+    "zip_code": "91270",
+    "country": "FR",
+    "state": "91",
+    "display_address": [
+     "4 Rue F",
+     "91270 Vigneux sur Seine",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33169031406",
+   "display_phone": "+33 1 69 03 14 06",
+   "distance": 19603.45048730548
+  },
+  {
+   "id": "-FCiMIutCU4uDb5WloDTZA",
+   "alias": "attilalou-paris",
+   "name": "Attilalou",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/attilalou-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3646202,
+    "Latitude": 48.8639062
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "125 Rue Turenne",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "125 Rue Turenne",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142725190",
+   "display_phone": "+33 1 42 72 51 90",
+   "distance": 1218.836262618975
+  },
+  {
+   "id": "t5CoY6xUPsR0F1t74AMQlg",
+   "alias": "emploi-paris-2",
+   "name": "Emploi +",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KZZIk2Uuohm3b-eFEUZ9MQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/emploi-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    },
+    {
+     "alias": "employmentagencies",
+     "title": "Employment Agencies"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.32232,
+    "Latitude": 48.83027
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "70 Rue Du Moulin Vert",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75014",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "70 Rue Du Moulin Vert",
+     "75014 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33156561056",
+   "display_phone": "+33 1 56 56 10 56",
+   "distance": 3654.174982135946
+  },
+  {
+   "id": "C34U705j5zAbNqbJKAeoPQ",
+   "alias": "andré-travaux-paris-2",
+   "name": "André Travaux",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/andr%C3%A9-travaux-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "painters",
+     "title": "Painters"
+    },
+    {
+     "alias": "carpetinstallation",
+     "title": "Carpet Installation"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.38003754615784,
+    "Latitude": 48.859058380127
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33625121348",
+   "display_phone": "+33 6 25 12 13 48",
+   "distance": 2123.832517423895
+  },
+  {
+   "id": "bHW9wOiE3ql82I-q9mW6yg",
+   "alias": "db-batiment-ivry-sur-seine",
+   "name": "DB Batiment",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/db-batiment-ivry-sur-seine?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "electricians",
+     "title": "Electricians"
+    },
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3938799,
+    "Latitude": 48.8157883
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "55 rue Lenine",
+    "address2": "",
+    "address3": "",
+    "city": "Ivry-sur-Seine",
+    "zip_code": "94200",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "55 rue Lenine",
+     "94200 Ivry-sur-Seine",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 5468.924393001655
+  },
+  {
+   "id": "89uO_i7reuYbYwWzAXXfEQ",
+   "alias": "sing-and-play-paris",
+   "name": "Chane-Kane et Santana peinture \u0026 Décoration",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sing-and-play-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "language_schools",
+     "title": "Language Schools"
+    },
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.30746,
+    "Latitude": 48.85786
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "151 Rue de grenelle",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "151 Rue de grenelle",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33609132894",
+   "display_phone": "+33 6 09 13 28 94",
+   "distance": 3271.667630173527
+  },
+  {
+   "id": "wJFdtuo3Blvax67U3Ljqpw",
+   "alias": "la-plateforme-paris-3",
+   "name": "La Plateforme",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-plateforme-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    },
+    {
+     "alias": "masonry_concrete",
+     "title": "Masonry/Concrete"
+    },
+    {
+     "alias": "carpenters",
+     "title": "Carpenters"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.36726,
+    "Latitude": 48.88431
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "220 bd de la Villette",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75019",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "220 bd de la Villette",
+     "75019 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153365600",
+   "display_phone": "+33 1 53 36 56 00",
+   "distance": 3272.1730263076433
+  },
+  {
+   "id": "K5NjRQeoC3afN5jb47Tb0A",
+   "alias": "andré-pugliese-paris",
+   "name": "André Pugliese",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/andr%C3%A9-pugliese-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "pediatricians",
+     "title": "Pediatricians"
+    },
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.2613792,
+    "Latitude": 48.8486369
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "50 Rue Poussin",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75016",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "50 Rue Poussin",
+     "75016 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146512316",
+   "display_phone": "+33 1 46 51 23 16",
+   "distance": 6703.726921924287
+  },
+  {
+   "id": "oI6USzbDCfHPoaBgrnvBZw",
+   "alias": "société-sénéchal-sa-paris-2",
+   "name": "Société Sénéchal SA",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/soci%C3%A9t%C3%A9-s%C3%A9n%C3%A9chal-sa-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.3509699,
+    "Latitude": 48.82595
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "182 rue Tolbiac",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "182 rue Tolbiac",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140795505",
+   "display_phone": "+33 1 40 79 55 05",
+   "distance": 3400.1536902457988
+  },
+  {
+   "id": "tEGhn7JI72FK9n-523hSZg",
+   "alias": "infini-legno-paris",
+   "name": "Infini Legno",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/infini-legno-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "interiordesign",
+     "title": "Interior Design"
+    },
+    {
+     "alias": "painters",
+     "title": "Painters"
+    },
+    {
+     "alias": "flooring",
+     "title": "Flooring"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.2893084,
+    "Latitude": 48.836853
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "216 rue de la Croix Nivert",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "216 rue de la Croix Nivert",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145321848",
+   "display_phone": "+33 1 45 32 18 48",
+   "distance": 5099.058455626061
+  },
+  {
+   "id": "NcwwivE3rhDCFXpg9VY6Rg",
+   "alias": "paint-and-co-paris",
+   "name": "Paint and Co",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paint-and-co-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.3053534,
+    "Latitude": 48.8554589
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "77 Avenue Bosquet",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "77 Avenue Bosquet",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140610058",
+   "display_phone": "+33 1 40 61 00 58",
+   "distance": 3429.691690544307
+  },
+  {
+   "id": "eTEbyuHA3fKUoErZSNXUpA",
+   "alias": "m2f-antony",
+   "name": "M2f",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LTlJPrx3wBCgFqRws-cBSA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/m2f-antony?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.2971301,
+    "Latitude": 48.742569
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "85 rue Mirabeau",
+    "address2": "",
+    "address3": "",
+    "city": "Antony",
+    "zip_code": "92160",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "85 rue Mirabeau",
+     "92160 Antony",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33611625959",
+   "display_phone": "+33 6 11 62 59 59",
+   "distance": 13180.214910411596
+  },
+  {
+   "id": "fyBYFVtx7DRPXsj1ByAh0A",
+   "alias": "artissima-soisy-sous-montmorency",
+   "name": "Artissima",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/artissima-soisy-sous-montmorency?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3013926,
+    "Latitude": 48.9900398
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2 Rue Eaubonne",
+    "address2": "",
+    "address3": "",
+    "city": "Soisy sous Montmorency",
+    "zip_code": "95230",
+    "country": "FR",
+    "state": "95",
+    "display_address": [
+     "2 Rue Eaubonne",
+     "95230 Soisy sous Montmorency",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33134124341",
+   "display_phone": "+33 1 34 12 43 41",
+   "distance": 15295.113066754966
+  },
+  {
+   "id": "_o00ZFpgFDIAI5HABVgqMw",
+   "alias": "entreprise-balloch-paris",
+   "name": "Entreprise Balloch",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/entreprise-balloch-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    },
+    {
+     "alias": "pest_control",
+     "title": "Pest Control"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.4022176,
+    "Latitude": 48.8589375
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "145 Rue des Pyrénées",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "145 Rue des Pyrénées",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 3668.4296613628103
+  },
+  {
+   "id": "qwuFD1cixQDH1cKLXfBFqA",
+   "alias": "capalix-mitry-mory",
+   "name": "Capalix",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/capalix-mitry-mory?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    },
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.597913,
+    "Latitude": 48.9585136
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3 Place Pasteur",
+    "address2": "",
+    "address3": "",
+    "city": "Mitry Mory",
+    "zip_code": "77290",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "3 Place Pasteur",
+     "77290 Mitry Mory",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33164272178",
+   "display_phone": "+33 1 64 27 21 78",
+   "distance": 21234.705284603177
+  },
+  {
+   "id": "haV1zIhgWfCp_LI2RD-hoA",
+   "alias": "la-maison-du-parquet-paris",
+   "name": "La maison du Parquet",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-maison-du-parquet-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "flooring",
+     "title": "Flooring"
+    },
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.397514,
+    "Latitude": 48.8512515
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "131 rue de Montreuil",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "131 rue de Montreuil",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143738080",
+   "display_phone": "+33 1 43 73 80 80",
+   "distance": 3368.2766291667454
+  },
+  {
+   "id": "EGdexOdBN4wH9tiusKFkZQ",
+   "alias": "hk-trade-paris",
+   "name": "HK Trade",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hk-trade-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3641008,
+    "Latitude": 48.8712561
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "27 Rue Beaurepaire",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "27 Rue Beaurepaire",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142002464",
+   "display_phone": "+33 1 42 00 24 64",
+   "distance": 1847.6196952446594
+  },
+  {
+   "id": "d-VzpNGNmM3lAltfAlI0KA",
+   "alias": "sturtz-encadrement-paris",
+   "name": "Sturtz Encadrement",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9Dmm-p2WZqFLrkXP9CnMYg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sturtz-encadrement-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.2830203,
+    "Latitude": 48.8591971
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15 Tour",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75116",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "15 Tour",
+     "75116 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145255405",
+   "display_phone": "+33 1 45 25 54 05",
+   "distance": 5069.298795542928
+  },
+  {
+   "id": "nyLfbUMDAEhYVgb9ca33gg",
+   "alias": "galerie-jean-louis-danant-paris",
+   "name": "Galerie Jean-Louis Danant",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nswUskhih48SLyFv8CUfuw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/galerie-jean-louis-danant-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3147277,
+    "Latitude": 48.8724018
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "36 Avenue Matignon",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "36 Avenue Matignon",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142894015",
+   "display_phone": "+33 1 42 89 40 15",
+   "distance": 3255.865512390839
+  },
+  {
+   "id": "GH0WyDtP7xY1rv5Kplk2bQ",
+   "alias": "laurent-fuchs-rueil-malmaison-2",
+   "name": "Laurent Fuchs",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/laurent-fuchs-rueil-malmaison-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "painters",
+     "title": "Painters"
+    },
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.1919732,
+    "Latitude": 48.8746293
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "24 bis Rue Folies",
+    "address2": "",
+    "address3": "",
+    "city": "Rueil Malmaison",
+    "zip_code": "92500",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "24 bis Rue Folies",
+     "92500 Rueil Malmaison",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147729705",
+   "display_phone": "+33 1 47 72 97 05",
+   "distance": 11890.329679334438
+  },
+  {
+   "id": "OnLBJFDVSnKbLVl0Qk5nrQ",
+   "alias": "scènes-et-vernissages-paris-2",
+   "name": "Scènes et Vernissages",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vRxF5nzsGxJnETcvjCdTkQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sc%C3%A8nes-et-vernissages-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "wallpapering",
+     "title": "Wallpapering"
+    },
+    {
+     "alias": "painters",
+     "title": "Painters"
+    },
+    {
+     "alias": "contractors",
+     "title": "General Contractors"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.34464,
+    "Latitude": 48.87886
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9 rue la Tour d'Auvergne",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "9 rue la Tour d'Auvergne",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148788087",
+   "display_phone": "+33 1 48 78 80 87",
+   "distance": 2537.4710689950143
+  }
+ ],
+ "total": 29,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

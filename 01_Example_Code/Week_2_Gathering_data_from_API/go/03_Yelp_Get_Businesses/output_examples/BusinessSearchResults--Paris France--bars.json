@@ -1,0 +1,1899 @@
+{
+ "businesses": [
+  {
+   "id": "cEjF41ZQB8-SST8cd3EsEw",
+   "alias": "l-avant-comptoir-paris-3",
+   "name": "L'Avant Comptoir",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mVwgxgmpUcAUOZKdxypwSw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/l-avant-comptoir-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 643,
+   "categories": [
+    {
+     "alias": "tapas",
+     "title": "Tapas Bars"
+    },
+    {
+     "alias": "wine_bars",
+     "title": "Wine Bars"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3388,
+    "Latitude": 48.85202
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "3 carrefour de l'Odéon",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 carrefour de l'Odéon",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142384755",
+   "display_phone": "+33 1 42 38 47 55",
+   "distance": 1100.925137611022
+  },
+  {
+   "id": "AUQ3kXbHGpe8GCQUIJnpmw",
+   "alias": "kong-paris",
+   "name": "Kong",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/D6ZTOh3VYELi8pE4x8FIQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kong-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 496,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "panasian",
+     "title": "Pan Asian"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.34307,
+    "Latitude": 48.85915
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "1 rue du Pont Neuf",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "1 rue du Pont Neuf",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140390900",
+   "display_phone": "+33 1 40 39 09 00",
+   "distance": 723.4387650113846
+  },
+  {
+   "id": "IU9_wVOGBKjfqTTpAXpKcQ",
+   "alias": "bistro-des-augustins-paris",
+   "name": "Bistro des Augustins",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/b95P0AVVPerl1A2tUQL4VA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bistro-des-augustins-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 460,
+   "categories": [
+    {
+     "alias": "bistros",
+     "title": "Bistros"
+    },
+    {
+     "alias": "wine_bars",
+     "title": "Wine Bars"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.342119,
+    "Latitude": 48.854754
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "39 quai des Grands Augustins",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "39 quai des Grands Augustins",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143540441",
+   "display_phone": "+33 1 43 54 04 41",
+   "distance": 765.5723070071975
+  },
+  {
+   "id": "Z_J12o8kmAg8X5PiZxIJJw",
+   "alias": "buddha-bar-paris",
+   "name": "Buddha-Bar",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/biYNtPbMKuAuXu5iX37YMg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/buddha-bar-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 431,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "asianfusion",
+     "title": "Asian Fusion"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.32146730101974,
+    "Latitude": 48.8679137902601
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "8-12 bis rue Boissy d'Anglas",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "8-12 bis rue Boissy d'Anglas",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153059000",
+   "display_phone": "+33 1 53 05 90 00",
+   "distance": 2576.2089337003176
+  },
+  {
+   "id": "OBlZC2T9theJFTjovK4hdQ",
+   "alias": "candelaria-paris-2",
+   "name": "Candelaria",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/60LEHlrPXS2JlmAMe93lHQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/candelaria-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 336,
+   "categories": [
+    {
+     "alias": "mexican",
+     "title": "Mexican"
+    },
+    {
+     "alias": "speakeasies",
+     "title": "Speakeasies"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.364033,
+    "Latitude": 48.862981
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "52 rue de Saintonge",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "52 rue de Saintonge",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142744128",
+   "display_phone": "+33 1 42 74 41 28",
+   "distance": 1119.2795654476135
+  },
+  {
+   "id": "BvC_O7iWXp9vVTSBKxmMPA",
+   "alias": "le-fumoir-paris",
+   "name": "Le Fumoir",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9wwDUBI9v-pP2qZrINXx-Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-fumoir-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 311,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "modern_european",
+     "title": "Modern European"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.34055,
+    "Latitude": 48.8604
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "6 rue de l'Amiral de Coligny",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "6 rue de l'Amiral de Coligny",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142920024",
+   "display_phone": "+33 1 42 92 00 24",
+   "distance": 951.276753570786
+  },
+  {
+   "id": "LrgUIhSTZEZEs1NGmT052A",
+   "alias": "hôtel-costes-paris-2",
+   "name": "Hôtel Costes",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/271krUD-Cvu01BY_S0YD-g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/h%C3%B4tel-costes-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 306,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "french",
+     "title": "French"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.32798,
+    "Latitude": 48.86675
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "239 rue Saint-Honoré",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "239 rue Saint-Honoré",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142445000",
+   "display_phone": "+33 1 42 44 50 00",
+   "distance": 2096.1722643886937
+  },
+  {
+   "id": "ce3vXRUtUKZjbGf2fv8VzQ",
+   "alias": "ober-mamma-paris",
+   "name": "Ober Mamma",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/W_QFGV2B3lBFgPagF7O7-w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ober-mamma-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 285,
+   "categories": [
+    {
+     "alias": "pizza",
+     "title": "Pizza"
+    },
+    {
+     "alias": "italian",
+     "title": "Italian"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.37018,
+    "Latitude": 48.86446
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "107 boulevard Richard Lenoir",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "107 boulevard Richard Lenoir",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33158306278",
+   "display_phone": "+33 1 58 30 62 78",
+   "distance": 1567.0455663102675
+  },
+  {
+   "id": "PX1hwexNzzxd4-2HR-utUg",
+   "alias": "dirty-dick-paris",
+   "name": "Dirty Dick",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ijHFYaDnU0NZGWxbdFTlKw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dirty-dick-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 263,
+   "categories": [
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.33751,
+    "Latitude": 48.88153
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "10 rue Frochot",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "10 rue Frochot",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148787458",
+   "display_phone": "+33 1 48 78 74 58",
+   "distance": 2970.223478324826
+  },
+  {
+   "id": "RcODJWKhY2jJGNoXK8e9xQ",
+   "alias": "au-père-louis-paris-2",
+   "name": "Au Père Louis",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5fPuQTkmd6tfbKRtclLXWw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/au-p%C3%A8re-louis-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 261,
+   "categories": [
+    {
+     "alias": "wine_bars",
+     "title": "Wine Bars"
+    },
+    {
+     "alias": "french",
+     "title": "French"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.340349,
+    "Latitude": 48.848966
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "38 rue Monsieur le Prince",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "38 rue Monsieur le Prince",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143265414",
+   "display_phone": "+33 1 43 26 54 14",
+   "distance": 1213.4271187736979
+  },
+  {
+   "id": "4UO8M5flLUR5-TxGdSma0Q",
+   "alias": "les-papilles-paris-2",
+   "name": "Les Papilles",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fY9WjrMdU6Fn9DmX3uFUcg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/les-papilles-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 256,
+   "categories": [
+    {
+     "alias": "wine_bars",
+     "title": "Wine Bars"
+    },
+    {
+     "alias": "bistros",
+     "title": "Bistros"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.34174,
+    "Latitude": 48.84461
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "30 rue Gay-Lussac",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "30 rue Gay-Lussac",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143252079",
+   "display_phone": "+33 1 43 25 20 79",
+   "distance": 1546.2144188502052
+  },
+  {
+   "id": "PlLL5ZWA-1JBbAjlhtFYvA",
+   "alias": "little-red-door-paris",
+   "name": "Little Red Door",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3i8NoOBjDsQk_OfUqfrI1w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/little-red-door-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 229,
+   "categories": [
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3636,
+    "Latitude": 48.86378
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "60 rue Charlot",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "60 rue Charlot",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142711932",
+   "display_phone": "+33 1 42 71 19 32",
+   "distance": 1154.5162797118614
+  },
+  {
+   "id": "rU2qv84CygVAhRsLPEcuAA",
+   "alias": "the-moose-paris",
+   "name": "The Moose",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pwoSlpnhO5PBhJvYCAxR-Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-moose-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 228,
+   "categories": [
+    {
+     "alias": "restaurants",
+     "title": "Restaurants"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3377,
+    "Latitude": 48.8518
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "16 rue des Quatre Vents",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "16 rue des Quatre Vents",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146337700",
+   "display_phone": "+33 1 46 33 77 00",
+   "distance": 1183.9337214248053
+  },
+  {
+   "id": "SYtvF6qAUVp4lWmS82vnIg",
+   "alias": "le-chalet-des-iles-paris-2",
+   "name": "Le Chalet des Iles",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MvkmvpC9wdOZ6i3yeupC_w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-chalet-des-iles-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 218,
+   "categories": [
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.260424,
+    "Latitude": 48.863454
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "14 chemin de Ceinture du Lac",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75016",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "14 chemin de Ceinture du Lac",
+     "75016 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142880469",
+   "display_phone": "+33 1 42 88 04 69",
+   "distance": 6757.005020988052
+  },
+  {
+   "id": "UzoaBeOAAMs5725r0TaN8w",
+   "alias": "hard-rock-cafe-paris-paris-2",
+   "name": "Hard Rock Cafe Paris",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DG_OohO5Y5cqQ9M5l6I9YQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hard-rock-cafe-paris-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 217,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    },
+    {
+     "alias": "burgers",
+     "title": "Burgers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3416382,
+    "Latitude": 48.8717622
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "14 boulevard Montmartre",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "14 boulevard Montmartre",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153246000",
+   "display_phone": "+33 1 53 24 60 00",
+   "distance": 1854.5465492120027
+  },
+  {
+   "id": "cq8SfWd1NMpNNDySryFVyw",
+   "alias": "chai-33-paris",
+   "name": "Chai 33",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sKVBZhkTLee3EgEvUpoKJA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chai-33-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 213,
+   "categories": [
+    {
+     "alias": "wine_bars",
+     "title": "Wine Bars"
+    },
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "bistros",
+     "title": "Bistros"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.38646,
+    "Latitude": 48.83315
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "33 cour Saint Emilion",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "33 cour Saint Emilion",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153440101",
+   "display_phone": "+33 1 53 44 01 01",
+   "distance": 3616.0487056026577
+  },
+  {
+   "id": "DsX5-aYpnJSlFuAi8pWO_A",
+   "alias": "le-comptoir-général-paris-2",
+   "name": "Le Comptoir Général",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jehFYGS2nxF4vG2jzuUykg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-comptoir-g%C3%A9n%C3%A9ral-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 210,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.36502,
+    "Latitude": 48.87215
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "80 quai de Jemmapes",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "80 quai de Jemmapes",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144882448",
+   "display_phone": "+33 1 44 88 24 48",
+   "distance": 1967.008604159637
+  },
+  {
+   "id": "W7PL6HNresK64LodlN5evA",
+   "alias": "alcazar-paris",
+   "name": "Alcazar",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qWa6EF9wI6DUvT25rLCGsQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alcazar-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 205,
+   "categories": [
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.33798,
+    "Latitude": 48.85452
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "62 rue Mazarine",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "62 rue Mazarine",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153101999",
+   "display_phone": "+33 1 53 10 19 99",
+   "distance": 1068.9719144575358
+  },
+  {
+   "id": "fFEWQzRcx9XZ62zVPRKUzQ",
+   "alias": "experimental-cocktail-club-paris",
+   "name": "Experimental Cocktail Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ofIo6lPv6ozz4bevCo1-vw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/experimental-cocktail-club-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 202,
+   "categories": [
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.348259,
+    "Latitude": 48.866064
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "37 rue Saint-Sauveur",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "37 rue Saint-Sauveur",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145088809",
+   "display_phone": "+33 1 45 08 88 09",
+   "distance": 1091.123564643177
+  },
+  {
+   "id": "WnGTwPhVK1PrD5nAOiNnYg",
+   "alias": "le-fouquets-paris-3",
+   "name": "Le Fouquet's",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q_vKjrGG60TTGhMFFXWiZw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-fouquets-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 196,
+   "categories": [
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "breakfast_brunch",
+     "title": "Breakfast \u0026 Brunch"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.301229,
+    "Latitude": 48.871577
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "99 avenue des Champs-Elysées",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "99 avenue des Champs-Elysées",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140696050",
+   "display_phone": "+33 1 40 69 60 50",
+   "distance": 4083.511479977835
+  },
+  {
+   "id": "tTv5ylrbHthmo_GEy1_Uwg",
+   "alias": "le-china-paris",
+   "name": "Le China",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/h2_Dolm29PGjwj-pDHYSVA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-china-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 194,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "panasian",
+     "title": "Pan Asian"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.37379,
+    "Latitude": 48.84996
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "50 rue de Charenton",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "50 rue de Charenton",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143460809",
+   "display_phone": "+33 1 43 46 08 09",
+   "distance": 1740.5921974732726
+  },
+  {
+   "id": "fZaKw_sumZ9zjHOfFHOC5A",
+   "alias": "le-barav-paris",
+   "name": "Le Barav",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yn0pH7Jvi03m4opbPcDXGg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-barav-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 189,
+   "categories": [
+    {
+     "alias": "wine_bars",
+     "title": "Wine Bars"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.36319,
+    "Latitude": 48.86518
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "6 rue Charles François Dupuis",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "6 rue Charles François Dupuis",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148045759",
+   "display_phone": "+33 1 48 04 57 59",
+   "distance": 1250.1464489768125
+  },
+  {
+   "id": "4rZixQTpz0BFD_F-6OeXwA",
+   "alias": "le-bosquet-paris",
+   "name": "Le Bosquet",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_Tt-U8QyiL0eCOcvRXfEpg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-bosquet-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 186,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "brasseries",
+     "title": "Brasseries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.30452508354831,
+    "Latitude": 48.8560807716799
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "46 avenue du Bosquet",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "46 avenue du Bosquet",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145513813",
+   "display_phone": "+33 1 45 51 38 13",
+   "distance": 3488.400390623447
+  },
+  {
+   "id": "DlclmZ6Nx3F9lTfiUz777g",
+   "alias": "frog-paris",
+   "name": "Frog",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/a8oMDHuyIzVIjONAVJrkdw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/frog-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 179,
+   "categories": [
+    {
+     "alias": "pubs",
+     "title": "Pubs"
+    },
+    {
+     "alias": "burgers",
+     "title": "Burgers"
+    },
+    {
+     "alias": "breakfast_brunch",
+     "title": "Breakfast \u0026 Brunch"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.38663,
+    "Latitude": 48.83318
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "25 cour Saint Émilion",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "25 cour Saint Émilion",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143407071",
+   "display_phone": "+33 1 43 40 70 71",
+   "distance": 3623.480706658297
+  },
+  {
+   "id": "IE_kyw6INrBji-GwaNuvQw",
+   "alias": "chez-prune-paris",
+   "name": "Chez Prune",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ggkrjM56AbY8gvALjCSOSA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chez-prune-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 178,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "bistros",
+     "title": "Bistros"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.36458,
+    "Latitude": 48.871665
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "36 rue Beaurepaire",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "36 rue Beaurepaire",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142413047",
+   "display_phone": "+33 1 42 41 30 47",
+   "distance": 1904.261912070701
+  },
+  {
+   "id": "bxmCW2zb2Mp8TOFuTIb6Ig",
+   "alias": "sir-winston-paris",
+   "name": "Sir Winston",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JwDN2UDaOYeUXMjGU3q-eQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sir-winston-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 172,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.29478,
+    "Latitude": 48.87223
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "5 rue de Presbourg",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75116",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "5 rue de Presbourg",
+     "75116 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140671737",
+   "display_phone": "+33 1 40 67 17 37",
+   "distance": 4540.497508112489
+  },
+  {
+   "id": "kOU1DVsITA6-qFiiJTHyig",
+   "alias": "cuba-compagnie-paris-2",
+   "name": "Cuba Compagnie",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-4w_DrQqF26PLEsdRMYJqw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cuba-compagnie-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 171,
+   "categories": [
+    {
+     "alias": "cuban",
+     "title": "Cuban"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "tapas",
+     "title": "Tapas Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.36821,
+    "Latitude": 48.85695
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "48 boulevard Beaumarchais",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "48 boulevard Beaumarchais",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148060711",
+   "display_phone": "+33 1 48 06 07 11",
+   "distance": 1171.9364587211394
+  },
+  {
+   "id": "HxqA33DDzOkEQe1og3P-aQ",
+   "alias": "paradis-du-fruit-paris-2",
+   "name": "Paradis du Fruit",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1uPYoQ5Lz-wFdWxLtBxC_A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paradis-du-fruit-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 169,
+   "categories": [
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "juicebars",
+     "title": "Juice Bars \u0026 Smoothies"
+    },
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    },
+    {
+     "alias": "vegetarian",
+     "title": "Vegetarian"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.3437739,
+    "Latitude": 48.8538343
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "2 place Saint Michel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 place Saint Michel",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33979718079",
+   "display_phone": "+33 9 79 71 80 79",
+   "distance": 688.9217335526016
+  },
+  {
+   "id": "2U2hsMciUkRSxgN7VLzdjw",
+   "alias": "les-éditeur-paris",
+   "name": "Les Éditeur",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/67p32LFEMpmzFbeZc3ERTA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/les-%C3%A9diteur-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 163,
+   "categories": [
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "brasseries",
+     "title": "Brasseries"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.338499,
+    "Latitude": 48.851994
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "4 carrefour de l'Odéon",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "4 carrefour de l'Odéon",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143266776",
+   "display_phone": "+33 1 43 26 67 76",
+   "distance": 1125.6748987038525
+  },
+  {
+   "id": "2JpBWCr2q4934qvRK9WTEw",
+   "alias": "carpe-diem-café-paris-2",
+   "name": "Carpe Diem Café",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/I_PJH4lOoI0St61ZMgoAAA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/carpe-diem-caf%C3%A9-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 163,
+   "categories": [
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3459065,
+    "Latitude": 48.8605269
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "21 rue des Halles",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "21 rue des Halles",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142210201",
+   "display_phone": "+33 1 42 21 02 01",
+   "distance": 634.5441948062878
+  },
+  {
+   "id": "WqXhQg1Nhv4pffAHp-3JyA",
+   "alias": "ô-chateau-paris-6",
+   "name": "Ô Chateau",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ynvxS5wWT9hUGHUep1sYwQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/%C3%B4-chateau-paris-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 155,
+   "categories": [
+    {
+     "alias": "wine_bars",
+     "title": "Wine Bars"
+    },
+    {
+     "alias": "french",
+     "title": "French"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.34405,
+    "Latitude": 48.86434
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "68 rue Jean-Jacques Rousseau",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "68 rue Jean-Jacques Rousseau",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144739780",
+   "display_phone": "+33 1 44 73 97 80",
+   "distance": 1046.9861595263578
+  },
+  {
+   "id": "8_o8_0DWczEMVpZfdxpR7A",
+   "alias": "the-lizard-lounge-paris",
+   "name": "The Lizard Lounge",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3FRNonHbebZbSZDuuWct_g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-lizard-lounge-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 150,
+   "categories": [
+    {
+     "alias": "pubs",
+     "title": "Pubs"
+    },
+    {
+     "alias": "burgers",
+     "title": "Burgers"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.35627,
+    "Latitude": 48.8574
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "18 rue Bourg Tibourg",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "18 rue Bourg Tibourg",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142728134",
+   "display_phone": "+33 1 42 72 81 34",
+   "distance": 315.44227717260736
+  },
+  {
+   "id": "ptc3fiNNPVTqkGILsUXzJg",
+   "alias": "guinness-tavern-paris",
+   "name": "Guinness Tavern",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wK6egzHor6oZYqqemfFo_w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/guinness-tavern-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 148,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "irish_pubs",
+     "title": "Irish Pub"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.34847,
+    "Latitude": 48.85956
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "31 rue des Lombards",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "31 rue des Lombards",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142332645",
+   "display_phone": "+33 1 42 33 26 45",
+   "distance": 427.544199327568
+  },
+  {
+   "id": "M4-FspvPRCBaF6-lAgkgug",
+   "alias": "la-bellevilloise-paris",
+   "name": "La Bellevilloise",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eOz4pyIg_ftOiHNZyawlkA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-bellevilloise-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 143,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "modern_european",
+     "title": "Modern European"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.39221,
+    "Latitude": 48.86829
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "19 - 21 rue Boyer",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "19 - 21 rue Boyer",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146360707",
+   "display_phone": "+33 1 46 36 07 07",
+   "distance": 3197.9275754110117
+  },
+  {
+   "id": "s6sUd0Kx-TK5-_e9Ro6tJQ",
+   "alias": "le-mary-céleste-paris",
+   "name": "Le Mary Céleste",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/039jQj7xYk31ZWeC4YVGVw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-mary-c%C3%A9leste-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 141,
+   "categories": [
+    {
+     "alias": "tapasmallplates",
+     "title": "Tapas/Small Plates"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.36506368136342,
+    "Latitude": 48.8617491625597
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "1 rue Commines",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "1 rue Commines",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33123456789",
+   "display_phone": "+33 1 23 45 67 89",
+   "distance": 1101.5535030975232
+  },
+  {
+   "id": "BEQ8QwA3lyL65xt0gVVQAA",
+   "alias": "zéro-de-conduite-paris-5",
+   "name": "Zéro de Conduite",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kR4MWwyKoYHARBmafcfOlA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/z%C3%A9ro-de-conduite-paris-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 141,
+   "categories": [
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.29376623924304,
+    "Latitude": 48.8463230732969
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "102 rue du Théâtre",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "102 rue du Théâtre",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146342635",
+   "display_phone": "+33 1 46 34 26 35",
+   "distance": 4425.54312140479
+  },
+  {
+   "id": "AuRR5HzMyrKL5FmOAf_qVg",
+   "alias": "prescription-cocktail-club-paris",
+   "name": "Prescription Cocktail Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/U73MqwUj4Wm6STawW3B3Sw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/prescription-cocktail-club-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 139,
+   "categories": [
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3379239199365,
+    "Latitude": 48.855027839524
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "23 rue Mazarine",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "23 rue Mazarine",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33950357287",
+   "display_phone": "+33 9 50 35 72 87",
+   "distance": 1058.9855891680286
+  },
+  {
+   "id": "mVz0DsjDeXvENh-ROMZ4eg",
+   "alias": "la-closerie-des-lilas-paris-2",
+   "name": "La Closerie des Lilas",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ht3VlACF-fSHbzAVxvi3aQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-closerie-des-lilas-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 138,
+   "categories": [
+    {
+     "alias": "brasseries",
+     "title": "Brasseries"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.33655,
+    "Latitude": 48.8397
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "171 bd Montparnasse",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "171 bd Montparnasse",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140513450",
+   "display_phone": "+33 1 40 51 34 50",
+   "distance": 2200.620635726809
+  },
+  {
+   "id": "DXpFyVjf4r2dk5UOWaqoIQ",
+   "alias": "the-bombardier-paris",
+   "name": "The Bombardier",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pCVNK2RbKiI3By_s2Be5Mw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-bombardier-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 138,
+   "categories": [
+    {
+     "alias": "pubs",
+     "title": "Pubs"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3476151738319,
+    "Latitude": 48.846907250502
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "2 place du Panthéon",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 place du Panthéon",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143547922",
+   "display_phone": "+33 1 43 54 79 22",
+   "distance": 1128.7824423165148
+  },
+  {
+   "id": "3ool_1dGULUfCUjIc6G-kw",
+   "alias": "le-tournesol-paris-4",
+   "name": "Le Tournesol",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2xyqyamX-gfsdVc5bbI0Sg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-tournesol-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 138,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "brasseries",
+     "title": "Brasseries"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.3244376672035,
+    "Latitude": 48.840529916313
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "9 rue de la Gaîté",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75014",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "9 rue de la Gaîté",
+     "75014 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143276572",
+   "display_phone": "+33 1 43 27 65 72",
+   "distance": 2705.498976410269
+  }
+ ],
+ "total": 3000,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

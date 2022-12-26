@@ -1,0 +1,1883 @@
+{
+ "businesses": [
+  {
+   "id": "jxfcLovdBv7B4ImelWwgdw",
+   "alias": "la-fitness-new-hyde-park",
+   "name": "LA Fitness",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Tlcx12qjwWpRPSxUBFcCtQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-fitness-new-hyde-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 537,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.700033,
+    "Latitude": 40.754755
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1111 Marcus Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New Hyde Park",
+    "zip_code": "11042",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1111 Marcus Ave",
+     "New Hyde Park, NY 11042"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15163552302",
+   "display_phone": "(516) 355-2302",
+   "distance": 26198.808797473477
+  },
+  {
+   "id": "Okb0vL3kcPQnADkdqec9FQ",
+   "alias": "peloton-new-york",
+   "name": "Peloton",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gr-C8Uu5r_SE1lk7jKGyyg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/peloton-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 383,
+   "categories": [
+    {
+     "alias": "cyclingclasses",
+     "title": "Cycling Classes"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "fitnessequipment",
+     "title": "Fitness/Exercise Equipment"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.994377,
+    "Latitude": 40.743259
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "140 W 23rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "140 W 23rd St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16462774497",
+   "display_phone": "(646) 277-4497",
+   "distance": 3523.988372686986
+  },
+  {
+   "id": "lSI14UEVigpHUCSpS7P8Kg",
+   "alias": "blink-fitness-noho-new-york-3",
+   "name": "Blink Fitness - Noho",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9tgnBsD_2UFGFT_YDKGNtw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blink-fitness-noho-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 330,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.9935623057248,
+    "Latitude": 40.7278686853972
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "16 E 4th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "16 E 4th St",
+     "New York, NY 10012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122456008",
+   "display_phone": "(212) 245-6008",
+   "distance": 1976.4086880040516
+  },
+  {
+   "id": "gjabMrwiNvvsrtIzb15hMQ",
+   "alias": "exhale-central-park-south-new-york-2",
+   "name": "exhale® Central Park South",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5AjjEPS3DB2adMFpMgczpg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/exhale-central-park-south-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 284,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    },
+    {
+     "alias": "barreclasses",
+     "title": "Barre Classes"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.977933,
+    "Latitude": 40.766092
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "150 Central Park S",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "150 Central Park S",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125617400",
+   "display_phone": "(212) 561-7400",
+   "distance": 6380.177027644678
+  },
+  {
+   "id": "JQmBfUnU0vHyWAHzt0UNdg",
+   "alias": "push-fitness-club-fresh-meadows",
+   "name": "Push Fitness Club",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/g44UqA-Z9TVS7elrc80TkA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/push-fitness-club-fresh-meadows?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 279,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "weightlosscenters",
+     "title": "Weight Loss Centers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.7804905,
+    "Latitude": 40.7291767
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "188-10 Union Tpke",
+    "address2": "",
+    "address3": "",
+    "city": "Fresh Meadows",
+    "zip_code": "11366",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "188-10 Union Tpke",
+     "Fresh Meadows, NY 11366"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184647874",
+   "display_phone": "(718) 464-7874",
+   "distance": 19091.633413603126
+  },
+  {
+   "id": "OxS5vMAKiGxsv_HgUETtbQ",
+   "alias": "body-and-pole-new-york",
+   "name": "Body \u0026 Pole",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oBzrclGYdZrlNbALRaWrcg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/body-and-pole-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 278,
+   "categories": [
+    {
+     "alias": "dancestudio",
+     "title": "Dance Studios"
+    },
+    {
+     "alias": "poledancingclasses",
+     "title": "Pole Dancing Classes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.99178,
+    "Latitude": 40.74588
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "115 W 27th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "115 W 27th St",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123346900",
+   "display_phone": "(212) 334-6900",
+   "distance": 3886.352708315085
+  },
+  {
+   "id": "ggMXSX103H7R7D_bhPMMkw",
+   "alias": "planet-fitness-astoria-4",
+   "name": "Planet Fitness",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ek9euejreaw4nbhg9Watdg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/planet-fitness-astoria-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 273,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.915532,
+    "Latitude": 40.762982
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "30-33",
+    "address2": "Ste inway St",
+    "address3": "",
+    "city": "Astoria",
+    "zip_code": "11103",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "30-33",
+     "Ste inway St",
+     "Astoria, NY 11103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187770700",
+   "display_phone": "(718) 777-0700",
+   "distance": 9446.351591221766
+  },
+  {
+   "id": "QoJkq15vmAbTurjBfcjHpw",
+   "alias": "harbor-fitness-brooklyn-5",
+   "name": "Harbor Fitness",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SRye-DDIQcIo349h8-G-Pw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/harbor-fitness-brooklyn-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 269,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    },
+    {
+     "alias": "cyclingclasses",
+     "title": "Cycling Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.98944,
+    "Latitude": 40.66566
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "550 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11215",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "550 5th Ave",
+     "Brooklyn, NY 11215"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17189656200",
+   "display_phone": "(718) 965-6200",
+   "distance": 5411.966203108325
+  },
+  {
+   "id": "kSrL3S3a0ZjnJ6GJiYfsgA",
+   "alias": "la-fitness-clifton",
+   "name": "LA Fitness",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/b6n_9e1Tzioi_SHZk_Pj2Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-fitness-clifton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 264,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -74.1556671152401,
+    "Latitude": 40.8390911802954
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "852 State Rt 3",
+    "address2": "",
+    "address3": "",
+    "city": "Clifton",
+    "zip_code": "07012",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "852 State Rt 3",
+     "Clifton, NJ 07012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19735744175",
+   "display_phone": "(973) 574-4175",
+   "distance": 18868.750867572242
+  },
+  {
+   "id": "-uAxF-r3Uyd1yJbWM0QPgQ",
+   "alias": "club-fitness-astoria",
+   "name": "Club Fitness",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KPc3g9E2xXr4EY0UblCV5g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/club-fitness-astoria?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 263,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9251451939344,
+    "Latitude": 40.7619132846594
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "31-11 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Astoria",
+    "zip_code": "11106",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "31-11 Broadway",
+     "Astoria, NY 11106"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17185450004",
+   "display_phone": "(718) 545-0004",
+   "distance": 8750.075193458786
+  },
+  {
+   "id": "LH1Nerbn5AsvnqE-_5wCpA",
+   "alias": "crunch-fitness-park-slope-brooklyn-4",
+   "name": "Crunch Fitness - Park Slope",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GXPflmFmITTDW5EcQMxzow/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/crunch-fitness-park-slope-brooklyn-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 261,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.97246802,
+    "Latitude": 40.6768261
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "330 Flatbush Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11238",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "330 Flatbush Ave",
+     "Brooklyn, NY 11238"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187835152",
+   "display_phone": "(718) 783-5152",
+   "distance": 4898.237974507303
+  },
+  {
+   "id": "EMOViczrCwrMr9W0KExMcA",
+   "alias": "pop-physique-new-york",
+   "name": "Pop Physique",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OIWxHS7Kxihy5u4o9GamVQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pop-physique-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 253,
+   "categories": [
+    {
+     "alias": "barreclasses",
+     "title": "Barre Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.99006,
+    "Latitude": 40.74447
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "31 W 26th St",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "31 W 26th St",
+     "Fl 2",
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 3763.605309797661
+  },
+  {
+   "id": "Q-EUDdf6Pz0SYnXhhaq7EQ",
+   "alias": "xsport-fitness-garden-city-2",
+   "name": "XSport Fitness",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wjkiZp932TFXkAWMIolNsQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/xsport-fitness-garden-city-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 243,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "tanning",
+     "title": "Tanning"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.6132825,
+    "Latitude": 40.7400506
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "630 Old Country Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Garden City",
+    "zip_code": "11530",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "630 Old Country Rd",
+     "Garden City, NY 11530"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15162941003",
+   "display_phone": "(516) 294-1003",
+   "distance": 33231.58969280684
+  },
+  {
+   "id": "t2nv84yKVqk0PwsNTjBcUQ",
+   "alias": "yoga-agora-astoria",
+   "name": "Yoga Agora",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9JLwp5zylc1ayqq14PLi4A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/yoga-agora-astoria?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 241,
+   "categories": [
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.92381,
+    "Latitude": 40.76093
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "33-02 Broadway",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "Astoria",
+    "zip_code": "11106",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "33-02 Broadway",
+     "Fl 2",
+     "Astoria, NY 11106"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17186260680",
+   "display_phone": "(718) 626-0680",
+   "distance": 8759.406914774678
+  },
+  {
+   "id": "I3-EsRgXDcLx3OrlACCx3Q",
+   "alias": "hot-yoga-chelsea-new-york-2",
+   "name": "Hot Yoga Chelsea",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZcZYbQgeWsgjoIGdipb6Hw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hot-yoga-chelsea-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 221,
+   "categories": [
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.991752,
+    "Latitude": 40.745951
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "115 W 27th St",
+    "address2": "Fl 3",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "115 W 27th St",
+     "Fl 3",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12068988029",
+   "display_phone": "(206) 898-8029",
+   "distance": 3876.804661187881
+  },
+  {
+   "id": "qm3WwubINfz9m9IIuCavVA",
+   "alias": "blink-fitness-astoria-astoria-2",
+   "name": "Blink Fitness - Astoria",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/W7Cfkn8IV7iGcAhOL6P1UA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blink-fitness-astoria-astoria-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 214,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9193164435928,
+    "Latitude": 40.75819579396975
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "32-27 Steinway St",
+    "address2": "",
+    "address3": "",
+    "city": "Astoria",
+    "zip_code": "11103",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "32-27 Steinway St",
+     "Astoria, NY 11103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188803616",
+   "display_phone": "(718) 880-3616",
+   "distance": 8878.193255789125
+  },
+  {
+   "id": "K6B5VVODkSSPZYWIbieukg",
+   "alias": "ufc-gym-long-island-new-hyde-park",
+   "name": "UFC GYM Long Island",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SKUZEmKa0yGiq80gzLPvhA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ufc-gym-long-island-new-hyde-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 211,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "martialarts",
+     "title": "Martial Arts"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.673633,
+    "Latitude": 40.735812
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2020 Jericho Turnpike",
+    "address2": "",
+    "address3": "",
+    "city": "New Hyde Park",
+    "zip_code": "11040",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2020 Jericho Turnpike",
+     "New Hyde Park, NY 11040"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15167844072",
+   "display_phone": "(516) 784-4072",
+   "distance": 28125.13538834511
+  },
+  {
+   "id": "CKqMGXLwPkkWip9XSXGq8g",
+   "alias": "crunch-fitness-new-york-34",
+   "name": "Crunch Fitness - 34th Street",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0J0RsJAcIRgL6Q0oN3t-kQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/crunch-fitness-new-york-34?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 209,
+   "categories": [
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.977027,
+    "Latitude": 40.744949
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "222 East 34th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "222 East 34th St",
+     "New York, NY 10016"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125459757",
+   "display_phone": "(212) 545-9757",
+   "distance": 4330.774205382452
+  },
+  {
+   "id": "umqn4kMNmT8WKsuucJa1ww",
+   "alias": "the-yoga-room-astoria",
+   "name": "The Yoga Room",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XstiixldPPiWExfHQEY9ow/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-yoga-room-astoria?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 203,
+   "categories": [
+    {
+     "alias": "pilates",
+     "title": "Pilates"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    },
+    {
+     "alias": "barreclasses",
+     "title": "Barre Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9224799,
+    "Latitude": 40.7556299
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "38-01 35th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Astoria",
+    "zip_code": "11101",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "38-01 35th Ave",
+     "Astoria, NY 11101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182740255",
+   "display_phone": "(718) 274-0255",
+   "distance": 8491.977917027272
+  },
+  {
+   "id": "PVduTjlmPaVkIDoJINZ1xw",
+   "alias": "manhattan-plaza-health-club-new-york-2",
+   "name": "Manhattan Plaza Health Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/I_fkflgvobMLdYdwFgbZlw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/manhattan-plaza-health-club-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 202,
+   "categories": [
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "swimminglessons",
+     "title": "Swimming Lessons/Schools"
+    },
+    {
+     "alias": "cardioclasses",
+     "title": "Cardio Classes"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.99473,
+    "Latitude": 40.75995
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "482 W 43rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "482 W 43rd St",
+     "New York, NY 10036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125637001",
+   "display_phone": "(212) 563-7001",
+   "distance": 5321.775645259859
+  },
+  {
+   "id": "DLpG5wkxC1ZoIE0oQPtIbg",
+   "alias": "golf-club-at-chelsea-piers-new-york",
+   "name": "Golf Club at Chelsea Piers",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1XwIZmXGXD14IPCkO5ktSQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/golf-club-at-chelsea-piers-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 200,
+   "categories": [
+    {
+     "alias": "golf",
+     "title": "Golf"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "golflessons",
+     "title": "Golf Lessons"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.0095717240814,
+    "Latitude": 40.7456218469168
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "59 Chelsea Piers",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "59 Chelsea Piers",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123366400",
+   "display_phone": "(212) 336-6400",
+   "distance": 3662.007406115837
+  },
+  {
+   "id": "XcXp5331qdt_QmdkiMRW3w",
+   "alias": "mid-city-gym-new-york-2",
+   "name": "Mid City Gym",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hBANDhMvvufNMvDsmALV_A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mid-city-gym-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 199,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.99158,
+    "Latitude": 40.75817
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "345 W 42nd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "345 W 42nd St",
+     "New York, NY 10036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127570850",
+   "display_phone": "(212) 757-0850",
+   "distance": 5202.1098310546495
+  },
+  {
+   "id": "YMceMR-Hk_Vq5vbUGoetrQ",
+   "alias": "chelsea-piers-fitness-new-york-4",
+   "name": "Chelsea Piers Fitness",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ryHn4_WQ_JnbcsP36P6lIw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chelsea-piers-fitness-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 197,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "swimmingpools",
+     "title": "Swimming Pools"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.0092921257019,
+    "Latitude": 40.7464847863704
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "60 Chelsea Piers",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "60 Chelsea Piers",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123366000",
+   "display_phone": "(212) 336-6000",
+   "distance": 3755.831716524363
+  },
+  {
+   "id": "fVKRJHRemkpJTwUOm6l2xQ",
+   "alias": "crunch-fitness-union-square-new-york",
+   "name": "Crunch Fitness - Union Square",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QThZy4iTgZtW4-vNpbw-kQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/crunch-fitness-union-square-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 196,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9897564,
+    "Latitude": 40.7328631
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "113 4th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "113 4th Ave",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125330001",
+   "display_phone": "(212) 533-0001",
+   "distance": 2617.4016004718383
+  },
+  {
+   "id": "Utcu3PrZG2wteeOnyT1DkA",
+   "alias": "305-fitness-new-york-2",
+   "name": "305 Fitness",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1-t4WhRTCMnK3ry_KLDr0g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/305-fitness-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 193,
+   "categories": [
+    {
+     "alias": "cardioclasses",
+     "title": "Cardio Classes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.997569,
+    "Latitude": 40.732649
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "18 W 8th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "18 W 8th St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126039931",
+   "display_phone": "(212) 603-9931",
+   "distance": 2318.646082318759
+  },
+  {
+   "id": "HF-P9XhV97Yb-U0fFSDcpw",
+   "alias": "24-hour-fitness-paramus-paramus",
+   "name": "24 Hour Fitness - Paramus",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LMdyn-IYTCIGARuFTPMVDw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/24-hour-fitness-paramus-paramus?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 191,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.049383,
+    "Latitude": 40.913761
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "260 East State Route 4",
+    "address2": "",
+    "address3": "",
+    "city": "Paramus",
+    "zip_code": "07652",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "260 East State Route 4",
+     "Paramus, NJ 07652"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12015181351",
+   "display_phone": "(201) 518-1351",
+   "distance": 22642.112918120903
+  },
+  {
+   "id": "UA546ImqzJEt6uD1uD_eHA",
+   "alias": "barrys-chelsea-new-york",
+   "name": "Barry's Chelsea",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CDXIK5JOw4LkQvxBW7HiUA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barrys-chelsea-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 190,
+   "categories": [
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "bootcamps",
+     "title": "Boot Camps"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.99566,
+    "Latitude": 40.74177
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "135 W 20th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "135 W 20th St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16465592721",
+   "display_phone": "(646) 559-2721",
+   "distance": 3347.7401112595526
+  },
+  {
+   "id": "7Ya-xx6S48baO9wY_-6Nig",
+   "alias": "equinox-columbus-circle-new-york-2",
+   "name": "Equinox Columbus Circle",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JIcjAZa6MJV_Rk3NIE2Wag/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/equinox-columbus-circle-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 189,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "sports_clubs",
+     "title": "Sports Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.982646,
+    "Latitude": 40.768677
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "10 Columbus Cir",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "10 Columbus Cir",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12128710425",
+   "display_phone": "(212) 871-0425",
+   "distance": 6517.323885316079
+  },
+  {
+   "id": "8fZddu3UxgKzSjmgcR7xyQ",
+   "alias": "body-mechanics-orthopedic-massage-new-york-4",
+   "name": "Body Mechanics Orthopedic Massage",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bgBnvpa6nFbEED2urhYQXQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/body-mechanics-orthopedic-massage-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 188,
+   "categories": [
+    {
+     "alias": "massage_therapy",
+     "title": "Massage Therapy"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.984957,
+    "Latitude": 40.748906
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 W 34th St",
+    "address2": "Ste 204",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1 W 34th St",
+     "Ste 204",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126004808",
+   "display_phone": "(212) 600-4808",
+   "distance": 4383.311525017086
+  },
+  {
+   "id": "aLauCNRmRGC1huTVgws8kg",
+   "alias": "la-fitness-yonkers",
+   "name": "LA Fitness",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LJa68HRIPRrnRpBwPdKDrw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-fitness-yonkers?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 187,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.85554,
+    "Latitude": 40.96434
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "77 Cole St",
+    "address2": "Spc 1290",
+    "address3": "",
+    "city": "Yonkers",
+    "zip_code": "10710",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "77 Cole St",
+     "Spc 1290",
+     "Yonkers, NY 10710"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19142974477",
+   "display_phone": "(914) 297-4477",
+   "distance": 30708.393399470577
+  },
+  {
+   "id": "UESe9VrLWUCHcc75315shA",
+   "alias": "crunch-fitness-83rd-street-new-york-3",
+   "name": "Crunch Fitness - 83rd Street",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kOidweJ01H1n-Z73qW1sFQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/crunch-fitness-83rd-street-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 185,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.975887,
+    "Latitude": 40.785232
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "162 West 83rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10024",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "162 West 83rd St",
+     "New York, NY 10024"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12128751902",
+   "display_phone": "(212) 875-1902",
+   "distance": 8444.088583224626
+  },
+  {
+   "id": "7mue6I-uXwLh7721ZUxieA",
+   "alias": "la-fitness-secaucus",
+   "name": "LA Fitness",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hrjRpTFw3WZhKWnElY99xQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-fitness-secaucus?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 183,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.04443,
+    "Latitude": 40.78938
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "485 Harmon Meadow Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Secaucus",
+    "zip_code": "07094",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "485 Harmon Meadow Blvd",
+     "Secaucus, NJ 07094"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12017519940",
+   "display_phone": "(201) 751-9940",
+   "distance": 9095.679885025273
+  },
+  {
+   "id": "D1P7yspJBjOcyNiDBchnHw",
+   "alias": "planet-fitness-new-york-32",
+   "name": "Planet Fitness",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/99rrKZHt1wNkRhFVLTsJ5w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/planet-fitness-new-york-32?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 180,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.987816,
+    "Latitude": 40.767242
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "423 W 55th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "423 W 55th St",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123360750",
+   "display_phone": "(212) 336-0750",
+   "distance": 6244.510839336142
+  },
+  {
+   "id": "MNmfii9J3VXy1G5e-3ijqw",
+   "alias": "fierce-grace-nyc-new-york",
+   "name": "Fierce Grace NYC",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3Cqzb3N5zuhSEOn60WqXvA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fierce-grace-nyc-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 177,
+   "categories": [
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    },
+    {
+     "alias": "pilates",
+     "title": "Pilates"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9889569605784,
+    "Latitude": 40.721338027873
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "172 Allen St",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "172 Allen St",
+     "Fl 2",
+     "New York, NY 10002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123538859",
+   "display_phone": "(212) 353-8859",
+   "distance": 1721.7694236583932
+  },
+  {
+   "id": "RrJWrpCFOdDiXikC_4hArg",
+   "alias": "blink-fitness-jackson-heights-jackson-heights-4",
+   "name": "Blink Fitness - Jackson Heights",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-puf5QmK-1Ds3rd_xcArMA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blink-fitness-jackson-heights-jackson-heights-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 175,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.8876091347711,
+    "Latitude": 40.7469827347856
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "78-14 Roosevelt Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Jackson Heights",
+    "zip_code": "11372",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "78-14 Roosevelt Ave",
+     "Jackson Heights, NY 11372"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16465176365",
+   "display_phone": "(646) 517-6365",
+   "distance": 10675.511000622535
+  },
+  {
+   "id": "4DZRZHvCwZaaJ3aCgLUpnQ",
+   "alias": "crunch-fitness-59th-street-new-york",
+   "name": "Crunch Fitness - 59th Street",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yxfvMqTcdmJANrTRMUufqQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/crunch-fitness-59th-street-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 173,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.96482517,
+    "Latitude": 40.7605272
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1109 2nd Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1109 2nd Ave",
+     "New York, NY 10022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127583434",
+   "display_phone": "(212) 758-3434",
+   "distance": 6340.302506252776
+  },
+  {
+   "id": "gmDS_5oSBLZmWLz-34UrZw",
+   "alias": "tone-house-new-york-2",
+   "name": "Tone House",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Vu-ttI8lVs4KdYTR9Zq4Rw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tone-house-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 172,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.98375,
+    "Latitude": 40.74551
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "32 E 31st St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "32 E 31st St",
+     "New York, NY 10016"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16464536633",
+   "display_phone": "(646) 453-6633",
+   "distance": 4084.094760582002
+  },
+  {
+   "id": "T4jWNqIUWb2TkATSlJgHaw",
+   "alias": "matrix-fitness-club-and-personal-training-center-astoria",
+   "name": "Matrix Fitness Club \u0026 Personal Training Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6vm6iiMF4HpMlAm9hPiraQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/matrix-fitness-club-and-personal-training-center-astoria?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 171,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "weightlosscenters",
+     "title": "Weight Loss Centers"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.904028,
+    "Latitude": 40.770725
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4360 Ditmars Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Astoria",
+    "zip_code": "11105",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "4360 Ditmars Blvd",
+     "Astoria, NY 11105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182678989",
+   "display_phone": "(718) 267-8989",
+   "distance": 10737.301335682088
+  },
+  {
+   "id": "tGtrhu0YDGkM9ECrYVz6xg",
+   "alias": "modo-yoga-nyc-new-york-3",
+   "name": "Modo Yoga NYC",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TwujVSlNlX6Ox7ZZ3hv4Kw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/modo-yoga-nyc-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 170,
+   "categories": [
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9987192654828,
+    "Latitude": 40.7345617375926
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "434 6th Ave",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "434 6th Ave",
+     "Fl 2",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127809642",
+   "display_phone": "(212) 780-9642",
+   "distance": 2496.3653649623975
+  },
+  {
+   "id": "WpqIpFsYiV0EMFRFQNjftg",
+   "alias": "crunch-fitness-ft-greene-brooklyn-2",
+   "name": "Crunch Fitness - Ft. Greene",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/03CQQuostId6BSQJhRT-bA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/crunch-fitness-ft-greene-brooklyn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 170,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.97794137,
+    "Latitude": 40.68796369
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "691 Fulton St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11217",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "691 Fulton St",
+     "Brooklyn, NY 11217"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187979464",
+   "display_phone": "(718) 797-9464",
+   "distance": 3636.161936513831
+  }
+ ],
+ "total": 5500,
+ "region": {
+  "center": {
+   "longitude": -74.006,
+   "Latitude": 40.7128
+  }
+ }
+}

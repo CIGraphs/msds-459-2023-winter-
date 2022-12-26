@@ -1,0 +1,1883 @@
+{
+ "businesses": [
+  {
+   "id": "rLJp8JAWaE4Jx04hdJzEhQ",
+   "alias": "urban-betty-austin-3",
+   "name": "Urban Betty",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tUChP-RMUl3uy48VAQhitg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/urban-betty-austin-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 828,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "hairremoval",
+     "title": "Hair Removal"
+    },
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.744861,
+    "Latitude": 30.306996
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1206 W 38th St",
+    "address2": "Ste 1107",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78705",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1206 W 38th St",
+     "Ste 1107",
+     "Austin, TX 78705"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123717663",
+   "display_phone": "(512) 371-7663",
+   "distance": 4428.33769877009
+  },
+  {
+   "id": "ON9Ws9QFLjOHUpyP6wwYLA",
+   "alias": "great-nails-and-spa-austin-2",
+   "name": "Great Nails \u0026 Spa",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_EC4iEoj5a62R7Ei-CnB0w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/great-nails-and-spa-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 663,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.7634099,
+    "Latitude": 30.23577
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "2911B S 1st St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "2911B S 1st St",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15128045228",
+   "display_phone": "(512) 804-5228",
+   "distance": 4006.7769819962778
+  },
+  {
+   "id": "iytzeSDBIV9DOeCtK_2O6w",
+   "alias": "eshee-nails-spa-austin",
+   "name": "E'Shee Nails Spa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/P377PqNkzq4dYI9LHleaQw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/eshee-nails-spa-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 631,
+   "categories": [
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    },
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "eyelashservice",
+     "title": "Eyelash Service"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.7438555,
+    "Latitude": 30.394435182809605
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "10225 Research Blvd 200",
+    "address2": "Ste 200",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78759",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "10225 Research Blvd 200",
+     "Ste 200",
+     "Austin, TX 78759"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15128140253",
+   "display_phone": "(512) 814-0253",
+   "distance": 14148.076933547582
+  },
+  {
+   "id": "qnx4S9pP5G8Ebs1-XySFBA",
+   "alias": "milk-honey-austin-2",
+   "name": "milk + honey",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Pi9yqOTsxP9z8gpty070sg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/milk-honey-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 613,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.7480135,
+    "Latitude": 30.2643587
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "100A Guadalupe St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "100A Guadalupe St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15122361115",
+   "display_phone": "(512) 236-1115",
+   "distance": 567.8844184682283
+  },
+  {
+   "id": "2davG-KIVjDJCuqav69-Rw",
+   "alias": "queen-spa-austin",
+   "name": "Queen Spa",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ieyQOByDQArZKaQQB0zzOQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/queen-spa-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 586,
+   "categories": [
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "eyelashservice",
+     "title": "Eyelash Service"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.7714907,
+    "Latitude": 30.2483481
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2110 S Lamar Blvd",
+    "address2": "Ste D",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "2110 S Lamar Blvd",
+     "Ste D",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15122942093",
+   "display_phone": "(512) 294-2093",
+   "distance": 3439.4430758021645
+  },
+  {
+   "id": "H6MbmX7aH66JWzu88wiWng",
+   "alias": "diamond-nails-austin-2",
+   "name": "Diamond Nails",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gGbJ6fEX4X2oy5WGOw5HAQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/diamond-nails-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 566,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    },
+    {
+     "alias": "eyelashservice",
+     "title": "Eyelash Service"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.79310667,
+    "Latitude": 30.23802983
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4006 S Lamar Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "4006 S Lamar Blvd",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124448668",
+   "display_phone": "(512) 444-8668",
+   "distance": 5814.350603801946
+  },
+  {
+   "id": "gCO31s4tE7iKLharnw0sfw",
+   "alias": "bliss-nail-bar-of-round-rock-round-rock",
+   "name": "Bliss Nail Bar Of Round Rock",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lmOMCnhnqarQlheM2WsR8w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bliss-nail-bar-of-round-rock-round-rock?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 525,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.6714354,
+    "Latitude": 30.4775716
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3107 S Interstate 35",
+    "address2": "Ste 790",
+    "address3": "",
+    "city": "Round Rock",
+    "zip_code": "78664",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "3107 S Interstate 35",
+     "Ste 790",
+     "Round Rock, TX 78664"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15129394702",
+   "display_phone": "(512) 939-4702",
+   "distance": 24381.612096538076
+  },
+  {
+   "id": "_qu4k2yvv8cu9feks3Anxg",
+   "alias": "shaman-modifications-body-piercing-studio-austin-2",
+   "name": "Shaman Modifications Body Piercing Studio",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0ZP080UIJck3awUlXIPUnQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shaman-modifications-body-piercing-studio-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 511,
+   "categories": [
+    {
+     "alias": "piercing",
+     "title": "Piercing"
+    },
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -97.72200052228966,
+    "Latitude": 30.26226278597505
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1901 E 7th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78702",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1901 E 7th St",
+     "Austin, TX 78702"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15129816637",
+   "display_phone": "(512) 981-6637",
+   "distance": 2099.4360481260296
+  },
+  {
+   "id": "eHlDVGJ4jBF8p2OKhKe57w",
+   "alias": "spa-sway-austin",
+   "name": "Spa Sway",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9R100Lrat2GSLF6QLwWNhw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/spa-sway-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 506,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "massage",
+     "title": "Massage"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.72611,
+    "Latitude": 30.39685
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "11011 Domain Dr",
+    "address2": "Ste 124",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78758",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "11011 Domain Dr",
+     "Ste 124",
+     "Austin, TX 78758"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15128730999",
+   "display_phone": "(512) 873-0999",
+   "distance": 14508.328724867539
+  },
+  {
+   "id": "vS6_3-vp3vxYcxSTir9GYw",
+   "alias": "viva-day-spa-med-spa-lamar-austin-2",
+   "name": "Viva Day Spa + Med Spa - Lamar",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XsoGoo9xTh4QBBatKGQq2A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/viva-day-spa-med-spa-lamar-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 500,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "medicalspa",
+     "title": "Medical Spas"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.75724,
+    "Latitude": 30.26343
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "215 S Lamar Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "215 S Lamar Blvd",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123002256",
+   "display_phone": "(512) 300-2256",
+   "distance": 1403.596730628457
+  },
+  {
+   "id": "0iVTWZjPdDTIqDH9UoMBFg",
+   "alias": "bamboo-nails-and-spa-round-rock",
+   "name": "Bamboo Nails \u0026 Spa",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/U1cENuawFIEgVShbKYP87g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bamboo-nails-and-spa-round-rock?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 479,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.684219,
+    "Latitude": 30.480327
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2711 La Frontera Blvd",
+    "address2": "Ste 205",
+    "address3": "",
+    "city": "Round Rock",
+    "zip_code": "78681",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "2711 La Frontera Blvd",
+     "Ste 205",
+     "Round Rock, TX 78681"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15122441800",
+   "display_phone": "(512) 244-1800",
+   "distance": 24362.495047111475
+  },
+  {
+   "id": "LqG3wq9cJGAnJ5bU4eqChw",
+   "alias": "ann-webb-skin-clinic-austin-2",
+   "name": "Ann Webb Skin Clinic",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oj4_2ITD3uwfm4TENyp8cQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ann-webb-skin-clinic-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 467,
+   "categories": [
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "laser_hair_removal",
+     "title": "Laser Hair Removal"
+    },
+    {
+     "alias": "medicalspa",
+     "title": "Medical Spas"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.7519,
+    "Latitude": 30.419685
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "11701 Jollyville Rd",
+    "address2": "Ste 107",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78759",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "11701 Jollyville Rd",
+     "Ste 107",
+     "Austin, TX 78759"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15127950145",
+   "display_phone": "(512) 795-0145",
+   "distance": 16974.848498330564
+  },
+  {
+   "id": "mbhZ8flmAm2AqLkPvcmQcw",
+   "alias": "method-hair-austin",
+   "name": "Method Hair",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_rkTIF-tu1PU_jJceZG81Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/method-hair-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 460,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "makeupartists",
+     "title": "Makeup Artists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.72351012355601,
+    "Latitude": 30.259939875127476
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1800 E 4th St",
+    "address2": "Ste 103",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78702",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1800 E 4th St",
+     "Ste 103",
+     "Austin, TX 78702"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124690044",
+   "display_phone": "(512) 469-0044",
+   "distance": 2047.3103080585183
+  },
+  {
+   "id": "yZ9IqVdZ0KWdri8u0AlIog",
+   "alias": "red-stella-hair-salon-austin-10",
+   "name": "Red Stella Hair Salon",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8zvquKvaiCezx2LfIfLf3g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/red-stella-hair-salon-austin-10?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 449,
+   "categories": [
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "makeupartists",
+     "title": "Makeup Artists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.730284,
+    "Latitude": 30.319235
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5117 N Lamar Blvd",
+    "address2": "Ste A",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78751",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "5117 N Lamar Blvd",
+     "Ste A",
+     "Austin, TX 78751"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124336762",
+   "display_phone": "(512) 433-6762",
+   "distance": 5915.4156680451715
+  },
+  {
+   "id": "FLiEWmnQxElbI4tj8mjW4g",
+   "alias": "enjoy-nails-and-spa-austin-3",
+   "name": "Enjoy Nails \u0026 Spa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0VB23--CCHv0VGINsonOeA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/enjoy-nails-and-spa-austin-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 442,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.73861,
+    "Latitude": 30.3025
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3706 Guadalupe St",
+    "address2": "Ste D",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78705",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "3706 Guadalupe St",
+     "Ste D",
+     "Austin, TX 78705"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124652253",
+   "display_phone": "(512) 465-2253",
+   "distance": 3959.8435952731106
+  },
+  {
+   "id": "zjCkuRY1fom0fhw0SSmKGw",
+   "alias": "westlake-dermatology-and-cosmetic-surgery-austin",
+   "name": "Westlake Dermatology \u0026 Cosmetic Surgery",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NBXYgqp4WJ7gqStnRRZHGg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/westlake-dermatology-and-cosmetic-surgery-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 407,
+   "categories": [
+    {
+     "alias": "dermatology",
+     "title": "Dermatologists"
+    },
+    {
+     "alias": "cosmeticsurgeons",
+     "title": "Cosmetic Surgeons"
+    },
+    {
+     "alias": "laser_hair_removal",
+     "title": "Laser Hair Removal"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.8612233523979,
+    "Latitude": 30.3170878224867
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "8825 Bee Caves Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78746",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "8825 Bee Caves Rd",
+     "Austin, TX 78746"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123283376",
+   "display_phone": "(512) 328-3376",
+   "distance": 12625.308615527798
+  },
+  {
+   "id": "EgElwNIAUhRXnEZo4LpEGA",
+   "alias": "enso-nails-and-spa-pflugerville",
+   "name": "Enso Nails \u0026 Spa",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NEPJbBNdXaqd3PR3tUgADg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/enso-nails-and-spa-pflugerville?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 392,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    },
+    {
+     "alias": "eyelashservice",
+     "title": "Eyelash Service"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -97.66337,
+    "Latitude": 30.44879
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "15424 Farm to Market Rd 1825",
+    "address2": "Ste 210",
+    "address3": "",
+    "city": "Pflugerville",
+    "zip_code": "78660",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "15424 Farm to Market Rd 1825",
+     "Ste 210",
+     "Pflugerville, TX 78660"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15122511001",
+   "display_phone": "(512) 251-1001",
+   "distance": 21592.431453577425
+  },
+  {
+   "id": "GW1DtO4sxgPaJd1VxBbHsw",
+   "alias": "mantis-massage-austin",
+   "name": "Mantis Massage",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zu1GfdUuzagMUeE_UpEXQw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mantis-massage-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 389,
+   "categories": [
+    {
+     "alias": "massage",
+     "title": "Massage"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -97.70658145999612,
+    "Latitude": 30.288623659772203
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3823 Airport Blvd",
+    "address2": "Ste A",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78722",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "3823 Airport Blvd",
+     "Ste A",
+     "Austin, TX 78722"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15125405827",
+   "display_phone": "(512) 540-5827",
+   "distance": 4239.364262309321
+  },
+  {
+   "id": "IJj5Yedpn7fc6td-5KNeeQ",
+   "alias": "caesars-nails-and-spa-austin-8",
+   "name": "Caesars Nails \u0026 Spa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AkEUr_793jrgM9HfqsuHFg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/caesars-nails-and-spa-austin-8?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 379,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.726908,
+    "Latitude": 30.394742
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3201 Feathergrass Ct",
+    "address2": "Ste 100",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78758",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "3201 Feathergrass Ct",
+     "Ste 100",
+     "Austin, TX 78758"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15127199996",
+   "display_phone": "(512) 719-9996",
+   "distance": 14266.896162228679
+  },
+  {
+   "id": "rI0bBUwxcJ-adB0UnwVhLw",
+   "alias": "modern-nails-lounge-spa-austin",
+   "name": "Modern Nails Lounge Spa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Y6yLqfY4Tbj0FrU9UbO0Ig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/modern-nails-lounge-spa-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 373,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    },
+    {
+     "alias": "eyelashservice",
+     "title": "Eyelash Service"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.78372,
+    "Latitude": 30.24134
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3005 S Lamar Blvd",
+    "address2": "Ste 106",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "3005 S Lamar Blvd",
+     "Ste 106",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15125208075",
+   "display_phone": "(512) 520-8075",
+   "distance": 4847.79185798911
+  },
+  {
+   "id": "2YsPaNqXdxhTq2qYqupgoQ",
+   "alias": "floyds-99-barbershop-austin-3",
+   "name": "Floyd's 99 Barbershop",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Yj8nakNQW54lXeim_j6-fg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/floyds-99-barbershop-austin-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 359,
+   "categories": [
+    {
+     "alias": "barbers",
+     "title": "Barbers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.733968,
+    "Latitude": 30.386953
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "10515 N Mopac Expy",
+    "address2": "Ste 305",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78759",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "10515 N Mopac Expy",
+     "Ste 305",
+     "Austin, TX 78759"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123388866",
+   "display_phone": "(512) 338-8866",
+   "distance": 13342.072246669772
+  },
+  {
+   "id": "ZEZ-vAanLCqBYU1nroCxFw",
+   "alias": "organic-spa-and-nails-austin",
+   "name": "Organic Spa and Nails",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vFmRGl0FcZHoPic2fNj19A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/organic-spa-and-nails-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 348,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "eyelashservice",
+     "title": "Eyelash Service"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.727899,
+    "Latitude": 30.242712
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1920 E Riverside Dr",
+    "address2": "Ste 130",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78741",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1920 E Riverside Dr",
+     "Ste 130",
+     "Austin, TX 78741"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15129535262",
+   "display_phone": "(512) 953-5262",
+   "distance": 3089.6796160834742
+  },
+  {
+   "id": "5_h2Hp4LNH49nhdbRnRYjw",
+   "alias": "kims-nails-austin",
+   "name": "Kim's Nails",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/O57owhg4OwIwL00QWj0mkQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kims-nails-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 341,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "eyebrowservices",
+     "title": "Eyebrow Services"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.77729094635357,
+    "Latitude": 30.195453220298592
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "6501 S Congress Ave",
+    "address2": "Ste 207",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78745",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "6501 S Congress Ave",
+     "Ste 207",
+     "Austin, TX 78745"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123838702",
+   "display_phone": "(512) 383-8702",
+   "distance": 8627.648287652746
+  },
+  {
+   "id": "IOSu-YOQXj55jvkFtaNKMw",
+   "alias": "bella-salon-austin-2",
+   "name": "Bella Salon",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OtAq0_Fr9vDG-VSiHjUB1A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bella-salon-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 338,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.7595130452718,
+    "Latitude": 30.2733330970067
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1221 W 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78703",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1221 W 6th St",
+     "Austin, TX 78703"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124745999",
+   "display_phone": "(512) 474-5999",
+   "distance": 1717.4197297437486
+  },
+  {
+   "id": "gIoNhsXcPXCRi-U16ChLbg",
+   "alias": "birds-barbershop-austin-2",
+   "name": "Birds Barbershop",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PUIB2M7n8_runi2AWhDFQA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/birds-barbershop-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 334,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "barbers",
+     "title": "Barbers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.7385406494141,
+    "Latitude": 30.3444061279297
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "6800 Burnet Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78757",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "6800 Burnet Rd",
+     "Austin, TX 78757"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124541200",
+   "display_phone": "(512) 454-1200",
+   "distance": 8604.279785493105
+  },
+  {
+   "id": "ue2r77k0Tz4kkmzOK-ftNg",
+   "alias": "victory-medical-austin-austin-2",
+   "name": "Victory Medical - Austin",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/E7eTyjwssReFC8sjUnb3rg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/victory-medical-austin-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 326,
+   "categories": [
+    {
+     "alias": "familydr",
+     "title": "Family Practice"
+    },
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "medicalspa",
+     "title": "Medical Spas"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -97.790926,
+    "Latitude": 30.23224
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4303 Victory Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "4303 Victory Dr",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124623627",
+   "display_phone": "(512) 462-3627",
+   "distance": 6017.931182147618
+  },
+  {
+   "id": "JFwU8PannMv34SARgAH0rw",
+   "alias": "coffee-n-nails-austin-2",
+   "name": "Coffee N Nails ",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rKExxJXUYaju83ge67L1Hg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/coffee-n-nails-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 325,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.726644,
+    "Latitude": 30.291119
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3205 Red River St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78705",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "3205 Red River St",
+     "Austin, TX 78705"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124722862",
+   "display_phone": "(512) 472-2862",
+   "distance": 3101.3201199709356
+  },
+  {
+   "id": "_CgzF7S6cFAH05eStZBmtw",
+   "alias": "viva-day-spa-med-spa-domain-northside-austin-5",
+   "name": "Viva Day Spa + Med Spa - Domain Northside",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/un9ZvwVYYDEf3iuWc58Jng/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/viva-day-spa-med-spa-domain-northside-austin-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 321,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "medicalspa",
+     "title": "Medical Spas"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.72226,
+    "Latitude": 30.40157
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "11601 Rock Rose",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78758",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "11601 Rock Rose",
+     "Austin, TX 78758"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123002256",
+   "display_phone": "(512) 300-2256",
+   "distance": 15085.726661268416
+  },
+  {
+   "id": "v5rYYPvji_uMzrHU8-5nWw",
+   "alias": "path-salon-austin",
+   "name": "Path Salon",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8LfZ8DF6WUKu3QoP0myUWg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/path-salon-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 318,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.75930854061448,
+    "Latitude": 30.23160564476231
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3100 S Congress Ave",
+    "address2": "Ste C",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "3100 S Congress Ave",
+     "Ste C",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124477284",
+   "display_phone": "(512) 447-7284",
+   "distance": 4253.1145341914
+  },
+  {
+   "id": "BAaXJ887Vlj9ZINO31ug5A",
+   "alias": "floyds-99-barbershop-sunset-valley-2",
+   "name": "Floyd's 99 Barbershop",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ceUfV4j2sSJePniLykLJgg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/floyds-99-barbershop-sunset-valley-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 313,
+   "categories": [
+    {
+     "alias": "barbers",
+     "title": "Barbers"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.82141,
+    "Latitude": 30.22748
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5601 Brodie Ln",
+    "address2": "Ste 1350",
+    "address3": "",
+    "city": "Sunset Valley",
+    "zip_code": "78745",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "5601 Brodie Ln",
+     "Ste 1350",
+     "Sunset Valley, TX 78745"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15128925550",
+   "display_phone": "(512) 892-5550",
+   "distance": 8720.71102593228
+  },
+  {
+   "id": "s_EjLRyFFrY7asqbhp4Fdw",
+   "alias": "golden-nails-salon-and-spa-austin",
+   "name": "Golden Nails Salon \u0026 Spa",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Km_SiTxeL6tLaytvIEkA7Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/golden-nails-salon-and-spa-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 311,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.8380437863528,
+    "Latitude": 30.200396690662046
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "8213 Brodie Ln",
+    "address2": "Ste 103",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78745",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "8213 Brodie Ln",
+     "Ste 103",
+     "Austin, TX 78745"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15122822760",
+   "display_phone": "(512) 282-2760",
+   "distance": 11763.281414757166
+  },
+  {
+   "id": "--gs_E7DZm-fAAyHAEL5Tw",
+   "alias": "blonde-faith-salon-austin",
+   "name": "Blonde Faith Salon",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WuyBQ9waH2Cv3C7blczTvA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blonde-faith-salon-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 307,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.77347065993045,
+    "Latitude": 30.498409917261643
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "10526 W Parmer Ln",
+    "address2": "Ste 419",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78717",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "10526 W Parmer Ln",
+     "Ste 419",
+     "Austin, TX 78717"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124674717",
+   "display_phone": "(512) 467-4717",
+   "distance": 25873.874149890213
+  },
+  {
+   "id": "V47FTzhGbuJcs51pgf4bcw",
+   "alias": "sweet-nails-and-spa-austin",
+   "name": "Sweet Nails and Spa",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_p8H_F9dQ_f7zf53fcxStw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sweet-nails-and-spa-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 303,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "hairremoval",
+     "title": "Hair Removal"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.7930679048736,
+    "Latitude": 30.2337700034447
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "4211 S Lamar Blvd",
+    "address2": "Ste A4",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "4211 S Lamar Blvd",
+     "Ste A4",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15129160940",
+   "display_phone": "(512) 916-0940",
+   "distance": 6070.748878969019
+  },
+  {
+   "id": "Ins7lWRTVAZ02OxwR6NdqA",
+   "alias": "t-nails-and-spa-austin",
+   "name": "T Nails \u0026 Spa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/j1G3F_pQN-ujtRqn8PoWtw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/t-nails-and-spa-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 302,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.713227,
+    "Latitude": 30.407374
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "12001 N Mopac Expy",
+    "address2": "Ste H",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78758",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "12001 N Mopac Expy",
+     "Ste H",
+     "Austin, TX 78758"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124917337",
+   "display_phone": "(512) 491-7337",
+   "distance": 15848.08076934351
+  },
+  {
+   "id": "vB2cS5NyZ4J6xwSjeBLwlg",
+   "alias": "birds-barbershop-austin",
+   "name": "Birds Barbershop",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x_tKEQqxP-15kMcxhwIlRw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/birds-barbershop-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 302,
+   "categories": [
+    {
+     "alias": "barbers",
+     "title": "Barbers"
+    },
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.7715327422336,
+    "Latitude": 30.2482574197809
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2110 S Lamar Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "2110 S Lamar Blvd",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124428800",
+   "display_phone": "(512) 442-8800",
+   "distance": 3448.7952609952927
+  },
+  {
+   "id": "OsVI7hYQndjFqe7N_VhG_w",
+   "alias": "black-orchid-salon-austin",
+   "name": "Black Orchid Salon",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cYlCTuYmrrX4VlP_lq7nIA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/black-orchid-salon-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 299,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -97.7620221777668,
+    "Latitude": 30.2257954735755
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3801 S Congress Ave",
+    "address2": "Ste 105",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "3801 S Congress Ave",
+     "Ste 105",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123261010",
+   "display_phone": "(512) 326-1010",
+   "distance": 4949.772782922833
+  },
+  {
+   "id": "cl0VRgXNkwSxa33bUgjkqA",
+   "alias": "true-blue-tattoo-and-body-piercing-austin",
+   "name": "True Blue Tattoo and Body Piercing",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wC7IgYg8ZWR8DiYF0s-7TA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/true-blue-tattoo-and-body-piercing-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 297,
+   "categories": [
+    {
+     "alias": "tattoo",
+     "title": "Tattoo"
+    },
+    {
+     "alias": "piercing",
+     "title": "Piercing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.73669,
+    "Latitude": 30.26694
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "607 Red River St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "607 Red River St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124722783",
+   "display_phone": "(512) 472-2783",
+   "distance": 602.8940623091918
+  },
+  {
+   "id": "3FfYFWSLwfnum7GXD8k15g",
+   "alias": "finleys-barber-shop-austin-2",
+   "name": "Finley's Barber Shop",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zNLPwNTtAiogTuAWD1VSjA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/finleys-barber-shop-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 294,
+   "categories": [
+    {
+     "alias": "barbers",
+     "title": "Barbers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.7457754,
+    "Latitude": 30.2656936
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "237 W 3rd St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "237 W 3rd St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15127468289",
+   "display_phone": "(512) 746-8289",
+   "distance": 306.7175388281413
+  },
+  {
+   "id": "EjaFM0LEFWhl092qShjvqQ",
+   "alias": "zen-blend-mind-body-spa-austin",
+   "name": "Zen Blend Mind + Body Spa",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/h-xo2kvGqHXdqoYZ4nLT8Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zen-blend-mind-body-spa-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 290,
+   "categories": [
+    {
+     "alias": "massage",
+     "title": "Massage"
+    },
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -97.81636,
+    "Latitude": 30.173438
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1309 West Slaughter Ln",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78748",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1309 West Slaughter Ln",
+     "Austin, TX 78748"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15125543626",
+   "display_phone": "(512) 554-3626",
+   "distance": 12579.601845775462
+  },
+  {
+   "id": "NIvrcYX1aPTUc15KwZw1PQ",
+   "alias": "love-roots-austin-2",
+   "name": "Love + Roots",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TNbwsyWiVmWaYHpKqaanXg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/love-roots-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 290,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "eyelashservice",
+     "title": "Eyelash Service"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.7280625172953,
+    "Latitude": 30.2580755465514
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1607 E Cesar Chavez St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78702",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1607 E Cesar Chavez St",
+     "Austin, TX 78702"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15127515812",
+   "display_phone": "(512) 751-5812",
+   "distance": 1764.9877743672148
+  }
+ ],
+ "total": 3800,
+ "region": {
+  "center": {
+   "longitude": -97.7431,
+   "Latitude": 30.2672
+  }
+ }
+}

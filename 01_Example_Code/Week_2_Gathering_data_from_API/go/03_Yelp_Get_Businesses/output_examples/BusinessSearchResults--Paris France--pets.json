@@ -1,0 +1,1729 @@
+{
+ "businesses": [
+  {
+   "id": "_YflYOzffCb2-UdUPIlpaA",
+   "alias": "truffaut-paris-2",
+   "name": "Truffaut",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ImV5VYvn8qFNASu4iKLTCg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/truffaut-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 25,
+   "categories": [
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.37396,
+    "Latitude": 48.83709
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "85 quai de la Gare",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "85 quai de la Gare",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153608450",
+   "display_phone": "+33 1 53 60 84 50",
+   "distance": 2691.0375132987365
+  },
+  {
+   "id": "uG1fe1pGTqotBpWXkM8scg",
+   "alias": "animalis-paris-2",
+   "name": "Animalis",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PdwBtcgScjC7iLNwA53uNw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/animalis-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 23,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.38754,
+    "Latitude": 48.8337
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "47 rue des Pirogues de Bercy",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "47 rue des Pirogues de Bercy",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153338735",
+   "display_phone": "+33 1 53 33 87 35",
+   "distance": 3629.2863030903522
+  },
+  {
+   "id": "JqV80Srk6FODV77orBtNlQ",
+   "alias": "oisellerie-du-pont-neuf-paris",
+   "name": "Oisellerie du Pont Neuf",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XtUGyf5vv0kTHANs7X6tEA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/oisellerie-du-pont-neuf-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 14,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.34494,
+    "Latitude": 48.85782
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "18 quai de la Mégisserie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "18 quai de la Mégisserie",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140266148",
+   "display_phone": "+33 1 40 26 61 48",
+   "distance": 548.1867956210885
+  },
+  {
+   "id": "yRf7OdyCWOeKwpwXQksCXQ",
+   "alias": "dog-in-the-city-paris",
+   "name": "Dog in the City",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ps7A9VEDSVhmVBN8w-c8zA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dog-in-the-city-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.36419,
+    "Latitude": 48.85264
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "26 rue du Petit Musc",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "26 rue du Petit Musc",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142740711",
+   "display_phone": "+33 1 42 74 07 11",
+   "distance": 981.5373120773501
+  },
+  {
+   "id": "AJlEF-2ceyUIQflizMO2lA",
+   "alias": "moustaches-paris-2",
+   "name": "Moustaches",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6xinL55pzYyudnbS0tbDUg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/moustaches-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.35526,
+    "Latitude": 48.85848
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "32 rue des Archives",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "32 rue des Archives",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142710543",
+   "display_phone": "+33 1 42 71 05 43",
+   "distance": 306.29440410018304
+  },
+  {
+   "id": "0GLzzmFIjjxeNp8zyRCp5Q",
+   "alias": "truffaut-ivry-sur-seine",
+   "name": "Truffaut",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xUG3GZsJmATCk4nAiSMWPA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/truffaut-ivry-sur-seine?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.38769,
+    "Latitude": 48.82405
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "5 Rue François Mitterrand",
+    "address2": "",
+    "address3": "",
+    "city": "Ivry Sur Seine",
+    "zip_code": "94200",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "5 Rue François Mitterrand",
+     "94200 Ivry Sur Seine",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33156202930",
+   "display_phone": "+33 1 56 20 29 30",
+   "distance": 4512.49093899882
+  },
+  {
+   "id": "x7ouRtHdWGRMy-B9J6L3Kw",
+   "alias": "animalerie-petland-créteil-2",
+   "name": "Animalerie Petland",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Djr83-H8I1VZJRPr3BbHXA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/animalerie-petland-cr%C3%A9teil-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.455572,
+    "Latitude": 48.790367
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Centre commercial Régional",
+    "address2": "",
+    "address3": "",
+    "city": "Créteil",
+    "zip_code": "94000",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "Centre commercial Régional",
+     "94000 Créteil",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33149800108",
+   "display_phone": "+33 1 49 80 01 08",
+   "distance": 10559.830697116997
+  },
+  {
+   "id": "WC6F07JusdXp_62Dv4DODA",
+   "alias": "dog-club-paris",
+   "name": "Dog Club",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xTzFWCPxfFtnOyi-3vpKxw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dog-club-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.3337,
+    "Latitude": 48.82964
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "56 rue de la Tombe Issoire",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75014",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "56 rue de la Tombe Issoire",
+     "75014 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143276856",
+   "display_phone": "+33 1 43 27 68 56",
+   "distance": 3289.334981902161
+  },
+  {
+   "id": "ZsHf9jUxz36liLeGaKb9dw",
+   "alias": "selarl-de-veterinaires-c-g-s-paris-2",
+   "name": "Selarl De Veterinaires C.G.S.",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/selarl-de-veterinaires-c-g-s-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.39552,
+    "Latitude": 48.8767
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11 Rue Henri Ribière",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75019",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "11 Rue Henri Ribière",
+     "75019 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142035151",
+   "display_phone": "+33 1 42 03 51 51",
+   "distance": 3877.5909393932507
+  },
+  {
+   "id": "351AYLJ2ED9lp4ZlpBpBXA",
+   "alias": "frantz-cappe-paris",
+   "name": "Frantz Cappe",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H4G0-Qfv9EM7M2OyWnU6Aw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/frantz-cappe-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3449128,
+    "Latitude": 48.8588125
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "14 rue Bertin Poirée",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "14 rue Bertin Poirée",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140262002",
+   "display_phone": "+33 1 40 26 20 02",
+   "distance": 587.1482269203824
+  },
+  {
+   "id": "hfltj1M2MFe1fJOy6gX3Lw",
+   "alias": "jardinerie-du-quai-paris",
+   "name": "Jardinerie du Quai",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/I7FQO61GfEBhIHG-hAZJKw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jardinerie-du-quai-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "florists",
+     "title": "Florists"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.34643,
+    "Latitude": 48.85741
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "2 Ter Quai Mégisserie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 Ter Quai Mégisserie",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142365594",
+   "display_phone": "+33 1 42 36 55 94",
+   "distance": 431.6324180912689
+  },
+  {
+   "id": "lWg1talKwHr9mQPzIzoskA",
+   "alias": "truffaut-le-chesnay",
+   "name": "Truffaut",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WSUFr9el4YpMIVZn4B57WA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/truffaut-le-chesnay?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.1202518,
+    "Latitude": 48.8299183
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "Centre commercial Parly II",
+    "address2": "",
+    "address3": "",
+    "city": "Le Chesnay",
+    "zip_code": "78150",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "Centre commercial Parly II",
+     "78150 Le Chesnay",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33139239020",
+   "display_phone": "+33 1 39 23 90 20",
+   "distance": 17231.22086055509
+  },
+  {
+   "id": "yWIxu17L4jrdjNG-iMbbgQ",
+   "alias": "la-tour-câline-paris-3",
+   "name": "La Tour Câline",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_A7WIAi1PYfrH72Hvt03bQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-tour-c%C3%A2line-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.28554,
+    "Latitude": 48.86537
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "129 Rue Lauriston",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75116",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "129 Rue Lauriston",
+     "75116 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145055425",
+   "display_phone": "+33 1 45 05 54 25",
+   "distance": 4972.98018455016
+  },
+  {
+   "id": "WeY9RilceLmbqRVkUreZOA",
+   "alias": "docteur-rodriguez-veterinaire-paris",
+   "name": "Docteur Rodriguez veterinaire",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PQ3M7jSCEkEywpGd-aqWzQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/docteur-rodriguez-veterinaire-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3250522,
+    "Latitude": 48.8488261
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "58 rue du Cherche Midi",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "58 rue du Cherche Midi",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145441927",
+   "display_phone": "+33 1 45 44 19 27",
+   "distance": 2166.234422913984
+  },
+  {
+   "id": "ZUVguAS1BxGf0kxQ_Lth5g",
+   "alias": "animagora-gif-sur-yvette",
+   "name": "animagora",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ycl5R8nRYzyDPILzuFag4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/animagora-gif-sur-yvette?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "pets",
+     "title": "Pets"
+    },
+    {
+     "alias": "restaurants",
+     "title": "Restaurants"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.1172099,
+    "Latitude": 48.6993217
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "11 allée de la gambauderie",
+    "address2": "Essonne",
+    "address3": "",
+    "city": "Gif sur Yvette",
+    "zip_code": "91190",
+    "country": "FR",
+    "state": "91",
+    "display_address": [
+     "11 allée de la gambauderie",
+     "Essonne",
+     "91190 Gif sur Yvette",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33180855180",
+   "display_phone": "+33 1 80 85 51 80",
+   "distance": 24540.398442958325
+  },
+  {
+   "id": "f_JnGgXEROc6nBzEkR8eWw",
+   "alias": "petsochic-paris-2",
+   "name": "Petsochic",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8GZtmouG4qalQgvK2BhTCg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsochic-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.33993,
+    "Latitude": 48.85553
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "16 rue Dauphine",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "16 rue Dauphine",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142030970",
+   "display_phone": "+33 1 42 03 09 70",
+   "distance": 914.3248605385454
+  },
+  {
+   "id": "5_bqheZltK4DjX2OA_tVDg",
+   "alias": "animalis-lognes",
+   "name": "Animalis",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/animalis-lognes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.6407,
+    "Latitude": 48.8329
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Allée Palombes",
+    "address2": "",
+    "address3": "",
+    "city": "Lognes",
+    "zip_code": "77185",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "Allée Palombes",
+     "77185 Lognes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33160950400",
+   "display_phone": "+33 1 60 95 04 00",
+   "distance": 21275.53298247927
+  },
+  {
+   "id": "-8yI7tSUMN94bd12U_I8DA",
+   "alias": "delphine-gosselet-paris-13",
+   "name": "Delphine Gosselet",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bbECd1tBVrU1xgoxHPW1dQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/delphine-gosselet-paris-13?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": 2.36113,
+    "Latitude": 48.82259
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "20bis rue Caillaux",
+    "address2": "",
+    "address3": "",
+    "city": "Paris 13",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "20bis rue Caillaux",
+     "75013 Paris 13",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144242425",
+   "display_phone": "+33 1 44 24 24 25",
+   "distance": 3838.142728002341
+  },
+  {
+   "id": "5jadez3Uf1mMpikh7iglTw",
+   "alias": "au-paradis-canin-paris",
+   "name": "Au Paradis Canin",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/y3oinGaU4AVpIWtjvet1-w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/au-paradis-canin-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3536456,
+    "Latitude": 48.848417
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "21 rue Cardinal Lemoine",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "21 rue Cardinal Lemoine",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143292559",
+   "display_phone": "+33 1 43 29 25 59",
+   "distance": 916.0338211598959
+  },
+  {
+   "id": "AHT0O9Hgs7Qpi_sg16Rdyg",
+   "alias": "clinique-vétérinaire-du-temple-paris",
+   "name": "Clinique vétérinaire du Temple",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/clinique-v%C3%A9t%C3%A9rinaire-du-temple-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3580558,
+    "Latitude": 48.8651507
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "28 rue Réaumur",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "28 rue Réaumur",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142722886",
+   "display_phone": "+33 1 42 72 28 86",
+   "distance": 1042.8388953148715
+  },
+  {
+   "id": "uvBIxIAphtjkLUm_kqIM0Q",
+   "alias": "anne-marie-klein-paris",
+   "name": "Anne-Marie Klein",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lBZ7pYtwDoBztPbowlGJaQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/anne-marie-klein-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3966,
+    "Latitude": 48.84928
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11 Place de la Nation",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "11 Place de la Nation",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143736704",
+   "display_phone": "+33 1 43 73 67 04",
+   "distance": 3348.9663782430334
+  },
+  {
+   "id": "yX-kna3o76BkCh6sB8TJOA",
+   "alias": "la-ferme-tropicale-paris",
+   "name": "La Ferme Tropicale",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_lG4CqWtFp1uuMsxQkRIzQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-ferme-tropicale-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.360015,
+    "Latitude": 48.836398
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "54 rue Jenner",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "54 rue Jenner",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145862202",
+   "display_phone": "+33 1 45 86 22 02",
+   "distance": 2318.005131655348
+  },
+  {
+   "id": "AOjAY7jmToi4MZAbeUtJjQ",
+   "alias": "régine-le-sann-paris",
+   "name": "Régine le Sann",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/r%C3%A9gine-le-sann-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.37633,
+    "Latitude": 48.86508
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "47 avenue de la République",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "47 avenue de la République",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143575632",
+   "display_phone": "+33 1 43 57 56 32",
+   "distance": 1997.4137237442765
+  },
+  {
+   "id": "qcNVys9YfrB9kIZQFj8FkA",
+   "alias": "fondation-brigitte-bardot-paris",
+   "name": "Fondation Brigitte Bardot",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_b9zCiSk9zFcDUef95Qg7A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fondation-brigitte-bardot-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "animalshelters",
+     "title": "Animal Shelters"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.28519,
+    "Latitude": 48.86067
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "28 Rue Vineuse",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75116",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "28 Rue Vineuse",
+     "75116 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145051460",
+   "display_phone": "+33 1 45 05 14 60",
+   "distance": 4923.108232676785
+  },
+  {
+   "id": "hnZM6jbfrBjn9wj5q3RuEQ",
+   "alias": "c4v-paris",
+   "name": "C4V",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/42RFddswwyBEL1euA8nnkA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/c4v-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "pets",
+     "title": "Pets"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.33073,
+    "Latitude": 48.84387
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "59 rue Notre-Dame des Champs",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "59 rue Notre-Dame des Champs",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143250600",
+   "display_phone": "+33 1 43 25 06 00",
+   "distance": 2114.603227195983
+  },
+  {
+   "id": "HLVMQgYY2a0AQcQrvDm06A",
+   "alias": "clinique-vétérinaire-réservée-aux-chats-docteur-fermé-fradin-vincennes",
+   "name": "Clinique vétérinaire réservée aux chats - Docteur Fermé-Fradin",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/raYi3NtyVwMPLbe6m-FWaw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/clinique-v%C3%A9t%C3%A9rinaire-r%C3%A9serv%C3%A9e-aux-chats-docteur-ferm%C3%A9-fradin-vincennes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.4356937,
+    "Latitude": 48.8475871
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "21 bis rue de l'Eglise",
+    "address2": "",
+    "address3": "",
+    "city": "Vincennes",
+    "zip_code": "94300",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "21 bis rue de l'Eglise",
+     "94300 Vincennes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143288305",
+   "display_phone": "+33 1 43 28 83 05",
+   "distance": 6190.621723739299
+  },
+  {
+   "id": "qOtfs5Xk0aAwSTnD4Qrr-A",
+   "alias": "clinique-vétérinaire-pouget-hervet-s-c-p-paris-3",
+   "name": "Clinique Vétérinaire Pouget-Hervet S.C.P",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Du40yVZA8biDPgnnzqY0pw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/clinique-v%C3%A9t%C3%A9rinaire-pouget-hervet-s-c-p-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3461480743356,
+    "Latitude": 48.893335515411
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15 Square Clignancourt",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75018",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "15 Square Clignancourt",
+     "75018 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142554166",
+   "display_phone": "+33 1 42 55 41 66",
+   "distance": 4108.706664884222
+  },
+  {
+   "id": "_hNcexVv8FBD3PaigJzDyg",
+   "alias": "vétérinaires-v24-levallois-perret-2",
+   "name": "Vétérinaires V24",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WbIzt4eVuDMMqidO88eCFA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/v%C3%A9t%C3%A9rinaires-v24-levallois-perret-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.28573,
+    "Latitude": 48.89917
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "108 Rue Rivay",
+    "address2": "",
+    "address3": "",
+    "city": "Levallois Perret",
+    "zip_code": "92300",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "108 Rue Rivay",
+     "92300 Levallois Perret",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33155902424",
+   "display_phone": "+33 1 55 90 24 24",
+   "distance": 6781.826352178009
+  },
+  {
+   "id": "OdT9hr6z4rP-jDA23qUCvA",
+   "alias": "olivier-noack-paris",
+   "name": "Olivier Noack",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/olivier-noack-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3794767,
+    "Latitude": 48.872682
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "28 Rue Belleville",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "28 Rue Belleville",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146366626",
+   "display_phone": "+33 1 46 36 66 26",
+   "distance": 2679.327330720261
+  },
+  {
+   "id": "vo0t2owrZbTFOnJ3Wx-Mhg",
+   "alias": "clinique-vétérinaire-stéphane-littner-paris-2",
+   "name": "Clinique Vétérinaire Stéphane Littner",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/clinique-v%C3%A9t%C3%A9rinaire-st%C3%A9phane-littner-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3451844,
+    "Latitude": 48.8406063
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "63 rue Claude Bernard",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "63 rue Claude Bernard",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145879923",
+   "display_phone": "+33 1 45 87 99 23",
+   "distance": 1851.0232585520332
+  },
+  {
+   "id": "o0Fnux9wJWCVGAatn92OHA",
+   "alias": "lovely-dog-ermont",
+   "name": "Lovely Dog",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lovely-dog-ermont?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.2585816,
+    "Latitude": 48.9909278
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "35 rue Louis Savoie",
+    "address2": "",
+    "address3": "",
+    "city": "Ermont",
+    "zip_code": "95120",
+    "country": "FR",
+    "state": "95",
+    "display_address": [
+     "35 rue Louis Savoie",
+     "95120 Ermont",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33134136859",
+   "display_phone": "+33 1 34 13 68 59",
+   "distance": 16428.187135513574
+  },
+  {
+   "id": "en1Rf6Uq-pMaFq80KsdcMQ",
+   "alias": "lionel-schilliger-paris",
+   "name": "Lionel Schilliger",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-g4aeV4hyGG8zWs616DItA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lionel-schilliger-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.2487626,
+    "Latitude": 48.8530933
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "35 rue Leconte de Lisle",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75016",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "35 rue Leconte de Lisle",
+     "75016 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145272385",
+   "display_phone": "+33 1 45 27 23 85",
+   "distance": 7577.800040166254
+  },
+  {
+   "id": "QpPxa0bPAplQmpPfq3Nb9A",
+   "alias": "clinique-vétérinaire-bobigny-2",
+   "name": "Clinique Vétérinaire",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/clinique-v%C3%A9t%C3%A9rinaire-bobigny-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.4511631,
+    "Latitude": 48.9097874
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2 rue de Lorraine",
+    "address2": "",
+    "address3": "",
+    "city": "Bobigny",
+    "zip_code": "93000",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "2 rue de Lorraine",
+     "93000 Bobigny",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148952897",
+   "display_phone": "+33 1 48 95 28 97",
+   "distance": 9345.665437365606
+  },
+  {
+   "id": "JV3CYhxY-hJVyqywJR6DuA",
+   "alias": "docteur-a-gaudry-le-duigou-rueil-malmaison",
+   "name": "Docteur A Gaudry Le Duigou",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HCJ2eAdQLST_zEBTh6uIKA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/docteur-a-gaudry-le-duigou-rueil-malmaison?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.1818568,
+    "Latitude": 48.8798348
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10 bis Rue Bequet",
+    "address2": "",
+    "address3": "",
+    "city": "Rueil Malmaison",
+    "zip_code": "92500",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "10 bis Rue Bequet",
+     "92500 Rueil Malmaison",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147511450",
+   "display_phone": "+33 1 47 51 14 50",
+   "distance": 12724.487693101382
+  },
+  {
+   "id": "ya3icIQPJSvxWErhymgkAw",
+   "alias": "frédérique-lizot-châtenay-malabry",
+   "name": "Frédérique Lizot",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Xa4OA7WxqiSHvNpwnmlsCA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fr%C3%A9d%C3%A9rique-lizot-ch%C3%A2tenay-malabry?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.2611171,
+    "Latitude": 48.7656765
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "354 Avenue Division Leclerc",
+    "address2": "",
+    "address3": "",
+    "city": "Châtenay Malabry",
+    "zip_code": "92290",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "354 Avenue Division Leclerc",
+     "92290 Châtenay Malabry",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146304031",
+   "display_phone": "+33 1 46 30 40 31",
+   "distance": 12112.029777881286
+  },
+  {
+   "id": "IahfRm27H_Nun2qH02zAtQ",
+   "alias": "a-nonos-toilettage-boulogne-billancourt",
+   "name": "A Nonos Toilettage",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/a-nonos-toilettage-boulogne-billancourt?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.2269382,
+    "Latitude": 48.8411322
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "14 Mar de Lattre de Tassigny",
+    "address2": "",
+    "address3": "",
+    "city": "Boulogne Billancourt",
+    "zip_code": "92100",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "14 Mar de Lattre de Tassigny",
+     "92100 Boulogne Billancourt",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146046795",
+   "display_phone": "+33 1 46 04 67 95",
+   "distance": 9325.566639609651
+  },
+  {
+   "id": "PsAVUBHW8KNOSnutXm8lUQ",
+   "alias": "clinique-vétérinaire-du-docteur-lacroix-châtenay-malabry-3",
+   "name": "Clinique Vétérinaire du Docteur Lacroix",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xcw4uJJqhoAqfQqVIX6mEg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/clinique-v%C3%A9t%C3%A9rinaire-du-docteur-lacroix-ch%C3%A2tenay-malabry-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.2801513,
+    "Latitude": 48.769818
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "52 Rue Jean Longuet",
+    "address2": "",
+    "address3": "",
+    "city": "Châtenay Malabry",
+    "zip_code": "92290",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "52 Rue Jean Longuet",
+     "92290 Châtenay Malabry",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146603082",
+   "display_phone": "+33 1 46 60 30 82",
+   "distance": 10997.70130543213
+  },
+  {
+   "id": "XbMvaQUWhHJbFQlptga2-A",
+   "alias": "animalis-bondy",
+   "name": "Animalis",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/levEjMpjy4EqXBxk3LWZ4w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/animalis-bondy?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.480507,
+    "Latitude": 48.905688
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3-5 rue Auguste Polissard",
+    "address2": "",
+    "address3": "",
+    "city": "Bondy",
+    "zip_code": "93140",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "3-5 rue Auguste Polissard",
+     "93140 Bondy",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33155891240",
+   "display_phone": "+33 1 55 89 12 40",
+   "distance": 10854.582208038293
+  },
+  {
+   "id": "QhfGn27CQ9WKrxngmF8dDw",
+   "alias": "amandine-cadeau-fontenay-sous-bois",
+   "name": "Amandine Cadeau",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amandine-cadeau-fontenay-sous-bois?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.45658815581965,
+    "Latitude": 48.850494670073
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15 bis avenue République",
+    "address2": "",
+    "address3": "Clinique veterinaire Amical'Vet",
+    "city": "Fontenay sous Bois",
+    "zip_code": "94120",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "15 bis avenue République",
+     "Clinique veterinaire Amical'Vet",
+     "94120 Fontenay sous Bois",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143941380",
+   "display_phone": "+33 1 43 94 13 80",
+   "distance": 7667.632032764584
+  },
+  {
+   "id": "gCbpPFCnYhE4tNtj3paXYg",
+   "alias": "clinique-vétérinaire-caron-gras-et-vedrenne-versailles",
+   "name": "Clinique Vétérinaire Caron Gras \u0026 Vedrenne",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zo2HWZvTC8ZZWMQQKp_xTg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/clinique-v%C3%A9t%C3%A9rinaire-caron-gras-et-vedrenne-versailles?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.1253159,
+    "Latitude": 48.7953041
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "83 rue Royale",
+    "address2": "",
+    "address3": "",
+    "city": "Versailles",
+    "zip_code": "78000",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "83 rue Royale",
+     "78000 Versailles",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33139531313",
+   "display_phone": "+33 1 39 53 13 13",
+   "distance": 17953.12560787782
+  }
+ ],
+ "total": 332,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

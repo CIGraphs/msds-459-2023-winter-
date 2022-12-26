@@ -1,0 +1,1753 @@
+{
+ "businesses": [
+  {
+   "id": "BaPMS3CWM3LcJ6bsSuXF5Q",
+   "alias": "cen-change-paris",
+   "name": "CEN Change",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dhCHqhB_ZkVas6ameS2Mqg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cen-change-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 23,
+   "categories": [
+    {
+     "alias": "currencyexchange",
+     "title": "Currency Exchange"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.35747,
+    "Latitude": 48.87504
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "70 bd de Strasbourg",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "70 bd de Strasbourg",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140050711",
+   "display_phone": "+33 1 40 05 07 11",
+   "distance": 2086.3530995215374
+  },
+  {
+   "id": "25GNxuXZmpmuB7Rvs1-CFA",
+   "alias": "western-union-change-master-paris",
+   "name": "Western Union - Change Master",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vbH1T3Q7uvU4cT_l86selw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/western-union-change-master-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "financialservices",
+     "title": "Financial Services"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.3494799,
+    "Latitude": 48.85378
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "21 rue d'Arcole",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "21 rue d'Arcole",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33800900191",
+   "display_phone": "+33 800 90 01 91",
+   "distance": 371.5303460183288
+  },
+  {
+   "id": "eaLu_AyarJIcV9RpQlELVg",
+   "alias": "hsbc-france-paris-3",
+   "name": "HSBC France",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hsbc-france-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.34546,
+    "Latitude": 48.87107
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "41 Boulevard Poissonnière",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "41 Boulevard Poissonnière",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144799797",
+   "display_phone": "+33 1 44 79 97 97",
+   "distance": 1682.8314774806572
+  },
+  {
+   "id": "tu-9RBwAigtBpT4570KIyg",
+   "alias": "change-master-paris",
+   "name": "Change Master",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/47FzKBbzBCD5voq5tSkamA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/change-master-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "financialservices",
+     "title": "Financial Services"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": 2.3429301,
+    "Latitude": 48.8504105
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "25 bd Saint Michel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "25 bd Saint Michel",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 973.6372677096006
+  },
+  {
+   "id": "LsqEkdf8s7I4iZeSr2mCMQ",
+   "alias": "lcl-banque-et-assurance-paris-4",
+   "name": "LCL Banque et Assurance",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yyWYhRrrICdxvGeigGzfBg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lcl-banque-et-assurance-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.32913,
+    "Latitude": 48.8664
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "354 rue Saint-Honoré",
+    "address2": "Palais Royal",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "354 rue Saint-Honoré",
+     "Palais Royal",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33155359061",
+   "display_phone": "+33 1 55 35 90 61",
+   "distance": 2008.8786733852842
+  },
+  {
+   "id": "ADV6tDq5LN-9RHqViOKS4Q",
+   "alias": "merson-change-paris",
+   "name": "Merson Change",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Q5ot-qvqStArpSJD3-PzCw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/merson-change-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "currencyexchange",
+     "title": "Currency Exchange"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.34066609325407,
+    "Latitude": 48.8701181844945
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "33 rue Vivienne",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "33 rue Vivienne",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142338167",
+   "display_phone": "+33 1 42 33 81 67",
+   "distance": 1723.7487044228453
+  },
+  {
+   "id": "2awTZrQfoQf0cncFiBlsyw",
+   "alias": "paris-store-choisy-le-roi-2",
+   "name": "Paris Store",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/I0Gx_0luR1g8AX7npuQFzQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paris-store-choisy-le-roi-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "paydayloans",
+     "title": "Check Cashing/Pay-day Loans"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.4082833,
+    "Latitude": 48.7714709
+   },
+   "transactions": [],
+   "price": "€",
+   "location": {
+    "address1": "15 Rue du Docteur Roux",
+    "address2": "",
+    "address3": "",
+    "city": "Choisy Le Roi",
+    "zip_code": "94600",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "15 Rue du Docteur Roux",
+     "94600 Choisy Le Roi",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148536888",
+   "display_phone": "+33 1 48 53 68 88",
+   "distance": 10318.29749888385
+  },
+  {
+   "id": "ycZO7uLmHsCi7rRjYwhjeQ",
+   "alias": "bnp-paribas-paris-164",
+   "name": "BNP Paribas",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WTxUpDEJrg_nxiLkpUx50Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bnp-paribas-paris-164?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.33784,
+    "Latitude": 48.87178
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "16 boulevard des Italiens",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "16 boulevard des Italiens",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1992.4286190174287
+  },
+  {
+   "id": "MIjEMnML24rf1Hj7ae12qA",
+   "alias": "carrefour-rambouillet-3",
+   "name": "Carrefour",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ot-dH6xdiY2VndeVzErrbw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/carrefour-rambouillet-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    },
+    {
+     "alias": "shoppingcenters",
+     "title": "Shopping Centers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 1.829079,
+    "Latitude": 48.643868
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "",
+    "address2": "Centre Commercial du Bel Air",
+    "address3": "",
+    "city": "Rambouillet",
+    "zip_code": "78120",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "Centre Commercial du Bel Air",
+     "78120 Rambouillet",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33134856835",
+   "display_phone": "+33 1 34 85 68 35",
+   "distance": 45060.7715759416
+  },
+  {
+   "id": "_eMSHOIsJI4G_USLN4gm2Q",
+   "alias": "carrefour-créteil-3",
+   "name": "Carrefour",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/so7XjbQgoJjmHCtYFJCxZw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/carrefour-cr%C3%A9teil-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    },
+    {
+     "alias": "travelservices",
+     "title": "Travel Services"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.455572,
+    "Latitude": 48.790367
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Centre commercial Régional",
+    "address2": "",
+    "address3": "",
+    "city": "Créteil",
+    "zip_code": "94000",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "Centre commercial Régional",
+     "94000 Créteil",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145135555",
+   "display_phone": "+33 1 45 13 55 55",
+   "distance": 10559.830697116997
+  },
+  {
+   "id": "YLagE_BFQvoXEzOk9anRsw",
+   "alias": "kawa-paris",
+   "name": "Kawa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/okl6cpUPw6Yts_VbW4EHsg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kawa-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    },
+    {
+     "alias": "paydayloans",
+     "title": "Check Cashing/Pay-day Loans"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3611,
+    "Latitude": 48.82434
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "89 avenue de Choisy",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "89 avenue de Choisy",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33899656497",
+   "display_phone": "+33 899 65 64 97",
+   "distance": 3613.7554094239686
+  },
+  {
+   "id": "6iqZc5xdPtT1hZpJ0h7QfQ",
+   "alias": "cat-patrimoine-paris",
+   "name": "Cat Patrimoine",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cat-patrimoine-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "financialservices",
+     "title": "Financial Services"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.2927623,
+    "Latitude": 48.838321
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7 Rue Commdt Léandri",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "7 Rue Commdt Léandri",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33155763080",
+   "display_phone": "+33 1 55 76 30 80",
+   "distance": 4800.758947454688
+  },
+  {
+   "id": "ff_nIHaNbdacpJNMSfPp0Q",
+   "alias": "ume-change-elysées-66-paris",
+   "name": "UME - Change Elysées 66",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Qw1-E0X8faBtMp3PKzeRhA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ume-change-elys%C3%A9es-66-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "currencyexchange",
+     "title": "Currency Exchange"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.305352,
+    "Latitude": 48.870936
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "66 avenue des Champs Elysées",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "66 avenue des Champs Elysées",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142251901",
+   "display_phone": "+33 1 42 25 19 01",
+   "distance": 3779.5335864969607
+  },
+  {
+   "id": "6s7HtPLYBBs3TTkamnctZg",
+   "alias": "crédit-municipal-de-paris-paris-11",
+   "name": "Crédit Municipal de Paris",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iQqkA66HAM64Z8tOxC1yUg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cr%C3%A9dit-municipal-de-paris-paris-11?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.35794,
+    "Latitude": 48.85929
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "55 rue des Francs-Bourgeois",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "55 rue des Francs-Bourgeois",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144616400",
+   "display_phone": "+33 1 44 61 64 00",
+   "distance": 515.5664408455112
+  },
+  {
+   "id": "EZDvf7GO4LdTBElWpR95Fg",
+   "alias": "terrasse-de-partech-paris",
+   "name": "Terrasse de Partech",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/P1eLpUYh3CXixmIx2Da9gA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/terrasse-de-partech-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "financialadvising",
+     "title": "Financial Advising"
+    },
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    },
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3164,
+    "Latitude": 48.8729
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "12 Rue de Penthièvre",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "12 Rue de Penthièvre",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 3184.759691061655
+  },
+  {
+   "id": "d0SjxyfclVrV5NQb39_wqw",
+   "alias": "crédit-lyonnais-paris-5",
+   "name": "crédit lyonnais",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cr%C3%A9dit-lyonnais-paris-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3346769,
+    "Latitude": 48.8658283
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "20 avenue de l'opéra",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "20 avenue de l'opéra",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1641.9999450677772
+  },
+  {
+   "id": "SnzsWuW69LTDvaP58pWp8A",
+   "alias": "or-et-change-paris-2",
+   "name": "Or et Change",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eMwZX7sh2v9mkI4m06tqVg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/or-et-change-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "goldbuyers",
+     "title": "Gold Buyers"
+    },
+    {
+     "alias": "currencyexchange",
+     "title": "Currency Exchange"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.34137,
+    "Latitude": 48.871428
+   },
+   "transactions": [],
+   "price": "€",
+   "location": {
+    "address1": "53 rue Vivienne",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "53 rue Vivienne",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142364293",
+   "display_phone": "+33 1 42 36 42 93",
+   "distance": 1829.2408937894108
+  },
+  {
+   "id": "CcfUt4DbZQ23EOAoHUJroQ",
+   "alias": "carrefour-noisy-le-grand",
+   "name": "Carrefour",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/carrefour-noisy-le-grand?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    },
+    {
+     "alias": "travelservices",
+     "title": "Travel Services"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.544526,
+    "Latitude": 48.83991
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "Arcades",
+    "address2": "",
+    "address3": "",
+    "city": "Noisy le Grand",
+    "zip_code": "93160",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "Arcades",
+     "93160 Noisy le Grand",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148158200",
+   "display_phone": "+33 1 48 15 82 00",
+   "distance": 14194.782787923285
+  },
+  {
+   "id": "M9a4gPQUOTuW8SjZsYNKNQ",
+   "alias": "ice-international-currency-exchange-paris-3",
+   "name": "ICE - International Currency Exchange",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9OJpIxrjjO2YjxTXA3Zapg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ice-international-currency-exchange-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "currencyexchange",
+     "title": "Currency Exchange"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.29901,
+    "Latitude": 48.8725
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "140 avenue des Champs-Elysées",
+    "address2": "Paris Charles de Gaulle - Étoile",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "140 avenue des Champs-Elysées",
+     "Paris Charles de Gaulle - Étoile",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140750049",
+   "display_phone": "+33 1 40 75 00 49",
+   "distance": 4273.629817499568
+  },
+  {
+   "id": "btqCdDJifMiepWLCrY_tCw",
+   "alias": "société-générale-paris-262",
+   "name": "Société Générale",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/41O9Vvlg4bGroMPD8JdVJg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/soci%C3%A9t%C3%A9-g%C3%A9n%C3%A9rale-paris-262?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.33223,
+    "Latitude": 48.87294
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "29 boulevard Haussmann",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "29 boulevard Haussmann",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153308730",
+   "display_phone": "+33 1 53 30 87 30",
+   "distance": 2314.206036514245
+  },
+  {
+   "id": "Egbr9_wsM_Iluu-UcJxV2Q",
+   "alias": "aps-change-et-or-paris",
+   "name": "APS Change et Or",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0sSXnZD0I3H_NUU3R5CHXw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aps-change-et-or-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "currencyexchange",
+     "title": "Currency Exchange"
+    },
+    {
+     "alias": "goldbuyers",
+     "title": "Gold Buyers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.287728,
+    "Latitude": 48.879494
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "233 boulevard Pereire",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "233 boulevard Pereire",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145724262",
+   "display_phone": "+33 1 45 72 42 62",
+   "distance": 5358.956132621628
+  },
+  {
+   "id": "LRw0SMPA6GeLdGtCX07Blg",
+   "alias": "société-générale-paris-476",
+   "name": "Société Générale",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KCJp8IIeuMO88jzkCzDYYw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/soci%C3%A9t%C3%A9-g%C3%A9n%C3%A9rale-paris-476?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.36764,
+    "Latitude": 48.8534
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5 rue Saint Antoine",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "5 rue Saint Antoine",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144788841",
+   "display_phone": "+33 1 44 78 88 41",
+   "distance": 1184.344504887089
+  },
+  {
+   "id": "j4NUT4FBtZBrVWGacAEoIQ",
+   "alias": "direct-assurance-nanterre",
+   "name": "Direct Assurance",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/direct-assurance-nanterre?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.2129246,
+    "Latitude": 48.8862374
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "163 Avenue Georges Clemenceau",
+    "address2": "",
+    "address3": "",
+    "city": "Nanterre",
+    "zip_code": "92000",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "163 Avenue Georges Clemenceau",
+     "92000 Nanterre",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147259410",
+   "display_phone": "+33 1 47 25 94 10",
+   "distance": 10706.216215516528
+  },
+  {
+   "id": "jNKUH9pAX29kAzVqWv-NMw",
+   "alias": "société-générale-boulogne-billancourt-19",
+   "name": "Société Générale",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/soci%C3%A9t%C3%A9-g%C3%A9n%C3%A9rale-boulogne-billancourt-19?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.2448932,
+    "Latitude": 48.8449871
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2 Rue Moreau Vauthier",
+    "address2": "",
+    "address3": "",
+    "city": "Boulogne Billancourt",
+    "zip_code": "92100",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "2 Rue Moreau Vauthier",
+     "92100 Boulogne Billancourt",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146039008",
+   "display_phone": "+33 1 46 03 90 08",
+   "distance": 7956.970289599153
+  },
+  {
+   "id": "sTlBATJU_LBQGvij3sSjug",
+   "alias": "tempo-money-transfer-paris-2",
+   "name": "TEMPO Money Transfer",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6SYPN5IfqJvANUcm7J4jtg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tempo-money-transfer-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "currencyexchange",
+     "title": "Currency Exchange"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.35462,
+    "Latitude": 48.87761
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "89 boulevard de Magenta",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "89 boulevard de Magenta",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33177513333",
+   "display_phone": "+33 1 77 51 33 33",
+   "distance": 2341.24759170956
+  },
+  {
+   "id": "RuyRSBdqvyFqFqisR9zKaw",
+   "alias": "assurland-paris",
+   "name": "Assurland",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/IHy27AblCel37OZQ9xTbUg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/assurland-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3660679,
+    "Latitude": 48.8671134
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 bis avenue de la République",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "1 bis avenue de la République",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33185085386",
+   "display_phone": "+33 1 85 08 53 86",
+   "distance": 1547.8358321409355
+  },
+  {
+   "id": "mqF-wnAF9-qjPVtZuWjL8g",
+   "alias": "société-générale-rosny-sous-bois-4",
+   "name": "Société Générale",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/soci%C3%A9t%C3%A9-g%C3%A9n%C3%A9rale-rosny-sous-bois-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.4836721,
+    "Latitude": 48.8735368
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7 Rue Gén Galliéni",
+    "address2": "",
+    "address3": "",
+    "city": "Rosny Sous Bois",
+    "zip_code": "93110",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "7 Rue Gén Galliéni",
+     "93110 Rosny Sous Bois",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148121560",
+   "display_phone": "+33 1 48 12 15 60",
+   "distance": 9799.559063051674
+  },
+  {
+   "id": "y21PWnM32gEvc9IuHQG7GQ",
+   "alias": "changegroup-paris-10",
+   "name": "ChangeGroup",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/changegroup-paris-10?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "currencyexchange",
+     "title": "Currency Exchange"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.29803430307584,
+    "Latitude": 48.8732417028896
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "150 Avenue des Champs-Elysées",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "150 Avenue des Champs-Elysées",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33962063100",
+   "display_phone": "+33 9 62 06 31 00",
+   "distance": 4372.936715009395
+  },
+  {
+   "id": "p60MlBwiP3oUZYzFslWbiA",
+   "alias": "bnp-paribas-paris-134",
+   "name": "BNP Paribas",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bnp-paribas-paris-134?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.34864,
+    "Latitude": 48.85067
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "19 rue Lagrange",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "19 rue Lagrange",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142346208",
+   "display_phone": "+33 1 42 34 62 08",
+   "distance": 705.1135707715184
+  },
+  {
+   "id": "Z5Utza-lnp7MquUaH0bWrg",
+   "alias": "société-générale-jouy-en-josas-5",
+   "name": "Société Générale",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/soci%C3%A9t%C3%A9-g%C3%A9n%C3%A9rale-jouy-en-josas-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.16763,
+    "Latitude": 48.76399
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10 rue Oberkampf",
+    "address2": "",
+    "address3": "",
+    "city": "Jouy En Josas",
+    "zip_code": "78350",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "10 rue Oberkampf",
+     "78350 Jouy En Josas",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33139564273",
+   "display_phone": "+33 1 39 56 42 73",
+   "distance": 16991.655902670296
+  },
+  {
+   "id": "PMpxXdZNpvITcq-dY_icrw",
+   "alias": "cic-banque-snvb-société-nancéienne-varin-bernier-gretz-armainvilliers",
+   "name": "Cic Banque Snvb Société Nancéienne Varin-Bernier",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cic-banque-snvb-soci%C3%A9t%C3%A9-nanc%C3%A9ienne-varin-bernier-gretz-armainvilliers?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.7377727,
+    "Latitude": 48.7405611
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "34 Rue Paris",
+    "address2": "",
+    "address3": "",
+    "city": "Gretz Armainvilliers",
+    "zip_code": "77220",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "34 Rue Paris",
+     "77220 Gretz Armainvilliers",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33164073710",
+   "display_phone": "+33 1 64 07 37 10",
+   "distance": 31049.1552834224
+  },
+  {
+   "id": "2sTiq-GSLJDgwQ_p83SXUw",
+   "alias": "au-ministère-paris",
+   "name": "Au Ministère",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dMoQ5n_vzpJJ24yJNQCJxw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/au-minist%C3%A8re-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3521,
+    "Latitude": 48.855
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "ségur",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "ségur",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 178.0620497789144
+  },
+  {
+   "id": "wc52Klet0RXLXzT_u5lM1Q",
+   "alias": "bnp-paribas-paris-35",
+   "name": "BNP Paribas",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bnp-paribas-paris-35?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.32615,
+    "Latitude": 48.8234
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "108 boulevard Jourdan",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75014",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "108 boulevard Jourdan",
+     "75014 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33156531329",
+   "display_phone": "+33 1 56 53 13 29",
+   "distance": 4154.873690753085
+  },
+  {
+   "id": "Ey1MYybVsx8pqdBxVz0n9A",
+   "alias": "bnp-paribas-pantin-3",
+   "name": "BNP Paribas",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bnp-paribas-pantin-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.40758495122036,
+    "Latitude": 48.8922417141405
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "208 Avenue Jean Lolive",
+    "address2": "",
+    "address3": "",
+    "city": "Pantin",
+    "zip_code": "93500",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "208 Avenue Jean Lolive",
+     "93500 Pantin",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33820820001",
+   "display_phone": "+33 820 82 00 01",
+   "distance": 5666.879837053064
+  },
+  {
+   "id": "Vh0L4PTalXN4CLXTVZFTmg",
+   "alias": "rcf-lieusaint",
+   "name": "Rcf",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rcf-lieusaint?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "hvac",
+     "title": "Heating \u0026 Air Conditioning/HVAC"
+    },
+    {
+     "alias": "paydayloans",
+     "title": "Check Cashing/Pay-day Loans"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.5640791,
+    "Latitude": 48.6237544
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "144 Rue Benjamin Delessert",
+    "address2": "",
+    "address3": "",
+    "city": "Lieusaint",
+    "zip_code": "77127",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "144 Rue Benjamin Delessert",
+     "77127 Lieusaint",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33892681552",
+   "display_phone": "+33 892 68 15 52",
+   "distance": 30195.29566123406
+  },
+  {
+   "id": "UCGzcIBLvtwZoV8LnfrGnA",
+   "alias": "caisse-epargne-ile-de-france-st-cyr-l-école",
+   "name": "Caisse Epargne Ile de France",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/caisse-epargne-ile-de-france-st-cyr-l-%C3%A9cole?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": 2.0636128,
+    "Latitude": 48.8006185
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2 Rue Gabriel Péri",
+    "address2": "",
+    "address3": "",
+    "city": "St Cyr l'École",
+    "zip_code": "78210",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "2 Rue Gabriel Péri",
+     "78210 St Cyr l'École",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33130859120",
+   "display_phone": "+33 1 30 85 91 20",
+   "distance": 22022.91996503744
+  },
+  {
+   "id": "pUdffNOapCsMGZTtKcLfyQ",
+   "alias": "mutuelleland-paris",
+   "name": "Mutuelleland",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mutuelleland-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    },
+    {
+     "alias": "pets",
+     "title": "Pets"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3034729,
+    "Latitude": 48.8806725
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "16 rue Méderic",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "16 rue Méderic",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33178098181",
+   "display_phone": "+33 1 78 09 81 81",
+   "distance": 4457.263169601894
+  },
+  {
+   "id": "xa_JlRDqJ9DroEP1ZTQrEA",
+   "alias": "filiassur-solution-sarl-paris-2",
+   "name": "Filiassur Solution Sarl",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/filiassur-solution-sarl-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.3257462,
+    "Latitude": 48.8732667
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "61 Boulevard Haussmann",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "61 Boulevard Haussmann",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33820820745",
+   "display_phone": "+33 820 82 07 45",
+   "distance": 2679.351550598181
+  },
+  {
+   "id": "0tfQrtA7NUDnom9joTaarg",
+   "alias": "barclays-finance-paris-2",
+   "name": "Barclays Finance",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tR6HeKNyAPPXiPGCSJeF6A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barclays-finance-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.3929077,
+    "Latitude": 48.8404181
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "185 Avenue Daumesnil",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "185 Avenue Daumesnil",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33155787878",
+   "display_phone": "+33 1 55 78 78 78",
+   "distance": 3479.9525671237425
+  },
+  {
+   "id": "enhg9C0vzKpj9dnaRDrZjw",
+   "alias": "banque-transatlantique-paris-2",
+   "name": "Banque Transatlantique",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/banque-transatlantique-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.310599,
+    "Latitude": 48.872299
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "26 avenue Franklin Delano Roosevelt",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "26 avenue Franklin Delano Roosevelt",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33156887777",
+   "display_phone": "+33 1 56 88 77 77",
+   "distance": 3508.2031221135335
+  }
+ ],
+ "total": 264,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

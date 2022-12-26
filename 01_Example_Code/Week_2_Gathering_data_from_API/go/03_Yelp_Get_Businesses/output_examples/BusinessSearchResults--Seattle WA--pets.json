@@ -1,0 +1,1764 @@
+{
+ "businesses": [
+  {
+   "id": "E7fGvWIuv4_QR_WkMj2mCQ",
+   "alias": "trupanion-seattle-12",
+   "name": "Trupanion",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RLwRLfVYrLVF4_CHGLfr-g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/trupanion-seattle-12?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 993,
+   "categories": [
+    {
+     "alias": "petinsurance",
+     "title": "Pet Insurance"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.328834,
+    "Latitude": 47.546984
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6100 4th Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98108",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "6100 4th Ave S",
+     "Seattle, WA 98108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18552108749",
+   "display_phone": "(855) 210-8749",
+   "distance": 6592.170557671186
+  },
+  {
+   "id": "SVI5uRvXQ9nt0qggoOVp4Q",
+   "alias": "healthy-paws-pet-insurance-and-foundation-bellevue-2",
+   "name": "Healthy Paws Pet Insurance \u0026 Foundation",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/S1m55UQ6WNIyUFZuYki6aQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/healthy-paws-pet-insurance-and-foundation-bellevue-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 987,
+   "categories": [
+    {
+     "alias": "petinsurance",
+     "title": "Pet Insurance"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.189957084656,
+    "Latitude": 47.6099710676045
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98015",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "Bellevue, WA 98015"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18004534054",
+   "display_phone": "(800) 453-4054",
+   "distance": 10664.320887619055
+  },
+  {
+   "id": "Lz9TMQiXyVG4Nh436iQ0Tw",
+   "alias": "urban-animal-capitol-hill-seattle-3",
+   "name": "Urban Animal- Capitol Hill",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JbTGj1qEJIlavnVD9EpbSQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/urban-animal-capitol-hill-seattle-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 498,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.31993,
+    "Latitude": 47.62088
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "909 E Thomas St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98102",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "909 E Thomas St",
+     "Seattle, WA 98102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063295337",
+   "display_phone": "(206) 329-5337",
+   "distance": 1868.321364604992
+  },
+  {
+   "id": "byHIr8WGhRgj0UP1mRGmdA",
+   "alias": "south-seattle-veterinary-hospital-seattle-4",
+   "name": "South Seattle Veterinary Hospital",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nMO7B1I2SQLQemtINs3sqg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/south-seattle-veterinary-hospital-seattle-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 444,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.3340337,
+    "Latitude": 47.5039704
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11033 1st Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98168",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "11033 1st Ave S",
+     "Seattle, WA 98168"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062428338",
+   "display_phone": "(206) 242-8338",
+   "distance": 11368.326438677714
+  },
+  {
+   "id": "bK0jT628P6dcyCaYBqswbw",
+   "alias": "bluepearl-veterinary-partners-renton",
+   "name": "BluePearl Veterinary Partners",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Urcm7S2N7nAsVrZwLcQJ5Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bluepearl-veterinary-partners-renton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 334,
+   "categories": [
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.223434448242,
+    "Latitude": 47.4415626525879
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4208 Lind Ave SW",
+    "address2": "",
+    "address3": "",
+    "city": "Renton",
+    "zip_code": "98057",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4208 Lind Ave SW",
+     "Renton, WA 98057"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254961000",
+   "display_phone": "(425) 496-1000",
+   "distance": 20033.16105110411
+  },
+  {
+   "id": "LumT3-8ijThehEDo2gp4Iw",
+   "alias": "aurora-veterinary-hospital-seattle",
+   "name": "Aurora Veterinary Hospital",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-xDe11VKVvul8av6n8vkGA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aurora-veterinary-hospital-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 261,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.345056,
+    "Latitude": 47.693249
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8821 Aurora Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "8821 Aurora Ave N",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065256666",
+   "display_phone": "(206) 525-6666",
+   "distance": 9727.928406976342
+  },
+  {
+   "id": "kTAk0ozGiy3bTKZfPckgog",
+   "alias": "gingers-pet-rescue-seattle-5",
+   "name": "Ginger's Pet Rescue",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2ORbDRW-qKUAu9f240Wu5Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gingers-pet-rescue-seattle-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 253,
+   "categories": [
+    {
+     "alias": "animalshelters",
+     "title": "Animal Shelters"
+    },
+    {
+     "alias": "petadoption",
+     "title": "Pet Adoption"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.34366607666,
+    "Latitude": 47.7393798828125
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98133",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "Seattle, WA 98133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066988800",
+   "display_phone": "(206) 698-8800",
+   "distance": 14825.066853013814
+  },
+  {
+   "id": "GcErOTZbfQjX_4BUzbDIdg",
+   "alias": "veterinary-specialty-center-of-seattle-lynnwood-2",
+   "name": "Veterinary Specialty Center of Seattle",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lTAxnv2SA00CyNWHS_PGQw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/veterinary-specialty-center-of-seattle-lynnwood-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 252,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.29158,
+    "Latitude": 47.81594
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "20115 44th Avenue West",
+    "address2": "",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98036",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "20115 44th Avenue West",
+     "Lynnwood, WA 98036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256976106",
+   "display_phone": "(425) 697-6106",
+   "distance": 23523.894220635615
+  },
+  {
+   "id": "g-DjHZwjX8a5hsFCmosing",
+   "alias": "greenwood-animal-hospital-seattle-5",
+   "name": "Greenwood Animal Hospital",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yzU0L_W92cpmC6i5irOJFQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/greenwood-animal-hospital-seattle-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 239,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.344303,
+    "Latitude": 47.701669
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10000 Aurora Ave N",
+    "address2": "Ste 8",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98133",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "10000 Aurora Ave N",
+     "Ste 8",
+     "Seattle, WA 98133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065283838",
+   "display_phone": "(206) 528-3838",
+   "distance": 10654.933408392464
+  },
+  {
+   "id": "7SB7fX6-4DJ2FmVNajvX_g",
+   "alias": "emerald-city-emergency-clinic-seattle",
+   "name": "Emerald City Emergency Clinic",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wd22niHkYbDdC1TbTg9Siw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/emerald-city-emergency-clinic-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 235,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.342025995949,
+    "Latitude": 47.657002
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4102 Stone Way N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4102 Stone Way N",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066349000",
+   "display_phone": "(206) 634-9000",
+   "distance": 5697.675288358694
+  },
+  {
+   "id": "IONqDo5A1c6fl7nZiCNoNw",
+   "alias": "posh-paws-grooming-salon-seattle",
+   "name": "Posh Paws Grooming Salon",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PEmRQoTLs6NauWmOOrhkkw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/posh-paws-grooming-salon-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 223,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3176,
+    "Latitude": 47.67533
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6411 Roosevelt Way NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98115",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "6411 Roosevelt Way NE",
+     "Seattle, WA 98115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062574887",
+   "display_phone": "(206) 257-4887",
+   "distance": 7767.194395435504
+  },
+  {
+   "id": "2i8NZDMbts1ip2o_5X0cQQ",
+   "alias": "seattle-veterinary-specialists-kirkland",
+   "name": "BluePearl Pet Hospital",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vwD-UiLm6osJQxYxXkOg1g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-veterinary-specialists-kirkland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 221,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.18713793542413,
+    "Latitude": 47.70659660659805
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11814 115th Ave NE",
+    "address2": "Bldg J",
+    "address3": "",
+    "city": "Kirkland",
+    "zip_code": "98034",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "11814 115th Ave NE",
+     "Bldg J",
+     "Kirkland, WA 98034"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258239111",
+   "display_phone": "(425) 823-9111",
+   "distance": 15572.668564724212
+  },
+  {
+   "id": "xxVqIkFQDPSDj251mp5-Sg",
+   "alias": "just-around-the-corner-dog-grooming-and-boutique-seattle",
+   "name": "Just Around the Corner Dog Grooming \u0026 Boutique",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-WO-IBUB2XXTS9CcHYAVow/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/just-around-the-corner-dog-grooming-and-boutique-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 211,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.2968172,
+    "Latitude": 47.622912
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2717 East Madison St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98112",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2717 East Madison St",
+     "Seattle, WA 98112"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066594390",
+   "display_phone": "(206) 659-4390",
+   "distance": 3232.310319126742
+  },
+  {
+   "id": "EQrMEQ6K5mdDOkFVjLcVSA",
+   "alias": "bark-in-style-seattle",
+   "name": "Bark in Style",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gWq0_fRvTI_wgGcHj99rLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bark-in-style-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 207,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.33655,
+    "Latitude": 47.66067
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4411 Wallingford Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4411 Wallingford Ave N",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065479211",
+   "display_phone": "(206) 547-9211",
+   "distance": 6065.6818176970755
+  },
+  {
+   "id": "aJKxPv4cbyblVydRyKGS3A",
+   "alias": "wally-pets-seattle",
+   "name": "Wally Pets",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gioUpKk94ajnIgod_buMQQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wally-pets-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 200,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.336474,
+    "Latitude": 47.66073
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4411 Wallingford Ave N",
+    "address2": "Ste A",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4411 Wallingford Ave N",
+     "Ste A",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065470301",
+   "display_phone": "(206) 547-0301",
+   "distance": 6072.304046199962
+  },
+  {
+   "id": "knZPqdotBNlZzRyKOSTF_w",
+   "alias": "aerowood-animal-hospital-bellevue",
+   "name": "Aerowood Animal Hospital",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BtkV3zTiaONRoPipBf-hsQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aerowood-animal-hospital-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 199,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.134414672852,
+    "Latitude": 47.5825157165527
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2975 156th Ave SE",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98007",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2975 156th Ave SE",
+     "Bellevue, WA 98007"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14257466557",
+   "display_phone": "(425) 746-6557",
+   "distance": 15055.445139268162
+  },
+  {
+   "id": "P1zqmjZXllD3qiJHF-0IoA",
+   "alias": "hippie-hounds-grooming-lynnwood",
+   "name": "Hippie Hounds Grooming",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/l53DHd-kTSFlAgg7tICfkg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hippie-hounds-grooming-lynnwood?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 192,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.30755,
+    "Latitude": 47.83063
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "18514 Hwy 99",
+    "address2": "Ste A",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98037",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "18514 Hwy 99",
+     "Ste A",
+     "Lynnwood, WA 98037"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256735447",
+   "display_phone": "(425) 673-5447",
+   "distance": 25031.424545960323
+  },
+  {
+   "id": "W4T4wzZEaE0KX1gOdZSArA",
+   "alias": "ahimsa-dog-training-seattle",
+   "name": "Ahimsa Dog Training",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NaUgk98uPU9YOyVpnplj8w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ahimsa-dog-training-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 188,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.36976,
+    "Latitude": 47.664462
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "925 NW 49th St",
+    "address2": "Ste C",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "925 NW 49th St",
+     "Ste C",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063644072",
+   "display_phone": "(206) 364-4072",
+   "distance": 7066.301816153526
+  },
+  {
+   "id": "SiT_sIRqc173cSgY4KSF4w",
+   "alias": "afford-a-vet-animal-clinic-kent-5",
+   "name": "Afford A Vet Animal Clinic",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/O9uznKDGAu7wcJIcMIQVMA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/afford-a-vet-animal-clinic-kent-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 184,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.1970095,
+    "Latitude": 47.4144206
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "20920 108th Ave SE",
+    "address2": "",
+    "address3": "",
+    "city": "Kent",
+    "zip_code": "98031",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "20920 108th Ave SE",
+     "Kent, WA 98031"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12538598387",
+   "display_phone": "(253) 859-8387",
+   "distance": 23615.608478720987
+  },
+  {
+   "id": "s3Xdn6kIi_UQzqaCGzO2YQ",
+   "alias": "animal-medical-center-of-seattle-shoreline",
+   "name": "Animal Medical Center of Seattle",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hfqhyNcwJg26lKp1Jg6XrA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/animal-medical-center-of-seattle-shoreline?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 183,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.31319,
+    "Latitude": 47.75636
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17518 15th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Shoreline",
+    "zip_code": "98155",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17518 15th Ave NE",
+     "Shoreline, WA 98155"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062043366",
+   "display_phone": "(206) 204-3366",
+   "distance": 16761.227685108057
+  },
+  {
+   "id": "o8JZPPUZq6UghhA8PoXZ7w",
+   "alias": "seattle-humane-bellevue",
+   "name": "Seattle Humane ",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oUSCvp0UUUbR47MCOmULCQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-humane-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 180,
+   "categories": [
+    {
+     "alias": "animalshelters",
+     "title": "Animal Shelters"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "petadoption",
+     "title": "Pet Adoption"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.1636648,
+    "Latitude": 47.581059
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13212 SE Eastgate Way",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98005",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "13212 SE Eastgate Way",
+     "Bellevue, WA 98005"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256410080",
+   "display_phone": "(425) 641-0080",
+   "distance": 12936.296362387631
+  },
+  {
+   "id": "quSRmQG-jRhIzIBmydaArA",
+   "alias": "pilchuck-veterinary-hospital-snohomish",
+   "name": "Pilchuck Veterinary Hospital",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ue1Y38IuOULamKptYUBELg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pilchuck-veterinary-hospital-snohomish?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 179,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.07957,
+    "Latitude": 47.91125
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11308 92nd St SE",
+    "address2": "",
+    "address3": "",
+    "city": "Snohomish",
+    "zip_code": "98290",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "11308 92nd St SE",
+     "Snohomish, WA 98290"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13605683113",
+   "display_phone": "(360) 568-3113",
+   "distance": 38877.39343412474
+  },
+  {
+   "id": "EPRKPQ430e6QoQBL8efSBA",
+   "alias": "citydog-club-seattle-9",
+   "name": "Citydog! Club",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UNDYjUmp5velF-qOvLeL6g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/citydog-club-seattle-9?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 173,
+   "categories": [
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.33348,
+    "Latitude": 47.61407
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "809 Olive Way",
+    "address2": "Ste B",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "809 Olive Way",
+     "Ste B",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066235395",
+   "display_phone": "(206) 623-5395",
+   "distance": 882.7824869686493
+  },
+  {
+   "id": "j6CFGomlquJNq_fBxFRuTA",
+   "alias": "rex-seattle-2",
+   "name": "Rex",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WQ71Qyg_1a7tEce8CULYeQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rex-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 173,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.31665968895,
+    "Latitude": 47.613077934646
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1402 12th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1402 12th Ave",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064674440",
+   "display_phone": "(206) 467-4440",
+   "distance": 1387.326617312017
+  },
+  {
+   "id": "bDZsYDr7cl223lCc4bIK8Q",
+   "alias": "center-for-bird-and-exotic-animal-medicine-bothell",
+   "name": "Center for Bird and Exotic Animal Medicine",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aisRnTFvRhnkXIoXTCFuJQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/center-for-bird-and-exotic-animal-medicine-bothell?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 172,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.1878604,
+    "Latitude": 47.7686267819294
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11401 NE 195th St",
+    "address2": "",
+    "address3": "",
+    "city": "Bothell",
+    "zip_code": "98011",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "11401 NE 195th St",
+     "Bothell, WA 98011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254869000",
+   "display_phone": "(425) 486-9000",
+   "distance": 21042.142230379046
+  },
+  {
+   "id": "lZolLVtFtvyhEt5L2vfOaA",
+   "alias": "sierra-fish-and-pets-renton",
+   "name": "Sierra Fish \u0026 Pets",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kj47bJe-FuXGICchuUhSLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sierra-fish-and-pets-renton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 170,
+   "categories": [
+    {
+     "alias": "aquariumservices",
+     "title": "Aquarium Services"
+    },
+    {
+     "alias": "localfishstores",
+     "title": "Local Fish Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.2114893,
+    "Latitude": 47.4708488
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "601 S Grady Way",
+    "address2": "Ste M",
+    "address3": "",
+    "city": "Renton",
+    "zip_code": "98057",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "601 S Grady Way",
+     "Ste M",
+     "Renton, WA 98057"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252263215",
+   "display_phone": "(425) 226-3215",
+   "distance": 17563.758392871026
+  },
+  {
+   "id": "EznuPvANe3nuBUJWZ36p5w",
+   "alias": "west-seattle-animal-hospital-seattle-2",
+   "name": "West Seattle Animal Hospital",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Y0bs4tjenTu3wlWDlbwhwQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/west-seattle-animal-hospital-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 168,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.384634,
+    "Latitude": 47.560908
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4700 42nd Ave SW",
+    "address2": "Ste 210",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98116",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4700 42nd Ave SW",
+     "Ste 210",
+     "Seattle, WA 98116"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12069323308",
+   "display_phone": "(206) 932-3308",
+   "distance": 6394.425915746332
+  },
+  {
+   "id": "i1OfGCwfYk7u-Vc1czuvDg",
+   "alias": "reber-ranch-kent",
+   "name": "Reber Ranch",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FFhm9l72nZ9wUHPUdgwxnQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/reber-ranch-kent?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 166,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.16447325348666,
+    "Latitude": 47.34482644942216
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "28606 132nd Ave SE",
+    "address2": "",
+    "address3": "",
+    "city": "Kent",
+    "zip_code": "98042",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "28606 132nd Ave SE",
+     "Kent, WA 98042"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12536303330",
+   "display_phone": "(253) 630-3330",
+   "distance": 31676.44482883593
+  },
+  {
+   "id": "qjWMkEuKe5yrC-A2EE5v-A",
+   "alias": "nitro-k-9-bothell-3",
+   "name": "Nitro K-9",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DwE577js00aK3sef6w562w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nitro-k-9-bothell-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 165,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "dogwalkers",
+     "title": "Dog Walkers"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.2128702,
+    "Latitude": 47.8376519
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17624 15th Ave SE",
+    "address2": "Ste 108A",
+    "address3": "",
+    "city": "Bothell",
+    "zip_code": "98012",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17624 15th Ave SE",
+     "Ste 108A",
+     "Bothell, WA 98012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064129979",
+   "display_phone": "(206) 412-9979",
+   "distance": 27237.84451644675
+  },
+  {
+   "id": "VXkVM2DuOTTZx_4zeKULRw",
+   "alias": "vca-panther-lake-animal-hospital-federal-way-8",
+   "name": "VCA Panther Lake Animal Hospital",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xDPdfY-XrnHFgKH0xHsaIA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vca-panther-lake-animal-hospital-federal-way-8?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 164,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.3193986,
+    "Latitude": 47.2894103
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1115 S 348th St",
+    "address2": "",
+    "address3": "",
+    "city": "Federal Way",
+    "zip_code": "98003",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1115 S 348th St",
+     "Federal Way, WA 98003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12538748387",
+   "display_phone": "(253) 874-8387",
+   "distance": 35238.31425343172
+  },
+  {
+   "id": "M5smiGEHh9BY5XzpahhoIA",
+   "alias": "eastlake-veterinary-hospital-seattle",
+   "name": "Eastlake Veterinary Hospital",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cMKmC0bYkhbVgRYBwOVNmQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/eastlake-veterinary-hospital-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 164,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.325462341309,
+    "Latitude": 47.6332969665527
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1536 Eastlake Ave E",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98102",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1536 Eastlake Ave E",
+     "Seattle, WA 98102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063282675",
+   "display_phone": "(206) 328-2675",
+   "distance": 3055.272050494331
+  },
+  {
+   "id": "b0W5sCGC0Se4_kpFJ1QZlg",
+   "alias": "northgate-veterinary-clinic-seattle-3",
+   "name": "Northgate Veterinary Clinic",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5taKCBXlYyMMgOtM-Xxmog/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/northgate-veterinary-clinic-seattle-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 164,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.313191,
+    "Latitude": 47.71892
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "12345 15th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98125",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "12345 15th Ave NE",
+     "Seattle, WA 98125"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063638421",
+   "display_phone": "(206) 363-8421",
+   "distance": 12613.765530829367
+  },
+  {
+   "id": "VBtqjWZQCpSoVEBLtijOrQ",
+   "alias": "petsmart-woodinville",
+   "name": "PetSmart",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B-c9M0TeZhSNNfjIHw73wg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsmart-woodinville?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 157,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.157188,
+    "Latitude": 47.756517
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17845 Garden Way NE",
+    "address2": "unit 11",
+    "address3": "",
+    "city": "Woodinville",
+    "zip_code": "98072",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17845 Garden Way NE",
+     "unit 11",
+     "Woodinville, WA 98072"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254242098",
+   "display_phone": "(425) 424-2098",
+   "distance": 21232.847055977814
+  },
+  {
+   "id": "CuZwMfVvpzb35wzhOEiULQ",
+   "alias": "finn-hill-animal-hospital-kirkland",
+   "name": "Finn Hill Animal Hospital",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TwCVYNj8_L-9a6TIlJBuDw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/finn-hill-animal-hospital-kirkland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 157,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.2432,
+    "Latitude": 47.729353
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "14130 Juanita Dr NE",
+    "address2": "",
+    "address3": "",
+    "city": "Kirkland",
+    "zip_code": "98034",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "14130 Juanita Dr NE",
+     "Kirkland, WA 98034"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258142220",
+   "display_phone": "(425) 814-2220",
+   "distance": 15226.30280298183
+  },
+  {
+   "id": "DmUWOokAWpwC95yTVtnuyg",
+   "alias": "rainier-veterinary-hospital-seattle",
+   "name": "Rainier Veterinary Hospital",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-MntCiCldSNcEXm0OnNTsQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rainier-veterinary-hospital-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 156,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.31144,
+    "Latitude": 47.59526
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "815 Rainier Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98144",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "815 Rainier Ave S",
+     "Seattle, WA 98144"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063244144",
+   "display_phone": "(206) 324-4144",
+   "distance": 1977.4416421208532
+  },
+  {
+   "id": "ia7bxpopOguz7C58iGcAEA",
+   "alias": "earthwise-pet-supply-and-grooming-seattle",
+   "name": "EarthWise Pet Supply \u0026 Grooming",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1bjc0GPlSnq7GC7FGJ44TQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/earthwise-pet-supply-and-grooming-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 155,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3568794,
+    "Latitude": 47.6529684
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "114 N 36th St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "114 N 36th St",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066324567",
+   "display_phone": "(206) 632-4567",
+   "distance": 5521.974377242382
+  },
+  {
+   "id": "S2KXD6nnjfoojrVZs8W4kQ",
+   "alias": "bridges-pets-gifts-and-water-gardens-snohomish",
+   "name": "Bridges Pets Gifts \u0026 Water Gardens",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QWG_5lq59ZXNjHJd-86cdA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bridges-pets-gifts-and-water-gardens-snohomish?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 153,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.1095951,
+    "Latitude": 47.944418
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2929 Bickford Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Snohomish",
+    "zip_code": "98290",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2929 Bickford Ave",
+     "Snohomish, WA 98290"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14253224012",
+   "display_phone": "(425) 322-4012",
+   "distance": 41207.06696505178
+  },
+  {
+   "id": "hcWLtPHWchZBO3mB23lSqw",
+   "alias": "citydog-club-seattle-8",
+   "name": "Citydog! Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IpX7SPlWBTEY_DzkZSKzlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/citydog-club-seattle-8?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 152,
+   "categories": [
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.374349,
+    "Latitude": 47.66882
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1400 NW Market St",
+    "address2": "Ste 103",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1400 NW Market St",
+     "Ste 103",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067891290",
+   "display_phone": "(206) 789-1290",
+   "distance": 7648.796832001357
+  },
+  {
+   "id": "zgo67NsPhnihj-JcoaxLFw",
+   "alias": "animal-hospital-of-newport-hills-newcastle",
+   "name": "Animal Hospital of Newport Hills",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RcTnHwYCHP6DJG_ZJIfnyg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/animal-hospital-of-newport-hills-newcastle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 146,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.16501,
+    "Latitude": 47.53802
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13018 Newcastle Way",
+    "address2": "",
+    "address3": "",
+    "city": "Newcastle",
+    "zip_code": "98059",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "13018 Newcastle Way",
+     "Newcastle, WA 98059"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256431170",
+   "display_phone": "(425) 643-1170",
+   "distance": 14652.39218998193
+  },
+  {
+   "id": "hoXUUkANWO3ls9-1et0pRQ",
+   "alias": "aquarium-co-op-edmonds",
+   "name": "Aquarium Co-Op",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/awEQTnBvRQrH_BQ2yJ4hlw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aquarium-co-op-edmonds?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 146,
+   "categories": [
+    {
+     "alias": "aquariumservices",
+     "title": "Aquarium Services"
+    },
+    {
+     "alias": "localfishstores",
+     "title": "Local Fish Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.364134417999,
+    "Latitude": 47.7786188123692
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9661 Firdale Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Edmonds",
+    "zip_code": "98020",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "9661 Firdale Ave",
+     "Edmonds, WA 98020"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 19321.419493907786
+  }
+ ],
+ "total": 1700,
+ "region": {
+  "center": {
+   "longitude": -122.3321,
+   "Latitude": 47.6062
+  }
+ }
+}

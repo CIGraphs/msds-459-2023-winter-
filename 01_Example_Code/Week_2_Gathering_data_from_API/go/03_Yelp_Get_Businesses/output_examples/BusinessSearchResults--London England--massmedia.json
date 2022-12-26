@@ -1,0 +1,1801 @@
+{
+ "businesses": [
+  {
+   "id": "gofUfGLYYj5iOcs7CAmc5A",
+   "alias": "qvc-london",
+   "name": "Qvc",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/qvc-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "shopping",
+     "title": "Shopping"
+    },
+    {
+     "alias": "massmedia",
+     "title": "Mass Media"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.148373118883413,
+    "Latitude": 51.4730918904524
+   },
+   "transactions": [],
+   "price": "£",
+   "location": {
+    "address1": "Queenstown Road",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SW8 4DG",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Queenstown Road",
+     "London SW8 4DG",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442077055600",
+   "display_phone": "+44 20 7705 5600",
+   "distance": 19479.857324863788
+  },
+  {
+   "id": "iKDsbKNmrZsR1slxeVcm3w",
+   "alias": "spotify-london",
+   "name": "Spotify",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jQGniLp3_p2uEoQz8nfr9g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/spotify-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "massmedia",
+     "title": "Mass Media"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -0.1294673,
+    "Latitude": 51.5162944
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "103 New Oxford Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "WC1A 1DD",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "103 New Oxford Street",
+     "London WC1A 1DD",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442031025241",
+   "display_phone": "+44 20 3102 5241",
+   "distance": 17818.42215105803
+  },
+  {
+   "id": "LD_pH1wA4cArOAb1vkQwKw",
+   "alias": "broadcasting-house-london",
+   "name": "Broadcasting House",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rpuHYL-LwpW72pgKrngs4g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/broadcasting-house-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.144131183624268,
+    "Latitude": 51.519065489741
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2-22 Portland Place",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1A 1AA",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "2-22 Portland Place",
+     "London W1A 1AA",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 18850.13820763114
+  },
+  {
+   "id": "w9Wq3y94sMSsnNemHFTuaQ",
+   "alias": "ruislip-lido-railway-society-ruislip",
+   "name": "Ruislip Lido Railway Society",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ruislip-lido-railway-society-ruislip?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "massmedia",
+     "title": "Mass Media"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.431607,
+    "Latitude": 51.593288
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Reservoir Road",
+    "address2": "",
+    "address3": "",
+    "city": "Ruislip",
+    "zip_code": "HA4 7TY",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Reservoir Road",
+     "Ruislip HA4 7TY",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+441895622595",
+   "display_phone": "+44 1895 622595",
+   "distance": 39833.04799777759
+  },
+  {
+   "id": "RHvnC_BU65zqdDLL-_740A",
+   "alias": "fon-wireless-london",
+   "name": "Fon Wireless",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_2MjSX_hfWKoIArXywx39Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fon-wireless-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "massmedia",
+     "title": "Mass Media"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.142187,
+    "Latitude": 51.511019
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8 Clifford Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1S 2LQ",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "8 Clifford Street",
+     "London W1S 2LQ",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 18666.185614448164
+  },
+  {
+   "id": "M0yLEBvjQS2eonfid5-IPw",
+   "alias": "guardian-media-group-london",
+   "name": "Guardian Media Group",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/86XymTLSARm7TIr9x8q00Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/guardian-media-group-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.121705,
+    "Latitude": 51.534918
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Kings Place",
+    "address2": "90 York Way",
+    "address3": "",
+    "city": "London",
+    "zip_code": "N1 9GU",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Kings Place",
+     "90 York Way",
+     "London N1 9GU",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442033532000",
+   "display_phone": "+44 20 3353 2000",
+   "distance": 17523.85577098121
+  },
+  {
+   "id": "1MQALa9FEB-UmhI5a1qQNg",
+   "alias": "bbc-radio-theatre-london",
+   "name": "BBC Radio Theatre",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MYZ9LwOZ2_J_duJoxcQQig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bbc-radio-theatre-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.142764942669301,
+    "Latitude": 51.5189168916675
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Broadcasting House",
+    "address2": "Portland Place",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Broadcasting House",
+     "Portland Place",
+     "London W1",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 18754.70228269503
+  },
+  {
+   "id": "U3gtXAFr1Y2S_0IPRfWcJQ",
+   "alias": "bbc-broadcasting-house-london",
+   "name": "BBC Broadcasting House",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Vo7gBa2eZO1YwhU5CgzRkA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bbc-broadcasting-house-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    },
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.143743,
+    "Latitude": 51.518666
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Portland Place",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1A 1AA",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Portland Place",
+     "London W1A 1AA",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 18820.36246766095
+  },
+  {
+   "id": "x65cw7ux-FgZEHVCLhT6sg",
+   "alias": "metro-london-3",
+   "name": "Metro",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9z5OA8LmU0g7T6AmNsp4zQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/metro-london-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.190627,
+    "Latitude": 51.501461
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Northcliffe House",
+    "address2": "2 Derry St",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W8 5TT",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Northcliffe House",
+     "2 Derry St",
+     "London W8 5TT",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442076515200",
+   "display_phone": "+44 20 7651 5200",
+   "distance": 22061.151796232753
+  },
+  {
+   "id": "Rvo_xtsrBaU_NxwPCQ2W6g",
+   "alias": "hot-news-london",
+   "name": "Hot News",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rOsRfN8l8T-NT2u_5E_LYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hot-news-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    },
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -0.0237596,
+    "Latitude": 51.5078875
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "14 Hertsmere Road",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "E14 4AF",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "14 Hertsmere Road",
+     "London E14 4AF",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442075319999",
+   "display_phone": "+44 20 7531 9999",
+   "distance": 10475.713696201301
+  },
+  {
+   "id": "X0mMe-Ls5Xd94dF82zaSgg",
+   "alias": "nesar-telecoms-london",
+   "name": "Nesar Telecoms",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GeHWYex5zJt5fphNkVKoAA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nesar-telecoms-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "localservices",
+     "title": "Local Services"
+    },
+    {
+     "alias": "massmedia",
+     "title": "Mass Media"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -0.18792936,
+    "Latitude": 51.5401757
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "42 Casterbridge",
+    "address2": "Abbey Road",
+    "address3": "",
+    "city": "London",
+    "zip_code": "",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "42 Casterbridge",
+     "Abbey Road",
+     "London",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+448445458106",
+   "display_phone": "+44 844 545 8106",
+   "distance": 8992.119561378347
+  },
+  {
+   "id": "tupRRj-NumkL3KovHX1z3Q",
+   "alias": "holborns-newsagents-redhill-2",
+   "name": "Holborns Newsagents",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xPqePh_ULJjAND3IdoR0ow/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/holborns-newsagents-redhill-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    },
+    {
+     "alias": "convenience",
+     "title": "Convenience Stores"
+    },
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.167884,
+    "Latitude": 51.2323
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "37-39 Hooley Lane",
+    "address2": "",
+    "address3": "",
+    "city": "Redhill",
+    "zip_code": "RH1 6DQ",
+    "country": "GB",
+    "state": "SRY",
+    "display_address": [
+     "37-39 Hooley Lane",
+     "Redhill RH1 6DQ",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+441737762685",
+   "display_phone": "+44 1737 762685",
+   "distance": 36811.720753287525
+  },
+  {
+   "id": "DBL0uSwiMnXkfW91bK6nsQ",
+   "alias": "bbc-studios-works-borehamwood",
+   "name": "BBC Studios Works",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/00w2XSfcAD38pFzX5KgzbQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bbc-studios-works-borehamwood?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.27512401342392,
+    "Latitude": 51.6582069396973
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Clarendon Road",
+    "address2": "",
+    "address3": "",
+    "city": "Borehamwood",
+    "zip_code": "WD6 1JF",
+    "country": "GB",
+    "state": "HRT",
+    "display_address": [
+     "Clarendon Road",
+     "Borehamwood WD6 1JF",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442033277400",
+   "display_phone": "+44 20 3327 7400",
+   "distance": 32499.710335628188
+  },
+  {
+   "id": "yiBvf2qugScOa9ZhbYFSBA",
+   "alias": "financial-times-group-london",
+   "name": "Financial Times Group",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rY2R1xHcXJyGEZk-KJN0VA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/financial-times-group-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -0.0960359294340596,
+    "Latitude": 51.5124027141363
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Bracken House",
+    "address2": "1 Friday Street",
+    "address3": "",
+    "city": "London",
+    "zip_code": "EC4M 9BT",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Bracken House",
+     "1 Friday Street",
+     "London EC4M 9BT",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442078733000",
+   "display_phone": "+44 20 7873 3000",
+   "distance": 15487.639895677668
+  },
+  {
+   "id": "n3ojG49jVhCO61696fVZUg",
+   "alias": "londis-london-52",
+   "name": "londis",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jiDibJd8LZCePfLpREnCOA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/londis-london-52?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    },
+    {
+     "alias": "convenience",
+     "title": "Convenience Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -0.0449954,
+    "Latitude": 51.5378508
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "112-116 Lauriston road",
+    "address2": "Hackney",
+    "address3": "",
+    "city": "London",
+    "zip_code": "E9 7LH",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "112-116 Lauriston road",
+     "Hackney",
+     "London E9 7LH",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442089867241",
+   "display_phone": "+44 20 8986 7241",
+   "distance": 12418.068981533157
+  },
+  {
+   "id": "aiGlAZH5l5SQJwyasFmb6g",
+   "alias": "soho-radio-london",
+   "name": "Soho Radio",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Xcu_yZHm5Mir_LC2t-kUmw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/soho-radio-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    },
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.1344391,
+    "Latitude": 51.5116415
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "22c Great Windmill St",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1D 7LD",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "22c Great Windmill St",
+     "London W1D 7LD",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442071234567",
+   "display_phone": "+44 20 7123 4567",
+   "distance": 18141.41374469997
+  },
+  {
+   "id": "96hp-sGR3CtmOfEyRRFCqw",
+   "alias": "olympia-publishers-london",
+   "name": "Olympia Publishers",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1fwAS8GzLQswWsHF3ryVgg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/olympia-publishers-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -0.0920551450462646,
+    "Latitude": 51.5119491346653
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "60 Cannon Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "EC4N 6",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "60 Cannon Street",
+     "London EC4N 6",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442076186424",
+   "display_phone": "+44 20 7618 6424",
+   "distance": 15210.584852824535
+  },
+  {
+   "id": "QeXop7IGsEGqkJg6ioqNgg",
+   "alias": "evening-standard-london",
+   "name": "Evening Standard",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x2l7foMu8T058ZkXKQxKWQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/evening-standard-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.19114143381692,
+    "Latitude": 51.501446657941
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2 Derry Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W8 5EE",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "2 Derry Street",
+     "London W8 5EE",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442079374646",
+   "display_phone": "+44 20 7937 4646",
+   "distance": 22070.57045549223
+  },
+  {
+   "id": "B33zdRYk-76LDv0m3nVgaA",
+   "alias": "pms-printers-london",
+   "name": "PMS Printers",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pms-printers-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    },
+    {
+     "alias": "graphicdesign",
+     "title": "Graphic Design"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.186219,
+    "Latitude": 51.604419
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10 Willow Way",
+    "address2": "Sydenham",
+    "address3": "",
+    "city": "London",
+    "zip_code": "N3 2PL",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "10 Willow Way",
+     "Sydenham",
+     "London N3 2PL",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 24240.651186339153
+  },
+  {
+   "id": "mqAznABZiHyn26mGlrmBZg",
+   "alias": "kesselskramer-london-london",
+   "name": "KesselsKramer London",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/E1E_s7f2aqyLGFQnR7I9Tw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kesselskramer-london-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -0.0805213,
+    "Latitude": 51.5271785
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "42 Hoxton Sq",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "N1 6PB",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "42 Hoxton Sq",
+     "London N1 6PB",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442070337680",
+   "display_phone": "+44 20 7033 7680",
+   "distance": 14585.525065958707
+  },
+  {
+   "id": "waGF8nY6Enpjg4KOAZJWAA",
+   "alias": "wh-smith-chatham",
+   "name": "wh Smith",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wh-smith-chatham?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 0.514297,
+    "Latitude": 51.3834
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "20-22 the pentagon",
+    "address2": "",
+    "address3": "",
+    "city": "Chatham",
+    "zip_code": "ME4 4DP",
+    "country": "GB",
+    "state": "MDW",
+    "display_address": [
+     "20-22 the pentagon",
+     "Chatham ME4 4DP",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 30128.172499151286
+  },
+  {
+   "id": "zbnJj1EWRLoCxy7sJWGkBA",
+   "alias": "new-journal-enterprises-camden-new-journal-london",
+   "name": "New Journal Enterprises - Camden New Journal",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/new-journal-enterprises-camden-new-journal-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.1407005,
+    "Latitude": 51.5400992
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "40 Camden Road",
+    "address2": "Camden Town",
+    "address3": "",
+    "city": "London",
+    "zip_code": "NW1 9DR",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "40 Camden Road",
+     "Camden Town",
+     "London NW1 9DR",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442074199000",
+   "display_phone": "+44 20 7419 9000",
+   "distance": 18919.260301553375
+  },
+  {
+   "id": "8fmKyVMpjGhKpbYMvc12bw",
+   "alias": "newsquest-media-group-sutton",
+   "name": "Newsquest Media Group",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kU1rZQO9l0vk8vm0j4l5jw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/newsquest-media-group-sutton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -0.190052002668381,
+    "Latitude": 51.3590927124023
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Epsom Guardian",
+    "address2": "Quadrant House Floor 10",
+    "address3": "The Quadrant",
+    "city": "Sutton",
+    "zip_code": "SM2 5AS",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Epsom Guardian",
+     "Quadrant House Floor 10",
+     "The Quadrant",
+     "Sutton SM2 5AS",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442087226400",
+   "display_phone": "+44 20 8722 6400",
+   "distance": 27497.427860780197
+  },
+  {
+   "id": "cp8TD7BA75Ji1kSOllowrg",
+   "alias": "whsmith-chelmsford",
+   "name": "Whsmith",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/whsmith-chelmsford?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 0.469937771558762,
+    "Latitude": 51.736156463623
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chelmsford",
+    "zip_code": "CM1 1JR",
+    "country": "GB",
+    "state": "ESS",
+    "display_address": [
+     "Chelmsford CM1 1JR",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 34737.43964455875
+  },
+  {
+   "id": "tyuyvH14n9yiL4TrwP4ioA",
+   "alias": "john-bennet-london",
+   "name": "John Bennet",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/john-bennet-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    },
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 0.0120884,
+    "Latitude": 51.5174616
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "128A-128B Barking Road",
+    "address2": "Newham",
+    "address3": "",
+    "city": "London",
+    "zip_code": "E16 1EN",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "128A-128B Barking Road",
+     "Newham",
+     "London E16 1EN",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442074765388",
+   "display_phone": "+44 20 7476 5388",
+   "distance": 8074.621218731336
+  },
+  {
+   "id": "mriH184YBYfhZajgwsuZxQ",
+   "alias": "souvenir-press-london-2",
+   "name": "Souvenir Press",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iAM5w46aZtLISEhCsg-gsg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/souvenir-press-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.1265055,
+    "Latitude": 51.5179294
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "43 Great Russell Street",
+    "address2": "Bloomsbury",
+    "address3": "",
+    "city": "London",
+    "zip_code": "WC1B 3PD",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "43 Great Russell Street",
+     "Bloomsbury",
+     "London WC1B 3PD",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442075809307",
+   "display_phone": "+44 20 7580 9307",
+   "distance": 17626.573844864288
+  },
+  {
+   "id": "j5Lmm3rRvhDaPq04ihOAew",
+   "alias": "martin-the-newsagent-chatham",
+   "name": "Martin The Newsagent",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/martin-the-newsagent-chatham?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    },
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 0.5256184,
+    "Latitude": 51.3837342
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "37 The Pentagon",
+    "address2": "",
+    "address3": "",
+    "city": "Chatham",
+    "zip_code": "ME4 4HP",
+    "country": "GB",
+    "state": "MDW",
+    "display_address": [
+     "37 The Pentagon",
+     "Chatham ME4 4HP",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+441634840702",
+   "display_phone": "+44 1634 840702",
+   "distance": 30811.50935841378
+  },
+  {
+   "id": "56wRLMIk7G7A5To_N6jurQ",
+   "alias": "smokers-paradise-london",
+   "name": "Smokers Paradise",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/smokers-paradise-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    },
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 0.0034831,
+    "Latitude": 51.6311623
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "23 Station Road",
+    "address2": "Chingford",
+    "address3": "",
+    "city": "London",
+    "zip_code": "E4 7BJ",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "23 Station Road",
+     "Chingford",
+     "London E4 7BJ",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442085292610",
+   "display_phone": "+44 20 8529 2610",
+   "distance": 16235.330285024982
+  },
+  {
+   "id": "WFwGAFT1WhwJyYMFtiMAJg",
+   "alias": "solaris-media-london",
+   "name": "Solaris Media",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jUXhfbtn8_hb37Z5kAQjNg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/solaris-media-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "videofilmproductions",
+     "title": "Video/Film Production"
+    },
+    {
+     "alias": "photographers",
+     "title": "Photographers"
+    },
+    {
+     "alias": "massmedia",
+     "title": "Mass Media"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -0.4186672,
+    "Latitude": 51.5654815
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "HA4 6EH",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "London HA4 6EH",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+441895673797",
+   "display_phone": "+44 1895 673797",
+   "distance": 38334.332912335005
+  },
+  {
+   "id": "cnZ-F_h1c2Pjli2Q1Np9Cg",
+   "alias": "kanty-newsagents-london",
+   "name": "Kanty Newsagents",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kanty-newsagents-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    },
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 0.027206,
+    "Latitude": 51.4874
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "330 Woolwich Road",
+    "address2": "Charlton",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SE7 7AL",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "330 Woolwich Road",
+     "Charlton",
+     "London SE7 7AL",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442083050078",
+   "display_phone": "+44 20 8305 0078",
+   "distance": 7290.126496511002
+  },
+  {
+   "id": "KFPIin5l3UsVRNpjNL7oPg",
+   "alias": "masumins-stores-london",
+   "name": "Masumin's Stores",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/masumins-stores-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    },
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.1889474,
+    "Latitude": 51.4600304
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "354 Old York Road",
+    "address2": "Wandsworth",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SW18 1SS",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "354 Old York Road",
+     "Wandsworth",
+     "London SW18 1SS",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442088746395",
+   "display_phone": "+44 20 8874 6395",
+   "distance": 22538.187339356133
+  },
+  {
+   "id": "COYMqBMVuykfKkFqIOmn8g",
+   "alias": "the-economist-intelligence-london",
+   "name": "The Economist Intelligence",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-economist-intelligence-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -0.134162,
+    "Latitude": 51.508499
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15 Regent St",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SW1Y 4LR",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "15 Regent St",
+     "London SW1Y 4LR",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442079308763",
+   "display_phone": "+44 20 7930 8763",
+   "distance": 18121.653769894725
+  },
+  {
+   "id": "WTFrT8CU8m6wRRM2kH2ezQ",
+   "alias": "washington-news-maldon",
+   "name": "Washington News",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/washington-news-maldon?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    },
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 0.6706923,
+    "Latitude": 51.7239665
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "81 Washington Road",
+    "address2": "",
+    "address3": "",
+    "city": "Maldon",
+    "zip_code": "CM9 6JE",
+    "country": "GB",
+    "state": "ESS",
+    "display_address": [
+     "81 Washington Road",
+     "Maldon CM9 6JE",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 44576.07827547944
+  },
+  {
+   "id": "jQjmUweUFnATFmh8IN21Ew",
+   "alias": "the-surrey-mirror-redhill",
+   "name": "The Surrey Mirror",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kb0Cjsk-IOWm1g-38zSa3g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-surrey-mirror-redhill?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.169781997799873,
+    "Latitude": 51.2412338256836
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Regent House",
+    "address2": "1 Queensway",
+    "address3": "",
+    "city": "Redhill",
+    "zip_code": "RH1 1QT",
+    "country": "GB",
+    "state": "SRY",
+    "display_address": [
+     "Regent House",
+     "1 Queensway",
+     "Redhill RH1 1QT",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+441737783800",
+   "display_phone": "+44 1737 783800",
+   "distance": 36075.57942308483
+  },
+  {
+   "id": "gGai_uQUByoyaFeL_NkBWQ",
+   "alias": "bantwa-news-london",
+   "name": "Bantwa News",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bantwa-news-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -0.0963971,
+    "Latitude": 51.4899709
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "187 Walworth Road",
+    "address2": "Walworth",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SE17 1RW",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "187 Walworth Road",
+     "Walworth",
+     "London SE17 1RW",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442077034811",
+   "display_phone": "+44 20 7703 4811",
+   "distance": 15623.545471288586
+  },
+  {
+   "id": "bULIUtVkw0HukERGrKGkDA",
+   "alias": "95-8-capital-fm-london",
+   "name": "95.8 Capital FM",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Kl6GHx4AftCqjFL2cr7nGQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/95-8-capital-fm-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -0.1286325,
+    "Latitude": 51.5101623
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "30 Leicester Square",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "WC2H 7LA",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "30 Leicester Square",
+     "London WC2H 7LA",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442074848958",
+   "display_phone": "+44 20 7484 8958",
+   "distance": 17736.185486684088
+  },
+  {
+   "id": "G7GFayNS7xWvMZ4a9NkPJA",
+   "alias": "athena-press-london",
+   "name": "Athena Press",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/g8kFZG19IHpSW4f8JPKHdA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/athena-press-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -0.329939,
+    "Latitude": 51.4471095
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8th Floor Queen's House",
+    "address2": "2 Holly Road",
+    "address3": "",
+    "city": "London",
+    "zip_code": "TW1 4EG",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "8th Floor Queen's House",
+     "2 Holly Road",
+     "London TW1 4EG",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442087440990",
+   "display_phone": "+44 20 8744 0990",
+   "distance": 32383.66538662271
+  },
+  {
+   "id": "hL7V4HNjvSy-EOLjE6S5WA",
+   "alias": "sevenoaks-chronicle-newspaper-sevenoaks",
+   "name": "Sevenoaks Chronicle Newspaper",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sevenoaks-chronicle-newspaper-sevenoaks?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    },
+    {
+     "alias": "interiordesign",
+     "title": "Interior Design"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 0.1934134,
+    "Latitude": 51.2693888
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "54 High Street",
+    "address2": "",
+    "address3": "",
+    "city": "Sevenoaks",
+    "zip_code": "TN13 1JG",
+    "country": "GB",
+    "state": "KEN",
+    "display_address": [
+     "54 High Street",
+     "Sevenoaks TN13 1JG",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+441732228000",
+   "display_phone": "+44 1732 228000",
+   "distance": 26834.81255113263
+  },
+  {
+   "id": "8Fe_iUYaIG47mcllXzaIqw",
+   "alias": "epping-ongar-railway-ongar",
+   "name": "Epping Ongar Railway",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JR4UQaRvtbVxOkUx_Bjwkg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/epping-ongar-railway-ongar?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "massmedia",
+     "title": "Mass Media"
+    },
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 0.243575293370078,
+    "Latitude": 51.7086676544286
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Station House High Street",
+    "address2": "Ongar",
+    "address3": "",
+    "city": "Ongar",
+    "zip_code": "CM5 9BN",
+    "country": "GB",
+    "state": "ESS",
+    "display_address": [
+     "Station House High Street",
+     "Ongar",
+     "Ongar CM5 9BN",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+441277365200",
+   "display_phone": "+44 1277 365200",
+   "distance": 23790.70301763135
+  },
+  {
+   "id": "Fqusndv0ZsRjPbtg-5YU1g",
+   "alias": "time-out-london-london-2",
+   "name": "Time Out - London",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9A8B6GX_9SNnuC5WaE_oYg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/time-out-london-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.131216,
+    "Latitude": 51.517786
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "251 Tottenham Court Road",
+    "address2": "Universal House",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1T 7AB",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "251 Tottenham Court Road",
+     "Universal House",
+     "London W1T 7AB",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442078133000",
+   "display_phone": "+44 20 7813 3000",
+   "distance": 17962.27887403032
+  }
+ ],
+ "total": 221,
+ "region": {
+  "center": {
+   "longitude": 0.12760000000000002,
+   "Latitude": 51.5072
+  }
+ }
+}

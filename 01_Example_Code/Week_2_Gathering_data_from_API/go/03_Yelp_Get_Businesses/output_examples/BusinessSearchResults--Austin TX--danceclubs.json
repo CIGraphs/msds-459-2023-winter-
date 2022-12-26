@@ -1,0 +1,1855 @@
+{
+ "businesses": [
+  {
+   "id": "WWe5OZkEn56hXjUE5WsuwQ",
+   "alias": "broken-spoke-austin",
+   "name": "Broken Spoke",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZyKM_4dkclC5KgfYOCz2Ig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/broken-spoke-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 491,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -97.7851876778672,
+    "Latitude": 30.2408627314329
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "3201 S Lamar Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "3201 S Lamar Blvd",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124426189",
+   "display_phone": "(512) 442-6189",
+   "distance": 4991.84458362832
+  },
+  {
+   "id": "yQu0U8jKscnqsRLA-s0yfg",
+   "alias": "the-white-horse-austin",
+   "name": "The White Horse",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EpG8gdkkXTLHxX4RpBcMZw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-white-horse-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 389,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "divebars",
+     "title": "Dive Bars"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.727024,
+    "Latitude": 30.262545
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "500 Comal St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78702",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "500 Comal St",
+     "Austin, TX 78702"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15125536756",
+   "display_phone": "(512) 553-6756",
+   "distance": 1628.3868370238881
+  },
+  {
+   "id": "MFmB8rKuddN2-OaQAI7B7g",
+   "alias": "barbarella-austin",
+   "name": "Barbarella",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HMyLjovudMRgXJVTt71OsQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barbarella-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 365,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -97.7367849729322,
+    "Latitude": 30.26718936797275
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "611 Red River St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "611 Red River St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124767766",
+   "display_phone": "(512) 476-7766",
+   "distance": 606.4786939867611
+  },
+  {
+   "id": "74H5rTOP5px5I2ReHMzQ-Q",
+   "alias": "rain-on-4th-austin",
+   "name": "Rain on 4th",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NVL9doZp0Z3x9iSlr_pFwQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rain-on-4th-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 200,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.745681,
+    "Latitude": 30.266515
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "217 W 4th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "217 W 4th St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124941150",
+   "display_phone": "(512) 494-1150",
+   "distance": 257.91809798174705
+  },
+  {
+   "id": "iX6oInZ6C4fi2_bzV5xtLg",
+   "alias": "donns-depot-austin-2",
+   "name": "Donn's Depot",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/J3Jg3vfAuSlcZ1NWGH3Qvg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/donns-depot-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 160,
+   "categories": [
+    {
+     "alias": "divebars",
+     "title": "Dive Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.76333,
+    "Latitude": 30.27413
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1600 W 5th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78703",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1600 W 5th St",
+     "Austin, TX 78703"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124780336",
+   "display_phone": "(512) 478-0336",
+   "distance": 2091.1794246976224
+  },
+  {
+   "id": "JBipFXUvdok5De911-u-ig",
+   "alias": "the-rose-room-austin-2",
+   "name": "The Rose Room",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yCa3Lo7_V7h6S3KbpKFOrA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-rose-room-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 134,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -97.7229330762929,
+    "Latitude": 30.4012554100097
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "11500 Rock Rose",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78758",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "11500 Rock Rose",
+     "Austin, TX 78758"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15127431400",
+   "display_phone": "(512) 743-1400",
+   "distance": 15031.39058538207
+  },
+  {
+   "id": "L1NxsRllA7g62Elnv2-P3Q",
+   "alias": "rio-night-club-day-club-austin",
+   "name": "RIO Night Club + Day Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7Un21Jm_zD4iCpEUeFO8Qw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rio-night-club-day-club-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 117,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -97.74921,
+    "Latitude": 30.27016
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "601 Rio Grande Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "601 Rio Grande Ave",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124368464",
+   "display_phone": "(512) 436-8464",
+   "distance": 665.6230669459995
+  },
+  {
+   "id": "PPH2aIw4RiGltX9iI8DKsg",
+   "alias": "elysium-austin",
+   "name": "Elysium",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/u_hTJ77qDjTtOentAf_2Fg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/elysium-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 113,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "karaoke",
+     "title": "Karaoke"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.73657,
+    "Latitude": 30.26766
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "705 Red River St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "705 Red River St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 628.653260407522
+  },
+  {
+   "id": "o803sz-dMD7InLFRf-fgFA",
+   "alias": "the-iron-bear-austin-2",
+   "name": "The Iron Bear",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3Xw2QhV7wsLQkW1o0d-bKg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-iron-bear-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 112,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.745513,
+    "Latitude": 30.268522
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "301 W 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "301 W 6th St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124828993",
+   "display_phone": "(512) 482-8993",
+   "distance": 269.65362480922147
+  },
+  {
+   "id": "nmzhSNkXz5eewoFlT7HJLA",
+   "alias": "volstead-lounge-austin",
+   "name": "Volstead Lounge",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/96BYSMLWNfG-y3dgAz-8Wg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/volstead-lounge-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 108,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "divebars",
+     "title": "Dive Bars"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.7148056030273,
+    "Latitude": 30.2581775581538
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1500 E 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78702",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1500 E 6th St",
+     "Austin, TX 78702"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2896.719707080504
+  },
+  {
+   "id": "zj3Qy5B4c5qYf9Xi2JIMmw",
+   "alias": "thirsty-nickel-austin",
+   "name": "Thirsty Nickel",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ytB6TaMKmq2FYd2dMYcbZA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/thirsty-nickel-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 103,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -97.7396510079743,
+    "Latitude": 30.267
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "325 E 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "325 E 6th St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15126491232",
+   "display_phone": "(512) 649-1232",
+   "distance": 331.97759389329804
+  },
+  {
+   "id": "rOVwpLbb-7zWEEbHQJNorQ",
+   "alias": "vulcan-gas-company-austin",
+   "name": "Vulcan Gas Company",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uR5Tfa6bfvJILm-nkd_kXA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vulcan-gas-company-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 92,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -97.7384643554688,
+    "Latitude": 30.267162322998
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "418 E 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "418 E 6th St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15125228851",
+   "display_phone": "(512) 522-8851",
+   "distance": 445.15255610927414
+  },
+  {
+   "id": "R61M5rP7l3Y8WXgcppZEVA",
+   "alias": "mavericks-dance-hall-pflugerville-2",
+   "name": "Mavericks Dance Hall",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4Oo6pKdOFT3K30v1jSIQOw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mavericks-dance-hall-pflugerville-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 85,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.661214,
+    "Latitude": 30.456681
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1700 Grand Ave Pkwy",
+    "address2": "Ste 240",
+    "address3": "",
+    "city": "Pflugerville",
+    "zip_code": "78660",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1700 Grand Ave Pkwy",
+     "Ste 240",
+     "Pflugerville, TX 78660"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15125145650",
+   "display_phone": "(512) 514-5650",
+   "distance": 22486.440926218136
+  },
+  {
+   "id": "NmSUjofujNjN4pHdt5iNTQ",
+   "alias": "old-coupland-inn-and-dancehall-coupland",
+   "name": "Old Coupland Inn \u0026 Dancehall",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8EAbl4xUyWj_vGDrbQIbrQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/old-coupland-inn-and-dancehall-coupland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 81,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "countrydancehalls",
+     "title": "Country Dance Halls"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.39039,
+    "Latitude": 30.45927
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "101 Hoxie St",
+    "address2": "",
+    "address3": "",
+    "city": "Coupland",
+    "zip_code": "78615",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "101 Hoxie St",
+     "Coupland, TX 78615"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15128562777",
+   "display_phone": "(512) 856-2777",
+   "distance": 40019.57521412463
+  },
+  {
+   "id": "-5ufVVY-hsP_52MxJRsRnA",
+   "alias": "highland-austin-2",
+   "name": "Highland",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9MFT1LQRnyNDT3AcyIsDmA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/highland-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 73,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -97.7449569702148,
+    "Latitude": 30.2670059204102
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "404 Colorado St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "404 Colorado St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15126491212",
+   "display_phone": "(512) 649-1212",
+   "distance": 175.89071261019927
+  },
+  {
+   "id": "LpElBA-El7NnHA5S1L8Z7A",
+   "alias": "summit-rooftop-lounge-austin",
+   "name": "Summit Rooftop Lounge",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ImjQSerFx5EajzucyUU6bA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/summit-rooftop-lounge-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 67,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -97.7439575,
+    "Latitude": 30.2674999
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "120 W 5th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "120 W 5th St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17027437051",
+   "display_phone": "(702) 743-7051",
+   "distance": 89.07381954825146
+  },
+  {
+   "id": "BO178nE6grLPTSR05OtUQQ",
+   "alias": "pour-choices-austin",
+   "name": "Pour Choices",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/55WtlTc38RUwxs7hRSWffg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pour-choices-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 55,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.73925183345,
+    "Latitude": 30.2669479091807
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "401 E 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "401 E 6th St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 370.6291485981869
+  },
+  {
+   "id": "flcKy_l-mYrnOfV4bSS6IQ",
+   "alias": "concrete-cowboy-austin",
+   "name": "Concrete Cowboy",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q3V9HiI4fvDqrIZCQ5-ieg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/concrete-cowboy-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -97.750461339859,
+    "Latitude": 30.270074128333
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "719 W 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "719 W 6th St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15129870860",
+   "display_phone": "(512) 987-0860",
+   "distance": 775.8336558187192
+  },
+  {
+   "id": "nfmXfFbERVkhKqvwO41bOw",
+   "alias": "the-eastern-austin",
+   "name": "The Eastern",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GK-KGc_v57BWDuElyAsq6g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-eastern-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.72682144226395,
+    "Latitude": 30.26290851537367
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1511-B E 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78702",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1511-B E 6th St",
+     "Austin, TX 78702"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1634.5861781155563
+  },
+  {
+   "id": "3pMKHni87SogMadwDvFd1g",
+   "alias": "coconut-club-austin",
+   "name": "Coconut Club",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nk34vmsWsx8rGJQHvxBsHw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/coconut-club-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 47,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.74516,
+    "Latitude": 30.26611
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "310B Colorado St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "310B Colorado St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 225.03336284637945
+  },
+  {
+   "id": "VI_bTYX5w_H0EC6N3dOexQ",
+   "alias": "lit-lounge-austin",
+   "name": "Lit Lounge",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ijpp1c2jsiqO6BWHtHRxgg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lit-lounge-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 38,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "asianfusion",
+     "title": "Asian Fusion"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.740929,
+    "Latitude": 30.267239
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "215 E 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "215 E 6th St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124662604",
+   "display_phone": "(512) 466-2604",
+   "distance": 204.56296826382746
+  },
+  {
+   "id": "wBb8SAU7Z6AJ9CxtN1uClg",
+   "alias": "voodoo-room-austin",
+   "name": "Voodoo Room",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jqYGN90xlH90Asy7J9CMUA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/voodoo-room-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 31,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -97.73870099999999,
+    "Latitude": 30.266626
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "419 E 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "419 E 6th St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15125058664",
+   "display_phone": "(512) 505-8664",
+   "distance": 427.26301331376243
+  },
+  {
+   "id": "NIENT5xIegkQVQWMOoz-3g",
+   "alias": "midtown-live-sports-cafe-austin",
+   "name": "Midtown Live Sports Cafe",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/U8C77tInB7I14uThvMxJ4w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/midtown-live-sports-cafe-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 25,
+   "categories": [
+    {
+     "alias": "soulfood",
+     "title": "Soul Food"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.6904373168945,
+    "Latitude": 30.3292980194092
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "7408 Cameron Rd",
+    "address2": "Ste 3",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78752",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "7408 Cameron Rd",
+     "Ste 3",
+     "Austin, TX 78752"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124515483",
+   "display_phone": "(512) 451-5483",
+   "distance": 8558.130612055002
+  },
+  {
+   "id": "er14nQ8p8qQGI4stJaexHQ",
+   "alias": "colette-austin-austin-2",
+   "name": "Colette Austin",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SN_DIV7zJMMMRSKiSsc3Qg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/colette-austin-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 23,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.68317,
+    "Latitude": 30.43156
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "13800 Dragline Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78728",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "13800 Dragline Dr",
+     "Austin, TX 78728"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15126702051",
+   "display_phone": "(512) 670-2051",
+   "distance": 19145.58913743346
+  },
+  {
+   "id": "9K2feWWmIJcNaKk1P9LHUw",
+   "alias": "the-venue-atx-austin-5",
+   "name": "The Venue ATX",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3jmerBp7fhInGE0gXcdM0Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-venue-atx-austin-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 21,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -97.7375,
+    "Latitude": 30.26689
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "516 E 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "516 E 6th St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124153112",
+   "display_phone": "(512) 415-3112",
+   "distance": 533.5003126875708
+  },
+  {
+   "id": "SgW_tfnFSy1C5SWmRIwxzw",
+   "alias": "outer-heaven-disco-club-austin",
+   "name": "Outer Heaven Disco Club",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XTU4VopprIU5S11CvJPZAA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/outer-heaven-disco-club-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "karaoke",
+     "title": "Karaoke"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.7204014,
+    "Latitude": 30.273785722299824
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1808 E 12th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78702",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1808 E 12th St",
+     "Austin, TX 78702"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17023268976",
+   "display_phone": "(702) 326-8976",
+   "distance": 2299.554114802358
+  },
+  {
+   "id": "FZMy687AfpB8soer_OzhuQ",
+   "alias": "room-111-and-parlor-kyle",
+   "name": "Room 111 \u0026 Parlor",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/g9xSw9kdsX66AdgFG9VAYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/room-111-and-parlor-kyle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 18,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -97.876021116972,
+    "Latitude": 29.9884600861625
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "111 West Center St",
+    "address2": "",
+    "address3": "",
+    "city": "Kyle",
+    "zip_code": "78640",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "111 West Center St",
+     "Kyle, TX 78640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 33527.16421558851
+  },
+  {
+   "id": "ZcWWaiQf0EshPDETiL7TOw",
+   "alias": "suite-101-austin",
+   "name": "Suite 101",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gluEYT8X3F0sJcz2H-GL5g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/suite-101-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 15,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -97.74377,
+    "Latitude": 30.26712
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "101 W 5th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "101 W 5th St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124725288",
+   "display_phone": "(512) 472-5288",
+   "distance": 65.04298286739036
+  },
+  {
+   "id": "bQqtxcmKAex62qS0BNzy_A",
+   "alias": "austin-swing-syndicate-austin",
+   "name": "Austin Swing Syndicate",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gIuqiEIxzvA5kFOvCH9X6w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/austin-swing-syndicate-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 14,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "jazzandblues",
+     "title": "Jazz \u0026 Blues"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -97.7482,
+    "Latitude": 30.28783
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "2312 San Gabriel St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78705",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "2312 San Gabriel St",
+     "Austin, TX 78705"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2353.0197204463548
+  },
+  {
+   "id": "42nBmrtLyYjzGmkVsd4qrg",
+   "alias": "vice-bar-austin",
+   "name": "Vice Bar",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CVd_WVWMlMQwfoBv7AiTgA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vice-bar-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 13,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -97.7400741577148,
+    "Latitude": 30.2675762176514
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "302 E 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "302 E 6th St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 293.3149413445976
+  },
+  {
+   "id": "l2yRu9X0bdamxEks9zBz4w",
+   "alias": "ok-corral-austin",
+   "name": "OK Corral",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OuBqBZLbCfT7Jds2o663gA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ok-corral-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "pubs",
+     "title": "Pubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -97.77042,
+    "Latitude": 30.22652
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "629 W Ben White Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "629 W Ben White Blvd",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123268282",
+   "display_phone": "(512) 326-8282",
+   "distance": 5337.685297447263
+  },
+  {
+   "id": "gHTdOVnuyciZEsF__Udg2Q",
+   "alias": "wave-austin",
+   "name": "Wave",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Tw0FelkAbWk-iitGQELzug/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wave-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -97.742778,
+    "Latitude": 30.266944
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "408 E 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78798",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "408 E 6th St",
+     "Austin, TX 78798"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123919125",
+   "display_phone": "(512) 391-9125",
+   "distance": 42.030948616940755
+  },
+  {
+   "id": "7jy-lB9MIse1Uujh5atMcw",
+   "alias": "el-flamingo-club-austin",
+   "name": "El Flamingo Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WhTX17m8om3DAMCHeWUmvA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/el-flamingo-club-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -97.69512,
+    "Latitude": 30.129197
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "8619 US Hwy 183 S",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78747",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "8619 US Hwy 183 S",
+     "Austin, TX 78747"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15122431188",
+   "display_phone": "(512) 243-1188",
+   "distance": 16023.042441462434
+  },
+  {
+   "id": "PBMa0TpjqLBrEoUjCdSbiA",
+   "alias": "paris-hookah-lounge-austin",
+   "name": "Paris Hookah Lounge",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/h7sojUj3yxg7LwyRbln7Tw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paris-hookah-lounge-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "hookah_bars",
+     "title": "Hookah Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -97.6953008,
+    "Latitude": 30.3674672
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9710 N Lamar Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78753",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "9710 N Lamar Blvd",
+     "Austin, TX 78753"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17373977310",
+   "display_phone": "(737) 397-7310",
+   "distance": 12056.352354354323
+  },
+  {
+   "id": "shHdSdDZgi7eQib8BvffCw",
+   "alias": "mavericks-dance-hall-buda",
+   "name": "Mavericks Dance Hall",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kH8LApQdVWHra6yj59ajAQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mavericks-dance-hall-buda?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -97.82632579565454,
+    "Latitude": 30.08397105813541
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "275 Old San Antonio Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Buda",
+    "zip_code": "78610",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "275 Old San Antonio Rd",
+     "Buda, TX 78610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15125292565",
+   "display_phone": "(512) 529-2565",
+   "distance": 21888.527025285228
+  },
+  {
+   "id": "pL69Gw1qe9FgTKlvU7N3XQ",
+   "alias": "barbarella-bar-austin",
+   "name": "Barbarella Bar",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qynHu1DD-cPVX8TC45HR4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barbarella-bar-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -97.73671948886408,
+    "Latitude": 30.26710318741845
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "611 Red River St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "611 Red River St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 612.8612701438523
+  },
+  {
+   "id": "0fv3RB7HdlQ8CaUGAGZFZQ",
+   "alias": "fuego-austin",
+   "name": "Fuego",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Cda5E4JqNDUoBj47ANp-Xw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fuego-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.7411871403456,
+    "Latitude": 30.2634085714817
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "313 E 2nd St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "313 E 2nd St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 466.4509834539497
+  },
+  {
+   "id": "JId3Cy1ZeRqdKL5M0ZoZpA",
+   "alias": "club-escapade-2000-austin",
+   "name": "Club Escapade 2000",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/club-escapade-2000-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -97.62819,
+    "Latitude": 30.29005
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6575 Decker Ln",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78724",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "6575 Decker Ln",
+     "Austin, TX 78724"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15129282939",
+   "display_phone": "(512) 928-2939",
+   "distance": 11374.809751738994
+  },
+  {
+   "id": "NCRO9HZAM65vdGlZ9NL0hg",
+   "alias": "austin-ballroom-dancers-austin",
+   "name": "Austin Ballroom Dancers",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pCad2nfE-3dupVFgblhGRQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/austin-ballroom-dancers-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -97.725207,
+    "Latitude": 30.298709
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "811 E 41st St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78765",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "811 E 41st St",
+     "Austin, TX 78765"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15129893939",
+   "display_phone": "(512) 989-3939",
+   "distance": 3902.2302850609362
+  },
+  {
+   "id": "Q9uLiXwG1oQPX-7KvLYzEQ",
+   "alias": "rodeo-night-club-austin",
+   "name": "Rodeo Night Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ELk7rELs6RKJa1W-4XP6-g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rodeo-night-club-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.69505,
+    "Latitude": 30.36407
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "9515 N Lamar Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78752",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "9515 N Lamar Blvd",
+     "Austin, TX 78752"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124536616",
+   "display_phone": "(512) 453-6616",
+   "distance": 11668.165934727973
+  }
+ ],
+ "total": 50,
+ "region": {
+  "center": {
+   "longitude": -97.7431,
+   "Latitude": 30.2672
+  }
+ }
+}

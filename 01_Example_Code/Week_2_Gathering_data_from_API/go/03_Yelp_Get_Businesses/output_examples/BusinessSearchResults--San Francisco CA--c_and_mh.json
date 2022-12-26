@@ -1,0 +1,1877 @@
+{
+ "businesses": [
+  {
+   "id": "SdP_b_iZsk3f8MM6j2YB8Q",
+   "alias": "ezcare-medical-clinic-san-francisco-2",
+   "name": "EzCare Medical Clinic",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IP-iGkAb4iqpntkHccrrwQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ezcare-medical-clinic-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 130,
+   "categories": [
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    },
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "animalassistedtherapy",
+     "title": "Animal Assisted Therapy"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.42485,
+    "Latitude": 37.77115
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1884 Market St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1884 Market St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159660848",
+   "display_phone": "(415) 966-0848",
+   "distance": 640.021919081821
+  },
+  {
+   "id": "5sFPpMTKbB25gFnTAPVjag",
+   "alias": "fremont-hospital-fremont-2",
+   "name": "Fremont Hospital",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/M2iYjZsIiZ2A8-0AaVo3dA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fremont-hospital-fremont-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 126,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    },
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -121.9791688,
+    "Latitude": 37.546027
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "39001 Sundale Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Fremont",
+    "zip_code": "94538",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "39001 Sundale Dr",
+     "Fremont, CA 94538"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107961100",
+   "display_phone": "(510) 796-1100",
+   "distance": 46361.6042542989
+  },
+  {
+   "id": "481bS72Bdw1mUWNhl93bEA",
+   "alias": "eric-rosen-hypnotherapist-los-altos-2",
+   "name": "Eric Rosen Hypnotherapist",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9_fyRMDfTbYPhfhzzbpBhQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/eric-rosen-hypnotherapist-los-altos-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 121,
+   "categories": [
+    {
+     "alias": "hypnosis",
+     "title": "Hypnosis/Hypnotherapy"
+    },
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.1148598,
+    "Latitude": 37.4008853
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4546 El Camino Real",
+    "address2": "Ste B6",
+    "address3": "",
+    "city": "Los Altos",
+    "zip_code": "94022",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "4546 El Camino Real",
+     "Ste B6",
+     "Los Altos, CA 94022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16502482396",
+   "display_phone": "(650) 248-2396",
+   "distance": 49493.968402866994
+  },
+  {
+   "id": "DZNMZgNGx1-M3F26nBI1ig",
+   "alias": "herst-wellness-san-francisco",
+   "name": "Herst Wellness",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cKUgMP7vHuUJWM44fhTyQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/herst-wellness-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 111,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "lifecoach",
+     "title": "Life Coach"
+    },
+    {
+     "alias": "careercounseling",
+     "title": "Career Counseling"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.441279736523,
+    "Latitude": 37.7531311787893
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "913 Alvarado St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94114",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "913 Alvarado St",
+     "San Francisco, CA 94114"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156864411",
+   "display_phone": "(415) 686-4411",
+   "distance": 3091.6573525983554
+  },
+  {
+   "id": "E8SD5aD563JK0Qrd9elvDA",
+   "alias": "university-health-services-tang-center-berkeley",
+   "name": "University Health Services, Tang Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/u7cMBkqa-x5xRMOIF5EPug/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/university-health-services-tang-center-berkeley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 107,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.264401,
+    "Latitude": 37.86787
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2222 Bancroft Way",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94702",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2222 Bancroft Way",
+     "Berkeley, CA 94702"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106422000",
+   "display_phone": "(510) 642-2000",
+   "distance": 17094.5206705009
+  },
+  {
+   "id": "F0oibLR7EevZqI2sEBYiIA",
+   "alias": "the-couples-center-san-francisco",
+   "name": "The Couples Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BQOW1pTHDNEWRHrn4SXy_w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-couples-center-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 104,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.40742,
+    "Latitude": 37.78511
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "870 Market St",
+    "address2": "Ste 1076",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "870 Market St",
+     "Ste 1076",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153220417",
+   "display_phone": "(415) 322-0417",
+   "distance": 1561.1380127984055
+  },
+  {
+   "id": "zfCClbuGJzERgS-YFIHvFw",
+   "alias": "crystal-way-san-francisco-3",
+   "name": "Crystal Way",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9mThLU6YgmYWzeouUXKtpQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/crystal-way-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 101,
+   "categories": [
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "psychic_astrology",
+     "title": "Supernatural Readings"
+    },
+    {
+     "alias": "psychologists",
+     "title": "Psychologists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.43362,
+    "Latitude": 37.76334
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2335 Market St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94114",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2335 Market St",
+     "San Francisco, CA 94114"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158616511",
+   "display_phone": "(415) 861-6511",
+   "distance": 1797.8729276293502
+  },
+  {
+   "id": "G7hHGMXLWd0gdrVoliuuVQ",
+   "alias": "kay-b-heatherly-cht-san-francisco",
+   "name": "Kay B Heatherly, CHT",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EqfJyWwUe1QiCRgbYtTqhg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kay-b-heatherly-cht-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 89,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "hypnosis",
+     "title": "Hypnosis/Hypnotherapy"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.4262,
+    "Latitude": 37.79855
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1626A Union St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94123",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1626A Union St",
+     "San Francisco, CA 94123"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152447620",
+   "display_phone": "(415) 244-7620",
+   "distance": 2697.605348371122
+  },
+  {
+   "id": "-LjWyQNWxLc_b20GlrsEnQ",
+   "alias": "fiachra-figs-o-sullivan-san-francisco-6",
+   "name": "Fiachra Figs O'Sullivan",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7FzQG91FHxAO9hbwtuCUcw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fiachra-figs-o-sullivan-san-francisco-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 77,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.46999,
+    "Latitude": 37.76363
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1131 Irving St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94122",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1131 Irving St",
+     "San Francisco, CA 94122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159673447",
+   "display_phone": "(415) 967-3447",
+   "distance": 4627.988793633862
+  },
+  {
+   "id": "ahzwhPvbCUfhyRlNA2nUJw",
+   "alias": "heal-from-the-ground-up-rowland-heights-5",
+   "name": "Heal From the Ground Up",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Hega2Kbh-BTkFHv2TEihVA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/heal-from-the-ground-up-rowland-heights-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 104,
+   "categories": [
+    {
+     "alias": "lifecoach",
+     "title": "Life Coach"
+    },
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "careercounseling",
+     "title": "Career Counseling"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -117.896113,
+    "Latitude": 33.987454
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "18702 Colima Rd",
+    "address2": "Ste 103",
+    "address3": "",
+    "city": "Rowland Heights",
+    "zip_code": "91748",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "18702 Colima Rd",
+     "Ste 103",
+     "Rowland Heights, CA 91748"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17142153160",
+   "display_phone": "(714) 215-3160",
+   "distance": 585875.5314413849
+  },
+  {
+   "id": "jxkMz9cvv98v_6Dz4JpW5A",
+   "alias": "nicole-halpern-sexuality-feminine-power-life-coach-oakland",
+   "name": "Nicole Halpern | Sexuality, Feminine Power, Life Coach",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uJgV6RQt3dHYZkBNnZXZ_g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nicole-halpern-sexuality-feminine-power-life-coach-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "lifecoach",
+     "title": "Life Coach"
+    },
+    {
+     "alias": "sextherapists",
+     "title": "Sex Therapists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.251493658288,
+    "Latitude": 37.8385576444577
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5327 College Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94618",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "5327 College Ave",
+     "Oakland, CA 94618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156246819",
+   "display_phone": "(415) 624-6819",
+   "distance": 16361.493855889152
+  },
+  {
+   "id": "bokifZcWSa-cA8FIudmPSw",
+   "alias": "lyon-martin-health-services-a-program-of-healthright-360-san-francisco-2",
+   "name": "Lyon Martin Health Services, a program of HealthRIGHT 360",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qydkfNsEsOUKh8bb5ExjMA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lyon-martin-health-services-a-program-of-healthright-360-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 70,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.4197247,
+    "Latitude": 37.7695257
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1735 Mission St",
+    "address2": "Fl 1",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1735 Mission St",
+     "Fl 1",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155657667",
+   "display_phone": "(415) 565-7667",
+   "distance": 598.2753158822717
+  },
+  {
+   "id": "VuT8uySzELpkBY4RJF4X8A",
+   "alias": "rise-2-realize-palo-alto-2",
+   "name": "Rise 2 Realize",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/r2_KvAW1Tq0eGnAQvrWJRw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rise-2-realize-palo-alto-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 69,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "lifecoach",
+     "title": "Life Coach"
+    },
+    {
+     "alias": "reiki",
+     "title": "Reiki"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.14117,
+    "Latitude": 37.43024
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2251 High St",
+    "address2": "",
+    "address3": "",
+    "city": "Palo Alto",
+    "zip_code": "94301",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2251 High St",
+     "Palo Alto, CA 94301"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16504791741",
+   "display_phone": "(650) 479-1741",
+   "distance": 45485.60625664509
+  },
+  {
+   "id": "bIUYFB0TnrIlNvv1Mp8JvA",
+   "alias": "choose-heart-counseling-coaching-and-accompaniment-san-anselmo-5",
+   "name": "Choose Heart: Counseling, Coaching, \u0026 Accompaniment",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZU7YqBxBJwZyWoRdDrXYtg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/choose-heart-counseling-coaching-and-accompaniment-san-anselmo-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 67,
+   "categories": [
+    {
+     "alias": "lifecoach",
+     "title": "Life Coach"
+    },
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.278147,
+    "Latitude": 37.892006
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "San Anselmo",
+    "zip_code": "94960",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "San Anselmo, CA 94960"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153554922",
+   "display_phone": "(415) 355-4922",
+   "distance": 17984.60423917445
+  },
+  {
+   "id": "2Js76zxh1D5fe2mj2yGUdQ",
+   "alias": "remedy-hypnotherapy-mountain-view",
+   "name": "Remedy Hypnotherapy",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/52hNdgHVqtzA7G6Obyrndw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/remedy-hypnotherapy-mountain-view?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 67,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "hypnosis",
+     "title": "Hypnosis/Hypnotherapy"
+    },
+    {
+     "alias": "lifecoach",
+     "title": "Life Coach"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.09301,
+    "Latitude": 37.38999
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1621 W El Camino Real",
+    "address2": "Ste 101",
+    "address3": "",
+    "city": "Mountain View",
+    "zip_code": "94040",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1621 W El Camino Real",
+     "Ste 101",
+     "Mountain View, CA 94040"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14085692349",
+   "display_phone": "(408) 569-2349",
+   "distance": 51563.37924490809
+  },
+  {
+   "id": "M4ck4kZ1cihPSISGKJdvZw",
+   "alias": "wits-end-parenting-berkeley-2",
+   "name": "Wits' End Parenting",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/B5dp4rnAsdvIpqm3IOoHPw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wits-end-parenting-berkeley-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 65,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "parentingclasses",
+     "title": "Parenting Classes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.267187,
+    "Latitude": 37.866233
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2375 Shattuck Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2375 Shattuck Ave",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106195920",
+   "display_phone": "(510) 619-5920",
+   "distance": 16789.66807263055
+  },
+  {
+   "id": "WJBCKbW0T6wGA9tzYnUTlQ",
+   "alias": "caree-brown-lcsw-walnut-creek",
+   "name": "Caree Brown, LCSW",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JLPTYinSr3ctY1y4Ks32xg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/caree-brown-lcsw-walnut-creek?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 62,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.06485,
+    "Latitude": 37.89818
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1849 Bonanza St",
+    "address2": "",
+    "address3": "",
+    "city": "Walnut Creek",
+    "zip_code": "94596",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1849 Bonanza St",
+     "Walnut Creek, CA 94596"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19258785587",
+   "display_phone": "(925) 878-5587",
+   "distance": 34016.21454775576
+  },
+  {
+   "id": "WC4PJsJiFJCFr19aDJtbZg",
+   "alias": "sf-reiki-center-san-francisco",
+   "name": "SF Reiki Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qruvfhvNJbkyY_7vvVggbA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sf-reiki-center-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 61,
+   "categories": [
+    {
+     "alias": "reiki",
+     "title": "Reiki"
+    },
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.41422,
+    "Latitude": 37.76269
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3150 18th St",
+    "address2": "Ste 243",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3150 18th St",
+     "Ste 243",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158008790",
+   "display_phone": "(415) 800-8790",
+   "distance": 1421.6720101123112
+  },
+  {
+   "id": "tiaTCgWaqYPFsO1SkfvVtg",
+   "alias": "one-medical-san-francisco-10",
+   "name": "One Medical",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rUFRVr43BS1FEd3U16Zz9g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/one-medical-san-francisco-10?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 60,
+   "categories": [
+    {
+     "alias": "familydr",
+     "title": "Family Practice"
+    },
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.402521,
+    "Latitude": 37.7945164
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "559 Clay St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "559 Clay St",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156445265",
+   "display_phone": "(415) 644-5265",
+   "distance": 2637.809477953562
+  },
+  {
+   "id": "BviKp5ncI0kIstJADNXmMw",
+   "alias": "bay-area-non-smoking-center-walnut-creek",
+   "name": "Bay Area Non-Smoking Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hIAEx0kjid5pbtZjMp-S9A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bay-area-non-smoking-center-walnut-creek?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 59,
+   "categories": [
+    {
+     "alias": "hypnosis",
+     "title": "Hypnosis/Hypnotherapy"
+    },
+    {
+     "alias": "psychologists",
+     "title": "Psychologists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.0594637,
+    "Latitude": 37.9274812
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1255 Treat Blvd",
+    "address2": "Ste 300",
+    "address3": "",
+    "city": "Walnut Creek",
+    "zip_code": "94597",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1255 Treat Blvd",
+     "Ste 300",
+     "Walnut Creek, CA 94597"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18006358150",
+   "display_phone": "(800) 635-8150",
+   "distance": 35868.74837195681
+  },
+  {
+   "id": "UFUp0e37N68BzPdGzlhIiQ",
+   "alias": "mindful-health-solutions-san-francisco-2",
+   "name": "Mindful Health Solutions",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-s-zAr_jppvSm8PElxBNlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mindful-health-solutions-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 59,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "psychiatrists",
+     "title": "Psychiatrists"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.4076944,
+    "Latitude": 37.788666
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "360 Post St",
+    "address2": "Ste 500",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "360 Post St",
+     "Ste 500",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18448678444",
+   "display_phone": "(844) 867-8444",
+   "distance": 1844.2701865506403
+  },
+  {
+   "id": "Dw-g4pN1xCZ5YSIpywdx1w",
+   "alias": "alison-leigh-mft-san-francisco-7",
+   "name": "Alison Leigh, MFT",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yJOHPqtgYqu0nfHPcdSGZg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alison-leigh-mft-san-francisco-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 56,
+   "categories": [
+    {
+     "alias": "lifecoach",
+     "title": "Life Coach"
+    },
+    {
+     "alias": "sextherapists",
+     "title": "Sex Therapists"
+    },
+    {
+     "alias": "psychologists",
+     "title": "Psychologists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.4037646,
+    "Latitude": 37.7961572
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "735 Montgomery St",
+    "address2": "Ste 300",
+    "address3": "",
+    "city": "san Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "735 Montgomery St",
+     "Ste 300",
+     "san Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153779851",
+   "display_phone": "(415) 377-9851",
+   "distance": 2734.0341920619803
+  },
+  {
+   "id": "i9FlxnwCmk3E1MsFn6nhlQ",
+   "alias": "john-george-psychiatric-pavilion-san-leandro",
+   "name": "John George Psychiatric Pavilion",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mb6jhPcET3c_dzE0UFLcjA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/john-george-psychiatric-pavilion-san-leandro?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 56,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.1207748,
+    "Latitude": 37.7110397
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2060 Fairmont Dr",
+    "address2": "",
+    "address3": "",
+    "city": "San Leandro",
+    "zip_code": "94578",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2060 Fairmont Dr",
+     "San Leandro, CA 94578"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15103467500",
+   "display_phone": "(510) 346-7500",
+   "distance": 27200.995134466735
+  },
+  {
+   "id": "0f1UWyscFu5AV7WgxLigvA",
+   "alias": "psychiatric-alternatives-and-wellness-center-san-francisco-7",
+   "name": "Psychiatric Alternatives and Wellness Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AsZc26oo_sOH-7foOQxDlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/psychiatric-alternatives-and-wellness-center-san-francisco-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 55,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "psychiatrists",
+     "title": "Psychiatrists"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.4522,
+    "Latitude": 37.78739
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3609 Sacramento St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94118",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3609 Sacramento St",
+     "San Francisco, CA 94118"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152370377",
+   "display_phone": "(415) 237-0377",
+   "distance": 3202.65767187104
+  },
+  {
+   "id": "hnfVx7P1PFqvug9BA_NBtg",
+   "alias": "instacalm-anxiety-treatment-cupertino-2",
+   "name": "InstaCalm Anxiety Treatment",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/STgdzCHeo5xgXZAz-fo7DA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/instacalm-anxiety-treatment-cupertino-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "hypnosis",
+     "title": "Hypnosis/Hypnotherapy"
+    },
+    {
+     "alias": "rehabilitation_center",
+     "title": "Rehabilitation Center"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.012643,
+    "Latitude": 37.332834
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "19500 Pruneridge Ave",
+    "address2": "Ste 4103",
+    "address3": "InstaCalm Hypnosis",
+    "city": "Cupertino",
+    "zip_code": "95014",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "19500 Pruneridge Ave",
+     "Ste 4103",
+     "InstaCalm Hypnosis",
+     "Cupertino, CA 95014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14083660707",
+   "display_phone": "(408) 366-0707",
+   "distance": 60843.68548929596
+  },
+  {
+   "id": "VqDAz6cjOQjr284JdV8b6Q",
+   "alias": "jhana-goldenflame-master-eft-emotional-and-spiritual-counseling-san-francisco-2",
+   "name": "Jhana Goldenflame, Master EFT, Emotional \u0026 Spiritual Counseling",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/D-vpa05MVDl4foCUio3JFg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jhana-goldenflame-master-eft-emotional-and-spiritual-counseling-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "lifecoach",
+     "title": "Life Coach"
+    },
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "hypnosis",
+     "title": "Hypnosis/Hypnotherapy"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.4305501,
+    "Latitude": 37.7746983
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "546 Fillmore St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94117",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "546 Fillmore St",
+     "San Francisco, CA 94117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157469662",
+   "display_phone": "(415) 746-9662",
+   "distance": 980.2511454480637
+  },
+  {
+   "id": "D2VmnUQa6JF-yQffwaOYcA",
+   "alias": "reclaim-your-heart-life-coach-and-eft-san-francisco-3",
+   "name": "Reclaim Your Heart - Life Coach and EFT",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PIsmO9uZPTwVFFfbnzqa8Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/reclaim-your-heart-life-coach-and-eft-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "lifecoach",
+     "title": "Life Coach"
+    },
+    {
+     "alias": "meditationcenters",
+     "title": "Meditation Centers"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.4308296,
+    "Latitude": 37.774623
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "548 Fillmore St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94114",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "548 Fillmore St",
+     "San Francisco, CA 94114"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15038508477",
+   "display_phone": "(503) 850-8477",
+   "distance": 1005.03269612647
+  },
+  {
+   "id": "-Zp-xvetSMPHGo7Sb110rg",
+   "alias": "comprehensive-psychiatric-services-a-medical-group-walnut-creek",
+   "name": "Comprehensive Psychiatric Services-A Medical Group",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/comprehensive-psychiatric-services-a-medical-group-walnut-creek?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 53,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.0582871,
+    "Latitude": 37.93095979432316
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3100 Oak Rd",
+    "address2": "Ste 270",
+    "address3": "",
+    "city": "Walnut Creek",
+    "zip_code": "94597",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3100 Oak Rd",
+     "Ste 270",
+     "Walnut Creek, CA 94597"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19259449711",
+   "display_phone": "(925) 944-9711",
+   "distance": 36143.24879639134
+  },
+  {
+   "id": "NtBHmP-ax6LFKgMucHhpkA",
+   "alias": "foresight-mental-health-berkeley-7",
+   "name": "Foresight Mental Health",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZAIPjU9oNbKK2GXF-eHPlw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/foresight-mental-health-berkeley-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 52,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "psychiatrists",
+     "title": "Psychiatrists"
+    },
+    {
+     "alias": "nutritionists",
+     "title": "Nutritionists"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.27239004232891,
+    "Latitude": 37.87046392187839
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2105 Martin Luther King Jr Way",
+    "address2": "Fl 1",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2105 Martin Luther King Jr Way",
+     "Fl 1",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15109009964",
+   "display_phone": "(510) 900-9964",
+   "distance": 16722.700920948108
+  },
+  {
+   "id": "9bVbzdE1oUhwKQQ92VGYWQ",
+   "alias": "buena-vida-vibes-alameda-2",
+   "name": "Buena Vida Vibes",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3wn9PUd7R_FZ9OCH7hzcUA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/buena-vida-vibes-alameda-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 51,
+   "categories": [
+    {
+     "alias": "reiki",
+     "title": "Reiki"
+    },
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "hypnosis",
+     "title": "Hypnosis/Hypnotherapy"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.2316198,
+    "Latitude": 37.7271577
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1151 Harbor Bay Pkway",
+    "address2": "",
+    "address3": "",
+    "city": "Alameda ",
+    "zip_code": "94502",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1151 Harbor Bay Pkway",
+     "Alameda , CA 94502"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106403503",
+   "display_phone": "(510) 640-3503",
+   "distance": 17342.03369784054
+  },
+  {
+   "id": "m6WSQxaBkG-ZZRJPvmqb5w",
+   "alias": "marriage-prep-101-san-francisco-2",
+   "name": "Marriage Prep 101",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sslSfnu3fOh0DYVBh-RISA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/marriage-prep-101-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 45,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.43136223488595,
+    "Latitude": 37.80678541270923
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2 Marina Blvd",
+    "address2": "Ste 205, Bldg C",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94123",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2 Marina Blvd",
+     "Ste 205, Bldg C",
+     "San Francisco, CA 94123"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16504851504",
+   "display_phone": "(650) 485-1504",
+   "distance": 3698.0295101940096
+  },
+  {
+   "id": "l9XoJKdtENuW3srKjNZ2ZQ",
+   "alias": "gordy-steil-ma-mft-berkeley-2",
+   "name": "Gordy Steil, MA MFT",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NJQ3AjQBqJ3NEgfOJEYxrA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gordy-steil-ma-mft-berkeley-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 45,
+   "categories": [
+    {
+     "alias": "collegecounseling",
+     "title": "College Counseling"
+    },
+    {
+     "alias": "testprep",
+     "title": "Test Preparation"
+    },
+    {
+     "alias": "psychologists",
+     "title": "Psychologists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.258588119521,
+    "Latitude": 37.8649874545823
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104266048",
+   "display_phone": "(510) 426-6048",
+   "distance": 17316.735037762955
+  },
+  {
+   "id": "vhjF1Lrbfe9H7nu3xZBBLg",
+   "alias": "sandy-lillie-phd-redwood-city",
+   "name": "Sandy Lillie PhD",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/N_ejrdpR4SVf9HyPb2zjqg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sandy-lillie-phd-redwood-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "lifecoach",
+     "title": "Life Coach"
+    },
+    {
+     "alias": "psychologists",
+     "title": "Psychologists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.26063,
+    "Latitude": 37.46556
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "102 Vaquero Way",
+    "address2": "",
+    "address3": "",
+    "city": "Redwood City",
+    "zip_code": "94062",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "102 Vaquero Way",
+     "Redwood City, CA 94062"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16503685802",
+   "display_phone": "(650) 368-5802",
+   "distance": 37132.8351844319
+  },
+  {
+   "id": "rgdQavLq4v9oGhdN6ieTmg",
+   "alias": "ken-breniman-lcsw-ryt-oakland",
+   "name": "Ken Breniman, LCSW, RYT",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tLcgNp2947L72Zgn0nVU6w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ken-breniman-lcsw-ryt-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    },
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.26717376709,
+    "Latitude": 37.8086433410645
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94612",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "Oakland, CA 94612"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15103882884",
+   "display_phone": "(510) 388-2884",
+   "distance": 13887.147054069468
+  },
+  {
+   "id": "vNIT5MD4rLwoNGxSNmacsA",
+   "alias": "fpa-womens-health-oakland-2",
+   "name": "FPA Women's Health",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nN5TPwO6VRxeB3y7wFZQ5w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fpa-womens-health-oakland-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 43,
+   "categories": [
+    {
+     "alias": "obgyn",
+     "title": "Obstetricians \u0026 Gynecologists"
+    },
+    {
+     "alias": "ultrasoundimagingcenters",
+     "title": "Ultrasound Imaging Centers"
+    },
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.25923185005749,
+    "Latitude": 37.857156125815735
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "400 29th St",
+    "address2": "Ste 301",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94609",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "400 29th St",
+     "Ste 301",
+     "Oakland, CA 94609"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15108997099",
+   "display_phone": "(510) 899-7099",
+   "distance": 16781.189504049955
+  },
+  {
+   "id": "FLusxysk_voqicrF-GjFRQ",
+   "alias": "matthew-engel-msw-cht-san-francisco",
+   "name": "Matthew Engel, MSW, CHT",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HixfpmTzbxOM5Tl-koRGRQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/matthew-engel-msw-cht-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 43,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "lifecoach",
+     "title": "Life Coach"
+    },
+    {
+     "alias": "hypnosis",
+     "title": "Hypnosis/Hypnotherapy"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4346696,
+    "Latitude": 37.760187
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "543 Castro St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94114",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "543 Castro St",
+     "San Francisco, CA 94114"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153777533",
+   "display_phone": "(415) 377-7533",
+   "distance": 2116.1308045750675
+  },
+  {
+   "id": "4NlB9Oou-4wJgENUg1CZxg",
+   "alias": "jennifer-brinn-reiki-and-intuitive-wellness-sausalito",
+   "name": "Jennifer Brinn Reiki \u0026 Intuitive Wellness",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nEWnTYncMDBHFqGt_FT9qg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jennifer-brinn-reiki-and-intuitive-wellness-sausalito?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 41,
+   "categories": [
+    {
+     "alias": "lifecoach",
+     "title": "Life Coach"
+    },
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "reiki",
+     "title": "Reiki"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.481021,
+    "Latitude": 37.8480778
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "300 Valley St",
+    "address2": "Ste 202",
+    "address3": "",
+    "city": "Sausalito",
+    "zip_code": "94965",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "300 Valley St",
+     "Ste 202",
+     "Sausalito, CA 94965"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154305813",
+   "display_phone": "(415) 430-5813",
+   "distance": 9773.119844728853
+  },
+  {
+   "id": "yqC07NUjkH49Im16Rydc5Q",
+   "alias": "brendan-hall-the-love-therapist-san-francisco",
+   "name": "Brendan Hall : The Love Therapist",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/O2itO0nK7fB-6AjDQmZG7g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brendan-hall-the-love-therapist-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 41,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.4346696,
+    "Latitude": 37.7598719
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "563 Castro St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94114",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "563 Castro St",
+     "San Francisco, CA 94114"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158903773",
+   "display_phone": "(415) 890-3773",
+   "distance": 2143.335756562514
+  },
+  {
+   "id": "9vPuLPPkuK899aR5IR-4LQ",
+   "alias": "always-on-purpose-coaching-berkeley",
+   "name": "Always On Purpose Coaching",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ymuzjXD1xmE9t2pVSJhoig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/always-on-purpose-coaching-berkeley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 41,
+   "categories": [
+    {
+     "alias": "lifecoach",
+     "title": "Life Coach"
+    },
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "businessconsulting",
+     "title": "Business Consulting"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.2675052,
+    "Latitude": 37.8720142
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152340848",
+   "display_phone": "(415) 234-0848",
+   "distance": 17163.994128738643
+  },
+  {
+   "id": "gu5ON6keO_HCV8nsp2eDCQ",
+   "alias": "hypnosis-4-health-san-francisco-2",
+   "name": "Hypnosis 4 Health",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SompbzZgLS27uk_yIijx7w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hypnosis-4-health-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 41,
+   "categories": [
+    {
+     "alias": "c_and_mh",
+     "title": "Counseling \u0026 Mental Health"
+    },
+    {
+     "alias": "hypnosis",
+     "title": "Hypnosis/Hypnotherapy"
+    },
+    {
+     "alias": "weightlosscenters",
+     "title": "Weight Loss Centers"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.417170169312,
+    "Latitude": 37.7884710849414
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "815 Hyde St",
+    "address2": "Ste 302",
+    "address3": "Nob Hill Medical Building",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "815 Hyde St",
+     "Ste 302",
+     "Nob Hill Medical Building",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157757797",
+   "display_phone": "(415) 775-7797",
+   "distance": 1521.704922684259
+  }
+ ],
+ "total": 2600,
+ "region": {
+  "center": {
+   "longitude": -122.4194,
+   "Latitude": 37.7749
+  }
+ }
+}

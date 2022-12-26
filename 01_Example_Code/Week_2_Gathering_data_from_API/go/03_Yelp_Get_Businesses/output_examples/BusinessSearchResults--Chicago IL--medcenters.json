@@ -1,0 +1,1796 @@
+{
+ "businesses": [
+  {
+   "id": "ertmIsu11K2LT1ZBBh_c9A",
+   "alias": "swedish-hospital-chicago",
+   "name": "Swedish Hospital",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XEN0m4MXf52Ah6fLXGekJQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/swedish-hospital-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 343,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    },
+    {
+     "alias": "emergencyrooms",
+     "title": "Emergency Rooms"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6990449,
+    "Latitude": 41.9748801
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5140 N California Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60625",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5140 N California Ave",
+     "Chicago, IL 60625"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738788200",
+   "display_phone": "(773) 878-8200",
+   "distance": 12249.688900189472
+  },
+  {
+   "id": "g0K6hGVwVJl_Bldgnys0aA",
+   "alias": "advocate-illinois-masonic-medical-center-chicago",
+   "name": "Advocate Illinois Masonic Medical Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6Tbk3Cq0XDawK9Lv1xdTJA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/advocate-illinois-masonic-medical-center-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 305,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6505637,
+    "Latitude": 41.9364832
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "836 W Wellington Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "836 W Wellington Ave",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739751600",
+   "display_phone": "(773) 975-1600",
+   "distance": 6759.6312665349615
+  },
+  {
+   "id": "UEFpTZ0jiqjh_jrHz59AMw",
+   "alias": "rush-university-medical-center-chicago-3",
+   "name": "Rush University Medical Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FUrB0VUeGXbtt6ozZECG4A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rush-university-medical-center-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 226,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6674613,
+    "Latitude": 41.8746785
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1620 W Harrison St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60612",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1620 W Harrison St",
+     "Chicago, IL 60612"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129425000",
+   "display_phone": "(312) 942-5000",
+   "distance": 3141.2604102536443
+  },
+  {
+   "id": "i3uY2lqAAfgfMIatuWLKcg",
+   "alias": "loyola-university-medical-center-maywood-4",
+   "name": "Loyola University Medical Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NTd0kEtPDmfyzjnnZFVOig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/loyola-university-medical-center-maywood-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 221,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    },
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.83349,
+    "Latitude": 41.86166
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2160 S First Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Maywood",
+    "zip_code": "60153",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2160 S First Ave",
+     "Maywood, IL 60153"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18885847888",
+   "display_phone": "(888) 584-7888",
+   "distance": 17108.133439698493
+  },
+  {
+   "id": "Nq7YbO-1nLth0f0zUPil7g",
+   "alias": "michigan-avenue-immediate-care-chicago",
+   "name": "Michigan Avenue Immediate Care",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H_-gUiIU8W7iM_iZUl8HGw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/michigan-avenue-immediate-care-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 217,
+   "categories": [
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.62493576090347,
+    "Latitude": 41.8855216
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "180 N Michigan Ave",
+    "address2": "Ste 1605",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "180 N Michigan Ave",
+     "Ste 1605",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122011234",
+   "display_phone": "(312) 201-1234",
+   "distance": 918.2543437691503
+  },
+  {
+   "id": "zMIN-8iHNdoTExMsEetlxQ",
+   "alias": "physicians-immediate-care-west-loop-chicago",
+   "name": "Physicians Immediate Care - West Loop",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Un4FPEnWT7YBFvTRCu0r_w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/physicians-immediate-care-west-loop-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 197,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.64288,
+    "Latitude": 41.87963
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "600 W Adams St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60661",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "600 W Adams St",
+     "Chicago, IL 60661"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125060900",
+   "display_phone": "(312) 506-0900",
+   "distance": 1094.023166322496
+  },
+  {
+   "id": "GTHTLU4aBCoyVtQS6gjkgA",
+   "alias": "passport-health-fulton-market-chicago",
+   "name": "Passport Health - Fulton Market",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eS7bSD3r25Ho_6qOs1f9yA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/passport-health-fulton-market-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 176,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.647202,
+    "Latitude": 41.88719
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "740 W Fulton St",
+    "address2": "Unit C-2",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60661",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "740 W Fulton St",
+     "Unit C-2",
+     "Chicago, IL 60661"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126416228",
+   "display_phone": "(312) 641-6228",
+   "distance": 1759.8550718764557
+  },
+  {
+   "id": "ynNkaCL0J0N8_7eco4MrAQ",
+   "alias": "northwestern-medicine-primary-and-specialty-care-chicago-3",
+   "name": "Northwestern Medicine Primary and Specialty Care",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VdqBLDmi786PriPFG19RSA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/northwestern-medicine-primary-and-specialty-care-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 156,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6623445,
+    "Latitude": 41.939529
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1333 W Belmont Ave",
+    "address2": "Ste 200",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1333 W Belmont Ave",
+     "Ste 200",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129263627",
+   "display_phone": "(312) 926-3627",
+   "distance": 7342.331499319858
+  },
+  {
+   "id": "V7z0cGV2pPJNH3Hz7wE59g",
+   "alias": "ascension-saint-mary-chicago-chicago",
+   "name": "Ascension Saint Mary Chicago",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-YGAeaBgdG_qq-xOw85MTw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ascension-saint-mary-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 137,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6829261,
+    "Latitude": 41.9020876
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2233 W Division St",
+    "address2": "",
+    "address3": "Saint Mary Campus",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2233 W Division St",
+     "Saint Mary Campus",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127702000",
+   "display_phone": "(312) 770-2000",
+   "distance": 5143.272250439665
+  },
+  {
+   "id": "XziI7F5wdRp6LjIhh-i7Jg",
+   "alias": "gottlieb-memorial-hospital-melrose-park",
+   "name": "Gottlieb Memorial Hospital",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/i3z1Xdr50bPKNvQEV81w8w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gottlieb-memorial-hospital-melrose-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 133,
+   "categories": [
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    },
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.84277,
+    "Latitude": 41.910496
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "701 W North Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Melrose Park",
+    "zip_code": "60160",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "701 W North Ave",
+     "Melrose Park, IL 60160"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18885847888",
+   "display_phone": "(888) 584-7888",
+   "distance": 17992.0286434302
+  },
+  {
+   "id": "ocpJtxzON4dQGWb9yIi6QQ",
+   "alias": "chicago-northside-mri-center-chicago",
+   "name": "Chicago Northside MRI Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lT2qbGrKy0XEiXTcul4jtg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-northside-mri-center-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 126,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "diagnosticimaging",
+     "title": "Diagnostic Imaging"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6483149,
+    "Latitude": 41.9079378
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1460 N Halsted St",
+    "address2": "Ste 102",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1460 N Halsted St",
+     "Ste 102",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735252818",
+   "display_phone": "(773) 525-2818",
+   "distance": 3685.383618840601
+  },
+  {
+   "id": "A_64i-xKJeaiyUjqsrbW2Q",
+   "alias": "amita-health-alexian-brothers-medical-center-elk-grove-village-elk-grove-village",
+   "name": "AMITA Health Alexian Brothers Medical Center Elk Grove Village",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/013EL9nX9Qh2DB_9bzEG0A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amita-health-alexian-brothers-medical-center-elk-grove-village-elk-grove-village?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 123,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -88.01552091031364,
+    "Latitude": 42.00541136117459
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "800 Biesterfield Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Elk Grove Village",
+    "zip_code": "60007",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "800 Biesterfield Rd",
+     "Elk Grove Village, IL 60007"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18474375500",
+   "display_phone": "(847) 437-5500",
+   "distance": 34902.51347504072
+  },
+  {
+   "id": "3qFYMy3pnjvE7YlC-F7uyw",
+   "alias": "amita-health-resurrection-medical-center-chicago-chicago-3",
+   "name": "AMITA Health Resurrection Medical Center Chicago",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nxC3tFxdemsOIiryBIrZrA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amita-health-resurrection-medical-center-chicago-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 121,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.813536,
+    "Latitude": 41.987633
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7435 West Talcott Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60631",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "7435 West Talcott Ave",
+     "Chicago, IL 60631"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737748000",
+   "display_phone": "(773) 774-8000",
+   "distance": 19476.755544599415
+  },
+  {
+   "id": "ZVqWdjfJk4uFTYelYVuPnw",
+   "alias": "the-university-of-chicago-medicine-chicago",
+   "name": "The University of Chicago Medicine",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S6dI91eDkJ5zqhi9u-V_wQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-university-of-chicago-medicine-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 118,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6048839558197,
+    "Latitude": 41.7908327684385
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5841 S Maryland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60637",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5841 S Maryland Ave",
+     "Chicago, IL 60637"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18888240200",
+   "display_phone": "(888) 824-0200",
+   "distance": 9920.797254967687
+  },
+  {
+   "id": "yxJibO4SEjUZZkOm2_k0Qw",
+   "alias": "physicians-immediate-care-edgewater-chicago",
+   "name": "Physicians Immediate Care - Edgewater",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/06ByoVVQXD0ISKRhbSFVeg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/physicians-immediate-care-edgewater-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 116,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    },
+    {
+     "alias": "laboratorytesting",
+     "title": "Laboratory Testing"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.66065999651839,
+    "Latitude": 41.99346781394855
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6140 N Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60660",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "6140 N Broadway",
+     "Chicago, IL 60660"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734359028",
+   "display_phone": "(773) 435-9028",
+   "distance": 13079.806595893671
+  },
+  {
+   "id": "mXsJVQtQtNqLlUmKkKBjoQ",
+   "alias": "mercy-hospital-and-medical-center-chicago-4",
+   "name": "Mercy Hospital \u0026 Medical Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j1zOd4Zttqu40mriq3FbOA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mercy-hospital-and-medical-center-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 111,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.622095,
+    "Latitude": 41.846854
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2525 S Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60616",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2525 S Michigan Ave",
+     "Chicago, IL 60616"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125672000",
+   "display_phone": "(312) 567-2000",
+   "distance": 3532.4971546227785
+  },
+  {
+   "id": "qXweQvRy-pMnQ1fKpR5C0g",
+   "alias": "physicians-immediate-care-six-corners-chicago",
+   "name": "Physicians Immediate Care - Six Corners",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mqJgyX6wYY79Ngv_0vD-pg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/physicians-immediate-care-six-corners-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 110,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.74703,
+    "Latitude": 41.957717
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4211 N Cicero Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60641",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4211 N Cicero Ave",
+     "Chicago, IL 60641"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737941000",
+   "display_phone": "(773) 794-1000",
+   "distance": 13130.499287802657
+  },
+  {
+   "id": "QET7RY7RHoNLs4pg-cd_UA",
+   "alias": "physicians-immediate-care-clybourn-chicago-2",
+   "name": "Physicians Immediate Care - Clybourn",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xBrTa1esN1hh6ElELHfF7Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/physicians-immediate-care-clybourn-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 106,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    },
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6607426,
+    "Latitude": 41.9194331
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2077 N Clybourn Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2077 N Clybourn Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738861500",
+   "display_phone": "(773) 886-1500",
+   "distance": 5261.3704511609685
+  },
+  {
+   "id": "BM-qmMXKRLE7ixfTqZdpSw",
+   "alias": "community-first-medical-center-chicago-2",
+   "name": "Community First Medical Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kDtdhtOsAQq1a9mSwS_TlQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/community-first-medical-center-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 105,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.7679981,
+    "Latitude": 41.9457314
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5645 W Addison St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60634",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5645 W Addison St",
+     "Chicago, IL 60634"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732827000",
+   "display_phone": "(773) 282-7000",
+   "distance": 13663.443760959488
+  },
+  {
+   "id": "_3sMdNrgyJNoPl5-aCeKOw",
+   "alias": "shirley-ryan-abilitylab-chicago",
+   "name": "Shirley Ryan Abilitylab",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aGfyAqrNSGJYQD-lGflQew/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shirley-ryan-abilitylab-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 104,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6181751,
+    "Latitude": 41.8939363113006
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "355 E Erie St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "355 E Erie St",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122381000",
+   "display_phone": "(312) 238-1000",
+   "distance": 2006.7138338263005
+  },
+  {
+   "id": "UvwZui9TJ55-H91FjC4QVg",
+   "alias": "macneal-hospital-berwyn-3",
+   "name": "MacNeal Hospital",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FiVQM2bKtbGL-B9SsvgI4g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/macneal-hospital-berwyn-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 100,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    },
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.79249,
+    "Latitude": 41.83219
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3249 S Oak Park Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Berwyn",
+    "zip_code": "60402",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3249 S Oak Park Ave",
+     "Berwyn, IL 60402"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18885847888",
+   "display_phone": "(888) 584-7888",
+   "distance": 14342.54170552221
+  },
+  {
+   "id": "ORNgteHjsflGOY7B8pd3dw",
+   "alias": "advocate-medical-group-chicago-7",
+   "name": "Advocate Medical Group",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/E6euQdGu6-TailwU69IrVg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/advocate-medical-group-chicago-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 100,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6750335693359,
+    "Latitude": 41.9653244018555
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4600 N Ravenswood Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4600 N Ravenswood Ave",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735617500",
+   "display_phone": "(773) 561-7500",
+   "distance": 10452.1709686106
+  },
+  {
+   "id": "rEVMHtbRKey16gG1iWUPzA",
+   "alias": "northwestern-medical-faculty-foundation-chicago-4",
+   "name": "Northwestern Medical Faculty Foundation",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s8YeVCZ2kWHasTOQ-0sZzg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/northwestern-medical-faculty-foundation-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 99,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.62314,
+    "Latitude": 41.89471
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "676 N St Clair St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "676 N St Clair St",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126958106",
+   "display_phone": "(312) 695-8106",
+   "distance": 1912.776315569582
+  },
+  {
+   "id": "AZkOVii5wXohzQmKFe1KTg",
+   "alias": "advocate-good-samaritan-hospital-downers-grove",
+   "name": "Advocate Good Samaritan Hospital",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kB5b0zZThD1GDKChNYzaRQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/advocate-good-samaritan-hospital-downers-grove?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 98,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -88.00832438650717,
+    "Latitude": 41.819706899998664
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3815 Highland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Downers Grove",
+    "zip_code": "60515",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3815 Highland Ave",
+     "Downers Grove, IL 60515"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16302755900",
+   "display_phone": "(630) 275-5900",
+   "distance": 32018.328471081622
+  },
+  {
+   "id": "T74fACTDwcTY8I7WPD_ZYQ",
+   "alias": "northshore-university-healthsystem-skokie-2",
+   "name": "Northshore University Healthsystem",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6U__YTFv6S3ivG97nYaRiA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/northshore-university-healthsystem-skokie-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 98,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.7405578439082,
+    "Latitude": 42.0564757436712
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9600 Gross Point Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Skokie",
+    "zip_code": "60076",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "9600 Gross Point Rd",
+     "Skokie, IL 60076"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18475702000",
+   "display_phone": "(847) 570-2000",
+   "distance": 21846.211344857827
+  },
+  {
+   "id": "o_OOT4mq5BIoiYk5XThsNA",
+   "alias": "physicians-immediate-care-south-loop-chicago",
+   "name": "Physicians Immediate Care - South Loop",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1W3e6lkGN7bmsX0LYSSXXw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/physicians-immediate-care-south-loop-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 92,
+   "categories": [
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    },
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6273474097252,
+    "Latitude": 41.8715632706881
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "811 S State St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "811 S State St",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125669510",
+   "display_phone": "(312) 566-9510",
+   "distance": 777.5491485513302
+  },
+  {
+   "id": "hCX1o9IBIY8E3k9tk3m8Wg",
+   "alias": "physicians-immediate-care-bucktown-wicker-park-chicago-2",
+   "name": "Physicians Immediate Care - Bucktown/Wicker Park",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/A9AEhNnE8Js-tmOM_AYrDg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/physicians-immediate-care-bucktown-wicker-park-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 91,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    },
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6807264,
+    "Latitude": 41.9121134795958
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1702 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1702 N Milwaukee Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737704056",
+   "display_phone": "(773) 770-4056",
+   "distance": 5663.22674421118
+  },
+  {
+   "id": "0Oe8cndn39W12-7Q-fTqhg",
+   "alias": "chicago-lake-shore-medical-associates-chicago",
+   "name": "Chicago Lake Shore Medical Associates",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3zwr_e21kifX_y6C2NFKJg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-lake-shore-medical-associates-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 89,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.620766,
+    "Latitude": 41.8937953
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "259 E Erie",
+    "address2": "",
+    "address3": "Fl 22 \u0026 23",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "259 E Erie",
+     "Fl 22 \u0026 23",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129266000",
+   "display_phone": "(312) 926-6000",
+   "distance": 1898.7176145488406
+  },
+  {
+   "id": "RCJYTRGmiBgiKsOA4gtzjQ",
+   "alias": "diamond-headache-clinic-chicago",
+   "name": "Diamond Headache Clinic",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/K-yRUniszswyC_XmlxHQ1A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/diamond-headache-clinic-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 85,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6485948,
+    "Latitude": 41.9081384
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1460 N Halsted St",
+    "address2": "Ste 501",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1460 N Halsted St",
+     "Ste 501",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18004323224",
+   "display_phone": "(800) 432-3224",
+   "distance": 3684.6356981392228
+  },
+  {
+   "id": "g1Yewzv-WdjkbWPg0zrILg",
+   "alias": "physicians-immediate-care-north-center-chicago-3",
+   "name": "Physicians Immediate Care - North Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GtWruEKD1AFIeirklEZuXg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/physicians-immediate-care-north-center-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 77,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6880829772982,
+    "Latitude": 41.952595374908
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3909 N Western Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3909 N Western Ave",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737399200",
+   "display_phone": "(773) 739-9200",
+   "distance": 9585.056415180723
+  },
+  {
+   "id": "6MqUg0D86dzd9XSV27paqg",
+   "alias": "advocate-christ-medical-center-oak-lawn-3",
+   "name": "Advocate Christ Medical Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tYmkUnEB-YNnZm9kq8Ke4w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/advocate-christ-medical-center-oak-lawn-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 77,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.7328289672732,
+    "Latitude": 41.7219886967395
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4440 95th St",
+    "address2": "",
+    "address3": "",
+    "city": "Oak Lawn",
+    "zip_code": "60453",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4440 95th St",
+     "Oak Lawn, IL 60453"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17086848000",
+   "display_phone": "(708) 684-8000",
+   "distance": 19345.921445153992
+  },
+  {
+   "id": "xbU8-Zn8Lab0PpZGXDQ7Jg",
+   "alias": "duly-health-and-care-lombard",
+   "name": "Duly Health and Care",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yRI7FvUyjjuwVwzm3PQ5Zw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/duly-health-and-care-lombard?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 67,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -88.0104882773155,
+    "Latitude": 41.8496352212875
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1801 S Highland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Lombard",
+    "zip_code": "60148",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1801 S Highland Ave",
+     "Lombard, IL 60148"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16304699200",
+   "display_phone": "(630) 469-9200",
+   "distance": 31683.410761661053
+  },
+  {
+   "id": "ZNlHypbOwdB0lM3kW2M-Qw",
+   "alias": "chicago-nasal-and-sinus-center-chicago",
+   "name": "Chicago Nasal \u0026 Sinus Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PTqcwkmWZ5-yUKmswUZnSg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-nasal-and-sinus-center-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 66,
+   "categories": [
+    {
+     "alias": "earnosethroat",
+     "title": "Ear Nose \u0026 Throat"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "speech_therapists",
+     "title": "Speech Therapists"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.63169400189727,
+    "Latitude": 41.883003590461456
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "111 W Washington St",
+    "address2": "Ste 903",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60602",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "111 W Washington St",
+     "Ste 903",
+     "Chicago, IL 60602"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123729355",
+   "display_phone": "(312) 372-9355",
+   "distance": 567.352254142725
+  },
+  {
+   "id": "nd1sDQWOdeZDQ6G-Eli7Vw",
+   "alias": "dupage-immediate-care-oakbrook-terrace",
+   "name": "DuPage Immediate Care",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qx_dwDrXRw3P3tQwz-WQHw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dupage-immediate-care-oakbrook-terrace?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 61,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "familydr",
+     "title": "Family Practice"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.9736232757568,
+    "Latitude": 41.8569682894665
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1S210 Summit Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oakbrook Terrace",
+    "zip_code": "60181",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1S210 Summit Ave",
+     "Oakbrook Terrace, IL 60181"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16302826002",
+   "display_phone": "(630) 282-6002",
+   "distance": 28567.287179307466
+  },
+  {
+   "id": "ec_GD1sUuqA4teHBic7vEA",
+   "alias": "passport-health-chicago-loop-travel-clinic-chicago-3",
+   "name": "Passport Health Chicago - Loop Travel Clinic",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7bQbZfAkYt3sx9ezfWeXzQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/passport-health-chicago-loop-travel-clinic-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 60,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.624905,
+    "Latitude": 41.8830278
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "30 N Michigan Ave",
+    "address2": "Ste 629",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60602",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "30 N Michigan Ave",
+     "Ste 629",
+     "Chicago, IL 60602"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126416228",
+   "display_phone": "(312) 641-6228",
+   "distance": 681.5224946658652
+  },
+  {
+   "id": "pELQiCJHr1nSB38MdnAtDw",
+   "alias": "rush-university-medical-center-emergency-department-chicago-3",
+   "name": "Rush University Medical Center - Emergency Department",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nISuyA6vhrxDv1ievJWXgg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rush-university-medical-center-emergency-department-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 59,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.669117,
+    "Latitude": 41.875057
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1653 W Congress Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60612",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1653 W Congress Pkwy",
+     "Chicago, IL 60612"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129470100",
+   "display_phone": "(312) 947-0100",
+   "distance": 3272.747351205923
+  },
+  {
+   "id": "6ByvEgNEpSMzbyNSZzf3PQ",
+   "alias": "physicians-immediate-care-lincoln-and-peterson-chicago",
+   "name": "Physicians Immediate Care - Lincoln \u0026 Peterson",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ClPsgU8CtxWyLsJA9UQsSw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/physicians-immediate-care-lincoln-and-peterson-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 56,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.705494,
+    "Latitude": 41.9896248
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5961 N Lincoln Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60659",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5961 N Lincoln Ave",
+     "Chicago, IL 60659"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127023923",
+   "display_phone": "(312) 702-3923",
+   "distance": 13892.052836152845
+  },
+  {
+   "id": "tapTF8evjYP15qLXz2khog",
+   "alias": "advocate-medical-group-irving-and-western-chicago",
+   "name": "Advocate Medical Group -- Irving and Western",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7JknK3OgbQftR3B-Etw_lg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/advocate-medical-group-irving-and-western-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "internalmed",
+     "title": "Internal Medicine"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6883251,
+    "Latitude": 41.9545801
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4025 N Western Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4025 N Western Ave",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732757700",
+   "display_phone": "(773) 275-7700",
+   "distance": 9790.324527729583
+  },
+  {
+   "id": "RiQfs8W707QyJikEw6f7Gg",
+   "alias": "mercy-medical-mercy-works-at-dearborn-station-chicago",
+   "name": "Mercy Medical / Mercy Works at Dearborn Station",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NHEVfA5bNN6KCWx-AJDUsg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mercy-medical-mercy-works-at-dearborn-station-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 52,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.62909,
+    "Latitude": 41.87173
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "47 W Polk St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "47 W Polk St",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125676700",
+   "display_phone": "(312) 567-6700",
+   "distance": 707.4188374648854
+  },
+  {
+   "id": "uqVIeGfQkO_3IY-tVqHMJA",
+   "alias": "physicians-immediate-care-lincoln-park-chicago",
+   "name": "Physicians Immediate Care - Lincoln Park",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kVcTwlYBJnBar6VtaMpSDw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/physicians-immediate-care-lincoln-park-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 51,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6528337,
+    "Latitude": 41.9323556
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "933 W Diversey Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "933 W Diversey Pkwy",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124458805",
+   "display_phone": "(312) 445-8805",
+   "distance": 6326.9229437973645
+  }
+ ],
+ "total": 628,
+ "region": {
+  "center": {
+   "longitude": -87.6298,
+   "Latitude": 41.8781
+  }
+ }
+}

@@ -1,0 +1,1790 @@
+{
+ "businesses": [
+  {
+   "id": "EEpYUqr84TXX4n--HY4_wg",
+   "alias": "la-brasserie-gaîté-paris",
+   "name": "La Brasserie Gaîté",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5jI3D4D6LRhQXko9hGyufA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-brasserie-ga%C3%AEt%C3%A9-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "brasseries",
+     "title": "Brasseries"
+    },
+    {
+     "alias": "creperies",
+     "title": "Creperies"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.32457,
+    "Latitude": 48.8408
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "3 Rue de la Gaîté",
+    "address2": "Montaparnasse",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75014",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 Rue de la Gaîté",
+     "Montaparnasse",
+     "75014 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143210316",
+   "display_phone": "+33 1 43 21 03 16",
+   "distance": 2678.4377985983224
+  },
+  {
+   "id": "4wUlR8jLSR_W5tHPK4eQGQ",
+   "alias": "cercle-de-l-union-interalliée-paris-4",
+   "name": "Cercle de l'Union Interalliée",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/g9bdEPZ8jtL2rjGxTkAXAA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cercle-de-l-union-interalli%C3%A9e-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.32033,
+    "Latitude": 48.86916
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "33 rue du Faubourg Saint-Honoré",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "33 rue du Faubourg Saint-Honoré",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142659600",
+   "display_phone": "+33 1 42 65 96 00",
+   "distance": 2717.6407957298907
+  },
+  {
+   "id": "_heaXwPH2KyaqrwT5ZDS5Q",
+   "alias": "centre-culturel-pouya-paris",
+   "name": "Centre Culturel Pouya",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wGkRZqyaf3usFGiYjEy6MQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/centre-culturel-pouya-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.36699,
+    "Latitude": 48.86979
+   },
+   "transactions": [],
+   "price": "€",
+   "location": {
+    "address1": "48 bis Quai de Jemmapes",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "48 bis Quai de Jemmapes",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142083847",
+   "display_phone": "+33 1 42 08 38 47",
+   "distance": 1830.4855126701468
+  },
+  {
+   "id": "TBAMMc_GX1xTTKJ8ATkmng",
+   "alias": "la-commune-libre-d-aligre-paris-2",
+   "name": "La Commune Libre d'Aligre",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fHIcp6sSmzBEExDjIKamgg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-commune-libre-d-aligre-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "localservices",
+     "title": "Local Services"
+    },
+    {
+     "alias": "modern_european",
+     "title": "Modern European"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.37726,
+    "Latitude": 48.84793
+   },
+   "transactions": [],
+   "price": "€",
+   "location": {
+    "address1": "3 Rue Aligre",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 Rue Aligre",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143412055",
+   "display_phone": "+33 1 43 41 20 55",
+   "distance": 2071.5510969207357
+  },
+  {
+   "id": "wK-iyIz2_HXOKNNGph5J8w",
+   "alias": "institut-culturel-néerlandais-paris-2",
+   "name": "Institut culturel néerlandais",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kanUb7y3aaOG2nMepGFb2Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/institut-culturel-n%C3%A9erlandais-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "libraries",
+     "title": "Libraries"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.31978,
+    "Latitude": 48.8614
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "121 rue de Lille",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "121 rue de Lille",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153591240",
+   "display_phone": "+33 1 53 59 12 40",
+   "distance": 2433.0690011691036
+  },
+  {
+   "id": "DoG9PdBnKzlKdNZRhM3gkw",
+   "alias": "centre-lgbt-paris",
+   "name": "Centre LGBT",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/I2-oidkxC3OlkGkk4VFT_A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/centre-lgbt-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "nonprofit",
+     "title": "Community Service/Non-Profit"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.35432,
+    "Latitude": 48.86307
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "63 rue Beaubourg",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "63 rue Beaubourg",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143572147",
+   "display_phone": "+33 1 43 57 21 47",
+   "distance": 739.0112431813455
+  },
+  {
+   "id": "2i8oQsjq9egDvqrW9y1S3A",
+   "alias": "le-vin-en-tête-paris-9",
+   "name": "Le Vin en Tête",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aZ8WeRdgFZkoBs-tfjVjYA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-vin-en-t%C3%AAte-paris-9?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.3205941676313,
+    "Latitude": 48.885308049255
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "30 Rue Batignolles",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "30 Rue Batignolles",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144690457",
+   "display_phone": "+33 1 44 69 04 57",
+   "distance": 3941.2762817819603
+  },
+  {
+   "id": "z1snlrUABTzflevbEPv5Lw",
+   "alias": "the-chamber-paris",
+   "name": "The Chamber",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/S_9-gjnsv6vG7pAav5esPA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-chamber-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.2999899,
+    "Latitude": 48.843071
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "54 rue de l'Amiral Roussin",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "54 rue de l'Amiral Roussin",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33634315041",
+   "display_phone": "+33 6 34 31 50 41",
+   "distance": 4120.416598612532
+  },
+  {
+   "id": "KpR4Nuf1tAFRs03xxeO7Tg",
+   "alias": "automobile-club-de-france-paris-2",
+   "name": "Automobile Club De France",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ha_g9K91X2xL8kGFDtzM9Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/automobile-club-de-france-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.32106,
+    "Latitude": 48.86554
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6 Place De La Concorde",
+    "address2": "",
+    "address3": "",
+    "city": "PARIS",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "6 Place De La Concorde",
+     "75008 PARIS",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143124312",
+   "display_phone": "+33 1 43 12 43 12",
+   "distance": 2485.457711755669
+  },
+  {
+   "id": "2KoAwwuuQWyaSsDrtSQmDQ",
+   "alias": "fondation-taylor-paris",
+   "name": "Fondation Taylor",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AdMbJPL2de9K51FSegKjfQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fondation-taylor-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.33686,
+    "Latitude": 48.87882
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 rue La Bruyère",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "1 rue La Bruyère",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148748524",
+   "display_phone": "+33 1 48 74 85 24",
+   "distance": 2706.089387454883
+  },
+  {
+   "id": "cCbwWbol03BWoeZCQ4bCRg",
+   "alias": "ambigu-paris",
+   "name": "ambigu",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ambigu-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": 0,
+    "Latitude": 0
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2.233935523430869
+  },
+  {
+   "id": "_ZFIf7iZsqpua-XPYE0dkA",
+   "alias": "fox-club-paris",
+   "name": "Fox Club",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/v2AGzWrb_Ljt192hPe5haA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fox-club-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "pubs",
+     "title": "Pubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.337573,
+    "Latitude": 48.882255
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9 Rue Frochot",
+    "address2": "Pigalle",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "9 Rue Frochot",
+     "Pigalle",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142810923",
+   "display_phone": "+33 1 42 81 09 23",
+   "distance": 3046.7144397396073
+  },
+  {
+   "id": "MGU-XLvXOS7eUtSqmNZL_A",
+   "alias": "maison-de-la-bretagne-paris",
+   "name": "Maison de la Bretagne",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eyAvC32xrB3kFdW7dTcu6Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/maison-de-la-bretagne-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.32221,
+    "Latitude": 48.84372
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8 rue de l'Arrivée",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "8 rue de l'Arrivée",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153631150",
+   "display_phone": "+33 1 53 63 11 50",
+   "distance": 2628.290868276725
+  },
+  {
+   "id": "IQXKPvlRU7pnDGrLNe6R1Q",
+   "alias": "milonga-sentimental-paris",
+   "name": "Milonga Sentimental",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_6Ekr_JmbOdDb2U9Y6-8tw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/milonga-sentimental-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.3887299,
+    "Latitude": 48.8878
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "181 ave Jean Jaurès",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75019",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "181 ave Jean Jaurès",
+     "75019 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33621674131",
+   "display_phone": "+33 6 21 67 41 31",
+   "distance": 4386.088127644878
+  },
+  {
+   "id": "yXDV6h9Lou7A_3DMRM5jpQ",
+   "alias": "goethe-institut-paris-2",
+   "name": "Goethe Institut",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5IxgdItzzerDj4Arvgv2lQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/goethe-institut-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "libraries",
+     "title": "Libraries"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.29449,
+    "Latitude": 48.86614
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17 avenue d'Iéna",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75116",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "17 avenue d'Iéna",
+     "75116 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144439230",
+   "display_phone": "+33 1 44 43 92 30",
+   "distance": 4353.635571276993
+  },
+  {
+   "id": "opD_-rOQh27CjmpiVeZ1Wg",
+   "alias": "le-100-ecs-paris",
+   "name": "Le 100 ECS",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VU1-B9a7FPyOxSXBXuz-DA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-100-ecs-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "nonprofit",
+     "title": "Community Service/Non-Profit"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.37696,
+    "Latitude": 48.8477
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "100 rue de Charenton",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "100 rue de Charenton",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146288094",
+   "display_phone": "+33 1 46 28 80 94",
+   "distance": 2066.704642230439
+  },
+  {
+   "id": "qID_QlYNT1XoVmgtNETdmQ",
+   "alias": "instituto-cultural-de-méxico-paris",
+   "name": "Instituto Cultural de México",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yPz6D-eIboo80mE7yCbUUw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/instituto-cultural-de-m%C3%A9xico-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.36257,
+    "Latitude": 48.86101
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "119 rue Vieille du Temple",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "119 rue Vieille du Temple",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144618444",
+   "display_phone": "+33 1 44 61 84 44",
+   "distance": 901.2897594114038
+  },
+  {
+   "id": "VA7MicPhVpD5aJ5zePtVIg",
+   "alias": "sauna-courselles-paris",
+   "name": "Sauna Courselles",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sauna-courselles-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 0,
+    "Latitude": 0
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2.233935523430869
+  },
+  {
+   "id": "d4IAw04i6G6OTChUIBKwKA",
+   "alias": "club-paris-célibataires-enghien-les-bains",
+   "name": "Club Paris Célibataires",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uMJi226wxQn4RHxg3vZOYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/club-paris-c%C3%A9libataires-enghien-les-bains?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.30521113,
+    "Latitude": 48.96898538
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 Bis Bd Cotte",
+    "address2": "Siège de la Société",
+    "address3": "",
+    "city": "Enghien les Bains",
+    "zip_code": "",
+    "country": "FR",
+    "state": "95",
+    "display_address": [
+     "1 Bis Bd Cotte",
+     "Siège de la Société",
+     "Enghien les Bains, Val-d'Oise",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33139594857",
+   "display_phone": "+33 1 39 59 48 57",
+   "distance": 13196.138516567038
+  },
+  {
+   "id": "NRqySiPQC3Ipb2ea1Kfopw",
+   "alias": "desirs-d-avenir-serris",
+   "name": "desirs d'avenir",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eiK5VKr8S7jgjb3CSKL5-Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/desirs-d-avenir-serris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.7879801,
+    "Latitude": 48.8442802
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 Val d'Europe",
+    "address2": "",
+    "address3": "",
+    "city": "Serris",
+    "zip_code": "77700",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "1 Val d'Europe",
+     "77700 Serris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33123456789",
+   "display_phone": "+33 1 23 45 67 89",
+   "distance": 31637.349881871294
+  },
+  {
+   "id": "2KTv7yTzZmtL5G5m-7r86A",
+   "alias": "pari-roller-paris",
+   "name": "Pari Roller",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/egqZ6V-HYjssyZ9Ms1zyfA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pari-roller-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "active",
+     "title": "Active Life"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.320744,
+    "Latitude": 48.84183
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Place Raoul Dautry",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75014",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "Place Raoul Dautry",
+     "75014 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2827.5375021064174
+  },
+  {
+   "id": "Gxu5B6Yc9fnIv0DaAK581g",
+   "alias": "espace-19-paris-3",
+   "name": "Espace 19",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HYDLf60gdaXeVs72DYLiWQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/espace-19-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "nonprofit",
+     "title": "Community Service/Non-Profit"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.38623,
+    "Latitude": 48.88816
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15-19 rue des Ardennes",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75019",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "15-19 rue des Ardennes",
+     "75019 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142380005",
+   "display_phone": "+33 1 42 38 00 05",
+   "distance": 4311.3269923356
+  },
+  {
+   "id": "TFr84zC-0DCuRc1WsfE7DQ",
+   "alias": "centre-paul-eluard-paris",
+   "name": "Centre Paul Eluard",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9q5kxY_2asGfe3AD0D1lHg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/centre-paul-eluard-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    },
+    {
+     "alias": "adultedu",
+     "title": "Adult Education"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.38748,
+    "Latitude": 48.87583
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "22 rue de la Villette",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75019",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "22 rue de la Villette",
+     "75019 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33666446414",
+   "display_phone": "+33 6 66 44 64 14",
+   "distance": 3350.1653530513763
+  },
+  {
+   "id": "oUx1OPrqgbH2PoPAAitG4Q",
+   "alias": "la-cour-de-l-industrie-paris",
+   "name": "La Cour de l'Industrie",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-cour-de-l-industrie-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "tours",
+     "title": "Tours"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3868999,
+    "Latitude": 48.8505096
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "37 bis rue de Montreuil",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "37 bis rue de Montreuil",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2624.6383899722464
+  },
+  {
+   "id": "5Lsx1l6BFQFR2SjChw6cyw",
+   "alias": "centre-culturel-anatolie-paris",
+   "name": "Centre Culturel Anatolie",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4D0mMp5gjr0cBGsPmq_PzQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/centre-culturel-anatolie-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.34557,
+    "Latitude": 48.87633
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "77 Rue La Fayette",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "77 Rue La Fayette",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142800474",
+   "display_phone": "+33 1 42 80 04 74",
+   "distance": 2246.8340774362346
+  },
+  {
+   "id": "OAfhBLnORCKjklcn4mA2ow",
+   "alias": "la-maison-de-la-toscane-paris",
+   "name": "La Maison de la Toscane",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vNt0rVKKXkHsmnrw1Yb7wg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-maison-de-la-toscane-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "gourmet",
+     "title": "Specialty Food"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3441,
+    "Latitude": 48.88991
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6 rue Hermel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75018",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "6 rue Hermel",
+     "75018 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147236607",
+   "display_phone": "+33 1 47 23 66 07",
+   "distance": 3747.756870228231
+  },
+  {
+   "id": "35Gpp0v7LOj_4-6shA-NIg",
+   "alias": "palais-de-la-culture-puteaux",
+   "name": "Palais de la Culture",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ra1s-IsYIEDtTbJ6SahGYg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/palais-de-la-culture-puteaux?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.23697,
+    "Latitude": 48.88357
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "19 Rue Chante-Coq",
+    "address2": "",
+    "address3": "",
+    "city": "Puteaux",
+    "zip_code": "92800",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "19 Rue Chante-Coq",
+     "92800 Puteaux",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146929541",
+   "display_phone": "+33 1 46 92 95 41",
+   "distance": 8932.436328533237
+  },
+  {
+   "id": "vIyULjt3QU0k2vqogERO5A",
+   "alias": "société-des-auteurs-et-compositeurs-dramatiques-paris-2",
+   "name": "Société des Auteurs et Compositeurs Dramatiques",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eZPJ6B8iP6Wy56Bm649mOQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/soci%C3%A9t%C3%A9-des-auteurs-et-compositeurs-dramatiques-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.33064,
+    "Latitude": 48.88168
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11 bis Rue Ballu",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "11 bis Rue Ballu",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140234455",
+   "display_phone": "+33 1 40 23 44 55",
+   "distance": 3190.239953166035
+  },
+  {
+   "id": "mMiYmIypbYDaxGtiUE30og",
+   "alias": "le-cercle-central-paris",
+   "name": "Le Cercle Central",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/G8imUCzkLJZI-OxujTeSBA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-cercle-central-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "casinos",
+     "title": "Casinos"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.33773,
+    "Latitude": 48.88114
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2 rue Frochot",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 rue Frochot",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142852845",
+   "display_phone": "+33 1 42 85 28 45",
+   "distance": 2918.4808175590424
+  },
+  {
+   "id": "augQyG_E7MhQnIyJQPrIXg",
+   "alias": "ciné-club-des-artisans-paris-2",
+   "name": "Ciné-club des Artisans",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lt9Pkph-Jvb6_wv9ff9kgg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cin%C3%A9-club-des-artisans-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.38558,
+    "Latitude": 48.8508
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5 Cité de l'ameublement",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "5 Cité de l'ameublement",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2521.7570462343992
+  },
+  {
+   "id": "TxlgzOs7tUkG6DpQgrA0MA",
+   "alias": "maison-de-l-europe-paris-2",
+   "name": "Maison de l'Europe",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/maison-de-l-europe-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3121,
+    "Latitude": 48.88211
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "29 avenue de Villiers",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "29 avenue de Villiers",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144618585",
+   "display_phone": "+33 1 44 61 85 85",
+   "distance": 4078.302447263048
+  },
+  {
+   "id": "R6KBN7QO78lXLic0j6_nJw",
+   "alias": "le-réel-inventé-paris-2",
+   "name": "Le Réel Inventé",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pWJO3DJWIZ8RGSU2NQiVPA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-r%C3%A9el-invent%C3%A9-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.37943,
+    "Latitude": 48.85956
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "14 ave Parmentier",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "14 ave Parmentier",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2031.6472871124179
+  },
+  {
+   "id": "24e6zGvyDWdxWOu4VeWe1g",
+   "alias": "fêter-au-restaurant-paris",
+   "name": "Fêter au restaurant",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CR2UDyzklXtoMMVOkqX81Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/f%C3%AAter-au-restaurant-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "restaurants",
+     "title": "Restaurants"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.30207146,
+    "Latitude": 48.87152149
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "102 Avenue des Champs Elysées",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "102 Avenue des Champs Elysées",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140090610",
+   "display_phone": "+33 1 40 09 06 10",
+   "distance": 3998.2654156163057
+  },
+  {
+   "id": "rglqtItbbXB5OEFLIiIHUg",
+   "alias": "salésienne-de-paris-paris-4",
+   "name": "Salésienne de Paris",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eACFb6AmhM6BLc7t41CKbA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sal%C3%A9sienne-de-paris-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "amateursportsteams",
+     "title": "Amateur Sports Teams"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.30554332024423,
+    "Latitude": 48.8837909007981
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "66 bis avenue Villiers",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "66 bis avenue Villiers",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142278680",
+   "display_phone": "+33 1 42 27 86 80",
+   "distance": 4559.222728945076
+  },
+  {
+   "id": "Z3dJNC0jiLsQHufwVXxWUQ",
+   "alias": "roller-squad-institut-paris",
+   "name": "Roller Squad Institut",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bjhuC6z8vtGfpGsTwKorKA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/roller-squad-institut-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "sports_clubs",
+     "title": "Sports Clubs"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.37467,
+    "Latitude": 48.83551
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7 Rue Jean Giono",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "7 Rue Jean Giono",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33156619961",
+   "display_phone": "+33 1 56 61 99 61",
+   "distance": 2864.098653040076
+  },
+  {
+   "id": "1xkNkdcLlBo9OlZbVzfxiA",
+   "alias": "kapla-sicvaa-paris",
+   "name": "Kapla sicvaa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oSuc8O1EnZw3XlFzQCvDUA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kapla-sicvaa-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "childcare",
+     "title": "Child Care \u0026 Day Care"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.38538,
+    "Latitude": 48.85052
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "27 Rue De Montreuil",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "27 Rue De Montreuil",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143561338",
+   "display_phone": "+33 1 43 56 13 38",
+   "distance": 2516.1827216607
+  },
+  {
+   "id": "g0fQz8HDG0xiqXK7Bc3uRQ",
+   "alias": "le-bistrot-latin-paris",
+   "name": "Le Bistrot Latin",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/q24AFG-t3klwRK-puQQqpg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-bistrot-latin-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.35387,
+    "Latitude": 48.86225
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "41 rue Beaubourg",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "41 rue Beaubourg",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148048074",
+   "display_phone": "+33 1 48 04 80 74",
+   "distance": 643.3074264763753
+  },
+  {
+   "id": "JayBKSVKpZ2d10OsUqP9zA",
+   "alias": "paris-privé-paris-2",
+   "name": "Paris Privé",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/T_Py5UOO1fFF5dXlHvIBzA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paris-priv%C3%A9-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "travelservices",
+     "title": "Travel Services"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3077359,
+    "Latitude": 48.8698815
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "34 avenue Champs Elysées",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "34 avenue Champs Elysées",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142562759",
+   "display_phone": "+33 1 42 56 27 59",
+   "distance": 3542.4067107923834
+  },
+  {
+   "id": "_F7RHrtJUrxP6Mn4LFWbIw",
+   "alias": "forum-culturel-autrichien-paris",
+   "name": "Forum Culturel Autrichien",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/forum-culturel-autrichien-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "libraries",
+     "title": "Libraries"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.31394,
+    "Latitude": 48.85218
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17 Avenue De Villars",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "17 Avenue De Villars",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147052710",
+   "display_phone": "+33 1 47 05 27 10",
+   "distance": 2837.5786725014186
+  }
+ ],
+ "total": 39,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

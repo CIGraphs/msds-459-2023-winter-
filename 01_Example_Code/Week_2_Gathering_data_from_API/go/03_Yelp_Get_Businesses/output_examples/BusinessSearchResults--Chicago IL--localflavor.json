@@ -1,0 +1,1680 @@
+{
+ "businesses": [
+  {
+   "id": "5s9ntZVD45n2CxboZnLbSg",
+   "alias": "the-cloud-gate-chicago",
+   "name": "The Cloud Gate",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bLNnEIV4-ue_A4JWmHse-g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-cloud-gate-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 865,
+   "categories": [
+    {
+     "alias": "publicart",
+     "title": "Public Art"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.62246,
+    "Latitude": 41.8834
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "201 E Randolph St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60602",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "201 E Randolph St",
+     "Chicago, IL 60602"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127421168",
+   "display_phone": "(312) 742-1168",
+   "distance": 740.4603597120994
+  },
+  {
+   "id": "q-n5CAIy6rZMwAx0YBf-Yg",
+   "alias": "city-of-chicago-chicago-6",
+   "name": "City of Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/M-1sayOmSm1CussqloTi6w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/city-of-chicago-chicago-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 257,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6316976435027,
+    "Latitude": 41.8838865733581
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60603",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60603"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 662.3384500110997
+  },
+  {
+   "id": "lrYz3aS2UgC-oFnvWiQDkw",
+   "alias": "the-magnificent-mile-chicago",
+   "name": "The Magnificent Mile",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7OUrDAdT8Z_UWXb6Igu8bQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-magnificent-mile-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 188,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.623677,
+    "Latitude": 41.893104
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "625 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60610",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "625 N Michigan Ave",
+     "Chicago, IL 60610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124095560",
+   "display_phone": "(312) 409-5560",
+   "distance": 1743.6658984215298
+  },
+  {
+   "id": "t1gmVncI9CLahTvKdGw_hA",
+   "alias": "ribfest-chicago-chicago",
+   "name": "Ribfest Chicago",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/v5kFw60Mcau0qAaiwPX96w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ribfest-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 124,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    },
+    {
+     "alias": "streetvendors",
+     "title": "Street Vendors"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6791763305664,
+    "Latitude": 41.9543495178223
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4000 N Lincoln Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4000 N Lincoln Ave",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 9412.731399562286
+  },
+  {
+   "id": "kZDtPqDZ2v2BSGcNCsfKQA",
+   "alias": "crown-fountain-chicago",
+   "name": "Crown Fountain",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CyIc8Ww8PvAaygEHpgIIxQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/crown-fountain-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 112,
+   "categories": [
+    {
+     "alias": "publicart",
+     "title": "Public Art"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.62246,
+    "Latitude": 41.8834
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "201 E Randolph St",
+    "address2": "",
+    "address3": "Millennium Park",
+    "city": "Chicago",
+    "zip_code": "60603",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "201 E Randolph St",
+     "Millennium Park",
+     "Chicago, IL 60603"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127421168",
+   "display_phone": "(312) 742-1168",
+   "distance": 614.1497351393402
+  },
+  {
+   "id": "LZt2eJ-c3RqEWuAfiAdn-A",
+   "alias": "zoolights-chicago",
+   "name": "Zoolights",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FEJhrKgq0M1CfoqnVe1RJg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zoolights-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 72,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6324389129877,
+    "Latitude": 41.9175019672686
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2200 N Cannon Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2200 N Cannon Dr",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 4386.7347226231905
+  },
+  {
+   "id": "lW4UULU1EvEacHYfra32sA",
+   "alias": "maifest-chicago-chicago-2",
+   "name": "Maifest Chicago",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5T5FiSe2n2RLRA8o-PMfmA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/maifest-chicago-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 70,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6876052,
+    "Latitude": 41.9669001
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4700 N Lincoln Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60625",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4700 N Lincoln Ave",
+     "Chicago, IL 60625"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 10978.714546913503
+  },
+  {
+   "id": "lQMuGcu6wgXvX_4XlVmW7Q",
+   "alias": "shit-fountain-chicago",
+   "name": "Shit Fountain",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CTr94cC6ciSZfp5ppYfniw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shit-fountain-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 58,
+   "categories": [
+    {
+     "alias": "publicart",
+     "title": "Public Art"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.674446105957,
+    "Latitude": 41.899715423584
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1001 N Wolcott Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1001 N Wolcott Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 4410.11233214543
+  },
+  {
+   "id": "PLVHdqc-gkU-s6ykDs_Dfw",
+   "alias": "tribune-tower-chicago",
+   "name": "Tribune Tower",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RPbvjqrtn7GK2cUkuVH8Ug/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tribune-tower-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 52,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.623674,
+    "Latitude": 41.890383
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "435 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "435 N Michigan Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122223787",
+   "display_phone": "(312) 222-3787",
+   "distance": 1456.9183457747586
+  },
+  {
+   "id": "aJoY_kCTh4oagN1y9mnA_w",
+   "alias": "jean-baptiste-pointe-dusable-chicago",
+   "name": "Jean Baptiste Pointe DuSable",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yE-bKu228gLgMDLNJfX_Lg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jean-baptiste-pointe-dusable-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 52,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6263779297096,
+    "Latitude": 41.9129447233625
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "N Lake Shore Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "N Lake Shore Dr",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 3884.891353544587
+  },
+  {
+   "id": "K1S03tXswIWjf_5jt8PDuA",
+   "alias": "logan-square-chicago-2",
+   "name": "Logan Square",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nslx6YwdA30YB4FpejjyMg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/logan-square-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 47,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.7123895005859,
+    "Latitude": 41.9257970094478
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "W Belden Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "W Belden Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 8651.51240443175
+  },
+  {
+   "id": "uNR3wXnXDpNMnXnDLMeWQg",
+   "alias": "chicago-pedway-chicago",
+   "name": "Chicago Pedway",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/31Amm7qp18sxWusVME3n3w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-pedway-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 43,
+   "categories": [
+    {
+     "alias": "active",
+     "title": "Active Life"
+    },
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.625767,
+    "Latitude": 41.884006
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "130 N Garland Ct",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60686",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "130 N Garland Ct",
+     "Chicago, IL 60686"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 739.4132560353469
+  },
+  {
+   "id": "dZq6l0tGG5TAx3HOUijkHg",
+   "alias": "chicago-flower-and-garden-show-chicago",
+   "name": "Chicago Flower \u0026 Garden Show",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/67PriDasTkGvWcc-HUg5Rw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-flower-and-garden-show-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 41,
+   "categories": [
+    {
+     "alias": "shopping",
+     "title": "Shopping"
+    },
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.6021618914795,
+    "Latitude": 41.8915919348816
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "Navy Pier Exhibition Hall",
+    "address2": "",
+    "address3": "600 E Grand",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Navy Pier Exhibition Hall",
+     "600 E Grand",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123210077",
+   "display_phone": "(312) 321-0077",
+   "distance": 2735.966448516179
+  },
+  {
+   "id": "XCDbB35Yi1Xye6SJyCfZhQ",
+   "alias": "you-are-beautiful-chicago-2",
+   "name": "You Are Beautiful",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jV6FSqR1Bnu0lZ3vzHkW7A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/you-are-beautiful-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 36,
+   "categories": [
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    },
+    {
+     "alias": "publicart",
+     "title": "Public Art"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.70323,
+    "Latitude": 41.9425
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3368 N Elston Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3368 N Elston Ave",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126238249",
+   "display_phone": "(312) 623-8249",
+   "distance": 9395.832270021278
+  },
+  {
+   "id": "W3aiaCwT5GxCyvhdBM5i4w",
+   "alias": "edgewater-neighborhood-chicago",
+   "name": "Edgewater Neighborhood",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/y6ddHM9329odhWISzF1MBQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/edgewater-neighborhood-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 33,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6653823852539,
+    "Latitude": 41.9910163879395
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60660",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60660"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 12756.682514537237
+  },
+  {
+   "id": "kEuTLfozDN9PynsfEpQAtg",
+   "alias": "cta-holiday-train-chicago",
+   "name": "CTA Holiday Train",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EZsYdgZ9O7cEmbEkEvHMrA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cta-holiday-train-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 32,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.9710388183594,
+    "Latitude": 41.7634887695312
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Red Line",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60686",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Red Line",
+     "Chicago, IL 60686"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128367000",
+   "display_phone": "(312) 836-7000",
+   "distance": 3550.1104213675526
+  },
+  {
+   "id": "k4Zs3Z4mRsW1YlHGdJr36g",
+   "alias": "pilsen-art-walk-chicago",
+   "name": "Pilsen Art Walk",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mTM9auXb61keZxOxGz5mKg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pilsen-art-walk-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 32,
+   "categories": [
+    {
+     "alias": "publicart",
+     "title": "Public Art"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.64695,
+    "Latitude": 41.85795
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1800 S Halsted St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60608",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1800 S Halsted St",
+     "Chicago, IL 60608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2669.956206670442
+  },
+  {
+   "id": "cc__3Ikj1nLVA_26sCqjAw",
+   "alias": "lower-wacker-drive-chicago",
+   "name": "Lower Wacker Drive",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZOQU6AGsnhHa2VmVe1FPYw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lower-wacker-drive-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 29,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6369215488434,
+    "Latitude": 41.8822070199523
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "233 E Wacker Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60686",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "233 E Wacker Dr",
+     "Chicago, IL 60686"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 745.7680384007544
+  },
+  {
+   "id": "K1KHURSHQaqbnjl24JcdOQ",
+   "alias": "big-monster-toys-chicago",
+   "name": "Big Monster Toys",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YePOBIxH8K1WRtotRrizXg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/big-monster-toys-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 27,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6569313708728,
+    "Latitude": 41.8808959123921
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "21 S Racine Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "21 S Racine Ave",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128298697",
+   "display_phone": "(312) 829-8697",
+   "distance": 2267.622720403863
+  },
+  {
+   "id": "5nav6KFzz1EaPgguVuw-Dw",
+   "alias": "taste-of-melrose-park-melrose-park",
+   "name": "Taste of Melrose Park",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/E_0OGwpOhT6QKk2JbHnKRQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/taste-of-melrose-park-melrose-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 26,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.8642449,
+    "Latitude": 41.8958802
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1000 N 25th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Melrose Park",
+    "zip_code": "60160",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1000 N 25th Ave",
+     "Melrose Park, IL 60160"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 19574.1980608161
+  },
+  {
+   "id": "xYxz06L8wU-a_GCkKtqxjA",
+   "alias": "the-virgin-mary-viaduct-stain-chicago",
+   "name": "The Virgin Mary Viaduct Stain",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q-XOBwst1BFAZvYKULkTWg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-virgin-mary-viaduct-stain-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6843316,
+    "Latitude": 41.9250844
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2200 W Fullerton",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2200 W Fullerton",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 6778.859134912245
+  },
+  {
+   "id": "arcY9HYbSdE9hI_Z7X-M3g",
+   "alias": "west-fest-chicago-3",
+   "name": "West Fest",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/O2KtUxzyy0BBhK5sRsU2Ow/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/west-fest-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.67231,
+    "Latitude": 41.89626
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1800 W Chicago",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1800 W Chicago",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128509390",
+   "display_phone": "(312) 850-9390",
+   "distance": 4055.1388230010693
+  },
+  {
+   "id": "lKF22x7QD3HgPxezcHy0Dg",
+   "alias": "michael-jordan-statue-chicago-2",
+   "name": "Michael Jordan Statue",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wkilTz11XwN2Ezj8biUtIA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/michael-jordan-statue-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "publicart",
+     "title": "Public Art"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.673198,
+    "Latitude": 41.880166
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1901 W Madison St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60612",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1901 W Madison St",
+     "Chicago, IL 60612"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 3600.283881191966
+  },
+  {
+   "id": "e_j48I_r3LSmhLu2gzzsxQ",
+   "alias": "yelp-elite-event-broken-english-taco-pub-chicago",
+   "name": "Yelp Elite Event: Broken English Taco Pub",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jHo3B4XbrUsB3G08SB89fw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/yelp-elite-event-broken-english-taco-pub-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 22,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6250087,
+    "Latitude": 41.8856244
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "75 East Lake St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "75 East Lake St",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 922.4318138029413
+  },
+  {
+   "id": "JwSpQgmLK-hHb6lNX_WtQQ",
+   "alias": "looptopia-chicago",
+   "name": "Looptopia",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aaZAPrtlueIGw4kU0GjKSg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/looptopia-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 22,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6213607788086,
+    "Latitude": 41.8858375549316
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1061.9440126621291
+  },
+  {
+   "id": "TffHJ5PaR2gNHqgXBa-MYg",
+   "alias": "first-tuesdays-midwest-independent-film-festival-chicago",
+   "name": "First Tuesdays: Midwest Independent Film Festival",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2yWlqjhsztwlwokKr3gCOg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/first-tuesdays-midwest-independent-film-festival-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.646397,
+    "Latitude": 41.933572
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2828 North Clark St",
+    "address2": "",
+    "address3": "Landmark's Century Centre Cinema",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2828 North Clark St",
+     "Landmark's Century Centre Cinema",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17733980021",
+   "display_phone": "(773) 398-0021",
+   "distance": 6319.270060620746
+  },
+  {
+   "id": "_lNTKPkNxBjGTjabsfwA0w",
+   "alias": "yelp-elite-battle-of-the-band-ts-raised-urban-rooftop-bar-chicago",
+   "name": "Yelp Elite Battle Of The Band T's @ RAISED Urban Rooftop Bar",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Vd09SSqM0O89CiirQWsJqw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/yelp-elite-battle-of-the-band-ts-raised-urban-rooftop-bar-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6283899,
+    "Latitude": 41.886334
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 West Wacker Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1 West Wacker Dr",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 922.9900957511254
+  },
+  {
+   "id": "zTh11LWw0PZf-FQ2nXKG9Q",
+   "alias": "first-fridays-chicago",
+   "name": "First Fridays",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3zCE9RePbJYIIWMIDmy6cw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/first-fridays-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.62098,
+    "Latitude": 41.89723
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "220 E Chicago Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "220 E Chicago Ave",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2242.647641105036
+  },
+  {
+   "id": "x7QMPVKnzSEIUYRuZPli0Q",
+   "alias": "ray-st-ray-singing-cab-driver-chicago",
+   "name": "Ray St. Ray - Singing Cab Driver",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1X-hBdsUFtZpmFiIM094xg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ray-st-ray-singing-cab-driver-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    },
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6373825073242,
+    "Latitude": 41.8744277954102
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60689",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60689"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129053654",
+   "display_phone": "(312) 905-3654",
+   "distance": 900.8301210516928
+  },
+  {
+   "id": "ym11M0eQk83Tgg1yhgDzkA",
+   "alias": "greetings-from-chicago",
+   "name": "Greetings From",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ganBMVYyST7MRHEAttcfCg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/greetings-from-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 19,
+   "categories": [
+    {
+     "alias": "publicart",
+     "title": "Public Art"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6947639,
+    "Latitude": 41.9211483
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2226 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2226 N Milwaukee Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 7199.135824756225
+  },
+  {
+   "id": "0TiAoXkiRHL1ZNA--iP1kg",
+   "alias": "the-loop-chicago",
+   "name": "The Loop",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AuWCYgu2QnnTzrUuPA__fw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-loop-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 17,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6265487670898,
+    "Latitude": 41.8797798156738
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60603",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60603"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 478.7483281692703
+  },
+  {
+   "id": "NM2axt6Y9s9sFRIZDmP4qg",
+   "alias": "chicago-green-festival-chicago",
+   "name": "Chicago Green Festival",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Mz9wdNKO9S_3APE83Q03Gg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-green-festival-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 15,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.65,
+    "Latitude": 41.85
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60686",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60686"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 3550.1104213670556
+  },
+  {
+   "id": "BmEUFQCtE_GCnjugRq0f8w",
+   "alias": "pizza-fest-chicago",
+   "name": "Pizza Fest",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/reKx5tJ9k1O2yKW3n9a-CA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pizza-fest-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 14,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -87.6584548040459,
+    "Latitude": 41.9252906635794
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Fullerton \u0026 Racine",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60686",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Fullerton \u0026 Racine",
+     "Chicago, IL 60686"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 5758.369085301773
+  },
+  {
+   "id": "7mfVzRtZXdgqRS1pjX68kg",
+   "alias": "art-tasting-at-bottle-and-bottega-evanston",
+   "name": "Art Tasting At Bottle \u0026 Bottega",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fhHtqos_YcFBsuzatXGYtg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/art-tasting-at-bottle-and-bottega-evanston?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 14,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6860580444336,
+    "Latitude": 42.0466537475586
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1016 Davis St",
+    "address2": "",
+    "address3": "",
+    "city": "Evanston",
+    "zip_code": "60201",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1016 Davis St",
+     "Evanston, IL 60201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 19339.976846902628
+  },
+  {
+   "id": "gku7nx9fTwnSvfJcfCgC1g",
+   "alias": "sheffield-garden-walk-chicago",
+   "name": "Sheffield Garden Walk",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DCVbOsfnyQ-8p0bT-fXWww/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sheffield-garden-walk-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 14,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.65345,
+    "Latitude": 41.92172
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Webster And Sheffield",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Webster And Sheffield",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736889255",
+   "display_phone": "(773) 688-9255",
+   "distance": 5232.709522557272
+  },
+  {
+   "id": "SQm1ux0UBRSfQzbYqyIuZQ",
+   "alias": "the-village-of-orland-park-orland-park",
+   "name": "The Village of Orland Park",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pp1wwnueWclMr7KzuDp6tQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-village-of-orland-park-orland-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 13,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.8573433041034,
+    "Latitude": 41.62313904306
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "14700 S Ravinia Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Orland Park",
+    "zip_code": "60462",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "14700 S Ravinia Ave",
+     "Orland Park, IL 60462"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17084036100",
+   "display_phone": "(708) 403-6100",
+   "distance": 34059.55729879399
+  },
+  {
+   "id": "3-OEP0LQxSx6rmubWuS7eg",
+   "alias": "the-taco-crawl-chicago-chicago",
+   "name": "THE TACO CRAWL - CHICAGO",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7QYJmon9GkWZDU7DyNpMSQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-taco-crawl-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 13,
+   "categories": [
+    {
+     "alias": "unofficialyelpevents",
+     "title": "Unofficial Yelp Events"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.633207,
+    "Latitude": 41.888814
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "155 West Kinzie St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "155 West Kinzie St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1224.2732739820897
+  },
+  {
+   "id": "kFRCKvwKQO7HMvQqVQ66Tw",
+   "alias": "summertime-sips-with-the-wine-cellar-group-oak-brook",
+   "name": "Summertime Sips with The Wine Cellar Group",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tKwmCmFC0_F7kBg9nFX4ag/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/summertime-sips-with-the-wine-cellar-group-oak-brook?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.992744,
+    "Latitude": 41.840352
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3021 Butterfield Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Oak Brook",
+    "zip_code": "60523",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3021 Butterfield Rd",
+     "Oak Brook, IL 60523"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 30341.78859285293
+  },
+  {
+   "id": "LyBvl0j-W_AsOdSCN1IjPw",
+   "alias": "yelps-open-barre-and-get-stacked-elite-event-winnetka",
+   "name": "Yelp's Open Barre \u0026 Get Stacked Elite Event",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/J1vJMxPOMkVQExvsjZ3ARQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/yelps-open-barre-and-get-stacked-elite-event-winnetka?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.7324451,
+    "Latitude": 42.1062742
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "549 Lincoln Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Winnetka",
+    "zip_code": "60093",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "549 Lincoln Ave",
+     "Winnetka, IL 60093"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 26750.2465437632
+  },
+  {
+   "id": "q0dy950BiJEWOGEeIm7QSQ",
+   "alias": "chagalls-four-seasons-chicago",
+   "name": "Chagall's Four Seasons",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LR9bcETHAzLgFymb2EYDVw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chagalls-four-seasons-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "publicart",
+     "title": "Public Art"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6297620032496,
+    "Latitude": 41.8810667508273
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10 S Dearborn St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60603",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "10 S Dearborn St",
+     "Chicago, IL 60603"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 329.90227308933214
+  }
+ ],
+ "total": 209,
+ "region": {
+  "center": {
+   "longitude": -87.6298,
+   "Latitude": 41.8781
+  }
+ }
+}

@@ -1,0 +1,1857 @@
+{
+ "businesses": [
+  {
+   "id": "j2mUHWVXSKSkEuHJao_wKg",
+   "alias": "shakespeare-and-company-paris",
+   "name": "Shakespeare and Company",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/S8ThIH2lRIp4jaBClmFYTQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shakespeare-and-company-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 324,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3469621526521,
+    "Latitude": 48.852658704771
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "37 rue de la Bûcherie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "37 rue de la Bûcherie",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143254093",
+   "display_phone": "+33 1 43 25 40 93",
+   "distance": 582.1679860819904
+  },
+  {
+   "id": "G3Yg2Jghh56mKjA-ACvj-A",
+   "alias": "fnac-paris-5",
+   "name": "Fnac",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WtKAotfZ5Aa26AUIDnwFVg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fnac-paris-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 55,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.327027,
+    "Latitude": 48.875437
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "109 rue Saint-Lazare",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "109 rue Saint-Lazare",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33825020020",
+   "display_phone": "+33 825 02 00 20",
+   "distance": 2788.8507539630937
+  },
+  {
+   "id": "XLF4z3nFWhGN1eLylaHVcw",
+   "alias": "wh-smith-paris",
+   "name": "WH Smith",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9nsn4d0z7z_7aa4K1MbcPQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wh-smith-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 52,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.32504,
+    "Latitude": 48.86602
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "248 rue de Rivoli",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "248 rue de Rivoli",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144778899",
+   "display_phone": "+33 1 44 77 88 99",
+   "distance": 2246.042538480787
+  },
+  {
+   "id": "ZLTH_AyhUHqo62WXNWQ-sA",
+   "alias": "fnac-paris-12",
+   "name": "Fnac",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fkVefmYuuIkX_1-T2Eoh7Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fnac-paris-12?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 45,
+   "categories": [
+    {
+     "alias": "media",
+     "title": "Books, Mags, Music \u0026 Video"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "mobilephones",
+     "title": "Mobile Phones"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.349,
+    "Latitude": 48.86059
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "101 rue Berger",
+    "address2": "",
+    "address3": "-3 Zone Lescot",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "101 rue Berger",
+     "-3 Zone Lescot",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33825020020",
+   "display_phone": "+33 825 02 00 20",
+   "distance": 769.0377852048358
+  },
+  {
+   "id": "LS3BjNn7w85Vth3meC5JFw",
+   "alias": "gibert-joseph-paris-3",
+   "name": "Gibert Joseph",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VPxz1rOpqvC0utNqHmoFjQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gibert-joseph-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.342517,
+    "Latitude": 48.850589
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "26 boulevard Saint-Michel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "26 boulevard Saint-Michel",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144418888",
+   "display_phone": "+33 1 44 41 88 88",
+   "distance": 973.987971595329
+  },
+  {
+   "id": "jClJaY_WbM9q48HKnzXjew",
+   "alias": "gibert-jeune-paris-7",
+   "name": "Gibert Jeune",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DAb1DiJCvfu0bpL21TBMTg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gibert-jeune-paris-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 40,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.34665,
+    "Latitude": 48.8531
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "5 place St Michel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "5 place St Michel",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33156812222",
+   "display_phone": "+33 1 56 81 22 22",
+   "distance": 562.4425221314082
+  },
+  {
+   "id": "JkLEb_MyyG_xlbrte6X0Bw",
+   "alias": "renoma-café-gallery-paris-4",
+   "name": "Renoma Café Gallery",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bM-E65036EBAfrtVMSRxoA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/renoma-caf%C3%A9-gallery-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 40,
+   "categories": [
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.301355,
+    "Latitude": 48.868934
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "32 avenue George V",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "32 avenue George V",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147204619",
+   "display_phone": "+33 1 47 20 46 19",
+   "distance": 3964.1722162850438
+  },
+  {
+   "id": "zNvtTKdlec23z9DZNBk7SA",
+   "alias": "fnac-paris-10",
+   "name": "Fnac",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gMrprlxcSCPy6JODomfo8A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fnac-paris-10?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 40,
+   "categories": [
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.32575276478755,
+    "Latitude": 48.8456090530875
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "136 rue de Rennes",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "136 rue de Rennes",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2288.714649254359
+  },
+  {
+   "id": "kKNK1qpGrIbxGEQK1q0g4A",
+   "alias": "fnac-paris-4",
+   "name": "Fnac",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1vPzLMRwdAG6oLVKTqEyQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fnac-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 39,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.294665,
+    "Latitude": 48.878806
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "26/30 avenue des Ternes",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "26/30 avenue des Ternes",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33825020020",
+   "display_phone": "+33 825 02 00 20",
+   "distance": 4879.241678591352
+  },
+  {
+   "id": "9jXKzIMFkMLrlZQXoKi8uA",
+   "alias": "boulinier-paris",
+   "name": "Boulinier",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pbcqGh0kFKVkEDnrFZHQ8g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/boulinier-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 35,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.34309,
+    "Latitude": 48.85171
+   },
+   "transactions": [],
+   "price": "€",
+   "location": {
+    "address1": "20 bd Saint Michel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "20 bd Saint Michel",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143269057",
+   "display_phone": "+33 1 43 26 90 57",
+   "distance": 870.1499837090671
+  },
+  {
+   "id": "tiP90Uc_E-igbaivpUuG4w",
+   "alias": "les-mots-à-la-bouche-paris-2",
+   "name": "Les Mots à la Bouche",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eK4pwrzBYEA__IeNPNmJEA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/les-mots-%C3%A0-la-bouche-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 28,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.35732,
+    "Latitude": 48.85768
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "6 rue Sainte-Croix la Bretonnerie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "6 rue Sainte-Croix la Bretonnerie",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142788830",
+   "display_phone": "+33 1 42 78 88 30",
+   "distance": 393.3559038451468
+  },
+  {
+   "id": "g7ceVj6dLb1NGIXb4JG40g",
+   "alias": "khai-tri-paris",
+   "name": "Khai Tri",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vueLj51NstoJuSfAP19YjA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/khai-tri-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 26,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "sandwiches",
+     "title": "Sandwiches"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.36226,
+    "Latitude": 48.82491
+   },
+   "transactions": [],
+   "price": "€",
+   "location": {
+    "address1": "93 avenue d'Ivry",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "93 avenue d'Ivry",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145821240",
+   "display_phone": "+33 1 45 82 12 40",
+   "distance": 3601.7683369880983
+  },
+  {
+   "id": "R8zQ5VrJ4ejHhrmau-Z1IQ",
+   "alias": "taschen-paris-3",
+   "name": "Taschen",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dsYtZfhNy16zK_klMdTx1g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/taschen-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 26,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.33691,
+    "Latitude": 48.85365
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "2 rue de Buci",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 rue de Buci",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140517922",
+   "display_phone": "+33 1 40 51 79 22",
+   "distance": 1165.7538605890338
+  },
+  {
+   "id": "08w8fPz1eUR4SFjwKcyDKw",
+   "alias": "artazart-paris",
+   "name": "Artazart",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uSQ3A2UG0Amh0ovogrVAVw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/artazart-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.36371,
+    "Latitude": 48.87289
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "83 quai de Valmy",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "83 quai de Valmy",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140402400",
+   "display_phone": "+33 1 40 40 24 00",
+   "distance": 1997.4719257720303
+  },
+  {
+   "id": "cv6lYFeQxQAP1DgV_943YQ",
+   "alias": "crocodisc-paris-2",
+   "name": "Crocodisc",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZfLfUee_W3xUL_JcQ5PU7w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/crocodisc-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.34612,
+    "Latitude": 48.84937
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "42 rue des Ecoles",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "42 rue des Ecoles",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143544795",
+   "display_phone": "+33 1 43 54 47 95",
+   "distance": 910.9778691201068
+  },
+  {
+   "id": "5M3S0mLyomh5DxIeaJ5W_Q",
+   "alias": "album-paris-6",
+   "name": "Album",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hqUxX535YNezX2mZXvY5tw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/album-paris-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.34571,
+    "Latitude": 48.85062
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "67 bd Saint Germain",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "67 bd Saint Germain",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153100060",
+   "display_phone": "+33 1 53 10 00 60",
+   "distance": 821.2903643557285
+  },
+  {
+   "id": "By8frRaWSKUt87GXJk_tZw",
+   "alias": "monster-mélodies-paris-2",
+   "name": "Monster Mélodies",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7TT64x1GBVsadPpCPkH95Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/monster-m%C3%A9lodies-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 23,
+   "categories": [
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.34601,
+    "Latitude": 48.8597
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "9 Rue Déchargeurs",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "9 Rue Déchargeurs",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140280939",
+   "display_phone": "+33 1 40 28 09 39",
+   "distance": 569.1146753888601
+  },
+  {
+   "id": "h1IfnZeu_JerSSyjNjOHkA",
+   "alias": "la-halle-saint-pierre-paris",
+   "name": "La Halle Saint-Pierre",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PGKjGrTQaerfuz7N_og9ZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-halle-saint-pierre-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 22,
+   "categories": [
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    },
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3443,
+    "Latitude": 48.88483
+   },
+   "transactions": [],
+   "price": "€",
+   "location": {
+    "address1": "2 rue Ronsard",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75018",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 rue Ronsard",
+     "75018 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142587289",
+   "display_phone": "+33 1 42 58 72 89",
+   "distance": 3159.2846636673207
+  },
+  {
+   "id": "hsvADrR6qpozzF4AkDX0zQ",
+   "alias": "fnac-paris",
+   "name": "Fnac",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Cz4Tl8_9ngmKOXnCCuYxqw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fnac-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 21,
+   "categories": [
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.30498895440429,
+    "Latitude": 48.871037663272
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "74 avenue des Champs-Élysées",
+    "address2": "",
+    "address3": "Galerie du Claridge",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "74 avenue des Champs-Élysées",
+     "Galerie du Claridge",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33825020020",
+   "display_phone": "+33 825 02 00 20",
+   "distance": 3808.37740133747
+  },
+  {
+   "id": "EvN2HLiJUiODEjXSXd8Odg",
+   "alias": "junkudo-paris",
+   "name": "Junkudo",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TSo8NmhyYpGiCB_UR9dF6Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/junkudo-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    },
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3335509,
+    "Latitude": 48.8655432
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "18 rue des Pyramides",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "18 rue des Pyramides",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142608912",
+   "display_phone": "+33 1 42 60 89 12",
+   "distance": 1688.2185050401633
+  },
+  {
+   "id": "SN_cen9IZDrnHMx1Ynu6nw",
+   "alias": "librairie-gourmande-paris",
+   "name": "Librairie Gourmande",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VeJCMdlElOzu4DZxN_DZ3g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/librairie-gourmande-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 18,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.34422,
+    "Latitude": 48.86703
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "92/96 rue Montmartre",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "92/96 rue Montmartre",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143543727",
+   "display_phone": "+33 1 43 54 37 27",
+   "distance": 1314.4444830635114
+  },
+  {
+   "id": "uDVQIF5HTB4TplqYALnpog",
+   "alias": "book-off-paris-2",
+   "name": "Book-Off",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bsxoGY8Bsewa2MKAGluxvQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/book-off-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 18,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    },
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.335342,
+    "Latitude": 48.868991
+   },
+   "transactions": [],
+   "price": "€",
+   "location": {
+    "address1": "11 rue Monsigny",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "11 rue Monsigny",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142600066",
+   "display_phone": "+33 1 42 60 00 66",
+   "distance": 1849.0835081667249
+  },
+  {
+   "id": "81Q8hQP-IYIBeqZ5JDDQzw",
+   "alias": "gibert-jeune-paris-9",
+   "name": "Gibert Jeune",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sCZAtQ7X5vmc3OmUlLQEQQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gibert-jeune-paris-9?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 18,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3534872,
+    "Latitude": 48.8693574
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "15 bis Boulevard St Denis",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "15 bis Boulevard St Denis",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33155347575",
+   "display_phone": "+33 1 55 34 75 75",
+   "distance": 1421.6781778968789
+  },
+  {
+   "id": "yXEhYYxNDxfdEkPXJHcORA",
+   "alias": "the-abbey-bookshop-paris-2",
+   "name": "The Abbey Bookshop",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/x4jVfFD9yCWk9OKQHxClRg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-abbey-bookshop-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 17,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.34446260967502,
+    "Latitude": 48.8518231248911
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "29 rue de la Parcheminerie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "29 rue de la Parcheminerie",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146331624",
+   "display_phone": "+33 1 46 33 16 24",
+   "distance": 776.2726548243994
+  },
+  {
+   "id": "koLtKlXiZE3cFqtI0LldOw",
+   "alias": "gibert-joseph-paris-6",
+   "name": "Gibert Joseph",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lBC_-JHl2XmigRdMLg6Iiw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gibert-joseph-paris-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 17,
+   "categories": [
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.342141,
+    "Latitude": 48.849974
+   },
+   "transactions": [],
+   "price": "€",
+   "location": {
+    "address1": "34 boulevard Saint-Michel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "34 boulevard Saint-Michel",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144418888",
+   "display_phone": "+33 1 44 41 88 88",
+   "distance": 1041.3870897356353
+  },
+  {
+   "id": "flfCXmrYiX472dTS3SkRCA",
+   "alias": "une-souris-et-des-hommes-paris",
+   "name": "Une Souris et des Hommes",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vSwK90_Uipz2LxqmxsktjQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/une-souris-et-des-hommes-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 16,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "tea",
+     "title": "Tea Rooms"
+    },
+    {
+     "alias": "breakfast_brunch",
+     "title": "Breakfast \u0026 Brunch"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.343584,
+    "Latitude": 48.8777992
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "17 rue de Maubeuge",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "17 rue de Maubeuge",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33981761774",
+   "display_phone": "+33 9 81 76 17 74",
+   "distance": 2440.0317179768685
+  },
+  {
+   "id": "3lrv33JNojwT3fxgIwScoQ",
+   "alias": "l-ecume-des-pages-paris-4",
+   "name": "L'Ecume des Pages",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vAE6jwhlYNK5yvsXiLUkKQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/l-ecume-des-pages-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 16,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.33239,
+    "Latitude": 48.8541
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "174 bd Saint-Germain",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "174 bd Saint-Germain",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145485448",
+   "display_phone": "+33 1 45 48 54 48",
+   "distance": 1475.7575061831647
+  },
+  {
+   "id": "9Af4B7M3k-E-uEMCV3IyrA",
+   "alias": "librairie-des-abbesses-paris-2",
+   "name": "Librairie des Abbesses",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wCW34S5ooxZVKSnzTEJeqA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/librairie-des-abbesses-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 15,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.33892,
+    "Latitude": 48.88434
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "30 rue Yvonne le Tac",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75018",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "30 rue Yvonne le Tac",
+     "75018 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146068430",
+   "display_phone": "+33 1 46 06 84 30",
+   "distance": 3232.96594887583
+  },
+  {
+   "id": "iO52hv10KJmDLyCbSd9r8A",
+   "alias": "opéra-bd-paris-2",
+   "name": "Opéra BD",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tSVsOXQkeJAB2nsIwC6VnQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/op%C3%A9ra-bd-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 14,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3674385,
+    "Latitude": 48.8537252
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "2 rue des Tournelles",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 rue des Tournelles",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144549512",
+   "display_phone": "+33 1 44 54 95 12",
+   "distance": 1159.805450424966
+  },
+  {
+   "id": "mXh5T_3qkHvaBYtIRFlNjg",
+   "alias": "le-barbouquin-paris-2",
+   "name": "Le Barbouquin",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/INl-JAIVyYOq-ilS5jR7Ig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-barbouquin-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 13,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3787811,
+    "Latitude": 48.871052
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "1 rue Dénoyez",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "1 rue Dénoyez",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33984321321",
+   "display_phone": "+33 9 84 32 13 21",
+   "distance": 2522.5160080070104
+  },
+  {
+   "id": "-1CKuQWpSR9npJ6wiJzL6A",
+   "alias": "ofr-librairie-galerie-paris",
+   "name": "Ofr. Librairie,Galerie",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8IOblNn33E8rqHGcqzgTOQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ofr-librairie-galerie-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 13,
+   "categories": [
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.3612979957818,
+    "Latitude": 48.865757733197
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "20 Rue Dupetit Thouars",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "20 Rue Dupetit Thouars",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142457288",
+   "display_phone": "+33 1 42 45 72 88",
+   "distance": 1216.5015495808163
+  },
+  {
+   "id": "Wvm9Rarab6CqJ7AdfcsXZw",
+   "alias": "librairie-de-paris-paris",
+   "name": "Librairie de Paris",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/J-ugns1nX_Zkkhq57CbhyA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/librairie-de-paris-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 13,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3272,
+    "Latitude": 48.88345
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "7 à 11 place de Clichy",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "7 à 11 place de Clichy",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145224781",
+   "display_phone": "+33 1 45 22 47 81",
+   "distance": 3501.0215447528394
+  },
+  {
+   "id": "uleKh4k1gfvotlfy6D9YNA",
+   "alias": "fnac-vélizy-villacoublay",
+   "name": "Fnac",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jzPY_gzry4YJnmw26DknMQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fnac-v%C3%A9lizy-villacoublay?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 13,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.221396,
+    "Latitude": 48.782729
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "2 avenue de l'Europe",
+    "address2": "",
+    "address3": "",
+    "city": "Vélizy-Villacoublay",
+    "zip_code": "78140",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "2 avenue de l'Europe",
+     "78140 Vélizy-Villacoublay",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33825020020",
+   "display_phone": "+33 825 02 00 20",
+   "distance": 12616.817186926923
+  },
+  {
+   "id": "UgG6bI_H54OLWYrR6JkTYw",
+   "alias": "millepages-vincennes",
+   "name": "Millepages",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8f6kiay_VOYvQKV6NlzfyQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/millepages-vincennes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "farmersmarket",
+     "title": "Farmers Market"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.43582,
+    "Latitude": 48.84834
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "91 rue Fontenay",
+    "address2": "",
+    "address3": "",
+    "city": "Vincennes",
+    "zip_code": "94300",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "91 rue Fontenay",
+     "94300 Vincennes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143280415",
+   "display_phone": "+33 1 43 28 04 15",
+   "distance": 6186.714037295922
+  },
+  {
+   "id": "HkfAu_46HYciu6vlt3sEvQ",
+   "alias": "le-merle-moqueur-paris",
+   "name": "Le Merle Moqueur",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TfjSGSvFDVV3R-BAtJtjjA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-merle-moqueur-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.39791,
+    "Latitude": 48.8571
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "51 rue de Bagnolet",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "51 rue de Bagnolet",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140090880",
+   "display_phone": "+33 1 40 09 08 80",
+   "distance": 3344.5283258183167
+  },
+  {
+   "id": "iIaK-9gg6xYrhi52f_mBDw",
+   "alias": "gibert-joseph-versailles-5",
+   "name": "Gibert Joseph",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NlSTNz0ApGFOieA4ecdabA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gibert-joseph-versailles-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "artsupplies",
+     "title": "Art Supplies"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.130408,
+    "Latitude": 48.8069056
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "62 Rue Paroisse",
+    "address2": "",
+    "address3": "",
+    "city": "Versailles",
+    "zip_code": "78000",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "62 Rue Paroisse",
+     "78000 Versailles",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33139201200",
+   "display_phone": "+33 1 39 20 12 00",
+   "distance": 17149.028949773616
+  },
+  {
+   "id": "KVPqK8Nqki0XqCtDsJdTeA",
+   "alias": "comme-un-roman-paris",
+   "name": "Comme un Roman",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ab0ElAicjZG4uh20c4i9VQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/comme-un-roman-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.362165,
+    "Latitude": 48.862929
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "39 rue de Bretagne",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "39 rue de Bretagne",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33979210680",
+   "display_phone": "+33 9 79 21 06 80",
+   "distance": 1013.262221809044
+  },
+  {
+   "id": "QKp1gLis4oDdoeibkMkE7g",
+   "alias": "l-arbre-à-lettres-paris-7",
+   "name": "L'arbre À Lettres",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/boVSm3Dcy5Ej8-nobbOUsg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/l-arbre-%C3%A0-lettres-paris-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.37343,
+    "Latitude": 48.85186
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "62 rue du Faubourg Saint Antoine",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "62 rue du Faubourg Saint Antoine",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153338323",
+   "display_phone": "+33 1 53 33 83 23",
+   "distance": 1637.803683623493
+  },
+  {
+   "id": "RMYFC4_bGsJ6OxZGO1AI8g",
+   "alias": "le-bal-paris",
+   "name": "Le Bal",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/00lHFNsWFDT-q91FH_7sEw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-bal-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.32721,
+    "Latitude": 48.8853
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "6 impasse de la Défense",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75018",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "6 impasse de la Défense",
+     "75018 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144707551",
+   "display_phone": "+33 1 44 70 75 51",
+   "distance": 3670.2811866032303
+  },
+  {
+   "id": "Hk0wp6P6eA-fBuHhEQobbQ",
+   "alias": "les-super-héros-paris-2",
+   "name": "Les Super Héros",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zBTX14Dee4UOU-k2Y3xQzg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/les-super-h%C3%A9ros-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.35212,
+    "Latitude": 48.86247
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "175 rue Saint-Martin",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "175 rue Saint-Martin",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142743474",
+   "display_phone": "+33 1 42 74 34 74",
+   "distance": 652.7397326507847
+  }
+ ],
+ "total": 761,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

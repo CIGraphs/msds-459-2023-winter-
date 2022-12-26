@@ -1,0 +1,1769 @@
+{
+ "businesses": [
+  {
+   "id": "yVJ1GbEFfdXkhuPQBkmORQ",
+   "alias": "aéroport-de-paris-charles-de-gaulle-roissy-en-france-2",
+   "name": "Aéroport de Paris Charles de Gaulle",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RXiZD2pmagrj28Y_xrb5_A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/a%C3%A9roport-de-paris-charles-de-gaulle-roissy-en-france-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 855,
+   "categories": [
+    {
+     "alias": "airports",
+     "title": "Airports"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.547929,
+    "Latitude": 49.009689
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Roissy-en-France",
+    "zip_code": "95700",
+    "country": "FR",
+    "state": "95",
+    "display_address": [
+     "95700 Roissy-en-France",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33170363950",
+   "display_phone": "+33 1 70 36 39 50",
+   "distance": 22230.488522671432
+  },
+  {
+   "id": "LrgUIhSTZEZEs1NGmT052A",
+   "alias": "hôtel-costes-paris-2",
+   "name": "Hôtel Costes",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/271krUD-Cvu01BY_S0YD-g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/h%C3%B4tel-costes-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 306,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "french",
+     "title": "French"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.32798,
+    "Latitude": 48.86675
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "239 rue Saint-Honoré",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "239 rue Saint-Honoré",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142445000",
+   "display_phone": "+33 1 42 44 50 00",
+   "distance": 2096.1722643886937
+  },
+  {
+   "id": "sDHKWnXRlkKNxl8Oil4ZZA",
+   "alias": "gare-du-nord-paris",
+   "name": "Gare du Nord",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MybsZxtgkn8KeP9Q-NAhnQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gare-du-nord-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 298,
+   "categories": [
+    {
+     "alias": "trainstations",
+     "title": "Train Stations"
+    },
+    {
+     "alias": "metrostations",
+     "title": "Metro Stations"
+    },
+    {
+     "alias": "publictransport",
+     "title": "Public Transportation"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.35555,
+    "Latitude": 48.881072
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "18 rue de Dunkerque",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "18 rue de Dunkerque",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2732.1686588139187
+  },
+  {
+   "id": "5mfD4AOe-XOA7h4rWiJJsQ",
+   "alias": "bateaux-parisiens-paris",
+   "name": "Bateaux Parisiens",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/A6fkYomRkxik5aX6ej_7tw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bateaux-parisiens-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 252,
+   "categories": [
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "boattours",
+     "title": "Boat Tours"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.293561,
+    "Latitude": 48.860385
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "Port de la Bourdonnais",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "Port de la Bourdonnais",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33825010101",
+   "display_phone": "+33 825 01 01 01",
+   "distance": 4310.472443594887
+  },
+  {
+   "id": "jwkx74KO5nLgkYmDj59IdA",
+   "alias": "fat-tire-tours-paris-3",
+   "name": "Fat Tire Tours",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5lLc5ayoU80RHEpwIzohDw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fat-tire-tours-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 235,
+   "categories": [
+    {
+     "alias": "biketours",
+     "title": "Bike tours"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.295222,
+    "Latitude": 48.852099
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "24 rue Edgar Faure",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "24 rue Edgar Faure",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33182888096",
+   "display_phone": "+33 1 82 88 80 96",
+   "distance": 4198.643294639869
+  },
+  {
+   "id": "Fpd_L6-1b4oJU79RXEO1uw",
+   "alias": "aéroport-de-paris-orly-ory-orly",
+   "name": "Aéroport de Paris-Orly - ORY",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wVIiV_XkjlYuSZj6Aow1Pw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/a%C3%A9roport-de-paris-orly-ory-orly?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 225,
+   "categories": [
+    {
+     "alias": "airports",
+     "title": "Airports"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.365225,
+    "Latitude": 48.726265
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Orly",
+    "zip_code": "94390",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "94390 Orly",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33149751515",
+   "display_phone": "+33 1 49 75 15 15",
+   "distance": 14523.949991219913
+  },
+  {
+   "id": "eqCi99EQxFwkTdt1AsXgYA",
+   "alias": "mama-shelter-paris",
+   "name": "Mama Shelter",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/b9JpAoID3eTR-E4ytgfRMw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mama-shelter-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 212,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.402735,
+    "Latitude": 48.859834
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "109 rue de Bagnolet",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "109 rue de Bagnolet",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143484848",
+   "display_phone": "+33 1 43 48 48 48",
+   "distance": 3714.477093584131
+  },
+  {
+   "id": "cejz5lZYBPrGcJze-NTCVA",
+   "alias": "the-westin-paris-vendôme-paris-2",
+   "name": "The Westin Paris - Vendôme",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qS66jNB3lpeBPkytl5zMEw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-westin-paris-vend%C3%B4me-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 159,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.327605,
+    "Latitude": 48.866702
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "3 Rue De Castiglione",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 Rue De Castiglione",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144771111",
+   "display_phone": "+33 1 44 77 11 11",
+   "distance": 2121.0549475320586
+  },
+  {
+   "id": "bEYEGawTbo4kkPUFeSJ-ew",
+   "alias": "le-méridien-etoile-paris-4",
+   "name": "Le Méridien Etoile",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EAfCDM14ZC9UYR89INPM3Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-m%C3%A9ridien-etoile-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 149,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.285531,
+    "Latitude": 48.879515
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "81 boulevard Gouvion Saint-Cyr",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "81 boulevard Gouvion Saint-Cyr",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140683434",
+   "display_phone": "+33 1 40 68 34 34",
+   "distance": 5501.973142801637
+  },
+  {
+   "id": "4atQTWEttU9UcrEPZTDcnQ",
+   "alias": "park-hyatt-paris-vendome-paris-3",
+   "name": "Park Hyatt Paris-Vendome",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lh3legNixqutBOJlU-Ep9Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/park-hyatt-paris-vendome-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 148,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.33058,
+    "Latitude": 48.86881
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "5 rue de la Paix",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "5 rue de la Paix",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33158711234",
+   "display_phone": "+33 1 58 71 12 34",
+   "distance": 2113.618760941429
+  },
+  {
+   "id": "2-An1nbb1UIfjKj8T8Ktew",
+   "alias": "bateaux-mouches-paris-3",
+   "name": "Bateaux Mouches",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ye3ZzeluurPOBWe2G2LO7Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bateaux-mouches-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 143,
+   "categories": [
+    {
+     "alias": "boatcharters",
+     "title": "Boat Charters"
+    },
+    {
+     "alias": "tours",
+     "title": "Tours"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.30173,
+    "Latitude": 48.86358
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Pont de l'Alma",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "Pont de l'Alma",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142259610",
+   "display_phone": "+33 1 42 25 96 10",
+   "distance": 3774.4550178411905
+  },
+  {
+   "id": "knkjCgNPFC45re1BZAP9jw",
+   "alias": "eurostar-paris",
+   "name": "Eurostar",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ow-PHPi9AslnB-hdRocn6A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/eurostar-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 135,
+   "categories": [
+    {
+     "alias": "trains",
+     "title": "Trains"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.355321,
+    "Latitude": 48.880956
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "18 rue de Dunkerque",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "18 rue de Dunkerque",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33892353539",
+   "display_phone": "+33 892 35 35 39",
+   "distance": 2717.8642651353493
+  },
+  {
+   "id": "NiD2VYwb5fwboN1xNn-EYQ",
+   "alias": "hôtel-pullman-paris-eiffel-tower-paris",
+   "name": "Hôtel Pullman Paris Eiffel Tower",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/O_8NudrOcZLU0gGVUblcoA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/h%C3%B4tel-pullman-paris-eiffel-tower-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 129,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.29328,
+    "Latitude": 48.85587
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "18 avenue de Suffren",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "18 avenue de Suffren",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144385600",
+   "display_phone": "+33 1 44 38 56 00",
+   "distance": 4356.321403513951
+  },
+  {
+   "id": "L_BRajWyXLT1b25V7VSRmA",
+   "alias": "paris-city-vision-paris",
+   "name": "Paris City Vision",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GRmkcucE9tJ0z16z3az79Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paris-city-vision-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 128,
+   "categories": [
+    {
+     "alias": "tours",
+     "title": "Tours"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.332459,
+    "Latitude": 48.864025
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2 rue des Pyramides",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 rue des Pyramides",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144556000",
+   "display_phone": "+33 1 44 55 60 00",
+   "distance": 1663.494224628038
+  },
+  {
+   "id": "bOwjT4UwNFIrF_TLOmjLvQ",
+   "alias": "gare-de-lyon-paris-2",
+   "name": "Gare de Lyon",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CktpAuzgx6yGoVep9xo-6Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gare-de-lyon-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 120,
+   "categories": [
+    {
+     "alias": "trainstations",
+     "title": "Train Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.374368,
+    "Latitude": 48.844308
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Place Louis Armand",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "Place Louis Armand",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2121.105362526072
+  },
+  {
+   "id": "r73ezZYVdox-M0TTFU2BYg",
+   "alias": "aéroport-de-paris-charles-de-gaulle-cdg-terminal-2f-roissy-en-france",
+   "name": "Aéroport de Paris Charles de Gaulle - CDG - Terminal 2F",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vTPbk8hxrGna-DYL2waI_Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/a%C3%A9roport-de-paris-charles-de-gaulle-cdg-terminal-2f-roissy-en-france?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 113,
+   "categories": [
+    {
+     "alias": "airportterminals",
+     "title": "Airport Terminals"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.577516,
+    "Latitude": 49.005504
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Roissy-en-France",
+    "zip_code": "95700",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "95700 Roissy-en-France",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33170363950",
+   "display_phone": "+33 1 70 36 39 50",
+   "distance": 23346.60882697799
+  },
+  {
+   "id": "2d_5q0cr_bAA3yF38gpzrw",
+   "alias": "four-seasons-hôtel-george-v-paris-2",
+   "name": "Four Seasons Hôtel George V",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/k1TdUEDug5Oi6xK-iLujqA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/four-seasons-h%C3%B4tel-george-v-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 110,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.300683,
+    "Latitude": 48.868864
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "31 avenue George V",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "31 avenue George V",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33149527000",
+   "display_phone": "+33 1 49 52 70 00",
+   "distance": 4007.677443272762
+  },
+  {
+   "id": "FNp0MwerjdjpehEJ4YZTWg",
+   "alias": "aéroport-de-paris-charles-de-gaulle-cdg-terminal-1-roissy-en-france",
+   "name": "Aéroport de Paris Charles de Gaulle - CDG - Terminal 1",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8wySOo99ngfpwaPDulMdxg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/a%C3%A9roport-de-paris-charles-de-gaulle-cdg-terminal-1-roissy-en-france?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 107,
+   "categories": [
+    {
+     "alias": "airportterminals",
+     "title": "Airport Terminals"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.542068,
+    "Latitude": 49.01425
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Roissy-en-France",
+    "zip_code": "95700",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "95700 Roissy-en-France",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33170363950",
+   "display_phone": "+33 1 70 36 39 50",
+   "distance": 22352.658616674737
+  },
+  {
+   "id": "17HwGif47TDOdfUVfRsGZQ",
+   "alias": "open-tour-paris-paris",
+   "name": "Open Tour Paris",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Kbf52G1m4tx4h9lu9erC3w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/open-tour-paris-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 97,
+   "categories": [
+    {
+     "alias": "bustours",
+     "title": "Bus Tours"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.3288385,
+    "Latitude": 48.8726524
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13 rue Auber",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "13 rue Auber",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142665656",
+   "display_phone": "+33 1 42 66 56 56",
+   "distance": 2471.0757631007114
+  },
+  {
+   "id": "b2R5prjjqT6pd7OlaJsxAQ",
+   "alias": "waldorf-astoria-versailles-trianon-palace-versailles",
+   "name": "Waldorf Astoria Versailles - Trianon Palace",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/e38YPZ5pINgGxvmASmzRxg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/waldorf-astoria-versailles-trianon-palace-versailles?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 94,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.120223,
+    "Latitude": 48.810669
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "1 boulevard de la Reine",
+    "address2": "",
+    "address3": "",
+    "city": "Versailles",
+    "zip_code": "78000",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "1 boulevard de la Reine",
+     "78000 Versailles",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33130845000",
+   "display_phone": "+33 1 30 84 50 00",
+   "distance": 17730.745633553346
+  },
+  {
+   "id": "H_gTR4vNhvxGHkYIyKYCVQ",
+   "alias": "hôtel-amour-paris-4",
+   "name": "Hôtel Amour",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6ZpLfQ2xt5Dy6qVewLVyow/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/h%C3%B4tel-amour-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 92,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.339369,
+    "Latitude": 48.879633
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "8 rue Navarin",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "8 rue Navarin",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148783180",
+   "display_phone": "+33 1 48 78 31 80",
+   "distance": 2727.686722268467
+  },
+  {
+   "id": "RMGSSveGYoqYwwuKALdl6Q",
+   "alias": "big-bus-tour-les-cars-rouges-paris",
+   "name": "Big Bus Tour  - Les Cars Rouges",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ycvz1Rd_2I2jL54pwpHppw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/big-bus-tour-les-cars-rouges-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 92,
+   "categories": [
+    {
+     "alias": "bustours",
+     "title": "Bus Tours"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.29665,
+    "Latitude": 48.84142
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153953953",
+   "display_phone": "+33 1 53 95 39 53",
+   "distance": 4635.68071136124
+  },
+  {
+   "id": "NWwHPYmS0Oo8JWywfrtMSw",
+   "alias": "hyatt-regency-paris-étoile-paris-6",
+   "name": "Hyatt Regency Paris Étoile",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RIS3MoJnAxhQ2QgZR3TeBA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hyatt-regency-paris-%C3%A9toile-paris-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 91,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.28455,
+    "Latitude": 48.88055
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "3 place du Général Kœnig",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 place du Général Kœnig",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140681234",
+   "display_phone": "+33 1 40 68 12 34",
+   "distance": 5626.913529214605
+  },
+  {
+   "id": "9tkjR8RxGLSHUmb7vcsodA",
+   "alias": "paris-marriott-rive-gauche-hotel-et-conference-center-paris",
+   "name": "Paris Marriott Rive Gauche Hotel \u0026 Conference Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DkMwgiQjX4Y0htGhk6IA7w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paris-marriott-rive-gauche-hotel-et-conference-center-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 89,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.33977138996124,
+    "Latitude": 48.8316042682311
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "17 boulevard Saint-Jacques",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75014",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "17 boulevard Saint-Jacques",
+     "75014 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140787980",
+   "display_phone": "+33 1 40 78 79 80",
+   "distance": 2924.4213957584966
+  },
+  {
+   "id": "MkTAm4wSNYJuWXLFohfVLg",
+   "alias": "gare-montparnasse-paris",
+   "name": "Gare Montparnasse",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wR53fk5bS303H04d4SAYRQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gare-montparnasse-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 89,
+   "categories": [
+    {
+     "alias": "trainstations",
+     "title": "Train Stations"
+    },
+    {
+     "alias": "publictransport",
+     "title": "Public Transportation"
+    },
+    {
+     "alias": "metrostations",
+     "title": "Metro Stations"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.320387,
+    "Latitude": 48.841021
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Place Raoul Dautry",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "Place Raoul Dautry",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2901.647581233081
+  },
+  {
+   "id": "R0zLGkbR5znfAl3J5VjMQg",
+   "alias": "aéroport-de-paris-charles-de-gaulle-cdg-terminal-2e-roissy-en-france",
+   "name": "Aéroport de Paris Charles de Gaulle - CDG - Terminal 2E",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/86EBIWz3o_YZ3G0CpSK7KA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/a%C3%A9roport-de-paris-charles-de-gaulle-cdg-terminal-2e-roissy-en-france?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 88,
+   "categories": [
+    {
+     "alias": "airportterminals",
+     "title": "Airport Terminals"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.578159,
+    "Latitude": 49.002839
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Roissy-en-France",
+    "zip_code": "95700",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "95700 Roissy-en-France",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 23171.145701455047
+  },
+  {
+   "id": "chEk0cD3XPqjB13FBdISmg",
+   "alias": "la-cuisine-paris-paris",
+   "name": "La Cuisine Paris",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4ZH-2PIlkhnBPPjMebkjYA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-cuisine-paris-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 87,
+   "categories": [
+    {
+     "alias": "foodtours",
+     "title": "Food Tours"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.35413,
+    "Latitude": 48.8547
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "80 quai de l'Hôtel de Ville",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "80 quai de l'Hôtel de Ville",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33961499795",
+   "display_phone": "+33 9 61 49 97 95",
+   "distance": 254.11220285516018
+  },
+  {
+   "id": "ZgMbiN1H8Ymuw3CWEazxoQ",
+   "alias": "paris-marriott-champs-elysées-hôtel-paris-3",
+   "name": "Paris Marriott Champs Elysées Hôtel",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0JAkxbQYPaG6xlXrmuI4jA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paris-marriott-champs-elys%C3%A9es-h%C3%B4tel-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 85,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.305222,
+    "Latitude": 48.871632
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "70 Avenue des Champs-Elysees",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "70 Avenue des Champs-Elysees",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153935500",
+   "display_phone": "+33 1 53 93 55 00",
+   "distance": 3821.3484649123416
+  },
+  {
+   "id": "N-opsWcFpJq35WWPasaVqw",
+   "alias": "benkay-paris",
+   "name": "Benkay",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hVC7Icp1N8gUrQD3o00V6A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/benkay-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 85,
+   "categories": [
+    {
+     "alias": "japanese",
+     "title": "Japanese"
+    },
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.2833,
+    "Latitude": 48.85005
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "61 quai de Grenelle",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "61 quai de Grenelle",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140582126",
+   "display_phone": "+33 1 40 58 21 26",
+   "distance": 5085.60032527213
+  },
+  {
+   "id": "4ZXq4PvTR4XqA3MJd4Lzxg",
+   "alias": "vedettes-du-pont-neuf-paris",
+   "name": "Vedettes du Pont Neuf",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rIp_crMUfxSnf3wI1dnNbw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vedettes-du-pont-neuf-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 78,
+   "categories": [
+    {
+     "alias": "boatcharters",
+     "title": "Boat Charters"
+    },
+    {
+     "alias": "boattours",
+     "title": "Boat Tours"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.34,
+    "Latitude": 48.8575
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 square du Vert Galant",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "1 square du Vert Galant",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146339838",
+   "display_phone": "+33 1 46 33 98 38",
+   "distance": 898.1388066722008
+  },
+  {
+   "id": "LGd_FjTyzmiP_39QqyiHng",
+   "alias": "my-driver-in-paris-by-stéphane-nancy-romainville-26",
+   "name": "My Driver In Paris by Stéphane Nancy",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/U9uFgmWUR4JmGtFJ-TnH4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/my-driver-in-paris-by-st%C3%A9phane-nancy-romainville-26?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 78,
+   "categories": [
+    {
+     "alias": "limos",
+     "title": "Limos"
+    },
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    },
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.43748,
+    "Latitude": 48.88178
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4 allée des Saisons",
+    "address2": "",
+    "address3": "",
+    "city": "Romainville",
+    "zip_code": "93230",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "4 allée des Saisons",
+     "93230 Romainville",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33771706050",
+   "display_phone": "+33 7 71 70 60 50",
+   "distance": 6875.174194674913
+  },
+  {
+   "id": "1y6Dn3BER5k7luSB4cC_8A",
+   "alias": "hilton-paris-charles-de-gaulle-airport-roissy-3",
+   "name": "Hilton Paris Charles de Gaulle Airport",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/njsQpUTSLPs8RSnEsyoJCw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hilton-paris-charles-de-gaulle-airport-roissy-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 78,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.558038,
+    "Latitude": 49.009996
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "Roissypôle",
+    "address2": "Rue de Rome",
+    "address3": "",
+    "city": "Roissy",
+    "zip_code": "95708",
+    "country": "FR",
+    "state": "95",
+    "display_address": [
+     "Roissypôle",
+     "Rue de Rome",
+     "95708 Roissy",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33149197777",
+   "display_phone": "+33 1 49 19 77 77",
+   "distance": 22738.026672420983
+  },
+  {
+   "id": "FwuVMqWho1lgv5emW3btfQ",
+   "alias": "gare-de-l-est-paris-4",
+   "name": "Gare de l'Est",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kaml_qekDP5pnZBeg-VTKw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gare-de-l-est-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 76,
+   "categories": [
+    {
+     "alias": "trainstations",
+     "title": "Train Stations"
+    },
+    {
+     "alias": "metrostations",
+     "title": "Metro Stations"
+    },
+    {
+     "alias": "publictransport",
+     "title": "Public Transportation"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.35929620635989,
+    "Latitude": 48.876946742005
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "Place du 11 Novembre 1918",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "Place du 11 Novembre 1918",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2321.229429772731
+  },
+  {
+   "id": "a3GCCRQ7TOAw0AaDMyq8UA",
+   "alias": "hilton-paris-opera-paris-2",
+   "name": "Hilton Paris Opera",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kuooU-sRjp7516DHECJ5Lg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hilton-paris-opera-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 73,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.325526,
+    "Latitude": 48.875693
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "108 rue Saint-Lazare",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "108 rue Saint-Lazare",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140084444",
+   "display_phone": "+33 1 40 08 44 44",
+   "distance": 2883.4194130581172
+  },
+  {
+   "id": "diz63cxV5g20y9OiaBRHrQ",
+   "alias": "citizenm-paris-charles-de-gaulle-airport-hotel-tremblay-en-france",
+   "name": "citizenM Paris Charles de Gaulle Airport Hotel",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Zssf6qQTrhWRVYMye6qjPg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/citizenm-paris-charles-de-gaulle-airport-hotel-tremblay-en-france?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.556202,
+    "Latitude": 49.009445
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "7 rue de Rome",
+    "address2": "",
+    "address3": "",
+    "city": "Tremblay-en-France",
+    "zip_code": "93290",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "7 rue de Rome",
+     "93290 Tremblay-en-France",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33178902653",
+   "display_phone": "+33 1 78 90 26 53",
+   "distance": 22603.51360113251
+  },
+  {
+   "id": "4o0QFbQAVOP0gUqwGZQHAg",
+   "alias": "le-capitaine-fracasse-paris-2",
+   "name": "Le Capitaine Fracasse",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sHZR24xl008ncroqRleyiw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-capitaine-fracasse-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "restaurants",
+     "title": "Restaurants"
+    },
+    {
+     "alias": "hotelstravel",
+     "title": "Hotels \u0026 Travel"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.28772,
+    "Latitude": 48.8556
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "Ile au Cygnes",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "Ile au Cygnes",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146214815",
+   "display_phone": "+33 1 46 21 48 15",
+   "distance": 4718.724444460441
+  },
+  {
+   "id": "53WQZb0mzC_BGRVfGH1Bxg",
+   "alias": "hôtel-mercure-paris-centre-tour-eiffel-paris",
+   "name": "Hôtel Mercure Paris Centre Tour Eiffel",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LfEu7jAkhmpga17y3L87NQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/h%C3%B4tel-mercure-paris-centre-tour-eiffel-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 70,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.292314,
+    "Latitude": 48.854876
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "20 rue Jean Rey",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "20 rue Jean Rey",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145785000",
+   "display_phone": "+33 1 45 78 50 00",
+   "distance": 4385.536487187289
+  },
+  {
+   "id": "W5gfGdQQlxvPsbEKCfiMhA",
+   "alias": "bike-about-tours-paris",
+   "name": "Bike About Tours",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/O8SqTcpjcqSFeodsxNBt2A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bike-about-tours-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 68,
+   "categories": [
+    {
+     "alias": "tours",
+     "title": "Tours"
+    },
+    {
+     "alias": "bikerentals",
+     "title": "Bike Rentals"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.355904,
+    "Latitude": 48.855544
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17 rue du Pont Louis Philippe",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "17 rue du Pont Louis Philippe",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33618808492",
+   "display_phone": "+33 6 18 80 84 92",
+   "distance": 295.33439540314873
+  },
+  {
+   "id": "J9PYk--QbivBJ63VXNOlGQ",
+   "alias": "uber-paris-3",
+   "name": "Uber",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5nx2k9zL0iwNi3bvysFFKQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/uber-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 68,
+   "categories": [
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.33371090888977,
+    "Latitude": 48.8633766174316
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1754.8298778888018
+  },
+  {
+   "id": "GUcqpMYgieYhgOcwIuScgg",
+   "alias": "l-hôtel-du-collectionneur-paris",
+   "name": "L'Hôtel du Collectionneur",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nFhJEpM2kc7gqrt0AUz4oA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/l-h%C3%B4tel-du-collectionneur-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 66,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.30683,
+    "Latitude": 48.877122
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "51-57 rue de Courcelles",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "51-57 rue de Courcelles",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33158366700",
+   "display_phone": "+33 1 58 36 67 00",
+   "distance": 4027.4468195587006
+  }
+ ],
+ "total": 3200,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

@@ -1,0 +1,1813 @@
+{
+ "businesses": [
+  {
+   "id": "LHz7tG9DdWjoc4UMMLTUnw",
+   "alias": "tucker-pups-pet-resort-chicago",
+   "name": "Tucker Pup's Pet Resort",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WQNHL-AqvbnaTitqrxzhGA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tucker-pups-pet-resort-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 835,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6533113,
+    "Latitude": 41.8862102
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "219 N Carpenter St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "219 N Carpenter St",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128298787",
+   "display_phone": "(312) 829-8787",
+   "distance": 2145.1870063366305
+  },
+  {
+   "id": "sd3lCI6Px1qaHGSiwqcIfw",
+   "alias": "medvet-chicago-chicago-2",
+   "name": "MedVet Chicago",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/i43qmJuX2ZHgjmOfQn4FRA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/medvet-chicago-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 762,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.69712,
+    "Latitude": 41.94173
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3305 N California Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3305 N California Ave",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732817110",
+   "display_phone": "(773) 281-7110",
+   "distance": 9005.209159958284
+  },
+  {
+   "id": "jx_2wzX8oRPQ-UfgWXFKwQ",
+   "alias": "the-anti-cruelty-society-chicago",
+   "name": "The Anti-Cruelty Society",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RBQP9KON38X9MXI82_hP7g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-anti-cruelty-society-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 421,
+   "categories": [
+    {
+     "alias": "animalshelters",
+     "title": "Animal Shelters"
+    },
+    {
+     "alias": "nonprofit",
+     "title": "Community Service/Non-Profit"
+    },
+    {
+     "alias": "petadoption",
+     "title": "Pet Adoption"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.632829271552,
+    "Latitude": 41.891442493682
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "510 N LaSalle St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "510 N LaSalle St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126448338",
+   "display_phone": "(312) 644-8338",
+   "distance": 1504.6605862054078
+  },
+  {
+   "id": "Hd1IAqxo9NBC_1AKutQyLw",
+   "alias": "anything-is-pawzible-chicago",
+   "name": "Anything Is Pawzible",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dBk7SL69-LUkphohOklIdw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/anything-is-pawzible-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 410,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.7274307299685,
+    "Latitude": 41.942700497888794
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3358 N Pulaski Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60641",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3358 N Pulaski Rd",
+     "Chicago, IL 60641"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739197297",
+   "display_phone": "(773) 919-7297",
+   "distance": 10810.567508297912
+  },
+  {
+   "id": "R3iUIv8JGRDMaAcbzw7Qkw",
+   "alias": "24petwatch-rolling-meadows",
+   "name": "24PetWatch",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mjutmRSc11nGFdC1-FV9Zw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/24petwatch-rolling-meadows?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 405,
+   "categories": [
+    {
+     "alias": "petinsurance",
+     "title": "Pet Insurance"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -88.020028,
+    "Latitude": 42.06031
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3315 Algonquin Rd",
+    "address2": "Ste 450",
+    "address3": "",
+    "city": "Rolling Meadows",
+    "zip_code": "60008",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3315 Algonquin Rd",
+     "Ste 450",
+     "Rolling Meadows, IL 60008"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18665972424",
+   "display_phone": "(866) 597-2424",
+   "distance": 38096.047304973756
+  },
+  {
+   "id": "J0gu2UTKpaILwD69qj5j4g",
+   "alias": "paws-chicago-adoption-center-chicago-2",
+   "name": "PAWS Chicago Adoption Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ws84DZ3nigEw6xoGFplQpg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paws-chicago-adoption-center-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 398,
+   "categories": [
+    {
+     "alias": "animalshelters",
+     "title": "Animal Shelters"
+    },
+    {
+     "alias": "petadoption",
+     "title": "Pet Adoption"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6587829589844,
+    "Latitude": 41.9178657531738
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1997 N Clybourn",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1997 N Clybourn",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739357297",
+   "display_phone": "(773) 935-7297",
+   "distance": 5023.007375064903
+  },
+  {
+   "id": "0hFKXaIUHc1U-2kbOxGcWg",
+   "alias": "vca-blum-animal-hospital-chicago",
+   "name": "VCA Blum Animal Hospital",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3VoOoWjdxxhheQV6ChYKng/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vca-blum-animal-hospital-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 365,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.650971703283,
+    "Latitude": 41.940528474893
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3219 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3219 N Clark St",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732327351",
+   "display_phone": "(773) 232-7351",
+   "distance": 7159.3975298156
+  },
+  {
+   "id": "6ihooo3vlf5cxxCit7EqtQ",
+   "alias": "animal-welfare-league-chicago-ridge",
+   "name": "Animal Welfare League",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rRBKnkK6f7EJvwtHjLuXKw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/animal-welfare-league-chicago-ridge?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 354,
+   "categories": [
+    {
+     "alias": "animalshelters",
+     "title": "Animal Shelters"
+    },
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.787704,
+    "Latitude": 41.703628
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10305 Southwest Hwy",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago Ridge",
+    "zip_code": "60415",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "10305 Southwest Hwy",
+     "Chicago Ridge, IL 60415"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17086368586",
+   "display_phone": "(708) 636-8586",
+   "distance": 23412.78457414167
+  },
+  {
+   "id": "3VHMa9z7BSntYxCzGTtgCA",
+   "alias": "felines-and-canines-chicago",
+   "name": "Felines \u0026 Canines",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aDutvXmYR9H7F1QYeUPvvA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/felines-and-canines-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 343,
+   "categories": [
+    {
+     "alias": "animalshelters",
+     "title": "Animal Shelters"
+    },
+    {
+     "alias": "petadoption",
+     "title": "Pet Adoption"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.671641,
+    "Latitude": 41.9979327
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6379 N Paulina St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60660",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "6379 N Paulina St",
+     "Chicago, IL 60660"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734654132",
+   "display_phone": "(773) 465-4132",
+   "distance": 13766.882207897235
+  },
+  {
+   "id": "K8iyzVBc5SzALilHaJHtYg",
+   "alias": "veterinary-specialty-center-bannockburn",
+   "name": "Veterinary Specialty Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BdpWJWcRRRYaJ294KjRIUg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/veterinary-specialty-center-bannockburn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 338,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.85701929999999,
+    "Latitude": 42.19035231579878
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2051 Waukegan Road",
+    "address2": "",
+    "address3": "",
+    "city": "Bannockburn",
+    "zip_code": "60015",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2051 Waukegan Road",
+     "Bannockburn, IL 60015"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18474597535",
+   "display_phone": "(847) 459-7535",
+   "distance": 39467.609901164185
+  },
+  {
+   "id": "T5Du3Sg0CP4ZZrD49gXg7g",
+   "alias": "vca-animal-care-center-of-chicago-chicago",
+   "name": "VCA Animal Care Center of Chicago",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tahgtLJvyQqXNXF9-n7Hkw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vca-animal-care-center-of-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 297,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.65857,
+    "Latitude": 41.88323
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1248 W Washington Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1248 W Washington Blvd",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122436655",
+   "display_phone": "(312) 243-6655",
+   "distance": 2453.4121430501664
+  },
+  {
+   "id": "0tJ9G9LApIUuY6yZXFvQFw",
+   "alias": "west-loop-veterinary-care-chicago",
+   "name": "West Loop Veterinary Care",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x1ITJAw4cf8-GpR8Q6ubXg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/west-loop-veterinary-care-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 293,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "petservices",
+     "title": "Pet Services"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.648292,
+    "Latitude": 41.884098
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "815 W Randolph St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "815 W Randolph St",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124212275",
+   "display_phone": "(312) 421-2275",
+   "distance": 1661.7919380935805
+  },
+  {
+   "id": "SJ5FsKENTBB7sMacrQu8nQ",
+   "alias": "figo-pet-insurance-chicago",
+   "name": "Figo Pet Insurance",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UYQ3N-AHhKuBAV__E4sLZg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/figo-pet-insurance-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 276,
+   "categories": [
+    {
+     "alias": "petinsurance",
+     "title": "Pet Insurance"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.63513,
+    "Latitude": 41.89213
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18447383446",
+   "display_phone": "(844) 738-3446",
+   "distance": 1723.3451471325557
+  },
+  {
+   "id": "Q8QLofojBBRFY-gJ22auoQ",
+   "alias": "elmhurst-animal-care-center-elmhurst",
+   "name": "Elmhurst Animal Care Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7fGCJjRv0GVduiliYFykwg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/elmhurst-animal-care-center-elmhurst?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 269,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.960645,
+    "Latitude": 41.8726395
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "850 S Riverside Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Elmhurst",
+    "zip_code": "60126",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "850 S Riverside Dr",
+     "Elmhurst, IL 60126"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16305301900",
+   "display_phone": "(630) 530-1900",
+   "distance": 27399.18572791535
+  },
+  {
+   "id": "b36jd-_xwGUAx8O9As1kWA",
+   "alias": "metropolitan-veterinary-center-chicago",
+   "name": "Metropolitan Veterinary Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_HCjUgmGxCzgMpaRLOfr9g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/metropolitan-veterinary-center-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 263,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.62434027786335,
+    "Latitude": 41.86041785509789
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1556 S Michigan Ave Ste100",
+    "address2": "Ste100",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1556 S Michigan Ave Ste100",
+     "Ste100",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127577809",
+   "display_phone": "(312) 757-7809",
+   "distance": 2017.4674807292633
+  },
+  {
+   "id": "kbpPgkiMJtCYZbO03Q4yJA",
+   "alias": "uptown-animal-hospital-chicago",
+   "name": "Uptown Animal Hospital",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FcO8RalQmLtfmJuvz9AQhA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/uptown-animal-hospital-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 263,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6682926296986,
+    "Latitude": 41.982952909897286
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5545 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5545 N Clark St",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735610734",
+   "display_phone": "(773) 561-0734",
+   "distance": 12086.112342452587
+  },
+  {
+   "id": "Wa-iViFKjLTWcep0f4pzVA",
+   "alias": "south-loop-animal-hospital-chicago",
+   "name": "South Loop Animal Hospital",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EpihhrM5T4FRkrzWkerHxQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/south-loop-animal-hospital-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 256,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.624435,
+    "Latitude": 41.859008
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1640 S Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60616",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1640 S Michigan Ave",
+     "Chicago, IL 60616"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127535551",
+   "display_phone": "(312) 753-5551",
+   "distance": 2169.363568415848
+  },
+  {
+   "id": "8qF4uw1JKI7fg-LtKewy-A",
+   "alias": "premier-veterinary-group-chicago-chicago-2",
+   "name": "Premier Veterinary Group - Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/g-C-kjOplr-iGUIN8L1q9A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/premier-veterinary-group-chicago-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 249,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.7253901958466,
+    "Latitude": 41.9389989091386
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3927 W Belmont Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3927 W Belmont Ave",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735165800",
+   "display_phone": "(773) 516-5800",
+   "distance": 10412.895240984873
+  },
+  {
+   "id": "8l_b4zMUwPK2rQ0KO911hA",
+   "alias": "pocket-puppies-chicago-2",
+   "name": "Pocket Puppies",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HVcGYGLU9kINx8XD5m1Z4A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pocket-puppies-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 243,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6414927,
+    "Latitude": 41.9276027
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2479 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2479 N Clark St",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738571519",
+   "display_phone": "(773) 857-1519",
+   "distance": 5593.2804434063755
+  },
+  {
+   "id": "vQZFWZpsw3sP4w7Tv1Bdzg",
+   "alias": "petsmart-chicago-6",
+   "name": "PetSmart",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SJBO4oc53PR4gB0OnxuqtA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsmart-chicago-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 235,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6845,
+    "Latitude": 41.93058
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2665 N Elston Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2665 N Elston Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17733421300",
+   "display_phone": "(773) 342-1300",
+   "distance": 7385.483077355613
+  },
+  {
+   "id": "ORq7SNEgmLb1tzf6rNtHKw",
+   "alias": "pets-first-veterinary-clinic-chicago-3",
+   "name": "Pets First Veterinary Clinic",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/X7G15mGUjSNmZ_jbuKfLdg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pets-first-veterinary-clinic-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 232,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6449653438892,
+    "Latitude": 41.9427274207149
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3413 N Broadway St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3413 N Broadway St",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739048724",
+   "display_phone": "(773) 904-8724",
+   "distance": 7294.985042933766
+  },
+  {
+   "id": "o9ZhV7GLv6psE33cSu0c3A",
+   "alias": "wicker-park-veterinary-clinic-chicago",
+   "name": "Wicker Park Veterinary Clinic",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oPrlae9CMPYQ43HAlpTttg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wicker-park-veterinary-clinic-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 232,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6660799,
+    "Latitude": 41.90278
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1166 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1166 N Milwaukee Ave",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732279700",
+   "display_phone": "(773) 227-9700",
+   "distance": 4074.119167449942
+  },
+  {
+   "id": "mI5zgRyprEukW0HKcio7cg",
+   "alias": "found-chicago-boarding-and-training-center-chicago",
+   "name": "Found Chicago Boarding and Training Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/etDCDkoHesptvemTVPfeRQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/found-chicago-boarding-and-training-center-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 229,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.693414,
+    "Latitude": 41.9561973
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4108A N Rockwell St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4108A N Rockwell St",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735393880",
+   "display_phone": "(773) 539-3880",
+   "distance": 10154.634324844932
+  },
+  {
+   "id": "JLfri_7bgUJE-q_pb42_2A",
+   "alias": "duke-animal-hospital-chicago-4",
+   "name": "Duke Animal Hospital",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Bty3kF5KSg_-z88PrOMBfA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/duke-animal-hospital-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 223,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6688951,
+    "Latitude": 41.9536334
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3941 N Ashland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60613",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3941 N Ashland Ave",
+     "Chicago, IL 60613"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736979757",
+   "display_phone": "(773) 697-9757",
+   "distance": 9002.310464852057
+  },
+  {
+   "id": "WmMrMxKRp3PTIJiOgIYLGw",
+   "alias": "bark-bark-club-chicago-2",
+   "name": "Bark Bark Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ezRJvmkjx5bTVJvsIm4RHA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bark-bark-club-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 217,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "dogwalkers",
+     "title": "Dog Walkers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.65991,
+    "Latitude": 41.9905
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5943 N Broadway Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60660",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5943 N Broadway Ave",
+     "Chicago, IL 60660"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739898807",
+   "display_phone": "(773) 989-8807",
+   "distance": 12730.040896764825
+  },
+  {
+   "id": "vYftGZBxO2kQjIM69OEEZA",
+   "alias": "krisers-natural-pet-chicago-9",
+   "name": "Kriser's Natural Pet",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/t8x4vL12pcrUp0SvPTL8hQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/krisers-natural-pet-chicago-9?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 217,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.65546,
+    "Latitude": 41.939785
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1033 W Belmont Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1033 W Belmont Ave",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732441600",
+   "display_phone": "(773) 244-1600",
+   "distance": 7180.214508556354
+  },
+  {
+   "id": "OZVJ5rcHoJparuYg68PYLw",
+   "alias": "village-west-veterinary-chicago",
+   "name": "Village West Veterinary",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ceEaIvB0fzMJgrRQJko5iQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/village-west-veterinary-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 212,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.687256,
+    "Latitude": 41.896861
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "840 N. Western Ave.",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "840 N. Western Ave.",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736977052",
+   "display_phone": "(773) 697-7052",
+   "distance": 5189.244409051996
+  },
+  {
+   "id": "MxXYPhdx3bmVQzuFTtBlSQ",
+   "alias": "petsmart-chicago-5",
+   "name": "PetSmart",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MCtWdk-jkOZlMR9pIAHwsA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsmart-chicago-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 209,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6390835,
+    "Latitude": 41.868685
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1101 S Canal St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1101 S Canal St",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125880138",
+   "display_phone": "(312) 588-0138",
+   "distance": 1394.304019289337
+  },
+  {
+   "id": "ykT9pwoVk-bn08Pfl9yHbQ",
+   "alias": "pet-care-plus-chicago-4",
+   "name": "Pet Care Plus",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MkKcFp_QuXI0Jnk16_ffPw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pet-care-plus-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 202,
+   "categories": [
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.664971,
+    "Latitude": 41.888006
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "350 N Laflin St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "350 N Laflin St",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123979077",
+   "display_phone": "(312) 397-9077",
+   "distance": 3113.0369495596688
+  },
+  {
+   "id": "8NhudEQiuvFjJUBv2r0V8A",
+   "alias": "vca-ark-animal-hospital-chicago-3",
+   "name": "VCA Ark Animal Hospital",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ns7hvdzKg9-M51b89a6jRQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vca-ark-animal-hospital-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 201,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.7074364,
+    "Latitude": 41.9402951
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3235 N Kedzie Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3235 N Kedzie Ave",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734426500",
+   "display_phone": "(773) 442-6500",
+   "distance": 9439.417644746018
+  },
+  {
+   "id": "hzOygC4Xt8Ti6oo0IoKiGQ",
+   "alias": "jameson-loves-danger-chicago",
+   "name": "Jameson Loves Danger",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wfZUvo7ho8XKqM2swch76A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jameson-loves-danger-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 201,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.66866,
+    "Latitude": 41.976525
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5208 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5208 N Clark St",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737548816",
+   "display_phone": "(773) 754-8816",
+   "distance": 11406.257828802858
+  },
+  {
+   "id": "u583AtaJauo2IOFUy9TelQ",
+   "alias": "animal-medical-center-of-chicago-chicago",
+   "name": "Animal Medical Center of Chicago",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CN5YBsMGjrK8QpdlUP4ELQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/animal-medical-center-of-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 200,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "animalholistic",
+     "title": "Holistic Animal Care"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6692067638064,
+    "Latitude": 41.9324974281504
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1618 W Diversey Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1618 W Diversey Pkwy",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735253353",
+   "display_phone": "(773) 525-3353",
+   "distance": 6871.838324122976
+  },
+  {
+   "id": "g-THxnMMwIBOIG3jyd5nOw",
+   "alias": "roscoe-village-animal-hospital-chicago",
+   "name": "Roscoe Village Animal Hospital",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RU7Sxid26Zj4nzg2xxepvQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/roscoe-village-animal-hospital-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 198,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6863708496094,
+    "Latitude": 41.938606262207
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3131 N Clybourn Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3131 N Clybourn Ave",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735493131",
+   "display_phone": "(773) 549-3131",
+   "distance": 8196.616826724896
+  },
+  {
+   "id": "6S9SOo0kZ9p4cO3N4_pibw",
+   "alias": "family-pet-animal-hospital-chicago",
+   "name": "Family Pet Animal Hospital",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rcoKN1BMj_vBWJlaoDaCGw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/family-pet-animal-hospital-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 196,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.663343,
+    "Latitude": 41.9214437
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1401 W Webster Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1401 W Webster Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739352311",
+   "display_phone": "(773) 935-2311",
+   "distance": 5564.6215790273645
+  },
+  {
+   "id": "SYHHIi_oXSrxCuYjHDv2zQ",
+   "alias": "meeow-chicago-chicago",
+   "name": "Meeow Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IkXyMEImh-airMJk4zzmZw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/meeow-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 195,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.66401,
+    "Latitude": 41.914954
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1765 N Elston Ave",
+    "address2": "Unit 104",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1765 N Elston Ave",
+     "Unit 104",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739177848",
+   "display_phone": "(773) 917-7848",
+   "distance": 4981.039359114807
+  },
+  {
+   "id": "tVy5iD_nz1NUJP4vRbhyGw",
+   "alias": "midwest-animal-hospital-orland-park",
+   "name": "Midwest Animal Hospital",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/crX3AaWojBy1WlKUAlBWfg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/midwest-animal-hospital-orland-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 195,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.8906506441803,
+    "Latitude": 41.555195930134985
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11205 W 183rd Pl",
+    "address2": "",
+    "address3": "",
+    "city": "Orland Park",
+    "zip_code": "60467",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "11205 W 183rd Pl",
+     "Orland Park, IL 60467"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17084787788",
+   "display_phone": "(708) 478-7788",
+   "distance": 41927.79857427029
+  },
+  {
+   "id": "d_DEeNxkufnt4MQKtzULdA",
+   "alias": "tree-house-humane-society-chicago",
+   "name": "Tree House Humane Society",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RghuACbiZ81e_98CpZCZ5A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tree-house-humane-society-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 194,
+   "categories": [
+    {
+     "alias": "animalshelters",
+     "title": "Animal Shelters"
+    },
+    {
+     "alias": "petadoption",
+     "title": "Pet Adoption"
+    },
+    {
+     "alias": "nonprofit",
+     "title": "Community Service/Non-Profit"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.68982,
+    "Latitude": 42.01299
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7225 N Western Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60645",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "7225 N Western Ave",
+     "Chicago, IL 60645"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732624000",
+   "display_phone": "(773) 262-4000",
+   "distance": 15818.969597666712
+  },
+  {
+   "id": "NUKDUjfoKTISsp3M3Su2Wg",
+   "alias": "higgins-animal-clinic-chicago",
+   "name": "Higgins Animal Clinic",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sM0csEBigpURXnDD8nH7Hw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/higgins-animal-clinic-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 191,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6714,
+    "Latitude": 41.93938
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1705 W Belmont Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1705 W Belmont Ave",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735250472",
+   "display_phone": "(773) 525-0472",
+   "distance": 7638.511574345229
+  },
+  {
+   "id": "mTstcnagCRk7QEo0EnOCnA",
+   "alias": "countryside-veterinary-center-countryside-2",
+   "name": "Countryside Veterinary Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Yf4O1LgyrCWBa1WJzjh92w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/countryside-veterinary-center-countryside-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 183,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.86510391827906,
+    "Latitude": 41.78992585692619
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9823 W 55th St",
+    "address2": "",
+    "address3": "",
+    "city": "Countryside",
+    "zip_code": "60525",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "9823 W 55th St",
+     "Countryside, IL 60525"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17084696050",
+   "display_phone": "(708) 469-6050",
+   "distance": 21821.351371921173
+  },
+  {
+   "id": "cMpiu3l0dupil9KNKdMscg",
+   "alias": "stay-dog-hotel-chicago",
+   "name": "Stay Dog Hotel",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Dhy6frvyC8bg9XFprgnYrA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/stay-dog-hotel-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 179,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6933181,
+    "Latitude": 41.9568623
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4130 N Rockwell St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4130 N Rockwell St",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735090001",
+   "display_phone": "(773) 509-0001",
+   "distance": 10213.842624075527
+  }
+ ],
+ "total": 2100,
+ "region": {
+  "center": {
+   "longitude": -87.6298,
+   "Latitude": 41.8781
+  }
+ }
+}

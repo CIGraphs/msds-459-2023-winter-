@@ -1,0 +1,1714 @@
+{
+ "businesses": [
+  {
+   "id": "uaWVJlV0DHkWiaVS2kQ92A",
+   "alias": "space-needle-seattle",
+   "name": "Space Needle",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MzxQrw4W2UfLwqstFfFXFQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/space-needle-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2904,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    },
+    {
+     "alias": "observatories",
+     "title": "Observatories"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.34927519983081,
+    "Latitude": 47.62050398689415
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "400 Broad St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "400 Broad St",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12069052100",
+   "display_phone": "(206) 905-2100",
+   "distance": 2046.2913067211557
+  },
+  {
+   "id": "DtiSFz1gp1tcI2RtIeUVbg",
+   "alias": "seattle-public-library-central-library-seattle-2",
+   "name": "Seattle Public Library - Central Library",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kJkT_N5kKp_4BbM9sKYypw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-public-library-central-library-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 565,
+   "categories": [
+    {
+     "alias": "libraries",
+     "title": "Libraries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.332693934441,
+    "Latitude": 47.6066296107625
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1000 Fourth Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1000 Fourth Ave",
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063864636",
+   "display_phone": "(206) 386-4636",
+   "distance": 65.3045334610306
+  },
+  {
+   "id": "2baNAu-fPc9j51RrgKNkfg",
+   "alias": "hiram-m-chittenden-locks-seattle",
+   "name": "Hiram M Chittenden Locks",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_5MHBEj8dFpv1zv-PAJ64Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hiram-m-chittenden-locks-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 439,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3971838018895,
+    "Latitude": 47.66551014983961
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3015 NW 54th St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "3015 NW 54th St",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067802500",
+   "display_phone": "(206) 780-2500",
+   "distance": 8202.113820108394
+  },
+  {
+   "id": "DXUfodR9mjY-lmU9arA9Ng",
+   "alias": "washington-state-ferries-seattle",
+   "name": "Washington State Ferries",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0geX6mYWoF8KqOM4Qw4WJQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/washington-state-ferries-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 267,
+   "categories": [
+    {
+     "alias": "publicservicesgovt",
+     "title": "Public Services \u0026 Government"
+    },
+    {
+     "alias": "ferries",
+     "title": "Ferries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.35183,
+    "Latitude": 47.61822
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2901 3rd Ave",
+    "address2": "Ste 500",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2901 3rd Ave",
+     "Ste 500",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065153400",
+   "display_phone": "(206) 515-3400",
+   "distance": 1966.520213011384
+  },
+  {
+   "id": "SayLPK_bCetEXhBSrtU9kg",
+   "alias": "seattle-center-armory-seattle",
+   "name": "Seattle Center Armory",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-_GrjZbavbwlliXqQsKVIQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-center-armory-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 152,
+   "categories": [
+    {
+     "alias": "food_court",
+     "title": "Food Court"
+    },
+    {
+     "alias": "communitycenters",
+     "title": "Community Centers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.350912163161,
+    "Latitude": 47.6215593390743
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "305 Harrison St",
+    "address2": "",
+    "address3": "Seattle Center",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "305 Harrison St",
+     "Seattle Center",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066847200",
+   "display_phone": "(206) 684-7200",
+   "distance": 2214.802132483424
+  },
+  {
+   "id": "FISNITQau2WQNGmYdkx0hQ",
+   "alias": "washington-state-department-of-licensing-seattle",
+   "name": "Washington State Department of Licensing",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vUivDnzWbkwJe2kLTGLkrg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/washington-state-department-of-licensing-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 147,
+   "categories": [
+    {
+     "alias": "departmentsofmotorvehicles",
+     "title": "Departments of Motor Vehicles"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.360425,
+    "Latitude": 47.622291
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "450 3rd Ave W",
+    "address2": "Ste 100",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98119",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "450 3rd Ave W",
+     "Ste 100",
+     "Seattle, WA 98119"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064646845",
+   "display_phone": "(206) 464-6845",
+   "distance": 2776.5698893066924
+  },
+  {
+   "id": "BbC6nc9_FsxpPoqJacLgYQ",
+   "alias": "bellevue-library-bellevue-2",
+   "name": "Bellevue Library",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RAgk0612Z6VdrOdLs9mv_g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bellevue-library-bellevue-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 112,
+   "categories": [
+    {
+     "alias": "libraries",
+     "title": "Libraries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.19431,
+    "Latitude": 47.6201
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1111 110th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98004",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1111 110th Ave NE",
+     "Bellevue, WA 98004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254501765",
+   "display_phone": "(425) 450-1765",
+   "distance": 10447.830352099638
+  },
+  {
+   "id": "joLqpXS0Jnmnf7uVLNkNFA",
+   "alias": "us-post-office-seattle-69",
+   "name": "US Post Office",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zWD0YR_uaXkoootT8LAEyA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-seattle-69?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 111,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.312963295947,
+    "Latitude": 47.6596124001767
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4244 University Way NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98105",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4244 University Way NE",
+     "Seattle, WA 98105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066758114",
+   "display_phone": "(206) 675-8114",
+   "distance": 6109.83448339076
+  },
+  {
+   "id": "Tv73Q9sx43oiYZMTMlRpBQ",
+   "alias": "us-post-office-redmond-7",
+   "name": "US Post Office",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lNC1V-gWlHhJGBHgnyZwWg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-redmond-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 98,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    },
+    {
+     "alias": "shipping_centers",
+     "title": "Shipping Centers"
+    },
+    {
+     "alias": "mailboxcenters",
+     "title": "Mailbox Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.09506,
+    "Latitude": 47.66968
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7241 185th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Redmond",
+    "zip_code": "98052",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "7241 185th Ave NE",
+     "Redmond, WA 98052"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258693690",
+   "display_phone": "(425) 869-3690",
+   "distance": 19120.96302033301
+  },
+  {
+   "id": "kfOYWTa4ZyKnmTkE3VpQCA",
+   "alias": "shoreline-department-of-licensing-shoreline",
+   "name": "Shoreline Department of Licensing",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_A9bwdI9pTmfB49GBbLIhA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shoreline-department-of-licensing-shoreline?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 96,
+   "categories": [
+    {
+     "alias": "departmentsofmotorvehicles",
+     "title": "Departments of Motor Vehicles"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.347629347941,
+    "Latitude": 47.7446858507891
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15809 Westminster Way N",
+    "address2": "",
+    "address3": "",
+    "city": "Shoreline",
+    "zip_code": "98133",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15809 Westminster Way N",
+     "Shoreline, WA 98133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256708375",
+   "display_phone": "(425) 670-8375",
+   "distance": 15442.739025835313
+  },
+  {
+   "id": "qazjI3OJ_CZyT5qoKGIh1g",
+   "alias": "seattle-police-department-seattle",
+   "name": "Seattle Police Department",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l9u9pRzMBYH5ZjmY0dwfwA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-police-department-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 95,
+   "categories": [
+    {
+     "alias": "policedepartments",
+     "title": "Police Departments"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.32918,
+    "Latitude": 47.6042
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "610 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98124",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "610 5th Ave",
+     "Seattle, WA 98124"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066255011",
+   "display_phone": "(206) 625-5011",
+   "distance": 317.642180659987
+  },
+  {
+   "id": "55ksTn67MbFMA6MOBO5daQ",
+   "alias": "pioneer-square-seattle",
+   "name": "Pioneer Square",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/R8sjg3rWDxAkeCfxuPq2ZA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pioneer-square-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 85,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.32869,
+    "Latitude": 47.60324
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066670687",
+   "display_phone": "(206) 667-0687",
+   "distance": 516.6227250361715
+  },
+  {
+   "id": "CnzYKFR1acH3v0sE1OULTQ",
+   "alias": "us-post-office-kirkland-7",
+   "name": "US Post Office",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mDxFyqzxzwr9aeLNMm6Rfw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-kirkland-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 84,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.1956561,
+    "Latitude": 47.6782548
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "721 4th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Kirkland",
+    "zip_code": "98033",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "721 4th Ave",
+     "Kirkland, WA 98033"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14257396727",
+   "display_phone": "(425) 739-6727",
+   "distance": 13061.717109668103
+  },
+  {
+   "id": "0d3ORuJldMJDDoV7MCGu1Q",
+   "alias": "us-post-office-bellevue-14",
+   "name": "US Post Office",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EXCaK4XKsybr4EYl-x9sNA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-bellevue-14?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 83,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    },
+    {
+     "alias": "shipping_centers",
+     "title": "Shipping Centers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.17563,
+    "Latitude": 47.61947
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "12224 NE Bel Red Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98005",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "12224 NE Bel Red Rd",
+     "Bellevue, WA 98005"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254535655",
+   "display_phone": "(425) 453-5655",
+   "distance": 11830.859011781286
+  },
+  {
+   "id": "Guom9QJAX-d4anrK4saSuw",
+   "alias": "volunteer-park-water-tower-seattle",
+   "name": "Volunteer Park Water Tower",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/R-UWcjWpyz4VYS57vbUr1g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/volunteer-park-water-tower-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 81,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3126449,
+    "Latitude": 47.6314277
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1247 15th Ave E",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98102",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1247 15th Ave E",
+     "Seattle, WA 98102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066844555",
+   "display_phone": "(206) 684-4555",
+   "distance": 2857.3103126915485
+  },
+  {
+   "id": "swgL2yQ8urZ8dUwlXzOTEw",
+   "alias": "international-fountain-seattle",
+   "name": "International Fountain",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/d-4cq-gHwTVpefWYr6xJKw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/international-fountain-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 81,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.35202729702,
+    "Latitude": 47.6225227241452
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "305 Harrison St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "305 Harrison St",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066847200",
+   "display_phone": "(206) 684-7200",
+   "distance": 2350.621869604378
+  },
+  {
+   "id": "jqLEIK_uDS9_gevmUSqAzQ",
+   "alias": "us-post-office-issaquah-3",
+   "name": "US Post Office",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/d5EgrtqyVEUqCORJu0Dtpg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-issaquah-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 78,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.04245,
+    "Latitude": 47.54225
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "400 NW Gilman Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Issaquah",
+    "zip_code": "98027",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "400 NW Gilman Blvd",
+     "Issaquah, WA 98027"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258378795",
+   "display_phone": "(425) 837-8795",
+   "distance": 22862.76495180294
+  },
+  {
+   "id": "ejuMRGbR8HERGvFuzyezGw",
+   "alias": "washington-state-department-of-licensing-seattle-2",
+   "name": "Washington State Department of Licensing",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-6MrY3olDVHae3X0MCvOOg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/washington-state-department-of-licensing-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 77,
+   "categories": [
+    {
+     "alias": "departmentsofmotorvehicles",
+     "title": "Departments of Motor Vehicles"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.363922,
+    "Latitude": 47.523612
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8830 25th Ave SW",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98106",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "8830 25th Ave SW",
+     "Seattle, WA 98106"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067644144",
+   "display_phone": "(206) 764-4144",
+   "distance": 9488.654549298511
+  },
+  {
+   "id": "UGnEvCB9E1sCHqTgNOMEzQ",
+   "alias": "department-of-licensing-lynnwood-lynnwood",
+   "name": "Department of Licensing - Lynnwood",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vXV6IAXWgzKcX9PlOoZDbQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/department-of-licensing-lynnwood-lynnwood?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 76,
+   "categories": [
+    {
+     "alias": "departmentsofmotorvehicles",
+     "title": "Departments of Motor Vehicles"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.3021613,
+    "Latitude": 47.834842
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "18023 Hwy 99 N",
+    "address2": "Ste E",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98037",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "18023 Hwy 99 N",
+     "Ste E",
+     "Lynnwood, WA 98037"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256723406",
+   "display_phone": "(425) 672-3406",
+   "distance": 25522.254523308435
+  },
+  {
+   "id": "ZCp5MBenGOLZJcIytYqVFA",
+   "alias": "us-post-office-seattle-70",
+   "name": "US Post Office",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/b6OfK5sEYREQ6M2ElmC4aA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-seattle-70?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 69,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    },
+    {
+     "alias": "shipping_centers",
+     "title": "Shipping Centers"
+    },
+    {
+     "alias": "mailboxcenters",
+     "title": "Mailbox Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.35579,
+    "Latitude": 47.62285
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "415 1st Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "415 1st Ave N",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062820544",
+   "display_phone": "(206) 282-0544",
+   "distance": 2578.339154053266
+  },
+  {
+   "id": "XsZpjaXVMqfLQScHWOqzng",
+   "alias": "washington-state-department-of-licensing-renton",
+   "name": "Washington State Department of Licensing",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/888Iy_tDwo8eheGreu9aeg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/washington-state-department-of-licensing-renton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 68,
+   "categories": [
+    {
+     "alias": "departmentsofmotorvehicles",
+     "title": "Departments of Motor Vehicles"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.163742,
+    "Latitude": 47.504398
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1314 Union Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Renton",
+    "zip_code": "98059",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1314 Union Ave NE",
+     "Renton, WA 98059"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252777230",
+   "display_phone": "(425) 277-7230",
+   "distance": 16961.43722497614
+  },
+  {
+   "id": "E0ifRSSo5HKogy7K_GfKHw",
+   "alias": "us-post-office-seattle-61",
+   "name": "US Post Office",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Thavh5iKWC0KYhYp5dEWeQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-seattle-61?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 67,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    },
+    {
+     "alias": "mailboxcenters",
+     "title": "Mailbox Centers"
+    },
+    {
+     "alias": "shipping_centers",
+     "title": "Shipping Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.34111,
+    "Latitude": 47.66246
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1329 N 47th St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1329 N 47th St",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065471406",
+   "display_phone": "(206) 547-1406",
+   "distance": 6288.755167791694
+  },
+  {
+   "id": "NKcqcTFGH568Nwk9_Eg12w",
+   "alias": "us-post-office-kent-13",
+   "name": "US Post Office",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DFL16sw2eLozbdutaPaoEQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-kent-13?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 67,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.199605641513,
+    "Latitude": 47.387146491864
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10612 SE 240th St",
+    "address2": "",
+    "address3": "",
+    "city": "Kent",
+    "zip_code": "98031",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "10612 SE 240th St",
+     "Kent, WA 98031"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12538501459",
+   "display_phone": "(253) 850-1459",
+   "distance": 26312.973166022864
+  },
+  {
+   "id": "Inj2DLRFqTaPpYrm-2gVzQ",
+   "alias": "us-post-office-bellevue-12",
+   "name": "US Post Office",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tYuMLpY8kncqrl88Rw5mDw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-bellevue-12?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 66,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    },
+    {
+     "alias": "shipping_centers",
+     "title": "Shipping Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.172607421875,
+    "Latitude": 47.5776138305664
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "12400 SE 38th St",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98006",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "12400 SE 38th St",
+     "Bellevue, WA 98006"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 12374.234531739732
+  },
+  {
+   "id": "IAumYw1Hs-cnHqLeHQWB7Q",
+   "alias": "university-license-agency-seattle",
+   "name": "University License Agency",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qNevjUYuW3J2bfZFnKyE6g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/university-license-agency-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 65,
+   "categories": [
+    {
+     "alias": "notaries",
+     "title": "Notaries"
+    },
+    {
+     "alias": "departmentsofmotorvehicles",
+     "title": "Departments of Motor Vehicles"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.31738,
+    "Latitude": 47.66984
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5615 Roosevelt Way NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98105",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5615 Roosevelt Way NE",
+     "Seattle, WA 98105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065222166",
+   "display_phone": "(206) 522-2166",
+   "distance": 7161.866007293981
+  },
+  {
+   "id": "tSH_fkt-AF5-sZxQltOrHQ",
+   "alias": "us-post-office-seattle-78",
+   "name": "US Post Office",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JXIZbSUtBum3I69SMWMVrg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-seattle-78?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 61,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.29009,
+    "Latitude": 47.68546
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7724 35th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98115",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "7724 35th Ave NE",
+     "Seattle, WA 98115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065278896",
+   "display_phone": "(206) 527-8896",
+   "distance": 9361.756309282406
+  },
+  {
+   "id": "rTFGZJUXxEWYEQkDNUUA2Q",
+   "alias": "redmond-library-redmond",
+   "name": "Redmond Library",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FxOdcpXov8QF2rwSWQt2xw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/redmond-library-redmond?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 60,
+   "categories": [
+    {
+     "alias": "libraries",
+     "title": "Libraries"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.128044510995,
+    "Latitude": 47.6789096303501
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15990 NE 85th St",
+    "address2": "",
+    "address3": "",
+    "city": "Redmond",
+    "zip_code": "98052",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15990 NE 85th St",
+     "Redmond, WA 98052"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258851861",
+   "display_phone": "(425) 885-1861",
+   "distance": 17293.664037995695
+  },
+  {
+   "id": "FC4waoon0JsRWGzD-HnzPQ",
+   "alias": "usps-seattle-7",
+   "name": "USPS",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PWu7b2MeRABFSrdc1l2H3g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/usps-seattle-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 60,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.36722,
+    "Latitude": 47.52418
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2721 SW Trenton St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98126",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2721 SW Trenton St",
+     "Seattle, WA 98126"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12069387769",
+   "display_phone": "(206) 938-7769",
+   "distance": 9495.41348566928
+  },
+  {
+   "id": "zsTYePPxb-cFyc7PyPwxig",
+   "alias": "us-post-office-renton-8",
+   "name": "US Post Office",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ytjl5FHztNelnxJZ1WzFNA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-renton-8?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 58,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.16084,
+    "Latitude": 47.4877899
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4301 NE 4th St",
+    "address2": "",
+    "address3": "",
+    "city": "Renton",
+    "zip_code": "98059",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4301 NE 4th St",
+     "Renton, WA 98059"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252276304",
+   "display_phone": "(425) 227-6304",
+   "distance": 18380.971337330026
+  },
+  {
+   "id": "OfBdBIP0a0uQYaAIBWeZ-Q",
+   "alias": "us-post-office-snohomish-2",
+   "name": "US Post Office",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EOTGQu5IattJZXMafC2_kQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-snohomish-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 58,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.09743,
+    "Latitude": 47.92812
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1323 Avenue D",
+    "address2": "",
+    "address3": "",
+    "city": "Snohomish",
+    "zip_code": "98290",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1323 Avenue D",
+     "Snohomish, WA 98290"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13605680904",
+   "display_phone": "(360) 568-0904",
+   "distance": 39862.796515387614
+  },
+  {
+   "id": "CMX_9HNOEmC5NCpRC-gZ7A",
+   "alias": "us-post-office-mill-creek-3",
+   "name": "US Post Office",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6Ck9UpxMgSC5B_gWkWFqsg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-mill-creek-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 57,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    },
+    {
+     "alias": "shipping_centers",
+     "title": "Shipping Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.219322,
+    "Latitude": 47.853858
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15833 Mill Creek Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Mill Creek",
+    "zip_code": "98012",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15833 Mill Creek Blvd",
+     "Mill Creek, WA 98012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14253798698",
+   "display_phone": "(425) 379-8698",
+   "distance": 28808.13965387835
+  },
+  {
+   "id": "X7b_1YAPG3Gck3rpCSyENw",
+   "alias": "164th-street-artesian-well-lynnwood",
+   "name": "164th Street Artesian Well",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mfdzvw3WOe6eO0klESxtdQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/164th-street-artesian-well-lynnwood?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 55,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.265612378729,
+    "Latitude": 47.8501265948749
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2399 164th St SW",
+    "address2": "",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98046",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2399 164th St SW",
+     "Lynnwood, WA 98046"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 27575.481848463423
+  },
+  {
+   "id": "f3NULnEddxBNC4ggRXslAQ",
+   "alias": "us-post-office-seattle-63",
+   "name": "US Post Office",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ikOuVsMN8mpXfWSUsonPfA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-seattle-63?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 55,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.34613,
+    "Latitude": 47.73371
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "929 N 145th St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98133",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "929 N 145th St",
+     "Seattle, WA 98133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063640663",
+   "display_phone": "(206) 364-0663",
+   "distance": 14217.421493609074
+  },
+  {
+   "id": "Mgx7RYxSd8PalwEttzxoXw",
+   "alias": "seattle-public-library-ballard-branch-seattle-2",
+   "name": "Seattle Public Library - Ballard Branch",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/naB3gpiRa2-jwcnMA7Riew/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-public-library-ballard-branch-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "libraries",
+     "title": "Libraries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.38454736121,
+    "Latitude": 47.6696485252722
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5614 22nd Ave NW",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5614 22nd Ave NW",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066844089",
+   "display_phone": "(206) 684-4089",
+   "distance": 8075.691890554801
+  },
+  {
+   "id": "xpM3Wn7x3JpUjhR4ZBM0Jw",
+   "alias": "bruce-lee-and-brandon-lee-gravesite-seattle",
+   "name": "Bruce Lee and Brandon Lee Gravesite",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/e8gny_bkUfj6o36gq_TvRg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bruce-lee-and-brandon-lee-gravesite-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.31583,
+    "Latitude": 47.633783
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1554 15th Ave E",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1554 15th Ave E",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063221582",
+   "display_phone": "(206) 322-1582",
+   "distance": 3300.614175359168
+  },
+  {
+   "id": "S84RyDve2YIprE-Alby_mw",
+   "alias": "us-post-office-auburn-auburn",
+   "name": "US Post Office - Auburn",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ppNuTgCfqsg36i_cNPd__g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-auburn-auburn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 52,
+   "categories": [
+    {
+     "alias": "shipping_centers",
+     "title": "Shipping Centers"
+    },
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    },
+    {
+     "alias": "couriers",
+     "title": "Couriers \u0026 Delivery Services"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.2300616,
+    "Latitude": 47.3105983
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11 3rd St NW",
+    "address2": "",
+    "address3": "",
+    "city": "Auburn",
+    "zip_code": "98002",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "11 3rd St NW",
+     "Auburn, WA 98002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18002758777",
+   "display_phone": "(800) 275-8777",
+   "distance": 33752.71312406089
+  },
+  {
+   "id": "XeZQhaYV9JuCUEp5NZTAqw",
+   "alias": "evergreen-point-floating-bridge-seattle",
+   "name": "Evergreen Point Floating Bridge",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bG36FvePd-yOIQQNnb9c1w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/evergreen-point-floating-bridge-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 51,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.26375671151,
+    "Latitude": 47.6409794661934
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "State Rte 520",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98127",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "State Rte 520",
+     "Seattle, WA 98127"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 6418.0064076720655
+  },
+  {
+   "id": "7zaKl9WIKPCqlxXC0839_g",
+   "alias": "kent-licensing-agency-kent",
+   "name": "Kent Licensing Agency",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EL310iHcUAlw20iKQYlNCQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kent-licensing-agency-kent?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 47,
+   "categories": [
+    {
+     "alias": "departmentsofmotorvehicles",
+     "title": "Departments of Motor Vehicles"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.24787,
+    "Latitude": 47.37859
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "331 Washington Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Kent",
+    "zip_code": "98032",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "331 Washington Ave S",
+     "Kent, WA 98032"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12538523110",
+   "display_phone": "(253) 852-3110",
+   "distance": 26075.514360135876
+  },
+  {
+   "id": "aWrMaugOj7y7bvlRC1jUwg",
+   "alias": "us-post-office-lynnwood-7",
+   "name": "US Post Office",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XDmeBpbkpaYetevRl6l4jA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/us-post-office-lynnwood-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 47,
+   "categories": [
+    {
+     "alias": "postoffices",
+     "title": "Post Offices"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.325124740601,
+    "Latitude": 47.8108993176052
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6817 208th St SW",
+    "address2": "",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98036",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "6817 208th St SW",
+     "Lynnwood, WA 98036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14257783447",
+   "display_phone": "(425) 778-3447",
+   "distance": 22767.483146001345
+  },
+  {
+   "id": "-h4J7PKpXWRdTEMgNfJSrg",
+   "alias": "town-hall-seattle",
+   "name": "Town Hall",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HO2378cVk1NWVrj_VwmSNw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/town-hall-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 46,
+   "categories": [
+    {
+     "alias": "townhall",
+     "title": "Town Hall"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.32994,
+    "Latitude": 47.60901
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1119 8th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1119 8th Ave",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066524255",
+   "display_phone": "(206) 652-4255",
+   "distance": 362.5293520931072
+  }
+ ],
+ "total": 618,
+ "region": {
+  "center": {
+   "longitude": -122.3321,
+   "Latitude": 47.6062
+  }
+ }
+}

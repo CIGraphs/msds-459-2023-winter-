@@ -1,0 +1,1938 @@
+{
+ "businesses": [
+  {
+   "id": "OKO2WCseGqEBwj_obKETHA",
+   "alias": "slate-ny-new-york",
+   "name": "Slate NY",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Fxl3IFh3HcWwACgE3MUUEA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/slate-ny-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1090,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.99319539999999,
+    "Latitude": 40.741233515243344
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "54 W 21st St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "54 W 21st St",
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129890096",
+   "display_phone": "(212) 989-0096",
+   "distance": 3340.7071203746445
+  },
+  {
+   "id": "pauzxYTDwDHUPqlIaf5Uqw",
+   "alias": "le-bain-new-york",
+   "name": "Le Bain",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dZxDg617d1l2EH5IwFr8FA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-bain-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 992,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.0077186606505,
+    "Latitude": 40.7409813648682
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "444 West 13th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "444 West 13th St",
+     "New York, NY 10014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126457600",
+   "display_phone": "(212) 645-7600",
+   "distance": 3150.0921908406226
+  },
+  {
+   "id": "uURLk6br8ifI63dqbPnzjA",
+   "alias": "webster-hall-new-york",
+   "name": "Webster Hall",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FxaNC4ohKwAfTkChtRPH6g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/webster-hall-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 987,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9891926,
+    "Latitude": 40.7316609
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "125 E 11th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "125 E 11th St",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2530.727608877022
+  },
+  {
+   "id": "dy3JvLV06a4CyuMjoGkF1g",
+   "alias": "il-bastardo-new-york-4",
+   "name": "Il Bastardo",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/grUSTfsr-ZdiEyZG1rvKVA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/il-bastardo-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 943,
+   "categories": [
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.004502,
+    "Latitude": 40.7507594094088
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "544 W 27th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "544 W 27th St",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126755980",
+   "display_phone": "(212) 675-5980",
+   "distance": 4222.775921536159
+  },
+  {
+   "id": "RyEd54MOTc5OcYtOiDt11g",
+   "alias": "iguana-restaurant-and-dance-lounge-new-york",
+   "name": "Iguana Restaurant \u0026 Dance Lounge",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a3VIDmIf_3zs57NeScTg_w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/iguana-restaurant-and-dance-lounge-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 936,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "mexican",
+     "title": "Mexican"
+    },
+    {
+     "alias": "tex-mex",
+     "title": "Tex-Mex"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9832105,
+    "Latitude": 40.7642063
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "240 W 54th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "240 W 54th St",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127655454",
+   "display_phone": "(212) 765-5454",
+   "distance": 6029.9728787804315
+  },
+  {
+   "id": "S3T5lIRgXv2zZF964XjIiA",
+   "alias": "terminal-5-new-york",
+   "name": "Terminal 5",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jVA2vkAGywlHlvy9d9kstQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/terminal-5-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 813,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9927673339844,
+    "Latitude": 40.7697105407715
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "610 W 56th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "610 W 56th St",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125826600",
+   "display_phone": "(212) 582-6600",
+   "distance": 6426.588784867192
+  },
+  {
+   "id": "f0QreVur1bLIdTDRpQPlvw",
+   "alias": "solas-new-york",
+   "name": "Solas",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6ghuHJrtp4Wq-Ko-r2raQA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/solas-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 727,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.988074,
+    "Latitude": 40.72973
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "232 E 9th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "232 E 9th St",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123750297",
+   "display_phone": "(212) 375-0297",
+   "distance": 2413.7307172250635
+  },
+  {
+   "id": "nnSyjwIkhbJIBMiBtch_BQ",
+   "alias": "kimoto-rooftop-brooklyn-5",
+   "name": "Kimoto Rooftop",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6_-ZWMIayaZfxnj19mCZQA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kimoto-rooftop-brooklyn-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 683,
+   "categories": [
+    {
+     "alias": "asianfusion",
+     "title": "Asian Fusion"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9846554,
+    "Latitude": 40.6915156530047
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "228 Duffield St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "228 Duffield St",
+     "Brooklyn, NY 11201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188588940",
+   "display_phone": "(718) 858-8940",
+   "distance": 2973.012972662095
+  },
+  {
+   "id": "a3O2KzK6rh8VZNq1jhz81Q",
+   "alias": "the-delancey-new-york",
+   "name": "The Delancey",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lKuAOG9lQo_AMAMnWCst-g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-delancey-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 639,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.98528,
+    "Latitude": 40.71803
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "168 Delancey St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "168 Delancey St",
+     "New York, NY 10002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122549920",
+   "display_phone": "(212) 254-9920",
+   "distance": 1840.953887976518
+  },
+  {
+   "id": "H3yngaYc0esyW0VsAxXxtg",
+   "alias": "taj-lounge-new-york",
+   "name": "Taj Lounge",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/g1edGQAp0H2YkaxMigBq5A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/taj-lounge-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 574,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.99285,
+    "Latitude": 40.74115
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "48 W 21st St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "48 W 21st St",
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126203033",
+   "display_phone": "(212) 620-3033",
+   "distance": 3339.756416145315
+  },
+  {
+   "id": "hrswGldQVdR9OJRtqp0TxA",
+   "alias": "gonzalez-y-gonzalez-new-york-2",
+   "name": "Gonzalez y Gonzalez",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yx8RgMUpIBNVyMIwycj3cA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gonzalez-y-gonzalez-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 566,
+   "categories": [
+    {
+     "alias": "mexican",
+     "title": "Mexican"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9972339217213,
+    "Latitude": 40.7261303289736
+   },
+   "transactions": [
+    "delivery",
+    "restaurant_reservation",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "192 Mercer St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "192 Mercer St",
+     "New York, NY 10012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124738787",
+   "display_phone": "(212) 473-8787",
+   "distance": 1656.1657877230534
+  },
+  {
+   "id": "ok8VAxxZLd05RNEX88GzFg",
+   "alias": "beauty-bar-new-york",
+   "name": "Beauty Bar",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Z5ISxURyREsseWdGVhrn_g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beauty-bar-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 556,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.985710144043,
+    "Latitude": 40.7329864501953
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "231 E 14th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "231 E 14th St",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125391389",
+   "display_phone": "(212) 539-1389",
+   "distance": 2814.832359030337
+  },
+  {
+   "id": "uliHe54-rYwTPaYGqV3_Gw",
+   "alias": "phd-rooftop-lounge-new-york-4",
+   "name": "PHD Rooftop Lounge at Dream Downtown",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2vdGAQfLzkzUBm_fz_jhXg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/phd-rooftop-lounge-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 552,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.00352203010202,
+    "Latitude": 40.742171092179746
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "355 W 16th St",
+    "address2": "",
+    "address3": "Dream Downtown",
+    "city": "New York City",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "355 W 16th St",
+     "Dream Downtown",
+     "New York City, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122292511",
+   "display_phone": "(212) 229-2511",
+   "distance": 3272.5811474902644
+  },
+  {
+   "id": "7OwoncdLdUlwh6JMwSz_GQ",
+   "alias": "the-top-of-the-standard-new-york",
+   "name": "The Top of the Standard",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RIez81AE43JAM03OBhXksQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-top-of-the-standard-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 521,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.008074,
+    "Latitude": 40.740828
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$$$",
+   "location": {
+    "address1": "848 Washington St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "848 Washington St",
+     "New York, NY 10014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126457600",
+   "display_phone": "(212) 645-7600",
+   "distance": 3134.341386473382
+  },
+  {
+   "id": "TZ4x0TUE5cIjwH2Qk6VJRQ",
+   "alias": "bembe-brooklyn-6",
+   "name": "Bembe",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EdH8M_jHoZa4jKcWS8VlLw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bembe-brooklyn-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 507,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9651565551758,
+    "Latitude": 40.7111015319824
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "81 S 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11249",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "81 S 6th St",
+     "Brooklyn, NY 11249"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183875389",
+   "display_phone": "(718) 387-5389",
+   "distance": 3445.963174909125
+  },
+  {
+   "id": "_YhIR55QAoVLJQg_p65FgA",
+   "alias": "marquee-new-york-new-york-2",
+   "name": "Marquee New York",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EmC1kBInttw7MDBGb0uizw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/marquee-new-york-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 493,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.0028162116567,
+    "Latitude": 40.75009750000003
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "289 10th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "289 10th Ave",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16464730202",
+   "display_phone": "(646) 473-0202",
+   "distance": 4155.955630861084
+  },
+  {
+   "id": "TRWTCtNQYxiBU_7OvnhAvw",
+   "alias": "the-woods-brooklyn",
+   "name": "The Woods",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a2LLXV4G5Ye01SX6b4Deig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-woods-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 465,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.966659,
+    "Latitude": 40.712818
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "48 S 4th St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11211",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "48 S 4th St",
+     "Brooklyn, NY 11211"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 3340.929182368375
+  },
+  {
+   "id": "t1biT7XpKaUWG8UEWJMV1Q",
+   "alias": "sobs-new-york-2",
+   "name": "SOB's",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MjhH9hsaesPLZXqg-cXKsQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sobs-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 452,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.0052,
+    "Latitude": 40.728407
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "204 Varick St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "204 Varick St",
+     "New York, NY 10014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122434940",
+   "display_phone": "(212) 243-4940",
+   "distance": 1741.6746624441034
+  },
+  {
+   "id": "NeV0drroh862D3SQf8BgUg",
+   "alias": "lavo-nightclub-new-york-2",
+   "name": "LAVO Nightclub",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pQLqNwA4hC_u03FJncoX5w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lavo-nightclub-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 387,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.9713,
+    "Latitude": 40.76283
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "39 E 58th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "39 E 58th St",
+     "New York, NY 10022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127505588",
+   "display_phone": "(212) 750-5588",
+   "distance": 6289.114126162331
+  },
+  {
+   "id": "4MK8S_jZ9FXajSip3PGbRg",
+   "alias": "tropix-on-the-mile-freeport",
+   "name": "Tropix On The Mile",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KwlS0wt3cRbGvEzXRI3d6g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tropix-on-the-mile-freeport?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 351,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "seafood",
+     "title": "Seafood"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.58079854110463,
+    "Latitude": 40.628895
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "395 Woodcleft Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Freeport",
+    "zip_code": "11520",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "395 Woodcleft Ave",
+     "Freeport, NY 11520"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15166238767",
+   "display_phone": "(516) 623-8767",
+   "distance": 37054.17174639424
+  },
+  {
+   "id": "4nZlMrDw-mrvmfEVT-cQrw",
+   "alias": "the-village-underground-new-york",
+   "name": "The Village Underground",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/obPewdGoRN-kgvvn0BrKpQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-village-underground-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 337,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "comedyclubs",
+     "title": "Comedy Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.0009226385494,
+    "Latitude": 40.7306935670033
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "130 W 3rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "130 W 3rd St",
+     "New York, NY 10012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127777745",
+   "display_phone": "(212) 777-7745",
+   "distance": 2035.1606231258243
+  },
+  {
+   "id": "XjKaW-3w7v0fGQJzIZg0cQ",
+   "alias": "house-of-yes-brooklyn",
+   "name": "House of Yes",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mTT0VpaARvUaHsI_dnNZ4A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/house-of-yes-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 330,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.92353,
+    "Latitude": 40.70686
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "2 Wyckoff Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11237",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2 Wyckoff Ave",
+     "Brooklyn, NY 11237"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16468384973",
+   "display_phone": "(646) 838-4973",
+   "distance": 6977.810630799083
+  },
+  {
+   "id": "4VvcmPvRZF5Oj6OdWJowvg",
+   "alias": "bowery-electric-new-york",
+   "name": "Bowery Electric",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9E2Bpt3wliJm89hgScYjCw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bowery-electric-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 304,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.99179,
+    "Latitude": 40.72576
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "327 Bowery St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "327 Bowery St",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122280228",
+   "display_phone": "(212) 228-0228",
+   "distance": 1872.2773297444708
+  },
+  {
+   "id": "QHurDPvtdeq3_KGTbBd-6A",
+   "alias": "pyramid-club-new-york",
+   "name": "Pyramid Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/N-CrPql7llU46D9CH5riwA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pyramid-club-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 295,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.98405,
+    "Latitude": 40.72585
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "101 Ave A",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10009",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "101 Ave A",
+     "New York, NY 10009"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122284888",
+   "display_phone": "(212) 228-4888",
+   "distance": 2353.1924124918537
+  },
+  {
+   "id": "3HSqz0crI9ga4uu5kKjX2w",
+   "alias": "hk-hall-new-york",
+   "name": "HK Hall",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BDZpNh7Mnb6S6_eXTyH-7A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hk-hall-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 261,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.99607,
+    "Latitude": 40.76497
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "605 W 48th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "605 W 48th St",
+     "New York, NY 10036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129571800",
+   "display_phone": "(212) 957-1800",
+   "distance": 5874.4892181037285
+  },
+  {
+   "id": "gE5-IOJwgOTQlcp6ZsiQAg",
+   "alias": "coyote-ugly-new-york",
+   "name": "Coyote Ugly",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jRHXBkS-DV20Wt7c_iQjYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/coyote-ugly-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 244,
+   "categories": [
+    {
+     "alias": "divebars",
+     "title": "Dive Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.98571,
+    "Latitude": 40.73284
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "233 E 14th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "233 E 14th St",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16463603018",
+   "display_phone": "(646) 360-3018",
+   "distance": 2818.28243834887
+  },
+  {
+   "id": "60KTvpWASee4CecRsEfXYw",
+   "alias": "black-flamingo-brooklyn",
+   "name": "Black Flamingo",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ROH_9IslkrGCangv0zCRgQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/black-flamingo-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 235,
+   "categories": [
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.954136,
+    "Latitude": 40.710491
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "168 Borinquen Pl",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11211",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "168 Borinquen Pl",
+     "Brooklyn, NY 11211"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13473350838",
+   "display_phone": "(347) 335-0838",
+   "distance": 4382.301708981093
+  },
+  {
+   "id": "Y0aJUKAqzHwclpesf7YprQ",
+   "alias": "vivo-tapas-kitchen-lounge-newark",
+   "name": "VIVO Tapas KITCHEN LOUNGE",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/o2ty2-bE5TTgyYUFmpeEnQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vivo-tapas-kitchen-lounge-newark?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 235,
+   "categories": [
+    {
+     "alias": "spanish",
+     "title": "Spanish"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "tapasmallplates",
+     "title": "Tapas/Small Plates"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.158152,
+    "Latitude": 40.728858
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "167 Ferry St",
+    "address2": "",
+    "address3": "",
+    "city": "Newark",
+    "zip_code": "07105",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "167 Ferry St",
+     "Newark, NJ 07105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19734654800",
+   "display_phone": "(973) 465-4800",
+   "distance": 12946.216860314127
+  },
+  {
+   "id": "DZV5GxpgE4pdSrrFBM_qQw",
+   "alias": "mamajuana-cafe-woodbridge-township-2",
+   "name": "Mamajuana Cafe",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/j_PwNTVksFFuvN42ZiUZZw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mamajuana-cafe-woodbridge-township-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 232,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "latin",
+     "title": "Latin American"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.29799,
+    "Latitude": 40.56665
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "875 US-1 S",
+    "address2": "",
+    "address3": "",
+    "city": "Woodbridge Township",
+    "zip_code": "08830",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "875 US-1 S",
+     "Woodbridge Township, NJ 08830"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17328745273",
+   "display_phone": "(732) 874-5273",
+   "distance": 29516.247483219933
+  },
+  {
+   "id": "kxn7eNaa0MLT9-MAfORCtA",
+   "alias": "the-monster-new-york-2",
+   "name": "The Monster",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UAhxkxgqxb9EmUWtSrxYIg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-monster-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 218,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.002098,
+    "Latitude": 40.73341
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "80 Grove St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "80 Grove St",
+     "New York, NY 10014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129243558",
+   "display_phone": "(212) 924-3558",
+   "distance": 2315.1954711781996
+  },
+  {
+   "id": "jKMT2WxBXJgALLY4yusllA",
+   "alias": "birch-hoboken-hoboken",
+   "name": "Birch Hoboken",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BByIndc4Y9xmzqluwMlMjw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/birch-hoboken-hoboken?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 208,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "breakfast_brunch",
+     "title": "Breakfast \u0026 Brunch"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.02916645276113,
+    "Latitude": 40.736835416174934
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "92 River St",
+    "address2": "",
+    "address3": "",
+    "city": "Hoboken",
+    "zip_code": "07030",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "92 River St",
+     "Hoboken, NJ 07030"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12017445117",
+   "display_phone": "(201) 744-5117",
+   "distance": 3309.685381977238
+  },
+  {
+   "id": "JJui1aoQEgYjV2sdfZASPg",
+   "alias": "henrietta-hudson-new-york",
+   "name": "Henrietta Hudson",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QeeoKQiFN2_OcAwhs9xIFQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/henrietta-hudson-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 207,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.00653,
+    "Latitude": 40.73114
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "438-444 Hudson St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "438-444 Hudson St",
+     "New York, NY 10014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129243347",
+   "display_phone": "(212) 924-3347",
+   "distance": 2038.9078687128417
+  },
+  {
+   "id": "DnoP2dZZ2aYddtN-YveX1g",
+   "alias": "the-shannon-hoboken",
+   "name": "The Shannon",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4uQ1dKZ2akjhjOZvajrFsw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-shannon-hoboken?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 194,
+   "categories": [
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.03138,
+    "Latitude": 40.73752
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "106 1st St",
+    "address2": "",
+    "address3": "",
+    "city": "Hoboken",
+    "zip_code": "07030",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "106 1st St",
+     "Hoboken, NJ 07030"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12016569820",
+   "display_phone": "(201) 656-9820",
+   "distance": 3482.7803918255263
+  },
+  {
+   "id": "nGLKFj6eSBNTxwRbY6epmA",
+   "alias": "46-lounge-totowa",
+   "name": "46 Lounge",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Mux3Wxduv5nBhkfIpzvMkA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/46-lounge-totowa?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 177,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.23057,
+    "Latitude": 40.89335
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "300 US Hwy 46 E",
+    "address2": "",
+    "address3": "",
+    "city": "Totowa",
+    "zip_code": "07512",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "300 US Hwy 46 E",
+     "Totowa, NJ 07512"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19739399044",
+   "display_phone": "(973) 939-9044",
+   "distance": 27597.98001800572
+  },
+  {
+   "id": "KltcQefP54UxPkAKCGpl-Q",
+   "alias": "somewhere-nowhere-nyc-new-york",
+   "name": "Somewhere Nowhere NYC - Lounge, Nightclub \u0026 Rooftop Pool",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/M4lTEfJsZQOjXbUreKHllA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/somewhere-nowhere-nyc-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 167,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.99266,
+    "Latitude": 40.74442
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "112 W 25th St",
+    "address2": "",
+    "address3": "Chelsea Hotel",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "112 W 25th St",
+     "Chelsea Hotel",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124047969",
+   "display_phone": "(212) 404-7969",
+   "distance": 3679.82307608089
+  },
+  {
+   "id": "PZr3ODLkteHokH7wxgSTbw",
+   "alias": "205-club-new-york",
+   "name": "205 Club",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TkHmtTfm7VUmZhnMTG8aPg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/205-club-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 129,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.99186990734621,
+    "Latitude": 40.72235349342321
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "205 Chrystie St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "205 Chrystie St",
+     "New York, NY 10002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19176740937",
+   "display_phone": "(917) 674-0937",
+   "distance": 1595.8159220200084
+  },
+  {
+   "id": "JupI0sVU7ZCfuD0ZMo6zRA",
+   "alias": "sabor-latino-elmhurst-4",
+   "name": "Sabor Latino",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ROGRwPRf8HqGPDbOPyxmYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sabor-latino-elmhurst-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 127,
+   "categories": [
+    {
+     "alias": "latin",
+     "title": "Latin American"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "karaoke",
+     "title": "Karaoke"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.8698315,
+    "Latitude": 40.7486756
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "9535 40th Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Elmhurst",
+    "zip_code": "11373",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "9535 40th Rd",
+     "Elmhurst, NY 11373"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184573966",
+   "display_phone": "(718) 457-3966",
+   "distance": 12148.768628325763
+  },
+  {
+   "id": "NrGvhxkERp6rOpsBkJLvkA",
+   "alias": "la-boom-night-club-woodside",
+   "name": "La Boom Night Club",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wxVi4AC5LZQmmwBFYXj-cg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-boom-night-club-woodside?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 126,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "tacos",
+     "title": "Tacos"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.90451,
+    "Latitude": 40.75385
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "56-15 Northern Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Woodside",
+    "zip_code": "11377",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "56-15 Northern Blvd",
+     "Woodside, NY 11377"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187266646",
+   "display_phone": "(718) 726-6646",
+   "distance": 9698.395291591452
+  },
+  {
+   "id": "bhJqYOEUjIwi3vR0q0TLWg",
+   "alias": "good-room-greenpoint",
+   "name": "Good Room",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4J8ai83xvYbFRbRhwHP5hA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/good-room-greenpoint?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 114,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9528847539673,
+    "Latitude": 40.7268982612292
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "98 Meserole Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Greenpoint",
+    "zip_code": "11222",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "98 Meserole Ave",
+     "Greenpoint, NY 11222"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183492373",
+   "display_phone": "(718) 349-2373",
+   "distance": 4742.879915454013
+  },
+  {
+   "id": "j49Ih4_8d-BcgfF7cQtApg",
+   "alias": "elsewhere-brooklyn",
+   "name": "Elsewhere",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/q3xlAOhu2_qLWjM8yw_YYw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/elsewhere-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 113,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.92316967054202,
+    "Latitude": 40.70941303318869
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "599 Johnson Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11237",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "599 Johnson Ave",
+     "Brooklyn, NY 11237"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 6991.63244567553
+  }
+ ],
+ "total": 199,
+ "region": {
+  "center": {
+   "longitude": -74.006,
+   "Latitude": 40.7128
+  }
+ }
+}

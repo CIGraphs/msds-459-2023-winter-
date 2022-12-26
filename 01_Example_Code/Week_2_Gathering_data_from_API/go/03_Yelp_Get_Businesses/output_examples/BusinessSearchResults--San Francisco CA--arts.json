@@ -1,0 +1,1824 @@
+{
+ "businesses": [
+  {
+   "id": "6PzyzeiWjJ0fPpuKZffn9g",
+   "alias": "california-academy-of-sciences-san-francisco",
+   "name": "California Academy of Sciences",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CUhjEmCbFNP76WK6ENRVlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/california-academy-of-sciences-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3328,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "aquariums",
+     "title": "Aquariums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.466041,
+    "Latitude": 37.769816
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "55 Music Concourse Dr",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94118",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "55 Music Concourse Dr",
+     "San Francisco, CA 94118"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153798000",
+   "display_phone": "(415) 379-8000",
+   "distance": 4138.258776192306
+  },
+  {
+   "id": "_1Rvyob6xSN9_8rC9ud78w",
+   "alias": "oracle-park-san-francisco",
+   "name": "Oracle Park",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/E5X_RIfKcuLNnEG5jTRIkw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/oracle-park-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3147,
+   "categories": [
+    {
+     "alias": "stadiumsarenas",
+     "title": "Stadiums \u0026 Arenas"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.38987326622,
+    "Latitude": 37.7783555476443
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "24 Willie Mays Plz",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94107",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "24 Willie Mays Plz",
+     "San Francisco, CA 94107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159722000",
+   "display_phone": "(415) 972-2000",
+   "distance": 2623.3647771091287
+  },
+  {
+   "id": "O7HdPG1c8G0IB3GZc4V2zg",
+   "alias": "amc-kabuki-8-san-francisco",
+   "name": "AMC Kabuki 8",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qp_i9fdijg4nRpySCytLcA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-kabuki-8-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2235,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.432585,
+    "Latitude": 37.785008
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1881 Post St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94115",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1881 Post St",
+     "San Francisco, CA 94115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153463243",
+   "display_phone": "(415) 346-3243",
+   "distance": 1614.3146979826097
+  },
+  {
+   "id": "Y12NJdzfE-33OQtoHmomMw",
+   "alias": "alcatraz-island-san-francisco-3",
+   "name": "Alcatraz Island",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xNXWYDIUrcXr9eQM8OQ3dg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alcatraz-island-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1818,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.42295665416715,
+    "Latitude": 37.82698555452996
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "B201 Fort Mason",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94122",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "B201 Fort Mason",
+     "San Francisco, CA 94122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155614900",
+   "display_phone": "(415) 561-4900",
+   "distance": 5800.066988234792
+  },
+  {
+   "id": "zbRDS3sABX_kcnLHbg8doA",
+   "alias": "yoshis-oakland-3",
+   "name": "Yoshi's",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H9GJ7dRggYf2BIJg7q-PLQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/yoshis-oakland-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1760,
+   "categories": [
+    {
+     "alias": "jazzandblues",
+     "title": "Jazz \u0026 Blues"
+    },
+    {
+     "alias": "japanese",
+     "title": "Japanese"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.278667539358,
+    "Latitude": 37.7962862981851
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "510 Embarcadero W",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94607",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "510 Embarcadero W",
+     "Oakland, CA 94607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15102389200",
+   "display_phone": "(510) 238-9200",
+   "distance": 12593.878669849086
+  },
+  {
+   "id": "RJ3NiTTSl00iT-Hu0-2ktQ",
+   "alias": "de-young-san-francisco",
+   "name": "de Young",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Jk1wqL2Apzk1XoAQgXINnw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/de-young-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1691,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.468681,
+    "Latitude": 37.771468
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "50 Hagiwara Tea Garden Dr",
+    "address2": "",
+    "address3": "Golden Gate Park",
+    "city": "San Francisco",
+    "zip_code": "94118",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "50 Hagiwara Tea Garden Dr",
+     "Golden Gate Park",
+     "San Francisco, CA 94118"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157503600",
+   "display_phone": "(415) 750-3600",
+   "distance": 4348.234537081126
+  },
+  {
+   "id": "BTXlMN6mPkXATmxyvQdBPQ",
+   "alias": "sliver-pizzeria-berkeley-2",
+   "name": "Sliver Pizzeria",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5xBgpC8ToGwkfkfxwo61nA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sliver-pizzeria-berkeley-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1565,
+   "categories": [
+    {
+     "alias": "pizza",
+     "title": "Pizza"
+    },
+    {
+     "alias": "salad",
+     "title": "Salad"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.25882,
+    "Latitude": 37.8656
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "2468 Telegraph Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2468 Telegraph Ave",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15103564044",
+   "display_phone": "(510) 356-4044",
+   "distance": 17335.19660892555
+  },
+  {
+   "id": "K_8iuGaMgmOGvt3JwQF50Q",
+   "alias": "shoreline-amphitheatre-mountain-view",
+   "name": "Shoreline Amphitheatre",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VhXAZ3syUMySn_dfI3Rrkg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shoreline-amphitheatre-mountain-view?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1427,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.08070900722922,
+    "Latitude": 37.42683313498922
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1 Amphitheatre Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Mountain View",
+    "zip_code": "94043",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1 Amphitheatre Pkwy",
+     "Mountain View, CA 94043"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16509674040",
+   "display_phone": "(650) 967-4040",
+   "distance": 48869.484842125494
+  },
+  {
+   "id": "_xbBbHSrWM8vvTo9DO51EA",
+   "alias": "the-fillmore-san-francisco",
+   "name": "The Fillmore",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qZeqHgCci0ZmwxtQvUtroQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-fillmore-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1173,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.433104,
+    "Latitude": 37.784172
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1805 Geary Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94115",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1805 Geary Blvd",
+     "San Francisco, CA 94115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153463000",
+   "display_phone": "(415) 346-3000",
+   "distance": 1585.4003829255287
+  },
+  {
+   "id": "BGvfmFh7BjHaHYyCMEXcmA",
+   "alias": "veranda-luxe-cinema-and-imax-concord-2",
+   "name": "Veranda LUXE Cinema \u0026 IMAX",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9EVTpE1Fp5p7fWAWpxK8Sg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/veranda-luxe-cinema-and-imax-concord-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1151,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.057943,
+    "Latitude": 37.97354
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2035 Diamond Blvd",
+    "address2": "Ste 150",
+    "address3": "",
+    "city": "Concord",
+    "zip_code": "94520",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2035 Diamond Blvd",
+     "Ste 150",
+     "Concord, CA 94520"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19254832180",
+   "display_phone": "(925) 483-2180",
+   "distance": 38657.578330993245
+  },
+  {
+   "id": "sHLt1_UcZm5Wrdmip4eudA",
+   "alias": "exploratorium-san-francisco-2",
+   "name": "Exploratorium",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ljOtBW0r6CRI950kBcd-EA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/exploratorium-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1119,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.398619,
+    "Latitude": 37.800875
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Pier 15",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "Pier 15",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155284444",
+   "display_phone": "(415) 528-4444",
+   "distance": 3417.160085228028
+  },
+  {
+   "id": "BSHzZcTorXF_BpeQjpQCRQ",
+   "alias": "oakland-arena-oakland-3",
+   "name": "Oakland Arena",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YAcaK51H650QnTYP0Y0gMg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/oakland-arena-oakland-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1111,
+   "categories": [
+    {
+     "alias": "stadiumsarenas",
+     "title": "Stadiums \u0026 Arenas"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.2030490022098,
+    "Latitude": 37.75034434211863
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7000 Coliseum Way",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94621",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "7000 Coliseum Way",
+     "Oakland, CA 94621"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105692121",
+   "display_phone": "(510) 569-2121",
+   "distance": 19213.458860483286
+  },
+  {
+   "id": "lcEUeTya9YwhPmHW-y3eBw",
+   "alias": "orpheum-theatre-san-francisco-4",
+   "name": "Orpheum Theatre",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oJKiJ6UyNCgaYdCtQzsLIQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/orpheum-theatre-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1096,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.41459,
+    "Latitude": 37.77929
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1192 Market St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1192 Market St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18887461799",
+   "display_phone": "(888) 746-1799",
+   "distance": 644.51213336704
+  },
+  {
+   "id": "UNQJh-kREbt0MRIF5d830A",
+   "alias": "musée-mécanique-san-francisco-4",
+   "name": "Musée Mécanique",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PVTPWiommiu5Y8AvezZopA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mus%C3%A9e-m%C3%A9canique-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1060,
+   "categories": [
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.41584777832,
+    "Latitude": 37.8092414665016
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Pier 45",
+    "address2": "Fisherman's Wharf",
+    "address3": "Shed A",
+    "city": "San Francisco",
+    "zip_code": "94133",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "Pier 45",
+     "Fisherman's Wharf",
+     "Shed A",
+     "San Francisco, CA 94133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153462000",
+   "display_phone": "(415) 346-2000",
+   "distance": 3831.328521947222
+  },
+  {
+   "id": "Vu-CwIsArPaNwgO-cwVsuQ",
+   "alias": "fox-theater-oakland-oakland-3",
+   "name": "Fox Theater - Oakland",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FnZJQwREu7SJs4fCaczCsQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fox-theater-oakland-oakland-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1059,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.270225,
+    "Latitude": 37.80803
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1807 Telegraph Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94612",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1807 Telegraph Ave",
+     "Oakland, CA 94612"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15103022250",
+   "display_phone": "(510) 302-2250",
+   "distance": 13616.013350528063
+  },
+  {
+   "id": "dIzpoDA3ySq2w_o5kSpVVw",
+   "alias": "ringcentral-coliseum-oakland",
+   "name": "RingCentral Coliseum",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4F1baWVO3tT1NlvtljAnzw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ringcentral-coliseum-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1035,
+   "categories": [
+    {
+     "alias": "stadiumsarenas",
+     "title": "Stadiums \u0026 Arenas"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.20054915488942,
+    "Latitude": 37.751601472197066
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7000 Coliseum Way",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94621",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "7000 Coliseum Way",
+     "Oakland, CA 94621"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105692121",
+   "display_phone": "(510) 569-2121",
+   "distance": 19411.692467829078
+  },
+  {
+   "id": "spPr7dr3W8jXkXcTJ0jM3Q",
+   "alias": "century-cinema-16-mountain-view",
+   "name": "Century Cinema 16",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VI4y60ZERw-PQp1LPRdUwQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/century-cinema-16-mountain-view?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1021,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.0811709,
+    "Latitude": 37.4144545
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1500 N Shoreline Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Mountain View",
+    "zip_code": "94043",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1500 N Shoreline Blvd",
+     "Mountain View, CA 94043"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16509613828",
+   "display_phone": "(650) 961-3828",
+   "distance": 49943.838716255435
+  },
+  {
+   "id": "0LOx2_t8mUQ8zB_JY5pBHg",
+   "alias": "the-walt-disney-family-museum-san-francisco",
+   "name": "The Walt Disney Family Museum",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AHCILDH9I0rHBHO3R1cKQA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-walt-disney-family-museum-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1000,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.458299342152,
+    "Latitude": 37.8012674039649
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "104 Montgomery St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94129",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "104 Montgomery St",
+     "San Francisco, CA 94129"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153456800",
+   "display_phone": "(415) 345-6800",
+   "distance": 4546.314224629146
+  },
+  {
+   "id": "E8PE-pQIlWAFloPZEctb3A",
+   "alias": "dave-and-busters-daly-city-10",
+   "name": "Dave \u0026 Buster's Daly City",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/h48h7IvKUhNEB7HU4Iq0-Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dave-and-busters-daly-city-10?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 982,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    },
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.4716536,
+    "Latitude": 37.6711363
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "130 Serramonte Ctr",
+    "address2": "",
+    "address3": "",
+    "city": "Daly City",
+    "zip_code": "94015",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "130 Serramonte Ctr",
+     "Daly City, CA 94015"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158409300",
+   "display_phone": "(415) 840-9300",
+   "distance": 12419.614236472373
+  },
+  {
+   "id": "B_PStt9QFGs4BrgNxegbjg",
+   "alias": "nightlife-san-francisco-4",
+   "name": "NightLife",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/P2ZJPuEAAh5rflgT5rbzAg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nightlife-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 947,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.466702461243,
+    "Latitude": 37.769798806043
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "55 Music Concourse Dr",
+    "address2": "",
+    "address3": "California Academy of Sciences",
+    "city": "San Francisco",
+    "zip_code": "94118",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "55 Music Concourse Dr",
+     "California Academy of Sciences",
+     "San Francisco, CA 94118"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153798000",
+   "display_phone": "(415) 379-8000",
+   "distance": 4196.118234508818
+  },
+  {
+   "id": "KuWQ2ag6UdZZWfmDqC-kAA",
+   "alias": "century-20-daly-city-and-xd-and-imax-daly-city",
+   "name": "Century 20 Daly City and XD and IMAX",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OB6onBoqCKQIGJAu5FaLCA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/century-20-daly-city-and-xd-and-imax-daly-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 942,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.470544,
+    "Latitude": 37.7022768153407
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1901 Junipero Serra Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Daly City",
+    "zip_code": "94015",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1901 Junipero Serra Blvd",
+     "Daly City, CA 94015"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16509942488",
+   "display_phone": "(650) 994-2488",
+   "distance": 9243.188397659635
+  },
+  {
+   "id": "efJYZuvYICyzJJYBO-sGvw",
+   "alias": "coit-tower-san-francisco",
+   "name": "Coit Tower",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/S9o6JzP5bZ_PCZ1dXANjLQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/coit-tower-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 937,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    },
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "observatories",
+     "title": "Observatories"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.405837855675,
+    "Latitude": 37.8023794656811
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 Telegraph Hill Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94133",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1 Telegraph Hill Blvd",
+     "San Francisco, CA 94133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154120382",
+   "display_phone": "(415) 412-0382",
+   "distance": 3279.762705850805
+  },
+  {
+   "id": "80aWVck8jXMT0LvnfAwbqw",
+   "alias": "alamo-drafthouse-cinema-new-mission-san-francisco",
+   "name": "Alamo Drafthouse Cinema New Mission",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/g3WFPffLGnNzPYktobrh6g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alamo-drafthouse-cinema-new-mission-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 923,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "dinnertheater",
+     "title": "Dinner Theater"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.41934,
+    "Latitude": 37.75619
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "2550 Mission St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2550 Mission St",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155495959",
+   "display_phone": "(415) 549-5959",
+   "distance": 2078.0610660882285
+  },
+  {
+   "id": "hfGwKCGCimNEBH_OgbR4Nw",
+   "alias": "cafe-van-kleef-oakland",
+   "name": "Cafe Van Kleef",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PglQz6m1azFHTQHaMZZAcw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cafe-van-kleef-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 901,
+   "categories": [
+    {
+     "alias": "jazzandblues",
+     "title": "Jazz \u0026 Blues"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.270403653383,
+    "Latitude": 37.8065065294504
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1621 Telegraph Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94620",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1621 Telegraph Ave",
+     "Oakland, CA 94620"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107637711",
+   "display_phone": "(510) 763-7711",
+   "distance": 13547.938577280504
+  },
+  {
+   "id": "J-FkG5x_2Odh61Wnep9cuQ",
+   "alias": "legion-of-honor-san-francisco",
+   "name": "Legion of Honor",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1VGkfCM01pIC1guEh9MxzA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/legion-of-honor-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 901,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.500802,
+    "Latitude": 37.784927
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Lincoln Park",
+    "address2": "100 34th Avenue",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94121",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "Lincoln Park",
+     "100 34th Avenue",
+     "San Francisco, CA 94121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157503600",
+   "display_phone": "(415) 750-3600",
+   "distance": 7240.377002525477
+  },
+  {
+   "id": "4wCKjfkgryq7mpJOU9ppNA",
+   "alias": "the-warfield-san-francisco-2",
+   "name": "The Warfield",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/juKObg72o4CJLNswbTF8Cg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-warfield-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 897,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.410151891996,
+    "Latitude": 37.7827320198563
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "982 Market St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "982 Market St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153450900",
+   "display_phone": "(415) 345-0900",
+   "distance": 1191.237477323692
+  },
+  {
+   "id": "8rwcx4ZwW_tEj4onnXnEiw",
+   "alias": "cigar-bar-and-grill-san-francisco",
+   "name": "Cigar Bar \u0026 Grill",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ICNL_2fJdGhpv3RucJ7q9A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cigar-bar-and-grill-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 866,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.40350840522328,
+    "Latitude": 37.79706315095582
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "850 Montgomery St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94133",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "850 Montgomery St",
+     "San Francisco, CA 94133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153980850",
+   "display_phone": "(415) 398-0850",
+   "distance": 2832.6074833940247
+  },
+  {
+   "id": "DNP4iDOI2ru0oXmaI_g4MA",
+   "alias": "amc-bay-street-16-emeryville",
+   "name": "AMC Bay Street 16",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1x45aU14ty2Jn7qA5W4ppA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-bay-street-16-emeryville?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 852,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.292424782442,
+    "Latitude": 37.8332675683681
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5614 Bay Street",
+    "address2": "Ste 220",
+    "address3": "",
+    "city": "Emeryville",
+    "zip_code": "94608",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "5614 Bay Street",
+     "Ste 220",
+     "Emeryville, CA 94608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104579003",
+   "display_phone": "(510) 457-9003",
+   "distance": 12906.160942247774
+  },
+  {
+   "id": "c3ruapA3nU85Au2R6OpROw",
+   "alias": "filoli-woodside",
+   "name": "Filoli",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zDJl3nP_dgOs7Rdj30BaYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/filoli-woodside?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 851,
+   "categories": [
+    {
+     "alias": "gardens",
+     "title": "Botanical Gardens"
+    },
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.3112009,
+    "Latitude": 37.4786487
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "86 Cañada Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Woodside",
+    "zip_code": "94062",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "86 Cañada Rd",
+     "Woodside, CA 94062"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16503648300",
+   "display_phone": "(650) 364-8300",
+   "distance": 34292.065713565964
+  },
+  {
+   "id": "4d2qEn70fbLzcvIpDPeuMA",
+   "alias": "swig-san-francisco",
+   "name": "Swig",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ImYan6z2bpCXLuNMMEpJMQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/swig-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 835,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.4125181,
+    "Latitude": 37.7867831
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "561 Geary St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "561 Geary St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159317292",
+   "display_phone": "(415) 931-7292",
+   "distance": 1453.1791901894176
+  },
+  {
+   "id": "xGaaM-b7Xcs3Y6X2O_H9uw",
+   "alias": "dna-lounge-san-francisco",
+   "name": "DNA Lounge",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZPw0PfLvksa6Z7cdZQP1Bw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dna-lounge-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 833,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.41271,
+    "Latitude": 37.77098
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "375 11th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "375 11th St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156261409",
+   "display_phone": "(415) 626-1409",
+   "distance": 731.3045875406596
+  },
+  {
+   "id": "d6AIb4jok5LZB0G8wDuL1w",
+   "alias": "the-independent-san-francisco",
+   "name": "The Independent",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8-tdIaBvqXSGFW7WRyAPDQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-independent-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 824,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.43751,
+    "Latitude": 37.77553
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "628 Divisadero St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94117",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "628 Divisadero St",
+     "San Francisco, CA 94117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157711421",
+   "display_phone": "(415) 771-1421",
+   "distance": 1606.0543953944898
+  },
+  {
+   "id": "X951ttjAjpKwsz2QJX5iGw",
+   "alias": "great-american-music-hall-san-francisco",
+   "name": "Great American Music Hall",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/htBk622GSl9pmABcPjFU4w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/great-american-music-hall-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 803,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.418830394745,
+    "Latitude": 37.7848254488586
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "859 O'Farrell St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "859 O'Farrell St",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158850750",
+   "display_phone": "(415) 885-0750",
+   "distance": 1104.793058139528
+  },
+  {
+   "id": "d02DobgJ7kyspSSHz6NrZA",
+   "alias": "san-francisco-museum-of-modern-art-san-francisco-6",
+   "name": "San Francisco Museum of Modern Art",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/c1ngQNgIVxZZQV_vHlCkkA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/san-francisco-museum-of-modern-art-san-francisco-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 795,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.40105,
+    "Latitude": 37.785716
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "151 3rd St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "151 3rd St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153574000",
+   "display_phone": "(415) 357-4000",
+   "distance": 2011.7623866172373
+  },
+  {
+   "id": "hcGPjfWl8RnmxewFaGemdQ",
+   "alias": "el-rio-san-francisco",
+   "name": "El Rio",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5PlB3xxbB-KL1jooCYb9Yg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/el-rio-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 791,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "divebars",
+     "title": "Dive Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.41946,
+    "Latitude": 37.74681
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "3158 Mission St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3158 Mission St",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152823325",
+   "display_phone": "(415) 282-3325",
+   "distance": 3124.0644068837178
+  },
+  {
+   "id": "s3kwbvB8qAzZUtV0rSlypg",
+   "alias": "asian-art-museum-san-francisco",
+   "name": "Asian Art Museum",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FWNXS5qAY5cS5Fd1bhdJhw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/asian-art-museum-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 774,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4165973,
+    "Latitude": 37.7796308
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "200 Larkin St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "200 Larkin St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155813500",
+   "display_phone": "(415) 581-3500",
+   "distance": 649.4168507484601
+  },
+  {
+   "id": "2s8S5dM-HW9pXZP7Ozc8zA",
+   "alias": "castro-theatre-san-francisco",
+   "name": "Castro Theatre",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZCssFA3vuWXaDQFvpmm83w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/castro-theatre-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 774,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.434692382812,
+    "Latitude": 37.7620124816895
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "429 Castro St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94114",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "429 Castro St",
+     "San Francisco, CA 94114"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156216120",
+   "display_phone": "(415) 621-6120",
+   "distance": 1969.123793153883
+  },
+  {
+   "id": "xsG1SSVsm0YdL6-PaoKV_A",
+   "alias": "111-minna-gallery-san-francisco",
+   "name": "111 Minna Gallery",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pTzmdTqiE90D_jkqf43yeQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/111-minna-gallery-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 763,
+   "categories": [
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.39949749325409,
+    "Latitude": 37.787336818346176
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "111 Minna St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "111 Minna St",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159741719",
+   "display_phone": "(415) 974-1719",
+   "distance": 2229.753895479293
+  },
+  {
+   "id": "yQ5_zQbdfiexfvDe90__KQ",
+   "alias": "zingari-ristorante-and-jazz-room-san-francisco",
+   "name": "Zingari Ristorante \u0026 Jazz Room",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vIo7w1eN9s6lLXlaLb5Fdw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zingari-ristorante-and-jazz-room-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 758,
+   "categories": [
+    {
+     "alias": "italian",
+     "title": "Italian"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "jazzandblues",
+     "title": "Jazz \u0026 Blues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.41037,
+    "Latitude": 37.78782
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "501 Post St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "501 Post St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158858850",
+   "display_phone": "(415) 885-8850",
+   "distance": 1643.5766210590527
+  },
+  {
+   "id": "QkdsQRCVtlQql-g-G6GpNg",
+   "alias": "hopmonk-tavern-novato-novato-2",
+   "name": "HopMonk Tavern - Novato",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/srk7Kr2r8zIhsiKadlwzPw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hopmonk-tavern-novato-novato-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 747,
+   "categories": [
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.5538328,
+    "Latitude": 38.0882715
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "224 Vintage Way",
+    "address2": "",
+    "address3": "",
+    "city": "Novato",
+    "zip_code": "94945",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "224 Vintage Way",
+     "Novato, CA 94945"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158926200",
+   "display_phone": "(415) 892-6200",
+   "distance": 36804.04946238082
+  }
+ ],
+ "total": 4200,
+ "region": {
+  "center": {
+   "longitude": -122.4194,
+   "Latitude": 37.7749
+  }
+ }
+}

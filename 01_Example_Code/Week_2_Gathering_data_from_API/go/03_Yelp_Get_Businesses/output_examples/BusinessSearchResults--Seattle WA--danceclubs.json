@@ -1,0 +1,1633 @@
+{
+ "businesses": [
+  {
+   "id": "Jh7UR5QyMLpXJeOiJnevzQ",
+   "alias": "trinity-nightclub-seattle",
+   "name": "Trinity Nightclub",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Tkj5Lj9VCIqT-CPkMHJoGQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/trinity-nightclub-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 425,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.33316,
+    "Latitude": 47.60143
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "107 Occidental Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "107 Occidental Ave S",
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066977702",
+   "display_phone": "(206) 697-7702",
+   "distance": 537.7407173290954
+  },
+  {
+   "id": "ZMfEBfVpozX_34eNnd-XJA",
+   "alias": "q-nightclub-seattle-2",
+   "name": "Q Nightclub",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/z1DCZS08iMA5aw8P6bHExQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/q-nightclub-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 338,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.3203278,
+    "Latitude": 47.613739
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1426 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1426 Broadway",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1217.805540764697
+  },
+  {
+   "id": "u_gP88O25oTDpXSArKgaOw",
+   "alias": "grims-seattle",
+   "name": "Grim's",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xE94z5euuXXahFFKSz2FTw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/grims-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 334,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.318112,
+    "Latitude": 47.6146771
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1512 11th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1512 11th Ave",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1409.9879106390442
+  },
+  {
+   "id": "iWkOHV3jkZbzJJ1a3UBBMA",
+   "alias": "havana-seattle",
+   "name": "Havana",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qECEedJ98-_sBGZTbVuTPg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/havana-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 319,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.319155166981,
+    "Latitude": 47.6141572208507
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1010 E Pike St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1010 E Pike St",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063232822",
+   "display_phone": "(206) 323-2822",
+   "distance": 1333.6386729093886
+  },
+  {
+   "id": "II3FwRpcUzy3lKLRuaOR5w",
+   "alias": "sarajevo-nightclub-seattle",
+   "name": "Sarajevo Nightclub",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UwEgnPPa4jsqGuhqp1EbbQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sarajevo-nightclub-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 268,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.34650850919355,
+    "Latitude": 47.61233494040319
+   },
+   "transactions": [
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "2218 Western Ave",
+    "address2": "Ste 100",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2218 Western Ave",
+     "Ste 100",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064489000",
+   "display_phone": "(206) 448-9000",
+   "distance": 1277.5248623748814
+  },
+  {
+   "id": "VMv7hgC-8AMIpp5dGYTc5Q",
+   "alias": "neighbours-nightclub-seattle",
+   "name": "Neighbours Nightclub",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3ypJ_3qBvkjtiIQsi23eVw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/neighbours-nightclub-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 262,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.32119097344659,
+    "Latitude": 47.61440151878813
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1509 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1509 Broadway",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064202958",
+   "display_phone": "(206) 420-2958",
+   "distance": 1224.9311780392084
+  },
+  {
+   "id": "Z3h3d-RDe6Mw1NrUo4w7dA",
+   "alias": "still-liquor-seattle",
+   "name": "Still Liquor",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7auBp0k5DadGZH5-ipCx2A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/still-liquor-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 195,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.32822,
+    "Latitude": 47.61465
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1524 Minor Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1524 Minor Ave",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064674075",
+   "display_phone": "(206) 467-4075",
+   "distance": 978.5608801465945
+  },
+  {
+   "id": "ixISoXv67Fhm3lFLapcHBw",
+   "alias": "the-cuff-complex-seattle",
+   "name": "The Cuff Complex",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4pFfaSCeb-YCKSeWLQKB0g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-cuff-complex-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 162,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.31587,
+    "Latitude": 47.61509
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1533 13th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1533 13th Ave",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063231525",
+   "display_phone": "(206) 323-1525",
+   "distance": 1575.467706186526
+  },
+  {
+   "id": "g-6VrjmznO7eMsQZV_jpXg",
+   "alias": "bubba-s-roadhouse-sultan-3",
+   "name": "Bubba’s Roadhouse",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QdhGrfgE4Mo-Og0sm0PQWg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bubba-s-roadhouse-sultan-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 148,
+   "categories": [
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -121.80699,
+    "Latitude": 47.862106
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "924 Stevens Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Sultan",
+    "zip_code": "98294",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "924 Stevens Ave",
+     "Sultan, WA 98294"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13607933950",
+   "display_phone": "(360) 793-3950",
+   "distance": 48496.53161699666
+  },
+  {
+   "id": "X4iwyiXLSHEhx5XkdclobA",
+   "alias": "high-dive-seattle",
+   "name": "High Dive",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/J7Entxwf3Op5sfQxE9ofxA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/high-dive-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 109,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "divebars",
+     "title": "Dive Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.3517,
+    "Latitude": 47.65135
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "513 N 36th St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "513 N 36th St",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066320212",
+   "display_phone": "(206) 632-0212",
+   "distance": 5238.761231400226
+  },
+  {
+   "id": "alSVtv48Z40D3K9EvE5pIQ",
+   "alias": "monkey-loft-seattle",
+   "name": "Monkey Loft",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wqhCI-N6qnBx78MhcbdjGg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/monkey-loft-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 89,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.331789,
+    "Latitude": 47.577852
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2915 1st Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98134",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2915 1st Ave S",
+     "Seattle, WA 98134"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 3152.2365601915217
+  },
+  {
+   "id": "6c9RLrsumRy3J3z8fuwZwA",
+   "alias": "mercury-at-machinewerks-seattle",
+   "name": "Mercury at Machinewerks",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oMMp7xH2LLITRSOUS0I3xw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mercury-at-machinewerks-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 85,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.31891,
+    "Latitude": 47.61271
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1009 E Union St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1009 E Union St",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063289481",
+   "display_phone": "(206) 328-9481",
+   "distance": 1226.06581011295
+  },
+  {
+   "id": "OySgE_SfFVDixknOj1XGuw",
+   "alias": "vue-lounge-seattle-2",
+   "name": "Vue Lounge",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Xe8E00S4EUfI_h4LGnMTRw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vue-lounge-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 81,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.346312,
+    "Latitude": 47.614791
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2324 2nd Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2324 2nd Ave",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1428.4569784840585
+  },
+  {
+   "id": "lMPHjPR2noN5F-DGXjbWiA",
+   "alias": "stage-seattle-seattle",
+   "name": "Stage Seattle",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qQOuvYEKg__XZa0B31fZeQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/stage-seattle-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 73,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.33192,
+    "Latitude": 47.60105
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "172 S Washington St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "172 S Washington St",
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064014461",
+   "display_phone": "(206) 401-4461",
+   "distance": 579.7131665126657
+  },
+  {
+   "id": "XDeGST2j87-jhqxNYvSxtA",
+   "alias": "lo-fi-performance-gallery-seattle",
+   "name": "Lo-Fi Performance Gallery",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mVN8zmCQd9B7vcXrJ9ZJdQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lo-fi-performance-gallery-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 72,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.3292902,
+    "Latitude": 47.6228922
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "429 Eastlake Ave E",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "429 Eastlake Ave E",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062542824",
+   "display_phone": "(206) 254-2824",
+   "distance": 1867.9974446630563
+  },
+  {
+   "id": "2G4VDJ8hVizi3_KhaxZZug",
+   "alias": "bourbon-jacks-auburn",
+   "name": "Bourbon Jack's",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pHI3Ib4iTxe3WnITUd8JEg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bourbon-jacks-auburn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.2223,
+    "Latitude": 47.32903
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2425 Auburn Way N",
+    "address2": "",
+    "address3": "",
+    "city": "Auburn",
+    "zip_code": "98002",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2425 Auburn Way N",
+     "Auburn, WA 98002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12533974456",
+   "display_phone": "(253) 397-4456",
+   "distance": 31909.94916212618
+  },
+  {
+   "id": "xDW7TYd_YM3t12t1ZpMsOw",
+   "alias": "kremwerk-seattle",
+   "name": "Kremwerk",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/imVc-10UIpvcQzNFLA5Fng/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kremwerk-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 65,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.33113,
+    "Latitude": 47.61688
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1809 Minor Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1809 Minor Ave",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066822935",
+   "display_phone": "(206) 682-2935",
+   "distance": 1190.1876438840864
+  },
+  {
+   "id": "6GWPdCd9BSnQQsptTGRhGw",
+   "alias": "central-ave-pub-kent-2",
+   "name": "Central Ave Pub",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6AhxWUP72J37_2rGvOWf4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/central-ave-pub-kent-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 50,
+   "categories": [
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "pubs",
+     "title": "Pubs"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.229179,
+    "Latitude": 47.366837
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1404 Central Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Kent",
+    "zip_code": "98032",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1404 Central Ave S",
+     "Kent, WA 98032"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12532771847",
+   "display_phone": "(253) 277-1847",
+   "distance": 27708.645535115833
+  },
+  {
+   "id": "FknOMo6vks8yKNUx-oh3FA",
+   "alias": "supernova-seattle-seattle",
+   "name": "Supernova Seattle",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6tSObMLWqqda22tupYdkEA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/supernova-seattle-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.33359,
+    "Latitude": 47.57458
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "110 S Horton St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98134",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "110 S Horton St",
+     "Seattle, WA 98134"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064744341",
+   "display_phone": "(206) 474-4341",
+   "distance": 3515.898646769347
+  },
+  {
+   "id": "CnJCLVYlAZchbTw1EMAegg",
+   "alias": "the-woods-seattle",
+   "name": "The Woods",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EmeCpd48-77sBSA0fqKFig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-woods-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 32,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.3177891,
+    "Latitude": 47.6145947
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1512 11th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1512 11th Ave",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1422.0508793450765
+  },
+  {
+   "id": "Kl0TbwsxL-nC4sn228cNsw",
+   "alias": "ora-nightclub-seattle",
+   "name": "Ora Nightclub",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sIbPgAzn0ttdTuj_o8wGMw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ora-nightclub-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 32,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.34738,
+    "Latitude": 47.61424
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "2330 1st Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2330 1st Ave",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064412799",
+   "display_phone": "(206) 441-2799",
+   "distance": 1455.178265242626
+  },
+  {
+   "id": "gbsYxn9Ojh4HKhA0YbqUxg",
+   "alias": "el-habanero-bar-and-grill-burien",
+   "name": "El Habanero Bar \u0026 Grill",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ufgXRMtzhYtQ0azrWU88Lg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/el-habanero-bar-and-grill-burien?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 30,
+   "categories": [
+    {
+     "alias": "mexican",
+     "title": "Mexican"
+    },
+    {
+     "alias": "seafood",
+     "title": "Seafood"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.33313,
+    "Latitude": 47.46951
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "14830 1st Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Burien",
+    "zip_code": "98168",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "14830 1st Ave S",
+     "Burien, WA 98168"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062443443",
+   "display_phone": "(206) 244-3443",
+   "distance": 15170.836627608685
+  },
+  {
+   "id": "zswIxEupCp6sXaczz9nvWg",
+   "alias": "capitol-lounge-seattle",
+   "name": "Capitol Lounge",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lmfESDNuDBn0MaTnBvCEcA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/capitol-lounge-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 29,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.31979,
+    "Latitude": 47.61434
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "916 E Pike St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "916 E Pike St",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063973196",
+   "display_phone": "(206) 397-3196",
+   "distance": 1283.5788789072983
+  },
+  {
+   "id": "kN49yYLHKh6WLnqo0oYhSA",
+   "alias": "emerald-city-soul-club-seattle",
+   "name": "Emerald City Soul Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1d5MXQLXKbsDpXuV0R8r4w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/emerald-city-soul-club-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 21,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.329997317791,
+    "Latitude": 47.6100018082742
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98127",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "Seattle, WA 98127"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 451.1742564524254
+  },
+  {
+   "id": "Xnz1HG8ibvsL1vyrskVyyQ",
+   "alias": "el-parral-kent",
+   "name": "El Parral",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1JbCl9nVzXDxY2JKMAwwSA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/el-parral-kent?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 18,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "mexican",
+     "title": "Mexican"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.30278,
+    "Latitude": 47.36694
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "26122 Pacific Hwy S",
+    "address2": "",
+    "address3": "",
+    "city": "Kent",
+    "zip_code": "98032",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "26122 Pacific Hwy S",
+     "Kent, WA 98032"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12533246523",
+   "display_phone": "(253) 324-6523",
+   "distance": 26701.438484473427
+  },
+  {
+   "id": "3vki9ZBzllqYJUe4mIVcdQ",
+   "alias": "the-comeback-seattle-seattle",
+   "name": "The Comeback Seattle",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mN6m4EOY8bmaoY-gZtbM2g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-comeback-seattle-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.33397,
+    "Latitude": 47.58451
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1950 1st Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98134",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1950 1st Ave S",
+     "Seattle, WA 98134"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2414.9184493301264
+  },
+  {
+   "id": "WH2Z51eVCaPqqL1O6nVuLg",
+   "alias": "mint-lounge-seattle",
+   "name": "Mint Lounge",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Pi7v6wSJ3cg5HuD_7YTsBw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mint-lounge-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -122.32827,
+    "Latitude": 47.61493
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1207 Pine St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1207 Pine St",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1007.6715766245444
+  },
+  {
+   "id": "W3YpsRtiDHUs9_Z5ytUZzw",
+   "alias": "admiral-benbow-room-seattle",
+   "name": "Admiral Benbow Room",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iIweTfT1hZy8OBBSScJg6Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/admiral-benbow-room-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.38568,
+    "Latitude": 47.58147
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4210 SW Admiral Way",
+    "address2": "Ste A",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98116",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4210 SW Admiral Way",
+     "Ste A",
+     "Seattle, WA 98116"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 4872.081927128158
+  },
+  {
+   "id": "zOqOLBva8n4qJ4Q760AUQw",
+   "alias": "club-galaxy-auburn",
+   "name": "Club Galaxy",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/a6Qd3iokho5XZpWvxdq6jA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/club-galaxy-auburn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.198780626059,
+    "Latitude": 47.2895966470242
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "2402 Auburn Way S",
+    "address2": "",
+    "address3": "Muckleshoot Casino",
+    "city": "Auburn",
+    "zip_code": "98002",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2402 Auburn Way S",
+     "Muckleshoot Casino",
+     "Auburn, WA 98002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12538044444",
+   "display_phone": "(253) 804-4444",
+   "distance": 35680.99840659075
+  },
+  {
+   "id": "N7IDal7gbtJCFTJZoiEWVQ",
+   "alias": "timbre-room-seattle",
+   "name": "Timbre Room",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/timbre-room-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.33113,
+    "Latitude": 47.61688
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1809 Minor Ave",
+    "address2": "Ste 10",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1809 Minor Ave",
+     "Ste 10",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066822935",
+   "display_phone": "(206) 682-2935",
+   "distance": 1190.1876438840864
+  },
+  {
+   "id": "oUK1nG8RM38vdRfanMLZlQ",
+   "alias": "naf-seattle",
+   "name": "NAF",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/naf-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.345472,
+    "Latitude": 47.545538
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6327 W Marginal Way Sw",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98106",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "6327 W Marginal Way Sw",
+     "Seattle, WA 98106"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 6819.474376991886
+  },
+  {
+   "id": "_WA8jFw-Z6k0xMlglOdxZw",
+   "alias": "nations-publiq-renton",
+   "name": "Nations PubLiq",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nations-publiq-renton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "gastropubs",
+     "title": "Gastropubs"
+    },
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.2025528,
+    "Latitude": 47.4864197
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "247 Park Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Renton",
+    "zip_code": "98057",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "247 Park Ave N",
+     "Renton, WA 98057"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252765836",
+   "display_phone": "(425) 276-5836",
+   "distance": 16490.238489928157
+  },
+  {
+   "id": "btOUmCKm1eqml-rG9ugXxA",
+   "alias": "the-cherry-spot-seattle",
+   "name": "The Cherry Spot",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nkVKlpUjltoujzk-_S9YSA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-cherry-spot-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "communitycenters",
+     "title": "Community Centers"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.305507734418,
+    "Latitude": 47.6070410180397
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "2021 East James St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2021 East James St",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14702534548",
+   "display_phone": "(470) 253-4548",
+   "distance": 1995.7992131829326
+  },
+  {
+   "id": "1gfvTVpHNE73Fa7R4CSAYQ",
+   "alias": "studio-21-bremerton",
+   "name": "Studio 21",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/studio-21-bremerton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -122.629226222634,
+    "Latitude": 47.6021732389927
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4111 Wheaton Way",
+    "address2": "",
+    "address3": "",
+    "city": "Bremerton",
+    "zip_code": "98310",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4111 Wheaton Way",
+     "Bremerton, WA 98310"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13603730432",
+   "display_phone": "(360) 373-0432",
+   "distance": 22400.02708777306
+  },
+  {
+   "id": "MuQ5_aFKdeeXaTanPGb06w",
+   "alias": "ad1-studios-seattle",
+   "name": "AD1 Studios",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/L-zAKss3fjJefnEcj9kxHQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ad1-studios-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "recording_studios",
+     "title": "Recording \u0026 Rehearsal Studios"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.320944105705,
+    "Latitude": 47.5865627394924
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1762 Airport Way S",
+    "address2": "Ste A",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98134",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1762 Airport Way S",
+     "Ste A",
+     "Seattle, WA 98134"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064208181",
+   "display_phone": "(206) 420-8181",
+   "distance": 2338.3107088890733
+  }
+ ],
+ "total": 35,
+ "region": {
+  "center": {
+   "longitude": -122.3321,
+   "Latitude": 47.6062
+  }
+ }
+}

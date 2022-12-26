@@ -1,0 +1,1910 @@
+{
+ "businesses": [
+  {
+   "id": "-CclMIdTyOnA2vWrubC2Iw",
+   "alias": "macys-chicago-2",
+   "name": "Macy's",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qiPGvGLaCiJsa7dTm6D7BQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/macys-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 755,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.627398,
+    "Latitude": 41.883895
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "111 N State St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60602",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "111 N State St",
+     "Chicago, IL 60602"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127811000",
+   "display_phone": "(312) 781-1000",
+   "distance": 674.3603727474624
+  },
+  {
+   "id": "otUH0gEkO6hEmiqbfg5Z7A",
+   "alias": "house-of-brides-schaumburg-3",
+   "name": "House of Brides",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o9fUHq2Qwi29rh-UdqwReg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/house-of-brides-schaumburg-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 652,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "formalwear",
+     "title": "Formal Wear"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -88.064564,
+    "Latitude": 42.049898
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "607 E Golf Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Schaumburg",
+    "zip_code": "60173",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "607 E Golf Rd",
+     "Schaumburg, IL 60173"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18478820700",
+   "display_phone": "(847) 882-0700",
+   "distance": 40707.172022634746
+  },
+  {
+   "id": "kIZ8TTPU_yW0NrhE_YPcjg",
+   "alias": "nordstrom-chicago-10",
+   "name": "Nordstrom",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9ZMm2Rvqqh2bPu-fXFXIOw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nordstrom-chicago-10?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 571,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "cosmetics",
+     "title": "Cosmetics \u0026 Beauty Supply"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6258416,
+    "Latitude": 41.8913345
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "55 E Grand Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "55 E Grand Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124641515",
+   "display_phone": "(312) 464-1515",
+   "distance": 1507.6503442476628
+  },
+  {
+   "id": "dtEF4fSm95MZQb3GXcwoew",
+   "alias": "target-chicago-6",
+   "name": "Target",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pw1WK_K3fLyD-5X7yXPCGw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-chicago-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 324,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.685128,
+    "Latitude": 41.929386
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2656 N Elston Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2656 N Elston Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732521994",
+   "display_phone": "(773) 252-1994",
+   "distance": 7313.500791427038
+  },
+  {
+   "id": "THhRU2P81vIUH4zdrZwZqg",
+   "alias": "fleet-feet-chicago-4",
+   "name": "Fleet Feet",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YD2zbnxgSzJnGs-uJhyk2A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fleet-feet-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 305,
+   "categories": [
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6349387,
+    "Latitude": 41.9130955
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1706 N Wells St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1706 N Wells St",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125873338",
+   "display_phone": "(312) 587-3338",
+   "distance": 3924.6028318353383
+  },
+  {
+   "id": "dAfDq9wJB_eUxUt_3YNUVw",
+   "alias": "peaches-boutique-chicago",
+   "name": "Peaches Boutique",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EYXSp7n0OKO4ja55GGpxqw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/peaches-boutique-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 299,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.7632,
+    "Latitude": 41.7954
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "5915 S Archer Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60638",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5915 S Archer Ave",
+     "Chicago, IL 60638"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735820102",
+   "display_phone": "(773) 582-0102",
+   "distance": 14377.081428097801
+  },
+  {
+   "id": "Z1-5OB5MsJ4MTrIMLn4R2Q",
+   "alias": "alamo-shoes-chicago",
+   "name": "Alamo Shoes",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gU83a5N6WIcUw1vo8Q4oaw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alamo-shoes-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 281,
+   "categories": [
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6681519,
+    "Latitude": 41.978584
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "5321 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5321 N Clark St",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737848936",
+   "display_phone": "(773) 784-8936",
+   "distance": 11626.679664832789
+  },
+  {
+   "id": "yHxa5wDj8bGBTrqXFOMcBA",
+   "alias": "nordstrom-rack-chicago-8",
+   "name": "Nordstrom Rack",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lTTdhZcyJr-XKuicMgGs1g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nordstrom-rack-chicago-8?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 276,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6281908,
+    "Latitude": 41.8828688
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "24 N State St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60602",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "24 N State St",
+     "Chicago, IL 60602"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123775500",
+   "display_phone": "(312) 377-5500",
+   "distance": 546.7452672279911
+  },
+  {
+   "id": "Zmpz95FQ_ENA_uii5GZaGA",
+   "alias": "arthur-and-lucca-chicago-3",
+   "name": "Arthur and Lucca",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XjeBqXC43-2Z9XKcEwxIIA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/arthur-and-lucca-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 269,
+   "categories": [
+    {
+     "alias": "bespoke",
+     "title": "Bespoke Clothing"
+    },
+    {
+     "alias": "sewingalterations",
+     "title": "Sewing \u0026 Alterations"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.67785755476741,
+    "Latitude": 41.88689257682689
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2016 W Fulton St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60612",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2016 W Fulton St",
+     "Chicago, IL 60612"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123071669",
+   "display_phone": "(312) 307-1669",
+   "distance": 4096.874186994141
+  },
+  {
+   "id": "HIHnt6VYFDJk5evyf9SGyA",
+   "alias": "target-chicago-3",
+   "name": "Target",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vHqCIeEF106cN5yLcR-iVA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 266,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.630707,
+    "Latitude": 41.867718
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1154 S Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1154 S Clark St",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122126300",
+   "display_phone": "(312) 212-6300",
+   "distance": 1156.864545275112
+  },
+  {
+   "id": "cgR4GHh4DU26NvV_tynQ9A",
+   "alias": "house-of-brides-couture-orland-park-2",
+   "name": "House of Brides Couture",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oRIPQY0KaaKYwU56E2BK-A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/house-of-brides-couture-orland-park-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 262,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "formalwear",
+     "title": "Formal Wear"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.853811,
+    "Latitude": 41.59719
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "16100 South LaGrange Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Orland Park",
+    "zip_code": "60467",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "16100 South LaGrange Rd",
+     "Orland Park, IL 60467"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17089665200",
+   "display_phone": "(708) 966-5200",
+   "distance": 36358.00707649883
+  },
+  {
+   "id": "lKRvuvtR3qYhEzJSgIs99w",
+   "alias": "walmart-niles-3",
+   "name": "Walmart",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EviNH9fqFG_9LrmeK3Cbhg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/walmart-niles-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 257,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.768973,
+    "Latitude": 42.014863
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "5630 W Touhy Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Niles",
+    "zip_code": "60714",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5630 W Touhy Ave",
+     "Niles, IL 60714"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18476478641",
+   "display_phone": "(847) 647-8641",
+   "distance": 19072.085227223408
+  },
+  {
+   "id": "Ji9e3o2uRqG-EBgpuguWQA",
+   "alias": "target-chicago-11",
+   "name": "Target",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yOHu3cmKPsyjiDdiljgxkA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-chicago-11?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 255,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.65645690869745,
+    "Latitude": 41.96337072463883
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4466 N Broadway St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4466 N Broadway St",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735962376",
+   "display_phone": "(773) 596-2376",
+   "distance": 9734.790761378948
+  },
+  {
+   "id": "OqCDLZUEx8VL_h7GM7ZHrg",
+   "alias": "house-of-brides-glen-ellyn-3",
+   "name": "House of Brides",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qlnGd7Ksk3k0Fy-9Y4v9OQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/house-of-brides-glen-ellyn-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 249,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "formalwear",
+     "title": "Formal Wear"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -88.0322783,
+    "Latitude": 41.8598249
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1184 Roosevelt Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Glen Ellyn",
+    "zip_code": "60137",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1184 Roosevelt Rd",
+     "Glen Ellyn, IL 60137"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16306294040",
+   "display_phone": "(630) 629-4040",
+   "distance": 33398.34412823572
+  },
+  {
+   "id": "tIGFpBbLzzoXA7Xf5XpOnQ",
+   "alias": "zara-chicago",
+   "name": "Zara",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HYTEbC3xEgKLm_Szb-3eSQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zara-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 243,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "childcloth",
+     "title": "Children's Clothing"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6246279895891,
+    "Latitude": 41.8951076135545
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "700 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "700 N Michigan Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122558123",
+   "display_phone": "(312) 255-8123",
+   "distance": 1939.0169332996475
+  },
+  {
+   "id": "x1AwiYlSvT_a7SistyC7Iw",
+   "alias": "fleet-feet-chicago-2",
+   "name": "Fleet Feet",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Y5J4jQiQhOfanKfg4yR3OA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fleet-feet-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 232,
+   "categories": [
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.68854,
+    "Latitude": 41.96814
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "4762 N Lincoln Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60625",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4762 N Lincoln Ave",
+     "Chicago, IL 60625"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732713338",
+   "display_phone": "(773) 271-3338",
+   "distance": 11128.21541771413
+  },
+  {
+   "id": "EiZ7vYYGwHt1-4-wuHy8Lg",
+   "alias": "nike-chicago-chicago",
+   "name": "Nike Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/v5nGor1jGM-5KHDFVrmjsw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nike-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 223,
+   "categories": [
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6237116829,
+    "Latitude": 41.8944211547
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "669 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "669 N Michigan Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126426363",
+   "display_phone": "(312) 642-6363",
+   "distance": 1883.51120387283
+  },
+  {
+   "id": "_gu-o8BDV8yUc8XMnt09PQ",
+   "alias": "dimitras-bridal-couture-chicago-2",
+   "name": "Dimitra's Bridal | Dimitra's Couture",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aeQJDvQjncZFI-vTeFHwCg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dimitras-bridal-couture-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 221,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.62754382936096,
+    "Latitude": 41.9011503
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1009-11 N Rush St",
+    "address2": "Third Floor",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1009-11 N Rush St",
+     "Third Floor",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127870920",
+   "display_phone": "(312) 787-0920",
+   "distance": 2569.8686940451566
+  },
+  {
+   "id": "K0mT0dUxTlwdQx-1SB5VKQ",
+   "alias": "trunk-club-chicago",
+   "name": "Trunk Club",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Nh6yg7JbBW4n0VVO7cu_Sg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/trunk-club-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 217,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.636658,
+    "Latitude": 41.892138
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "325 W Ohio St",
+    "address2": "Fl 7",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "325 W Ohio St",
+     "Fl 7",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18003850100",
+   "display_phone": "(800) 385-0100",
+   "distance": 1660.9890658495506
+  },
+  {
+   "id": "uOOuqVbZ4JDI8g7EUOXoCA",
+   "alias": "crossroads-trading-chicago-3",
+   "name": "Crossroads Trading",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZGbJjUrZpUwmnUi3d36ttw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/crossroads-trading-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 216,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.644348,
+    "Latitude": 41.931764
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "2711 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2711 N Clark St",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732961000",
+   "display_phone": "(773) 296-1000",
+   "distance": 6087.402776695393
+  },
+  {
+   "id": "fAzg4CV6tdCZWgSCo-5c8w",
+   "alias": "rei-chicago-2",
+   "name": "REI",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K98Wpw4cmaYnbizGKmZszQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rei-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 215,
+   "categories": [
+    {
+     "alias": "outdoorgear",
+     "title": "Outdoor Gear"
+    },
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6517515,
+    "Latitude": 41.906855
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "905 W Eastman St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "905 W Eastman St",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129516020",
+   "display_phone": "(312) 951-6020",
+   "distance": 3677.620505952035
+  },
+  {
+   "id": "hbmAmUhUHP-jwWGcnDWsAA",
+   "alias": "nordstrom-oak-brook-2",
+   "name": "Nordstrom",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SWIdqGvlcZ44WilV-VGoGQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nordstrom-oak-brook-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 207,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "cosmetics",
+     "title": "Cosmetics \u0026 Beauty Supply"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.95103371143341,
+    "Latitude": 41.852491188692994
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "10 Oakbrook Ctr",
+    "address2": "",
+    "address3": "",
+    "city": "Oak Brook",
+    "zip_code": "60523",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "10 Oakbrook Ctr",
+     "Oak Brook, IL 60523"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16305712121",
+   "display_phone": "(630) 571-2121",
+   "distance": 26752.85724156992
+  },
+  {
+   "id": "F92P3lXhbnKxJkZma8BU9Q",
+   "alias": "target-chicago-13",
+   "name": "Target",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iL1PFsHjE9wIKjb8X5TnBw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-chicago-13?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 207,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.627409,
+    "Latitude": 41.881699
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1 S State St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60603",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1 S State St",
+     "Chicago, IL 60603"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122792133",
+   "display_phone": "(312) 279-2133",
+   "distance": 446.4709524923129
+  },
+  {
+   "id": "H6nuxD26NwtCt4NSoS5NZA",
+   "alias": "macys-oak-brook-2",
+   "name": "Macy's",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WRsCq4KshvcVB1Npj6d_OA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/macys-oak-brook-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 203,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.954338886261,
+    "Latitude": 41.8491059340156
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1 Oakbrook Ctr",
+    "address2": "",
+    "address3": "",
+    "city": "Oak Brook",
+    "zip_code": "60523",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1 Oakbrook Ctr",
+     "Oak Brook, IL 60523"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16306842400",
+   "display_phone": "(630) 684-2400",
+   "distance": 27067.971870268764
+  },
+  {
+   "id": "xcnF8KMVtndAqSYwMCaNDA",
+   "alias": "macys-skokie",
+   "name": "Macy's",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Dba98gb4bDE2xjRf5QFfQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/macys-skokie?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 203,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.7495854,
+    "Latitude": 42.0591212
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4909 Old Orchard Ctr",
+    "address2": "",
+    "address3": "",
+    "city": "Skokie",
+    "zip_code": "60077",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4909 Old Orchard Ctr",
+     "Skokie, IL 60077"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18473292700",
+   "display_phone": "(847) 329-2700",
+   "distance": 22432.888058870063
+  },
+  {
+   "id": "0WI966sU3QrM1jMavfmD6w",
+   "alias": "costco-wholesale-niles",
+   "name": "Costco Wholesale",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QnwpSRvzaMcXYjnHgscK7Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/costco-wholesale-niles?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 201,
+   "categories": [
+    {
+     "alias": "wholesale_stores",
+     "title": "Wholesale Stores"
+    },
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.7804183959961,
+    "Latitude": 42.0148048400879
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "7311 N Melvina Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Niles",
+    "zip_code": "60714",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "7311 N Melvina Ave",
+     "Niles, IL 60714"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18479723000",
+   "display_phone": "(847) 972-3000",
+   "distance": 19701.426171306466
+  },
+  {
+   "id": "yvleeBJzdSq6kxK__DkmhQ",
+   "alias": "volle-s-bridal-and-boutique-lake-zurich",
+   "name": "Volle’s Bridal \u0026 Boutique",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p0nnazR9zRa88GgS7kiu1A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/volle-s-bridal-and-boutique-lake-zurich?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 200,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "formalwear",
+     "title": "Formal Wear"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -88.092052,
+    "Latitude": 42.1959393
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "53 S Old Rand Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Lake Zurich",
+    "zip_code": "60047",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "53 S Old Rand Rd",
+     "Lake Zurich, IL 60047"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18474387603",
+   "display_phone": "(847) 438-7603",
+   "distance": 52023.163083505235
+  },
+  {
+   "id": "uQ1o_wGrZcPDNYT6PsP_Rg",
+   "alias": "akira-chicago-19",
+   "name": "Akira",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EoIQ_VyDCLhe5jY0YqeK8w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/akira-chicago-19?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 200,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.67356394408792,
+    "Latitude": 41.91071108443281
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1814 W North Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1814 W North Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124384762",
+   "display_phone": "(312) 438-4762",
+   "distance": 5125.507154451192
+  },
+  {
+   "id": "9H-WMSSfnwd-BYxopFGRXA",
+   "alias": "cycle-smithy-chicago",
+   "name": "Cycle Smithy",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8ApEnj6HZ8LTWeejW1dfMA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cycle-smithy-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 199,
+   "categories": [
+    {
+     "alias": "bikes",
+     "title": "Bikes"
+    },
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    },
+    {
+     "alias": "bike_repair_maintenance",
+     "title": "Bike Repair/Maintenance"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6417402901263,
+    "Latitude": 41.9273152559585
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2468 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2468 N Clark St",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732810444",
+   "display_phone": "(773) 281-0444",
+   "distance": 5560.983997522226
+  },
+  {
+   "id": "wBNmTWoj4WOVVjE7O3mFZQ",
+   "alias": "h-and-m-chicago",
+   "name": "H\u0026M",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/m37-BVQIa7cknpUpgu_lFA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/h-and-m-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 199,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "childcloth",
+     "title": "Children's Clothing"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.624664,
+    "Latitude": 41.898124
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "840 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "840 N Michigan Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18554667467",
+   "display_phone": "(855) 466-7467",
+   "distance": 2255.9136861364686
+  },
+  {
+   "id": "xuP-wW-euSH4_E1PetcMew",
+   "alias": "loris-designer-shoes-chicago",
+   "name": "Lori's Designer Shoes",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/f5muuYt6RsJO2o4i9FnhSA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/loris-designer-shoes-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 186,
+   "categories": [
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6494216918945,
+    "Latitude": 41.9184303283691
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "824 W Armitage Ave",
+    "address2": "Ste 1",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "824 W Armitage Ave",
+     "Ste 1",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732815655",
+   "display_phone": "(773) 281-5655",
+   "distance": 4763.270502269771
+  },
+  {
+   "id": "QLYL41SbBkx1iU1iZA-nhg",
+   "alias": "bloomingdales-chicago",
+   "name": "Bloomingdale's",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fm7IJV0XQl9TCuIIN7FLPg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bloomingdales-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 182,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.625129699707,
+    "Latitude": 41.8996238708496
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "900 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "900 N Michigan Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124404460",
+   "display_phone": "(312) 440-4460",
+   "distance": 2417.0483045852757
+  },
+  {
+   "id": "ZfpTSrvV8NQFjYWy2e5vyw",
+   "alias": "target-chicago-4",
+   "name": "Target",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6Eo0a0-jWjM_17POn23hLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 182,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6830871878357,
+    "Latitude": 41.990757041026
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2112 W Peterson Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60659",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2112 W Peterson Ave",
+     "Chicago, IL 60659"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737613001",
+   "display_phone": "(773) 761-3001",
+   "distance": 13279.75395230982
+  },
+  {
+   "id": "b_UokY_3oQueV9pIhpdyHw",
+   "alias": "davids-bridal-orland-park-5",
+   "name": "David's Bridal",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uR340dh6SQNwLNiNiCd1HQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/davids-bridal-orland-park-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 179,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.85525,
+    "Latitude": 41.618449
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "14916 S La Grange Rd",
+    "address2": "",
+    "address3": "Park Pointe Plaza",
+    "city": "Orland Park",
+    "zip_code": "60462",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "14916 S La Grange Rd",
+     "Park Pointe Plaza",
+     "Orland Park, IL 60462"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17083641546",
+   "display_phone": "(708) 364-1546",
+   "distance": 34429.55450627152
+  },
+  {
+   "id": "NeRBXDhHPc8Sk9fjIP3cgw",
+   "alias": "road-runner-sports-chicago",
+   "name": "Road Runner Sports",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WZ-gl8CFWA74uNr6swt9cw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/road-runner-sports-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 178,
+   "categories": [
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.650894,
+    "Latitude": 41.90701
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1435 North Kingsbury St",
+    "address2": "",
+    "address3": "Kingsbury Center",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1435 North Kingsbury St",
+     "Kingsbury Center",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124482966",
+   "display_phone": "(312) 448-2966",
+   "distance": 3658.210174805883
+  },
+  {
+   "id": "Li0utAxL4xuPQptEVQLoCQ",
+   "alias": "mira-couture-chicago-3",
+   "name": "Mira Couture",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_ntqmobj_P5DB8lYOZ0zUw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mira-couture-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 179,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.625675,
+    "Latitude": 41.900198
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "70 E Walton St",
+    "address2": "Fl 2nd",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "70 E Walton St",
+     "Fl 2nd",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122551699",
+   "display_phone": "(312) 255-1699",
+   "distance": 2481.8325907355616
+  },
+  {
+   "id": "dzUwUJPZHUqsbQm_s2M45A",
+   "alias": "ultimate-bride-chicago",
+   "name": "Ultimate Bride",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x7NlC2DslB0zVYYaiT0IKw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ultimate-bride-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 176,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "formalwear",
+     "title": "Formal Wear"
+    },
+    {
+     "alias": "sewingalterations",
+     "title": "Sewing \u0026 Alterations"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.625448,
+    "Latitude": 41.901058
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "106 E Oak St",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "106 E Oak St",
+     "Fl 2",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123376300",
+   "display_phone": "(312) 337-6300",
+   "distance": 2578.1034640373914
+  },
+  {
+   "id": "lhOxUwqQjt-6F-095chVZw",
+   "alias": "art-effect-chicago",
+   "name": "Art Effect",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s0ttlibs9TWtdHu_Io04fA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/art-effect-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 173,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6523208618164,
+    "Latitude": 41.9183883666992
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "934 W Armitage Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "934 W Armitage Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739293600",
+   "display_phone": "(773) 929-3600",
+   "distance": 4849.8188291032675
+  },
+  {
+   "id": "MWEmImdQxEnOyJ4iJqzA2g",
+   "alias": "walmart-supercenter-forest-park",
+   "name": "Walmart Supercenter",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uf63eAJ1ncgODDwF8-BUHQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/walmart-supercenter-forest-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 171,
+   "categories": [
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.8177119,
+    "Latitude": 41.8617628
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1300 Des Plaines Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Forest Park",
+    "zip_code": "60130",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1300 Des Plaines Ave",
+     "Forest Park, IL 60130"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17087712270",
+   "display_phone": "(708) 771-2270",
+   "distance": 15665.266098687718
+  },
+  {
+   "id": "WJku5Hth-vtLmCjiflZETA",
+   "alias": "buffalo-exchange-chicago-4",
+   "name": "Buffalo Exchange",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MJtfEs9L0qPRbDBarz_k7g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/buffalo-exchange-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 170,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "thrift_stores",
+     "title": "Thrift Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.67513,
+    "Latitude": 41.90855
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1478 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1478 N Milwaukee Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732279558",
+   "display_phone": "(773) 227-9558",
+   "distance": 5056.271550243457
+  }
+ ],
+ "total": 2900,
+ "region": {
+  "center": {
+   "longitude": -87.6298,
+   "Latitude": 41.8781
+  }
+ }
+}

@@ -1,0 +1,1809 @@
+{
+ "businesses": [
+  {
+   "id": "KFnr0CGsHQ2ABFHbLNtobQ",
+   "alias": "central-park-conservancy-new-york",
+   "name": "Central Park Conservancy",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2QeE4ZRjzmUsNDnqXCGqfA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/central-park-conservancy-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2728,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.971656,
+    "Latitude": 40.764266
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "14 E 60th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "14 E 60th St",
+     "New York, NY 10022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123106600",
+   "display_phone": "(212) 310-6600",
+   "distance": 6412.477982987478
+  },
+  {
+   "id": "JION8hhg7q6zyayHYwhxIw",
+   "alias": "the-high-line-new-york",
+   "name": "The High Line",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8dWtYbMkHKNgyKe5S1DZkA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-high-line-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2519,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.00847657515718,
+    "Latitude": 40.7396039
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "820 Washington St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "820 Washington St",
+     "New York, NY 10014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122069922",
+   "display_phone": "(212) 206-9922",
+   "distance": 2987.751965328875
+  },
+  {
+   "id": "pSq53dIANeyXjPDEDglkUA",
+   "alias": "the-loeb-boathouse-central-park-new-york-4",
+   "name": "The Loeb Boathouse Central Park",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fnDdroeLXLg5yKJFN0w3Nw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-loeb-boathouse-central-park-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1454,
+   "categories": [
+    {
+     "alias": "boating",
+     "title": "Boating"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.95945,
+    "Latitude": 40.76925
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "E 72nd St And Park Dr N",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "E 72nd St And Park Dr N",
+     "New York, NY 10021"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125172233",
+   "display_phone": "(212) 517-2233",
+   "distance": 7392.990373156719
+  },
+  {
+   "id": "I2XhY76Mmc6yTg-aSBBHfQ",
+   "alias": "bronx-zoo-bronx",
+   "name": "Bronx Zoo",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/d4qI_g53SI_jPumKouViIA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bronx-zoo-bronx?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1304,
+   "categories": [
+    {
+     "alias": "zoos",
+     "title": "Zoos"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.87848391225587,
+    "Latitude": 40.85026330421662
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2300 Southern Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10460",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2300 Southern Blvd",
+     "Bronx, NY 10460"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182205100",
+   "display_phone": "(718) 220-5100",
+   "distance": 18679.133688932183
+  },
+  {
+   "id": "MJJi_5tGkWYI1VReTjhCCA",
+   "alias": "bryant-park-new-york-2",
+   "name": "Bryant Park",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZvhSgfWUNEMp6QPmRZYU_g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bryant-park-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1259,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9832969941198,
+    "Latitude": 40.7536079618246
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "41 W 40th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "41 W 40th St",
+     "New York, NY 10018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127684242",
+   "display_phone": "(212) 768-4242",
+   "distance": 4924.366806703041
+  },
+  {
+   "id": "wQFq2ZbUG40H1KfXTjgkBw",
+   "alias": "brooklyn-bowl-brooklyn",
+   "name": "Brooklyn Bowl",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xxCYUghlSkTG38NBD2l_ug/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brooklyn-bowl-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1257,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9575488529698,
+    "Latitude": 40.7218937792125
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "61 Wythe Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11249",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "61 Wythe Ave",
+     "Brooklyn, NY 11249"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17189633369",
+   "display_phone": "(718) 963-3369",
+   "distance": 4206.734631860814
+  },
+  {
+   "id": "spQMbvAokpUrgrDCSfYSgw",
+   "alias": "citi-field-corona-3",
+   "name": "Citi Field",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lZYRRhokhTAvoj4LOyw-jg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/citi-field-corona-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1120,
+   "categories": [
+    {
+     "alias": "stadiumsarenas",
+     "title": "Stadiums \u0026 Arenas"
+    },
+    {
+     "alias": "baseballfields",
+     "title": "Baseball Fields"
+    },
+    {
+     "alias": "parking",
+     "title": "Parking"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.84582197651841,
+    "Latitude": 40.757087635052315
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "123-01 Roosevelt Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Corona",
+    "zip_code": "11368",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "123-01 Roosevelt Ave",
+     "Corona, NY 11368"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18668001275",
+   "display_phone": "(866) 800-1275",
+   "distance": 14366.406701722519
+  },
+  {
+   "id": "wAJeRj5u_svCyb6rRKtAWA",
+   "alias": "frames-bowling-lounge-new-york",
+   "name": "Frames Bowling Lounge",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8ddwyvn9cNrCShdrh7cIeQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/frames-bowling-lounge-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1058,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.99315058014476,
+    "Latitude": 40.75711504205192
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "550 9th Ave",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "550 9th Ave",
+     "Fl 2",
+     "New York, NY 10018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122686909",
+   "display_phone": "(212) 268-6909",
+   "distance": 5045.134838146133
+  },
+  {
+   "id": "dZ--Dvl0U0RYklR8b-W38Q",
+   "alias": "topgolf-edison",
+   "name": "Topgolf",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cNpVD-jeBR_7kH8S8IE8cQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/topgolf-edison?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 905,
+   "categories": [
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "golf",
+     "title": "Golf"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.3683515,
+    "Latitude": 40.5195437
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1013 US Route 1",
+    "address2": "",
+    "address3": "",
+    "city": "Edison",
+    "zip_code": "08817",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "1013 US Route 1",
+     "Edison, NJ 08817"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17323744097",
+   "display_phone": "(732) 374-4097",
+   "distance": 37379.27964329237
+  },
+  {
+   "id": "clx1KCpEyAE2Y1-Txy5wBA",
+   "alias": "coney-island-beach-and-boardwalk-brooklyn-3",
+   "name": "Coney Island Beach and Boardwalk",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fXyPDqqYbDZlhPpqJNrTlQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/coney-island-beach-and-boardwalk-brooklyn-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 734,
+   "categories": [
+    {
+     "alias": "amusementparks",
+     "title": "Amusement Parks"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.979783,
+    "Latitude": 40.5753293
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Surf Ave and Stillwell Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11224",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Surf Ave and Stillwell Ave",
+     "Brooklyn, NY 11224"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17185947895",
+   "display_phone": "(718) 594-7895",
+   "distance": 15445.23908888671
+  },
+  {
+   "id": "Mn_as8S7-fJjahyn4AF6Pw",
+   "alias": "prospect-park-brooklyn",
+   "name": "Prospect Park",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VEzUptc0lcm-LxCk8qO_vw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/prospect-park-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 718,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9719422659052,
+    "Latitude": 40.662602400609686
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "95 Prospect Park W",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11215",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "95 Prospect Park W",
+     "Brooklyn, NY 11215"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17189658951",
+   "display_phone": "(718) 965-8951",
+   "distance": 6277.076997879877
+  },
+  {
+   "id": "noujMiOizbAWyDw8LbiM8Q",
+   "alias": "union-hall-brooklyn",
+   "name": "Union Hall",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rguzk6GWvXMVQn8r6aYutw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/union-hall-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 666,
+   "categories": [
+    {
+     "alias": "pubs",
+     "title": "Pubs"
+    },
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "bocceball",
+     "title": "Bocce Ball"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.98006853100715,
+    "Latitude": 40.67613532732078
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "702 Union St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11215",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "702 Union St",
+     "Brooklyn, NY 11215"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17186384400",
+   "display_phone": "(718) 638-4400",
+   "distance": 4626.104438702411
+  },
+  {
+   "id": "bJQZKARP-Xn2AEqNNMe9OA",
+   "alias": "washington-square-park-new-york",
+   "name": "Washington Square Park",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fa4gYfZ7qhXe18veP-OFpg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/washington-square-park-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 598,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.997597694397,
+    "Latitude": 40.7307873410831
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 Washington Sq E",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1 Washington Sq E",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2121.7406669321467
+  },
+  {
+   "id": "2omGjYIPB0N8oNwws6ZdJA",
+   "alias": "spin-new-york-new-york-3",
+   "name": "SPIN New York",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yqrjbmfpRD_Xk8XhgEeE_g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/spin-new-york-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 591,
+   "categories": [
+    {
+     "alias": "sports_clubs",
+     "title": "Sports Clubs"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.98696728358605,
+    "Latitude": 40.74030818206129
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "48 E 23rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "48 E 23rd St",
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129828802",
+   "display_phone": "(212) 982-8802",
+   "distance": 3453.7406051907233
+  },
+  {
+   "id": "b7iZTWZcHr5Y0OtbAQ4PnA",
+   "alias": "gun-for-hire-woodland-park-6",
+   "name": "Gun for Hire",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ozzyVOn68oErwZy7W-7RcQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gun-for-hire-woodland-park-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 572,
+   "categories": [
+    {
+     "alias": "guns_and_ammo",
+     "title": "Guns \u0026 Ammo"
+    },
+    {
+     "alias": "gun_ranges",
+     "title": "Gun/Rifle Ranges"
+    },
+    {
+     "alias": "firearmtraining",
+     "title": "Firearm Training"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.216476,
+    "Latitude": 40.889778
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1267 McBride Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Woodland Park",
+    "zip_code": "07424",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "1267 McBride Ave",
+     "Woodland Park, NJ 07424"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18884863674",
+   "display_phone": "(888) 486-3674",
+   "distance": 26478.83607757051
+  },
+  {
+   "id": "RamFMuEkza6bYHV5RG8z5w",
+   "alias": "central-park-zoo-new-york-10",
+   "name": "Central Park Zoo",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YZjm2zd8R0rMyHkRXfZMBg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/central-park-zoo-new-york-10?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 557,
+   "categories": [
+    {
+     "alias": "zoos",
+     "title": "Zoos"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.97183143770398,
+    "Latitude": 40.767787656636514
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "64TH St And Fifth Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "64TH St And Fifth Ave",
+     "New York, NY 10021"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124396500",
+   "display_phone": "(212) 439-6500",
+   "distance": 6758.107104677967
+  },
+  {
+   "id": "-BULNEzN-Q9AifnATsAJ4g",
+   "alias": "citi-bike-new-york-6",
+   "name": "Citi Bike",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/d-AzrMajb2IEyl8BY7JXtw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/citi-bike-new-york-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 556,
+   "categories": [
+    {
+     "alias": "bikerentals",
+     "title": "Bike Rentals"
+    },
+    {
+     "alias": "bikesharing",
+     "title": "Bike Sharing"
+    },
+    {
+     "alias": "biketours",
+     "title": "Bike tours"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.97294,
+    "Latitude": 40.764305
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5th Ave \u0026 59th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "5th Ave \u0026 59th St",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18552453311",
+   "display_phone": "(855) 245-3311",
+   "distance": 6368.500033543099
+  },
+  {
+   "id": "riGhXci7Xo-Gp9gtl5IBYA",
+   "alias": "brooklyn-bridge-park-brooklyn-3",
+   "name": "Brooklyn Bridge Park",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AeGZptaYP_uVP-Nd6nGJxw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brooklyn-bridge-park-brooklyn-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 556,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9972114562988,
+    "Latitude": 40.7016262778116
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "334 Furman St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "334 Furman St",
+     "Brooklyn, NY 11201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182229939",
+   "display_phone": "(718) 222-9939",
+   "distance": 1446.5441561712307
+  },
+  {
+   "id": "33sV1AC_s-h0ckLvyO34Hw",
+   "alias": "mission-escape-games-new-york",
+   "name": "Mission Escape Games",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mzDiS28u5TRdNv9_63Qhkg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mission-escape-games-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 554,
+   "categories": [
+    {
+     "alias": "escapegames",
+     "title": "Escape Games"
+    },
+    {
+     "alias": "teambuilding",
+     "title": "Team Building Activities"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.9915885,
+    "Latitude": 40.7542705
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "265 W37th St",
+    "address2": "Ste 802A",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "265 W37th St",
+     "Ste 802A",
+     "New York, NY 10018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13479038860",
+   "display_phone": "(347) 903-8860",
+   "distance": 4768.50251984374
+  },
+  {
+   "id": "jxfcLovdBv7B4ImelWwgdw",
+   "alias": "la-fitness-new-hyde-park",
+   "name": "LA Fitness",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Tlcx12qjwWpRPSxUBFcCtQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-fitness-new-hyde-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 537,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.700033,
+    "Latitude": 40.754755
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1111 Marcus Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New Hyde Park",
+    "zip_code": "11042",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1111 Marcus Ave",
+     "New Hyde Park, NY 11042"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15163552302",
+   "display_phone": "(516) 355-2302",
+   "distance": 26198.808797473477
+  },
+  {
+   "id": "WFSO0lUG6dMWynn4lNOmBw",
+   "alias": "escape-the-room-nyc-midtown-new-york",
+   "name": "Escape The Room NYC - Midtown",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/J25nEZtK_Vu7xgw9OaViCQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/escape-the-room-nyc-midtown-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 536,
+   "categories": [
+    {
+     "alias": "escapegames",
+     "title": "Escape Games"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.99043,
+    "Latitude": 40.74333
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "24 West 25th St",
+    "address2": "Fl 8",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "24 West 25th St",
+     "Fl 8",
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13479549160",
+   "display_phone": "(347) 954-9160",
+   "distance": 3636.2719599476486
+  },
+  {
+   "id": "9GQ4DvRS2p5GQzWQl-5iQA",
+   "alias": "new-york-aquarium-brooklyn",
+   "name": "New York Aquarium",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2arzdWlOut1hULMgI_YuAw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/new-york-aquarium-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 528,
+   "categories": [
+    {
+     "alias": "zoos",
+     "title": "Zoos"
+    },
+    {
+     "alias": "aquariums",
+     "title": "Aquariums"
+    },
+    {
+     "alias": "kids_activities",
+     "title": "Kids Activities"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9755888010498,
+    "Latitude": 40.5740248308051
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "602 Surf Ave \u0026 W 8th St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11224",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "602 Surf Ave \u0026 W 8th St",
+     "Brooklyn, NY 11224"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182653474",
+   "display_phone": "(718) 265-3474",
+   "distance": 15642.946609834798
+  },
+  {
+   "id": "X0DNGKUQPjf0AfaXfXU2Qg",
+   "alias": "kick-axe-throwing-brooklyn-2",
+   "name": "Kick Axe Throwing",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JW2vb2wfIDH8fAi_3HwliQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kick-axe-throwing-brooklyn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 520,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "axethrowing",
+     "title": "Axe Throwing"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.983077,
+    "Latitude": 40.6790268
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "",
+   "location": {
+    "address1": "622 Degraw St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11217",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "622 Degraw St",
+     "Brooklyn, NY 11217"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18335425293",
+   "display_phone": "(833) 542-5293",
+   "distance": 4223.479214400769
+  },
+  {
+   "id": "Zn1tHPo1_-qnldXi-1RsjA",
+   "alias": "bowlero-times-square-new-york",
+   "name": "Bowlero Times Square",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/asuRjbALv0QTt_LZ2Bvd1w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bowlero-times-square-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 514,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "eatertainment",
+     "title": "Eatertainment"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.98706,
+    "Latitude": 40.75765
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "222 W. 44Th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "222 W. 44Th St",
+     "New York, NY 10036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126800012",
+   "display_phone": "(212) 680-0012",
+   "distance": 5235.014524944484
+  },
+  {
+   "id": "jA5dLV24FRLPHYOdSpBs5w",
+   "alias": "classic-harbor-line-new-york-3",
+   "name": "Classic Harbor Line",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JrSffsTxZgxiaw_83OahDQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/classic-harbor-line-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 467,
+   "categories": [
+    {
+     "alias": "boating",
+     "title": "Boating"
+    },
+    {
+     "alias": "boatcharters",
+     "title": "Boat Charters"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.0081244960502,
+    "Latitude": 40.74841250728885
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "62 Chelsea Piers",
+    "address2": "Ste 103",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "62 Chelsea Piers",
+     "Ste 103",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126271825",
+   "display_phone": "(212) 627-1825",
+   "distance": 3963.969966431268
+  },
+  {
+   "id": "S12Cjy-gIHB-Vlx0EjOzVw",
+   "alias": "union-square-new-york-4",
+   "name": "Union Square",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/as9hd9yJVGEGDkuVlS1Vlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/union-square-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 432,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.98858341382092,
+    "Latitude": 40.73657567932931
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "201 Park Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "201 Park Ave S",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 3023.808204152398
+  },
+  {
+   "id": "mBpORUUR_ZB3qbpjDzCjpg",
+   "alias": "bowlero-chelsea-piers-new-york",
+   "name": "Bowlero Chelsea Piers",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WltZvzD52dwPXfh1LGxlUw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bowlero-chelsea-piers-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 431,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "eatertainment",
+     "title": "Eatertainment"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.0087216,
+    "Latitude": 40.7456816
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "59 Chelsea Piers",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "59 Chelsea Piers",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12128352695",
+   "display_phone": "(212) 835-2695",
+   "distance": 3663.448171665883
+  },
+  {
+   "id": "juMhE2rj_B04HWSscw4-pw",
+   "alias": "essex-county-turtle-back-zoo-west-orange",
+   "name": "Essex County Turtle Back Zoo",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Vw8dEtR8dUX-ERqZeJuEOQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/essex-county-turtle-back-zoo-west-orange?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 395,
+   "categories": [
+    {
+     "alias": "zoos",
+     "title": "Zoos"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.28132417055224,
+    "Latitude": 40.76746551989804
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "560 Northfield Ave",
+    "address2": "",
+    "address3": "",
+    "city": "West Orange",
+    "zip_code": "07052",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "560 Northfield Ave",
+     "West Orange, NJ 07052"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19737315800",
+   "display_phone": "(973) 731-5800",
+   "distance": 23979.207905373823
+  },
+  {
+   "id": "kBeqCLYGykQLMKa4rBGKSQ",
+   "alias": "bayville-adventure-park-bayville",
+   "name": "Bayville Adventure Park",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZseZTfjQaq8B7CELGe2_5g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bayville-adventure-park-bayville?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 394,
+   "categories": [
+    {
+     "alias": "amusementparks",
+     "title": "Amusement Parks"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.582307,
+    "Latitude": 40.907926
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8 Bayville Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bayville",
+    "zip_code": "11709",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "8 Bayville Ave",
+     "Bayville, NY 11709"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15166245876",
+   "display_phone": "(516) 624-5876",
+   "distance": 41740.505253425195
+  },
+  {
+   "id": "R3ci6iQRLIIK0Eq1-cY_pw",
+   "alias": "madison-square-park-new-york",
+   "name": "Madison Square Park",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nmGZRaYasdB2EkZuUldCkQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/madison-square-park-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 391,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9879736510651,
+    "Latitude": 40.7422133587202
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Eleven Madison Ave",
+    "address2": "Fl 15",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Eleven Madison Ave",
+     "Fl 15",
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125207600",
+   "display_phone": "(212) 520-7600",
+   "distance": 3606.1448902391644
+  },
+  {
+   "id": "i-0ALKeL8UqhmWUO_dsiHQ",
+   "alias": "bank-of-america-winter-village-at-bryant-park-new-york-2",
+   "name": "Bank of America Winter Village at Bryant Park",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-h2V8OqTvQCbNPsXLT9qnA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bank-of-america-winter-village-at-bryant-park-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 387,
+   "categories": [
+    {
+     "alias": "skatingrinks",
+     "title": "Skating Rinks"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9837354721836,
+    "Latitude": 40.7537761942861
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1065 Avenue Of The Americas",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1065 Avenue Of The Americas",
+     "New York, NY 10018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127684242",
+   "display_phone": "(212) 768-4242",
+   "distance": 4927.424656235028
+  },
+  {
+   "id": "Okb0vL3kcPQnADkdqec9FQ",
+   "alias": "peloton-new-york",
+   "name": "Peloton",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gr-C8Uu5r_SE1lk7jKGyyg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/peloton-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 383,
+   "categories": [
+    {
+     "alias": "cyclingclasses",
+     "title": "Cycling Classes"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "fitnessequipment",
+     "title": "Fitness/Exercise Equipment"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.994377,
+    "Latitude": 40.743259
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "140 W 23rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "140 W 23rd St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16462774497",
+   "display_phone": "(646) 277-4497",
+   "distance": 3523.988372686986
+  },
+  {
+   "id": "0OJWRkAI-iot-dtKX6BjbQ",
+   "alias": "queens-archery-flushing",
+   "name": "Queens Archery",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0cDEvdr5XFkhNLqolOUEcw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/queens-archery-flushing?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 380,
+   "categories": [
+    {
+     "alias": "sports_clubs",
+     "title": "Sports Clubs"
+    },
+    {
+     "alias": "archery",
+     "title": "Archery"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.79556,
+    "Latitude": 40.76137
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "170-20 39th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Flushing",
+    "zip_code": "11358",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "170-20 39th Ave",
+     "Flushing, NY 11358"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184611756",
+   "display_phone": "(718) 461-1756",
+   "distance": 18521.19141496743
+  },
+  {
+   "id": "Ct6ElbYDvXpQtYO_mkHUmw",
+   "alias": "the-gutter-brooklyn",
+   "name": "The Gutter",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SiuJT0wmvpX4y8yzHi1gJQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-gutter-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 378,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "divebars",
+     "title": "Dive Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.955396,
+    "Latitude": 40.72259
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "200 N 14th St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11222",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "200 N 14th St",
+     "Brooklyn, NY 11222"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183873585",
+   "display_phone": "(718) 387-3585",
+   "distance": 4401.554508252576
+  },
+  {
+   "id": "vnU9DTqqjQ5W8v_fq21O6A",
+   "alias": "gantry-plaza-state-park-long-island-city",
+   "name": "Gantry Plaza State Park",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mcToc6doj54q-pwhBMxoxw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gantry-plaza-state-park-long-island-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 354,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.9587663716889,
+    "Latitude": 40.7455046393787
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4-09 47th Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Long Island City",
+    "zip_code": "11101",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "4-09 47th Rd",
+     "Long Island City, NY 11101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187866385",
+   "display_phone": "(718) 786-6385",
+   "distance": 5391.270020460923
+  },
+  {
+   "id": "-qMrl4pSdhyvaUEw_sgbng",
+   "alias": "the-battery-new-york",
+   "name": "The Battery",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nyvUxpVsYBmRHcQAQ962BA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-battery-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 353,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.01423,
+    "Latitude": 40.70446
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "State St \u0026 Battery Pl",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10004",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "State St \u0026 Battery Pl",
+     "New York, NY 10004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123443491",
+   "display_phone": "(212) 344-3491",
+   "distance": 1155.8581331650043
+  },
+  {
+   "id": "PAqdplgKhagEx9ewNDxjZw",
+   "alias": "brooklyn-heights-promenade-brooklyn",
+   "name": "Brooklyn Heights Promenade",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ezQlffLwmtaXTU9u-xdm2w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brooklyn-heights-promenade-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 333,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.9975168581274,
+    "Latitude": 40.6962553195638
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Columbia Heights",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Columbia Heights",
+     "Brooklyn, NY 11201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126399675",
+   "display_phone": "(212) 639-9675",
+   "distance": 1973.7726984480523
+  },
+  {
+   "id": "NU0PxRWTYoLKZRTy9JT_jg",
+   "alias": "governors-island-national-monument-new-york",
+   "name": "Governors Island National Monument",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DmnLv0HZ0UilZNH0EpLm-w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/governors-island-national-monument-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 331,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    },
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.0164375305176,
+    "Latitude": 40.6913770268785
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10 S St",
+    "address2": "",
+    "address3": "Slip 7",
+    "city": "New York",
+    "zip_code": "10004",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "10 S St",
+     "Slip 7",
+     "New York, NY 10004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12128253045",
+   "display_phone": "(212) 825-3045",
+   "distance": 2539.423022828756
+  },
+  {
+   "id": "lSI14UEVigpHUCSpS7P8Kg",
+   "alias": "blink-fitness-noho-new-york-3",
+   "name": "Blink Fitness - Noho",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9tgnBsD_2UFGFT_YDKGNtw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blink-fitness-noho-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 330,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.9935623057248,
+    "Latitude": 40.7278686853972
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "16 E 4th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "16 E 4th St",
+     "New York, NY 10012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122456008",
+   "display_phone": "(212) 245-6008",
+   "distance": 1976.4086880040516
+  },
+  {
+   "id": "UpdYn5qFikHAmMP3c7dZkA",
+   "alias": "american-girl-new-york-new-york-2",
+   "name": "American Girl - New York",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rO2F_GCOWwMR_APttVw_kg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-girl-new-york-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 322,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "kids_activities",
+     "title": "Kids Activities"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.977797,
+    "Latitude": 40.759987
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "75 Rockefeller Plz",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "75 Rockefeller Plz",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18772475223",
+   "display_phone": "(877) 247-5223",
+   "distance": 5760.373050823242
+  }
+ ],
+ "total": 9700,
+ "region": {
+  "center": {
+   "longitude": -74.006,
+   "Latitude": 40.7128
+  }
+ }
+}

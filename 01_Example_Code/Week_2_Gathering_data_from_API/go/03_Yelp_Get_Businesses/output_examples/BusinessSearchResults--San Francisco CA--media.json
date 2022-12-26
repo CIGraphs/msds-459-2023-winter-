@@ -1,0 +1,1826 @@
+{
+ "businesses": [
+  {
+   "id": "ngUUOEyCHdLkGnO1I5M4Vg",
+   "alias": "green-apple-books-san-francisco",
+   "name": "Green Apple Books",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o4Aq5cNKR9popVVJ8_InNQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/green-apple-books-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1391,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.46472269989542,
+    "Latitude": 37.78315627054411
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "506 Clement St",
+    "address2": "at 6th Avenue",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94118",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "506 Clement St",
+     "at 6th Avenue",
+     "San Francisco, CA 94118"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153872272",
+   "display_phone": "(415) 387-2272",
+   "distance": 4087.661517107413
+  },
+  {
+   "id": "rvstmHzJ4eb0oPKrtLQvLw",
+   "alias": "amoeba-music-san-francisco",
+   "name": "Amoeba Music",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/h7qE-A21C9yb7KZ4h1HxCw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amoeba-music-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1158,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.45289491543973,
+    "Latitude": 37.76916929799954
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1855 Haight St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94117",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1855 Haight St",
+     "San Francisco, CA 94117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158311200",
+   "display_phone": "(415) 831-1200",
+   "distance": 3012.1883959897546
+  },
+  {
+   "id": "_rbF2ooLcMRA7Kh8neIr4g",
+   "alias": "city-lights-booksellers-and-publishers-san-francisco",
+   "name": "City Lights Booksellers \u0026 Publishers",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0vs66_LENvkj-uQKKeFVfA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/city-lights-booksellers-and-publishers-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 729,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.406578063965,
+    "Latitude": 37.7975997924805
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "261 Columbus Ave",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94133",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "261 Columbus Ave",
+     "San Francisco, CA 94133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153628193",
+   "display_phone": "(415) 362-8193",
+   "distance": 2764.0140605694105
+  },
+  {
+   "id": "ip8_lbJ4CRoTAFsId3dl4Q",
+   "alias": "kinokuniya-bookstore-san-francisco-san-francisco-3",
+   "name": "Kinokuniya Bookstore - San Francisco",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_80LsclQrNXG3oOPQ_0R-A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kinokuniya-bookstore-san-francisco-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 496,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.431595,
+    "Latitude": 37.78488
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1581 Webster St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94115",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1581 Webster St",
+     "San Francisco, CA 94115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155677625",
+   "display_phone": "(415) 567-7625",
+   "distance": 1542.774499922133
+  },
+  {
+   "id": "9nIZxuuFBwg9XbMjO8bXsA",
+   "alias": "moes-books-berkeley",
+   "name": "Moe's Books",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xtCze1ZTEtrH7LCsZTq2OQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/moes-books-berkeley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 431,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "usedbooks",
+     "title": "Used Bookstore"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.258702624269,
+    "Latitude": 37.86533678231
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2476 Telegraph Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2476 Telegraph Ave",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15108492087",
+   "display_phone": "(510) 849-2087",
+   "distance": 17331.014083479764
+  },
+  {
+   "id": "lOO6L9UgpI-jD5M32Gv3FA",
+   "alias": "east-bay-times-walnut-creek-2",
+   "name": "East Bay Times",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eWDkLZBKbrXv8zLrs5ivZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/east-bay-times-walnut-creek-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 395,
+   "categories": [
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -122.0283796,
+    "Latitude": 37.9241752
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "175 Lennon Ln",
+    "address2": "Ste 100",
+    "address3": "",
+    "city": "Walnut Creek",
+    "zip_code": "94598",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "175 Lennon Ln",
+     "Ste 100",
+     "Walnut Creek, CA 94598"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19259352525",
+   "display_phone": "(925) 935-2525",
+   "distance": 38134.332772721435
+  },
+  {
+   "id": "iKVvIf8PhgOF8wqv8SbU4g",
+   "alias": "half-price-books-fremont-3",
+   "name": "Half Price Books",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3MNj3k2h3KcbGVvFMjh_fQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/half-price-books-fremont-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 343,
+   "categories": [
+    {
+     "alias": "media",
+     "title": "Books, Mags, Music \u0026 Video"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -121.9864938,
+    "Latitude": 37.546075
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "39152 Fremont Hub",
+    "address2": "",
+    "address3": "",
+    "city": "Fremont",
+    "zip_code": "94538",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "39152 Fremont Hub",
+     "Fremont, CA 94538"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107440333",
+   "display_phone": "(510) 744-0333",
+   "distance": 45821.03632151307
+  },
+  {
+   "id": "0HHl6-raWLKyJhurwDfGwg",
+   "alias": "amoeba-music-berkeley",
+   "name": "Amoeba Music",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/05hC8OBMieZo1JfZEKIRZA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amoeba-music-berkeley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 339,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.258285522461,
+    "Latitude": 37.8658676147461
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2455 Telegraph Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2455 Telegraph Ave",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105491125",
+   "display_phone": "(510) 549-1125",
+   "distance": 17393.3227556813
+  },
+  {
+   "id": "OrNEX4e5rRi-G2gDYeJPtA",
+   "alias": "half-price-books-berkeley-2",
+   "name": "Half Price Books",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lD06chJ53K1ilepqaFtO8w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/half-price-books-berkeley-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 335,
+   "categories": [
+    {
+     "alias": "media",
+     "title": "Books, Mags, Music \u0026 Video"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.2685069,
+    "Latitude": 37.8712667
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "2036 Shattuck Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2036 Shattuck Ave",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105266080",
+   "display_phone": "(510) 526-6080",
+   "distance": 17043.367849826256
+  },
+  {
+   "id": "2I7eSThuF2fMh1WhuRWPDA",
+   "alias": "alameda-point-antiques-faire-alameda-2",
+   "name": "Alameda Point Antiques Faire",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XGiw0Qgf6cv9PN1UrEnBXA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alameda-point-antiques-faire-alameda-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 330,
+   "categories": [
+    {
+     "alias": "antiques",
+     "title": "Antiques"
+    },
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "media",
+     "title": "Books, Mags, Music \u0026 Video"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.302594184875,
+    "Latitude": 37.7896414689301
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2900 Navy Way Gps Mapping",
+    "address2": "3800 Main Street (end of Main St.)",
+    "address3": "",
+    "city": "Alameda",
+    "zip_code": "94501",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2900 Navy Way Gps Mapping",
+     "3800 Main Street (end of Main St.)",
+     "Alameda, CA 94501"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105227500",
+   "display_phone": "(510) 522-7500",
+   "distance": 10395.203774529562
+  },
+  {
+   "id": "oSRTybPdHkoMZVD31yrhdw",
+   "alias": "laurens-closet-alameda",
+   "name": "Lauren's Closet",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4UiS-j1y4_jUUq9QI-1NcA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/laurens-closet-alameda?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 313,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "childcloth",
+     "title": "Children's Clothing"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.2422,
+    "Latitude": 37.7647
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1420 Park St",
+    "address2": "",
+    "address3": "",
+    "city": "Alameda",
+    "zip_code": "94501",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1420 Park St",
+     "Alameda, CA 94501"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15108652219",
+   "display_phone": "(510) 865-2219",
+   "distance": 15625.56798320003
+  },
+  {
+   "id": "PhDhJo35b-0dRTCZ4n3Vfg",
+   "alias": "keplers-books-and-magazines-menlo-park",
+   "name": "Kepler's Books \u0026 Magazines",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0bcCmNoNkc1VGIo1Q7Fxww/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/keplers-books-and-magazines-menlo-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 290,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.182168,
+    "Latitude": 37.453586
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1010 El Camino Real",
+    "address2": "Ste 100",
+    "address3": "",
+    "city": "Menlo Park",
+    "zip_code": "94025",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1010 El Camino Real",
+     "Ste 100",
+     "Menlo Park, CA 94025"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16503244321",
+   "display_phone": "(650) 324-4321",
+   "distance": 41390.24180536475
+  },
+  {
+   "id": "KRhmAZrHc8DGxYWQEi9JsQ",
+   "alias": "dog-eared-books-san-francisco",
+   "name": "Dog Eared Books",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CnDZExVaehCl_CNyV2D0nQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dog-eared-books-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 281,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4214067,
+    "Latitude": 37.7583295
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "900 Valencia St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "900 Valencia St",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152821901",
+   "display_phone": "(415) 282-1901",
+   "distance": 1848.0259146128383
+  },
+  {
+   "id": "N9c6fjIX7jcuAdWZ6Rj4ZQ",
+   "alias": "the-booksmith-san-francisco",
+   "name": "The Booksmith",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_7XYRbjcN6Ur6fsqnFo06Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-booksmith-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 260,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4512485,
+    "Latitude": 37.76931
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1727 Haight St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94117",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1727 Haight St",
+     "San Francisco, CA 94117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158638688",
+   "display_phone": "(415) 863-8688",
+   "distance": 2867.48148189228
+  },
+  {
+   "id": "QGFom61Fv-Jxou4cFXg2rw",
+   "alias": "warming-hut-park-store-san-francisco",
+   "name": "Warming Hut Park Store",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nEzWXn_Mxht4kyFZyWywew/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/warming-hut-park-store-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 259,
+   "categories": [
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.471031972642,
+    "Latitude": 37.8083908117365
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "983 Marine Dr",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94129",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "983 Marine Dr",
+     "San Francisco, CA 94129"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155613040",
+   "display_phone": "(415) 561-3040",
+   "distance": 5837.968982608912
+  },
+  {
+   "id": "ndDb1erN_IQcaVLIDQhGMQ",
+   "alias": "the-musical-offering-cafe-berkeley",
+   "name": "The Musical Offering Cafe",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9WhJhBo4TvFOY99P8h-7Gg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-musical-offering-cafe-berkeley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 243,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.26069,
+    "Latitude": 37.86823
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "2430 Bancroft Way",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2430 Bancroft Way",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15108490211",
+   "display_phone": "(510) 849-0211",
+   "distance": 17380.390190019432
+  },
+  {
+   "id": "DX_lGExgrpRcqPCwnvyhVg",
+   "alias": "rasputin-music-berkeley",
+   "name": "Rasputin Music",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EdvbQrwxmoIOGcZnqqcXkQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rasputin-music-berkeley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 243,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.2587682,
+    "Latitude": 37.8668541
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2401 Telegraph Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2401 Telegraph Ave",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107041146",
+   "display_phone": "(510) 704-1146",
+   "distance": 17424.670216530634
+  },
+  {
+   "id": "wUO6Lny3F1gSNv5uPilINA",
+   "alias": "isotope-comics-san-francisco",
+   "name": "Isotope Comics",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fP3PDAC5V8axGR5O7ZA80g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/isotope-comics-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 241,
+   "categories": [
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.42328,
+    "Latitude": 37.776016
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "326 Fell St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "326 Fell St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156216543",
+   "display_phone": "(415) 621-6543",
+   "distance": 362.89118062685026
+  },
+  {
+   "id": "Pi8PKZToXw2wqvkOM3Po0Q",
+   "alias": "my-favorite-san-francisco-4",
+   "name": "My Favorite",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lIf9yxwo69Y9KOuL2suxTA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/my-favorite-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 241,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "baby_gear",
+     "title": "Baby Gear \u0026 Furniture"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.46446,
+    "Latitude": 37.7639799
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "601 Irving St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94122",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "601 Irving St",
+     "San Francisco, CA 94122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152425540",
+   "display_phone": "(415) 242-5540",
+   "distance": 4134.290757589423
+  },
+  {
+   "id": "ACa4Zhb3nhhOpOx20N2n5Q",
+   "alias": "barnes-and-noble-booksellers-san-mateo-2",
+   "name": "Barnes \u0026 Noble Booksellers",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bvMOXysLksA3aulp2azHuQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barnes-and-noble-booksellers-san-mateo-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 225,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.2977921,
+    "Latitude": 37.5367027
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "11 W Hillsdale Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Mateo",
+    "zip_code": "94403",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "11 W Hillsdale Blvd",
+     "San Mateo, CA 94403"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16503415560",
+   "display_phone": "(650) 341-5560",
+   "distance": 28647.489547686477
+  },
+  {
+   "id": "3ZI2DNFF4Hq1E8irsrFXIA",
+   "alias": "walden-pond-bookstore-oakland",
+   "name": "Walden Pond Bookstore",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jHz4Jdm451qiKbFFe8upaQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/walden-pond-bookstore-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 223,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.246658325195,
+    "Latitude": 37.8129005432129
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "3316 Grand Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94610",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3316 Grand Ave",
+     "Oakland, CA 94610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15108324438",
+   "display_phone": "(510) 832-4438",
+   "distance": 15754.476127944074
+  },
+  {
+   "id": "4DA3iSuLLJeNYzKIfVDpLA",
+   "alias": "barnes-and-noble-el-cerrito",
+   "name": "Barnes \u0026 Noble",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ms2LENL9uDdqURN2Dz0b0Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barnes-and-noble-el-cerrito?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 215,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.301049232483,
+    "Latitude": 37.9001031617415
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "6050 El Cerrito Plz",
+    "address2": "",
+    "address3": "",
+    "city": "El Cerrito",
+    "zip_code": "94530",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "6050 El Cerrito Plz",
+     "El Cerrito, CA 94530"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105240087",
+   "display_phone": "(510) 524-0087",
+   "distance": 17373.482306801106
+  },
+  {
+   "id": "6rBhOqbYSnd6Kz4ZakehJw",
+   "alias": "pegasus-books-downtown-berkeley",
+   "name": "Pegasus Books Downtown",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3AuzVOLTp2cfPv6UmJC0Yg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pegasus-books-downtown-berkeley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 214,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.267333,
+    "Latitude": 37.866556
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2349 Shattuck Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2349 Shattuck Ave",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106491320",
+   "display_phone": "(510) 649-1320",
+   "distance": 16801.196952877275
+  },
+  {
+   "id": "Uu2yJ_LoL1nTcr3Vf2Oz6g",
+   "alias": "borderlands-books-san-francisco",
+   "name": "Borderlands Books",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zt8655RiofkhBd1SdRUQfg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/borderlands-books-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 212,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.45099043497257,
+    "Latitude": 37.7696454422024
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1740 Haight St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94117",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1740 Haight St",
+     "San Francisco, CA 94117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158248203",
+   "display_phone": "(415) 824-8203",
+   "distance": 2837.421668399803
+  },
+  {
+   "id": "sQYNlwC6uhl53gRPh4pwzg",
+   "alias": "barnes-and-noble-emeryville",
+   "name": "Barnes \u0026 Noble",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Q4QnvqGzsmyKMQs0G4YwqQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barnes-and-noble-emeryville?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 208,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.29259,
+    "Latitude": 37.83329
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5604 Bay St",
+    "address2": "",
+    "address3": "",
+    "city": "Emeryville",
+    "zip_code": "94608",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "5604 Bay St",
+     "Emeryville, CA 94608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105470905",
+   "display_phone": "(510) 547-0905",
+   "distance": 12894.870731210334
+  },
+  {
+   "id": "4BI1hK0tQZwQWino8olmTQ",
+   "alias": "alexander-book-san-francisco",
+   "name": "Alexander Book",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Uf_q5TPobaUzXXpZ65lvhw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alexander-book-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 206,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4007332,
+    "Latitude": 37.78859
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "50 2nd St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "50 2nd St",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154952992",
+   "display_phone": "(415) 495-2992",
+   "distance": 2237.962904365145
+  },
+  {
+   "id": "XQyh_ojQVqVT4Uv4SLJaXg",
+   "alias": "dr-comics-and-mr-games-oakland",
+   "name": "Dr Comics \u0026 Mr Games",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NJqDaczQV0BZIyEue0Feew/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dr-comics-and-mr-games-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 204,
+   "categories": [
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    },
+    {
+     "alias": "hobbyshops",
+     "title": "Hobby Shops"
+    },
+    {
+     "alias": "tabletopgames",
+     "title": "Tabletop Games"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.25326,
+    "Latitude": 37.82544
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4014 Piedmont Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94611",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "4014 Piedmont Ave",
+     "Oakland, CA 94611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106017800",
+   "display_phone": "(510) 601-7800",
+   "distance": 15640.97346548904
+  },
+  {
+   "id": "f3M2JjdpDY4HkfETxmiDlw",
+   "alias": "the-ravens-wing-magical-co-oakland-3",
+   "name": "The Raven's Wing Magical Co",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TvH6CvThh_msXcASXzWRdg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-ravens-wing-magical-co-oakland-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 203,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "psychic_astrology",
+     "title": "Supernatural Readings"
+    },
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.25083,
+    "Latitude": 37.80894
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "536 Grand Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94610",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "536 Grand Ave",
+     "Oakland, CA 94610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104449355",
+   "display_phone": "(510) 444-9355",
+   "distance": 15289.079432386654
+  },
+  {
+   "id": "maX2pNMeAroeVGbcCNkTcg",
+   "alias": "fayes-coffee-san-francisco",
+   "name": "Faye's Coffee",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5MJvk2dsF9L-AGPTfcgSqA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fayes-coffee-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 197,
+   "categories": [
+    {
+     "alias": "videoandgames",
+     "title": "Videos \u0026 Video Game Rental"
+    },
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4242662,
+    "Latitude": 37.7616598
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "3614 18th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3614 18th St",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155220434",
+   "display_phone": "(415) 522-0434",
+   "distance": 1533.1179602484538
+  },
+  {
+   "id": "ayVjo0yUCSEVVwMIr87RLg",
+   "alias": "audio-vision-san-francisco-4",
+   "name": "Audio Vision",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tuo4MsDVfAaxGbqxYiR1og/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/audio-vision-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 191,
+   "categories": [
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "hifi",
+     "title": "High Fidelity Audio Equipment"
+    },
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.421282926181,
+    "Latitude": 37.7907388388136
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "1628 California St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1628 California St",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156141118",
+   "display_phone": "(415) 614-1118",
+   "distance": 1768.9531239734376
+  },
+  {
+   "id": "uDe2vRQUC31bNE051kXy5A",
+   "alias": "barnes-and-noble-san-bruno",
+   "name": "Barnes \u0026 Noble",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/b4p59FP2x8HC_i8yT0XHrw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barnes-and-noble-san-bruno?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 175,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    },
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.419014987803,
+    "Latitude": 37.6358174767839
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1150 El Camino Real",
+    "address2": "Ste 277",
+    "address3": "",
+    "city": "San Bruno",
+    "zip_code": "94066",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1150 El Camino Real",
+     "Ste 277",
+     "San Bruno, CA 94066"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16508712530",
+   "display_phone": "(650) 871-2530",
+   "distance": 15465.290904747577
+  },
+  {
+   "id": "Ev3qjedN22ign8U2ABYvyA",
+   "alias": "rocket-reuse-alameda",
+   "name": "Rocket Reuse",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XZGEnuawptfWXmfhwWjbtw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rocket-reuse-alameda?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 173,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.24327,
+    "Latitude": 37.76389
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1355 Park St",
+    "address2": "",
+    "address3": "",
+    "city": "Alameda",
+    "zip_code": "94501",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1355 Park St",
+     "Alameda, CA 94501"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15103370750",
+   "display_phone": "(510) 337-0750",
+   "distance": 15522.567734203523
+  },
+  {
+   "id": "3NjT9JBo6UhEgGdIfgVPgw",
+   "alias": "b-street-books-san-mateo",
+   "name": "B Street Books",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/M1BP0ZB0k8HU2YrO1zjTqg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/b-street-books-san-mateo?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 168,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.32221231406125,
+    "Latitude": 37.56549517841991
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "301 S B St",
+    "address2": "",
+    "address3": "",
+    "city": "San Mateo",
+    "zip_code": "94401",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "301 S B St",
+     "San Mateo, CA 94401"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16503432800",
+   "display_phone": "(650) 343-2800",
+   "distance": 24806.23509534144
+  },
+  {
+   "id": "eI0xBfDKxIeL6Bf-SkR6Ew",
+   "alias": "brentwood-game-exchange-and-phone-repair-brentwood-2",
+   "name": "Brentwood Game Exchange and Phone Repair",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MH07HHxvnyE8YIQCqRI_pA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brentwood-game-exchange-and-phone-repair-brentwood-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 165,
+   "categories": [
+    {
+     "alias": "itservices",
+     "title": "IT Services \u0026 Computer Repair"
+    },
+    {
+     "alias": "videogamestores",
+     "title": "Video Game Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -121.69658,
+    "Latitude": 37.94846
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "7351 Brentwood Blvd",
+    "address2": "Ste E",
+    "address3": "",
+    "city": "Brentwood",
+    "zip_code": "94513",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "7351 Brentwood Blvd",
+     "Ste E",
+     "Brentwood, CA 94513"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19255134650",
+   "display_phone": "(925) 513-4650",
+   "distance": 66313.9848022417
+  },
+  {
+   "id": "q7cSp9uSwIljufuZyTb_Dw",
+   "alias": "books-inc-alameda-4",
+   "name": "Books Inc",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yGNM7okVTrE7kzhQBLQoKw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/books-inc-alameda-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 164,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.24315,
+    "Latitude": 37.76358
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1344 Park St",
+    "address2": "",
+    "address3": "",
+    "city": "Alameda",
+    "zip_code": "94501",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1344 Park St",
+     "Alameda, CA 94501"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105222226",
+   "display_phone": "(510) 522-2226",
+   "distance": 15545.584002229976
+  },
+  {
+   "id": "hbm1FnWVkorLGfRj-d0rwQ",
+   "alias": "the-reading-bug-san-carlos",
+   "name": "The Reading Bug",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/um-p9kadpQHA5OdFHXhu_w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-reading-bug-san-carlos?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 157,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.258056640625,
+    "Latitude": 37.5042877197266
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "785 Laurel St",
+    "address2": "",
+    "address3": "",
+    "city": "San Carlos",
+    "zip_code": "94070",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "785 Laurel St",
+     "San Carlos, CA 94070"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16505910100",
+   "display_phone": "(650) 591-0100",
+   "distance": 33276.62154651417
+  },
+  {
+   "id": "2QSTD43fA7FYNz3qOU3ZRA",
+   "alias": "phoenix-games-concord",
+   "name": "Phoenix Games",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/N156oaRGbReNuOUa7vNxvA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/phoenix-games-concord?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 155,
+   "categories": [
+    {
+     "alias": "videoandgames",
+     "title": "Videos \u0026 Video Game Rental"
+    },
+    {
+     "alias": "videogamestores",
+     "title": "Video Game Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -121.985980022748,
+    "Latitude": 37.9627499265363
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4607 Clayton Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Concord",
+    "zip_code": "94521",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "4607 Clayton Rd",
+     "Concord, CA 94521"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19256824263",
+   "display_phone": "(925) 682-4263",
+   "distance": 43402.08975199753
+  },
+  {
+   "id": "GfE_o_1DV9JTV5FqCDkm5Q",
+   "alias": "cards-and-comics-central-san-francisco",
+   "name": "Cards \u0026 Comics Central",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/of6NNvlhLWC0L9LrC-dATg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cards-and-comics-central-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 155,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    },
+    {
+     "alias": "tabletopgames",
+     "title": "Tabletop Games"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.47777,
+    "Latitude": 37.7807699
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5424 Geary Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94121",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "5424 Geary Blvd",
+     "San Francisco, CA 94121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156683544",
+   "display_phone": "(415) 668-3544",
+   "distance": 5172.540834711928
+  },
+  {
+   "id": "NkYfncqQSVcwqegQDA37Bg",
+   "alias": "book-passage-corte-madera",
+   "name": "Book Passage",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kcuU3kdFiBvQb3B3IqsG1Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/book-passage-corte-madera?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 145,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.5173260123883,
+    "Latitude": 37.93384624809502
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "51 Tamal Vista Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Corte Madera",
+    "zip_code": "94925",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "51 Tamal Vista Blvd",
+     "Corte Madera, CA 94925"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159270960",
+   "display_phone": "(415) 927-0960",
+   "distance": 19654.209189023735
+  },
+  {
+   "id": "mLDC0t0uY92nVcweGszKyA",
+   "alias": "russian-hill-bookstore-san-francisco",
+   "name": "Russian Hill Bookstore",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mNKl0MsQFIpwtuh3OOGNzg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/russian-hill-bookstore-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 142,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "tabletopgames",
+     "title": "Tabletop Games"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.4216856,
+    "Latitude": 37.7967158
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2162 Polk St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2162 Polk St",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159290997",
+   "display_phone": "(415) 929-0997",
+   "distance": 2434.1046357671257
+  }
+ ],
+ "total": 446,
+ "region": {
+  "center": {
+   "longitude": -122.4194,
+   "Latitude": 37.7749
+  }
+ }
+}

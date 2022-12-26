@@ -1,0 +1,1747 @@
+{
+ "businesses": [
+  {
+   "id": "MIjEMnML24rf1Hj7ae12qA",
+   "alias": "carrefour-rambouillet-3",
+   "name": "Carrefour",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ot-dH6xdiY2VndeVzErrbw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/carrefour-rambouillet-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    },
+    {
+     "alias": "shoppingcenters",
+     "title": "Shopping Centers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 1.829079,
+    "Latitude": 48.643868
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "",
+    "address2": "Centre Commercial du Bel Air",
+    "address3": "",
+    "city": "Rambouillet",
+    "zip_code": "78120",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "Centre Commercial du Bel Air",
+     "78120 Rambouillet",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33134856835",
+   "display_phone": "+33 1 34 85 68 35",
+   "distance": 45060.7715759416
+  },
+  {
+   "id": "_eMSHOIsJI4G_USLN4gm2Q",
+   "alias": "carrefour-créteil-3",
+   "name": "Carrefour",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/so7XjbQgoJjmHCtYFJCxZw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/carrefour-cr%C3%A9teil-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    },
+    {
+     "alias": "travelservices",
+     "title": "Travel Services"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.455572,
+    "Latitude": 48.790367
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Centre commercial Régional",
+    "address2": "",
+    "address3": "",
+    "city": "Créteil",
+    "zip_code": "94000",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "Centre commercial Régional",
+     "94000 Créteil",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145135555",
+   "display_phone": "+33 1 45 13 55 55",
+   "distance": 10559.830697116997
+  },
+  {
+   "id": "CcfUt4DbZQ23EOAoHUJroQ",
+   "alias": "carrefour-noisy-le-grand",
+   "name": "Carrefour",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/carrefour-noisy-le-grand?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    },
+    {
+     "alias": "travelservices",
+     "title": "Travel Services"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.544526,
+    "Latitude": 48.83991
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "Arcades",
+    "address2": "",
+    "address3": "",
+    "city": "Noisy le Grand",
+    "zip_code": "93160",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "Arcades",
+     "93160 Noisy le Grand",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148158200",
+   "display_phone": "+33 1 48 15 82 00",
+   "distance": 14194.782787923285
+  },
+  {
+   "id": "j4NUT4FBtZBrVWGacAEoIQ",
+   "alias": "direct-assurance-nanterre",
+   "name": "Direct Assurance",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/direct-assurance-nanterre?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.2129246,
+    "Latitude": 48.8862374
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "163 Avenue Georges Clemenceau",
+    "address2": "",
+    "address3": "",
+    "city": "Nanterre",
+    "zip_code": "92000",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "163 Avenue Georges Clemenceau",
+     "92000 Nanterre",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147259410",
+   "display_phone": "+33 1 47 25 94 10",
+   "distance": 10706.216215516528
+  },
+  {
+   "id": "RuyRSBdqvyFqFqisR9zKaw",
+   "alias": "assurland-paris",
+   "name": "Assurland",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/IHy27AblCel37OZQ9xTbUg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/assurland-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3660679,
+    "Latitude": 48.8671134
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 bis avenue de la République",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "1 bis avenue de la République",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33185085386",
+   "display_phone": "+33 1 85 08 53 86",
+   "distance": 1547.8358321409355
+  },
+  {
+   "id": "2sTiq-GSLJDgwQ_p83SXUw",
+   "alias": "au-ministère-paris",
+   "name": "Au Ministère",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dMoQ5n_vzpJJ24yJNQCJxw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/au-minist%C3%A8re-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3521,
+    "Latitude": 48.855
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "ségur",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "ségur",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 178.0620497789144
+  },
+  {
+   "id": "pUdffNOapCsMGZTtKcLfyQ",
+   "alias": "mutuelleland-paris",
+   "name": "Mutuelleland",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mutuelleland-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    },
+    {
+     "alias": "pets",
+     "title": "Pets"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3034729,
+    "Latitude": 48.8806725
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "16 rue Méderic",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "16 rue Méderic",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33178098181",
+   "display_phone": "+33 1 78 09 81 81",
+   "distance": 4457.263169601894
+  },
+  {
+   "id": "xa_JlRDqJ9DroEP1ZTQrEA",
+   "alias": "filiassur-solution-sarl-paris-2",
+   "name": "Filiassur Solution Sarl",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/filiassur-solution-sarl-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.3257462,
+    "Latitude": 48.8732667
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "61 Boulevard Haussmann",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "61 Boulevard Haussmann",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33820820745",
+   "display_phone": "+33 820 82 07 45",
+   "distance": 2679.351550598181
+  },
+  {
+   "id": "Vk-FSAF8KjYJSWvOhCoPLA",
+   "alias": "pacifica-paris",
+   "name": "Pacifica",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pacifica-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.32032,
+    "Latitude": 48.84214
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8 Boulevard Vaugirard",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "8 Boulevard Vaugirard",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153743300",
+   "display_phone": "+33 1 53 74 33 00",
+   "distance": 2833.139007210823
+  },
+  {
+   "id": "N-PNgpuEwa3AsBeljXGvPg",
+   "alias": "mondassur-boulogne-billancourt",
+   "name": "Mondassur",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FQ1mRB6OqMSH_F4_XPFQYA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mondassur-boulogne-billancourt?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.247132,
+    "Latitude": 48.8312708
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "19 rue des Longs Prés",
+    "address2": "",
+    "address3": "",
+    "city": "Boulogne Billancourt",
+    "zip_code": "92100",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "19 rue des Longs Prés",
+     "92100 Boulogne Billancourt",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33180875780",
+   "display_phone": "+33 1 80 87 57 80",
+   "distance": 8188.356688348303
+  },
+  {
+   "id": "VSZ1TN9yH3Z5eFtfm6JSUQ",
+   "alias": "sacapp-assureurs-boulogne-billancourt",
+   "name": "Sacapp Assureurs",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sacapp-assureurs-boulogne-billancourt?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.23971,
+    "Latitude": 48.84308
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "39 rue Fessart",
+    "address2": "",
+    "address3": "",
+    "city": "Boulogne Billancourt",
+    "zip_code": "92100",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "39 rue Fessart",
+     "92100 Boulogne Billancourt",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33141860626",
+   "display_phone": "+33 1 41 86 06 26",
+   "distance": 8249.252045694528
+  },
+  {
+   "id": "Z1VgiGoExgjc-aXyBJNJlQ",
+   "alias": "mma-assurances-paris",
+   "name": "MMA Assurances",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sSnNDEy8Ond2XPuYG0RqIg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mma-assurances-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.34592,
+    "Latitude": 48.87861
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "54 Rue Maubeuge",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "54 Rue Maubeuge",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140161423",
+   "display_phone": "+33 1 40 16 14 23",
+   "distance": 2490.1310694572117
+  },
+  {
+   "id": "0c051ZyieOiCc6pETD6Mnw",
+   "alias": "maif-bondy-2",
+   "name": "MAIF",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DJuf5QdA0GMZQxMIBUwwVg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/maif-bondy-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.477769,
+    "Latitude": 48.892659
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15 rue Etienne Dolet",
+    "address2": "",
+    "address3": "",
+    "city": "Bondy",
+    "zip_code": "93140",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "15 rue Etienne Dolet",
+     "93140 Bondy",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148027979",
+   "display_phone": "+33 1 48 02 79 79",
+   "distance": 10020.49708201716
+  },
+  {
+   "id": "6lCJhTTyehxdAcpXc2bFEA",
+   "alias": "la-france-mutualiste-paris-3",
+   "name": "La France Mutualiste",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-france-mutualiste-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.2987925,
+    "Latitude": 48.8755219
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "40 Avenue Hoche",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "40 Avenue Hoche",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142566700",
+   "display_phone": "+33 1 42 56 67 00",
+   "distance": 4437.129543158801
+  },
+  {
+   "id": "eWv_YZRIxSek-T-ptDfc8g",
+   "alias": "audit-and-coverage-puteaux-2",
+   "name": "Audit And Coverage",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Fc978kCeY5m9dHok5VL69g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/audit-and-coverage-puteaux-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.24037,
+    "Latitude": 48.8826103
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "93 rue Jean Jaures",
+    "address2": "",
+    "address3": "",
+    "city": "Puteaux",
+    "zip_code": "92800",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "93 rue Jean Jaures",
+     "92800 Puteaux",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33178811005",
+   "display_phone": "+33 1 78 81 10 05",
+   "distance": 8675.14835021666
+  },
+  {
+   "id": "fqqp6jhwdEE741O49r5Qkw",
+   "alias": "restaurant-dominique-dupont-st-ouen-l-aumone",
+   "name": "restaurant  dominique dupont",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/restaurant-dominique-dupont-st-ouen-l-aumone?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    },
+    {
+     "alias": "food",
+     "title": "Food"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.1032179,
+    "Latitude": 49.0475868
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "53 rue du général Leclerc",
+    "address2": "",
+    "address3": "",
+    "city": "St Ouen l'Aumone",
+    "zip_code": "95310",
+    "country": "FR",
+    "state": "95",
+    "display_address": [
+     "53 rue du général Leclerc",
+     "95310 St Ouen l'Aumone",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33130374416",
+   "display_phone": "+33 1 30 37 44 16",
+   "distance": 27956.013046651613
+  },
+  {
+   "id": "O3GfLjhSeEcRkK8Zujpwag",
+   "alias": "assurancevie-paris",
+   "name": "Assurancevie",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8i9uJtyG5LsCqZUmID-Mfg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/assurancevie-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3440499,
+    "Latitude": 48.8707085
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10 rue d'Uzès",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "10 rue d'Uzès",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33810100320",
+   "display_phone": "+33 810 10 03 20",
+   "distance": 1683.8476499909016
+  },
+  {
+   "id": "6YvARmD2QcFIkUPn4agMFw",
+   "alias": "lcl-le-crédit-lyonnais-paris-175",
+   "name": "LCL - Le Crédit lyonnais",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ThXjPYuEwlBve_QPnoesNQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lcl-le-cr%C3%A9dit-lyonnais-paris-175?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    },
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.33642,
+    "Latitude": 48.87133
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "19 bd des Italiens",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "19 bd des Italiens",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142683946",
+   "display_phone": "+33 1 42 68 39 46",
+   "distance": 2003.7757432887288
+  },
+  {
+   "id": "jCPW-iBOwVzYk6aS-fqjWg",
+   "alias": "mnt-mutuelle-nationale-territoriale-pantin",
+   "name": "MNT - Mutuelle Nationale Territoriale",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mnt-mutuelle-nationale-territoriale-pantin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.4027599,
+    "Latitude": 48.89121
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 rue du Pré Saint-Gervais",
+    "address2": "",
+    "address3": "",
+    "city": "Pantin",
+    "zip_code": "93500",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "1 rue du Pré Saint-Gervais",
+     "93500 Pantin",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33972720202",
+   "display_phone": "+33 9 72 72 02 02",
+   "distance": 5326.995253910643
+  },
+  {
+   "id": "WqrpHcmuBXMp7SDjJxLv3Q",
+   "alias": "agf-gournay-sur-marne",
+   "name": "Agf",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/agf-gournay-sur-marne?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.58093,
+    "Latitude": 48.8596
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "32 avenue Champs",
+    "address2": "",
+    "address3": "",
+    "city": "Gournay sur Marne",
+    "zip_code": "93460",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "32 avenue Champs",
+     "93460 Gournay sur Marne",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143051867",
+   "display_phone": "+33 1 43 05 18 67",
+   "distance": 16727.7503173497
+  },
+  {
+   "id": "Jmxs7MCJqy4-WafnndygQQ",
+   "alias": "georges-robert-paris",
+   "name": "Georges Robert",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/georges-robert-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    },
+    {
+     "alias": "driving_schools",
+     "title": "Driving Schools"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.4037871,
+    "Latitude": 48.8522959
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13 Rue Tolain",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "13 Rue Tolain",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143735008",
+   "display_phone": "+33 1 43 73 50 08",
+   "distance": 3804.505439167267
+  },
+  {
+   "id": "2ulNY4YFd27AvW5-4UlhTg",
+   "alias": "orcival-st-maur-des-fossés",
+   "name": "Orcival",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/j5a52KsbbUDdEdcEIv5J2w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/orcival-st-maur-des-foss%C3%A9s?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.4816,
+    "Latitude": 48.7982292
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "65 bd de Créteil",
+    "address2": "",
+    "address3": "",
+    "city": "St Maur des Fossés",
+    "zip_code": "94100",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "65 bd de Créteil",
+     "94100 St Maur des Fossés",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153669640",
+   "display_phone": "+33 1 53 66 96 40",
+   "distance": 11486.125347021285
+  },
+  {
+   "id": "l6Bec-oB2TrJ5X0idhAP3w",
+   "alias": "assistance-etudiants-paris",
+   "name": "Assistance Etudiants",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/assistance-etudiants-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.30519,
+    "Latitude": 48.86115
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "153 Rue Université",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "153 Rue Université",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140479100",
+   "display_phone": "+33 1 40 47 91 00",
+   "distance": 3476.1184626094264
+  },
+  {
+   "id": "hMBdpH4Q9p0LSpPJO3upRA",
+   "alias": "legal-et-general-france-paris-cedex-09",
+   "name": "Legal et General France",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/legal-et-general-france-paris-cedex-09?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.3341947,
+    "Latitude": 48.8753327
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "58 Rue Victoire",
+    "address2": "",
+    "address3": "",
+    "city": "Paris Cedex 09",
+    "zip_code": "75440",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "58 Rue Victoire",
+     "75440 Paris Cedex 09",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33821444100",
+   "display_phone": "+33 821 44 41 00",
+   "distance": 2464.4174963763076
+  },
+  {
+   "id": "Tzi-LqCHHxTkm0zrQK-7xQ",
+   "alias": "bernard-sarfati-vincennes",
+   "name": "Bernard Sarfati",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bernard-sarfati-vincennes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.4348962,
+    "Latitude": 48.8485064
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "170 Rue Fontenay",
+    "address2": "",
+    "address3": "",
+    "city": "Vincennes",
+    "zip_code": "94300",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "170 Rue Fontenay",
+     "94300 Vincennes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148084815",
+   "display_phone": "+33 1 48 08 48 15",
+   "distance": 6117.120853205764
+  },
+  {
+   "id": "UbhBBPyr4ytooaNEGtyu3Q",
+   "alias": "la-protection-juridique-by-assur-770-paris",
+   "name": "La Protection Juridique by Assur' 770",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lBKScl6vWx61lC_WLARTsQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-protection-juridique-by-assur-770-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3632132,
+    "Latitude": 48.8691065
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3 rue Beaurepaire",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 rue Beaurepaire",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140180770",
+   "display_phone": "+33 1 40 18 07 70",
+   "distance": 1607.1601373372316
+  },
+  {
+   "id": "lYFFOYIq3UXeDTP0Cj8Wgg",
+   "alias": "matmut-assurances-clichy-3",
+   "name": "Matmut Assurances",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/matmut-assurances-clichy-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.31978,
+    "Latitude": 48.90304
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "138 boulevard Victor Hugo",
+    "address2": "",
+    "address3": "",
+    "city": "Clichy",
+    "zip_code": "92110",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "138 boulevard Victor Hugo",
+     "92110 Clichy",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33141408160",
+   "display_phone": "+33 1 41 40 81 60",
+   "distance": 5679.545319786964
+  },
+  {
+   "id": "pXtwH1G2Y7qwUykoMYI9HA",
+   "alias": "maif-antony",
+   "name": "MAIF",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VxNcR5eZZkUbMUJW3cn10A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/maif-antony?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.304771,
+    "Latitude": 48.752239
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "21 avenue de la division Leclerc",
+    "address2": "",
+    "address3": "",
+    "city": "Antony",
+    "zip_code": "92160",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "21 avenue de la division Leclerc",
+     "92160 Antony",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33155595800",
+   "display_phone": "+33 1 55 59 58 00",
+   "distance": 12113.112939503764
+  },
+  {
+   "id": "rp--lyX70lZk3KVhytPZZA",
+   "alias": "macif-paris-12",
+   "name": "MACIF",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/macif-paris-12?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.35695,
+    "Latitude": 48.868961
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "18 boulevard Saint-Martin",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "18 boulevard Saint-Martin",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33155565758",
+   "display_phone": "+33 1 55 56 57 58",
+   "distance": 1417.7187063108245
+  },
+  {
+   "id": "w7Izj63Hu2CNRZLJDni1Sg",
+   "alias": "société-générale-paris-525",
+   "name": "Société Générale",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/D-i3MisebYmMt0cHi1qROw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/soci%C3%A9t%C3%A9-g%C3%A9n%C3%A9rale-paris-525?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    },
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.32213,
+    "Latitude": 48.871177
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11 boulevard Malesherbes",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "11 boulevard Malesherbes",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140175760",
+   "display_phone": "+33 1 40 17 57 60",
+   "distance": 2732.3137797696018
+  },
+  {
+   "id": "uGo6oGV_MRCxSL3i58LF8g",
+   "alias": "assurances-carrefour-evry",
+   "name": "Assurances Carrefour",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/assurances-carrefour-evry?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.42663,
+    "Latitude": 48.63087
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "boulevard Europe",
+    "address2": "",
+    "address3": "",
+    "city": "Evry",
+    "zip_code": "91000",
+    "country": "FR",
+    "state": "91",
+    "display_address": [
+     "boulevard Europe",
+     "91000 Evry",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33169870945",
+   "display_phone": "+33 1 69 87 09 45",
+   "distance": 25646.800071106034
+  },
+  {
+   "id": "XB_TO0fUrfaWuOMXY5Ew-g",
+   "alias": "la-grande-horloge-cergy",
+   "name": "La Grande Horloge",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-grande-horloge-cergy?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    },
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.0342438,
+    "Latitude": 49.0493313
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Rue des Pas-Perdus",
+    "address2": "",
+    "address3": "",
+    "city": "Cergy",
+    "zip_code": "95800",
+    "country": "FR",
+    "state": "95",
+    "display_address": [
+     "Rue des Pas-Perdus",
+     "95800 Cergy",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33130752254",
+   "display_phone": "+33 1 30 75 22 54",
+   "distance": 31595.846187313287
+  },
+  {
+   "id": "oK4ZRwq-Ncqd0TKPJ_1vrw",
+   "alias": "assor-credit-paris",
+   "name": "Assor Credit",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/assor-credit-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.2879999,
+    "Latitude": 48.87843
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "36 rue Brunel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "36 rue Brunel",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33826555959",
+   "display_phone": "+33 826 55 59 59",
+   "distance": 5284.916757334305
+  },
+  {
+   "id": "UD45X8kXkAfxz1otoBDS5w",
+   "alias": "cabinet-philippe-normand-paris",
+   "name": "Cabinet Philippe Normand",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cabinet-philippe-normand-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.3985456,
+    "Latitude": 48.8349166
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "16 Rue Fécamp",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "16 Rue Fécamp",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143435680",
+   "display_phone": "+33 1 43 43 56 80",
+   "distance": 4161.106858159362
+  },
+  {
+   "id": "I2vWrPLfYYx_W6VPfk0mlw",
+   "alias": "chapka-assurances-paris",
+   "name": "Chapka Assurances",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chapka-assurances-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.31317,
+    "Latitude": 48.87336
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "53 rue de la Boétie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "53 rue de la Boétie",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33174855057",
+   "display_phone": "+33 1 74 85 50 57",
+   "distance": 3409.385752110078
+  },
+  {
+   "id": "3B27xGyGjhdBaMY6e12BPQ",
+   "alias": "matmut-paris-21",
+   "name": "Matmut",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/matmut-paris-21?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "homeinsurance",
+     "title": "Home \u0026 Rental Insurance"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3242902351254,
+    "Latitude": 48.8750508027384
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 rue de la Pépinière",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "01",
+    "display_address": [
+     "1 rue de la Pépinière",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33149240612",
+   "display_phone": "+33 1 49 24 06 12",
+   "distance": 2894.2958233579425
+  },
+  {
+   "id": "2M5SfPE7yE8hhViz_slPmg",
+   "alias": "société-générale-neuilly-plaisance-2",
+   "name": "Société Générale",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/soci%C3%A9t%C3%A9-g%C3%A9n%C3%A9rale-neuilly-plaisance-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "banks",
+     "title": "Banks \u0026 Credit Unions"
+    },
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.5063284,
+    "Latitude": 48.8613762
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "14 rue Général de Gaulle",
+    "address2": "",
+    "address3": "",
+    "city": "Neuilly-Plaisance",
+    "zip_code": "93360",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "14 rue Général de Gaulle",
+     "93360 Neuilly-Plaisance",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33149446240",
+   "display_phone": "+33 1 49 44 62 40",
+   "distance": 11288.019092413917
+  },
+  {
+   "id": "fHNqlt-ajMMb71Q3dk3Iqw",
+   "alias": "la-france-mutualiste-paris-2",
+   "name": "La France Mutualiste",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-france-mutualiste-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.301382,
+    "Latitude": 48.8461677
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "16 Square Jean Thébaud",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "16 Square Jean Thébaud",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153690886",
+   "display_phone": "+33 1 53 69 08 86",
+   "distance": 3894.990614996554
+  },
+  {
+   "id": "lNQrC61H3Zt-5NHHmSmT5Q",
+   "alias": "laurent-bernheim-assurances-paris",
+   "name": "Laurent Bernheim Assurances",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/laurent-bernheim-assurances-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.2999312,
+    "Latitude": 48.8877265
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17 Rue Alfred Roll",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "17 Rue Alfred Roll",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146220419",
+   "display_phone": "+33 1 46 22 04 19",
+   "distance": 5156.848087913849
+  },
+  {
+   "id": "WoE61smFpBon3HDCrB9JtQ",
+   "alias": "herr-experts-paris",
+   "name": "Herr Experts",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/herr-experts-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "insurance",
+     "title": "Insurance"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.28711,
+    "Latitude": 48.84615
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "43 Bis rue Entrepreneurs",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "43 Bis rue Entrepreneurs",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33158011205",
+   "display_phone": "+33 1 58 01 12 05",
+   "distance": 4902.1972576502585
+  }
+ ],
+ "total": 49,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

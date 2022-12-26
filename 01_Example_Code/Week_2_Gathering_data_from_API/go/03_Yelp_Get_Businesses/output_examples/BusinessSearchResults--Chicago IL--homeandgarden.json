@@ -1,0 +1,1896 @@
+{
+ "businesses": [
+  {
+   "id": "Rq9cpBiN4IlWNVllhcFFFw",
+   "alias": "abt-electronics-glenview-10",
+   "name": "Abt Electronics",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ANqAJdJsWU75reVwZCnw7w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/abt-electronics-glenview-10?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2414,
+   "categories": [
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homeappliancerepair",
+     "title": "Appliances \u0026 Repair"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.863583,
+    "Latitude": 42.077846
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1200 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Glenview",
+    "zip_code": "60025",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1200 N Milwaukee Ave",
+     "Glenview, IL 60025"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18008603577",
+   "display_phone": "(800) 860-3577",
+   "distance": 29441.006946708883
+  },
+  {
+   "id": "5Fe0q1i1WH2AuRurv9oPPQ",
+   "alias": "ikea-schaumburg",
+   "name": "IKEA",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M-s4biGbWRwVq1SQ3Z5YCA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ikea-schaumburg?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 837,
+   "categories": [
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "kitchenandbath",
+     "title": "Kitchen \u0026 Bath"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -88.0361715,
+    "Latitude": 42.05686169787195
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1800 McConnor Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Schaumburg",
+    "zip_code": "60173",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1800 McConnor Pkwy",
+     "Schaumburg, IL 60173"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18888884532",
+   "display_phone": "(888) 888-4532",
+   "distance": 39036.85561311996
+  },
+  {
+   "id": "BmM5k1EkM73pIbtwHXtXNA",
+   "alias": "roys-furniture-chicago",
+   "name": "Roy's Furniture",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-2xB9hujIpCs9ZYTLUntpQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/roys-furniture-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 563,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "interiordesign",
+     "title": "Interior Design"
+    },
+    {
+     "alias": "rugs",
+     "title": "Rugs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6535129326518,
+    "Latitude": 41.9270399438351
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2455 N Sheffield Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2455 N Sheffield Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732487878",
+   "display_phone": "(773) 248-7878",
+   "distance": 5784.918314087072
+  },
+  {
+   "id": "ww4VgOgBt7KuwMBYoz-Fxg",
+   "alias": "the-dump-furniture-outlet-lombard-2",
+   "name": "The Dump Furniture Outlet",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eUcqUKtX9AOmnMjHreHhQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-dump-furniture-outlet-lombard-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 554,
+   "categories": [
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -88.0142131564377,
+    "Latitude": 41.8367017732874
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2860 S Highland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Lombard",
+    "zip_code": "60148",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2860 S Highland Ave",
+     "Lombard, IL 60148"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16305194800",
+   "display_phone": "(630) 519-4800",
+   "distance": 32167.66664674338
+  },
+  {
+   "id": "qfVPbW0XwX4mVJjZ4NxaMQ",
+   "alias": "bengtsons-pumpkin-fest-homer-glen",
+   "name": "Bengtson's Pumpkin Fest",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ejY9drfej0ThMTt36BAxOA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bengtsons-pumpkin-fest-homer-glen?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 546,
+   "categories": [
+    {
+     "alias": "festivals",
+     "title": "Festivals"
+    },
+    {
+     "alias": "pumpkinpatches",
+     "title": "Pumpkin Patches"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.94388,
+    "Latitude": 41.61386
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "13341 W 151st St",
+    "address2": "",
+    "address3": "",
+    "city": "Homer Glen",
+    "zip_code": "60491",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "13341 W 151st St",
+     "Homer Glen, IL 60491"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17083013276",
+   "display_phone": "(708) 301-3276",
+   "distance": 39329.57705309494
+  },
+  {
+   "id": "F4IDb4kKn6G_wD-6ywdaXg",
+   "alias": "darvin-furniture-and-mattress-orland-park",
+   "name": "Darvin Furniture \u0026 Mattress",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_G_zbhvKxG5CsZbLm3VQ0w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/darvin-furniture-and-mattress-orland-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 454,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.85444,
+    "Latitude": 41.60915
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "15400 La Grange Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Orland Park",
+    "zip_code": "60462",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "15400 La Grange Rd",
+     "Orland Park, IL 60462"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17084604100",
+   "display_phone": "(708) 460-4100",
+   "distance": 35145.64291481986
+  },
+  {
+   "id": "wrC7G6iq3iJJqpVaqbl0uA",
+   "alias": "ikea-bolingbrook",
+   "name": "IKEA",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pegdo7hM7rrDr5tmAeXMjg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ikea-bolingbrook?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 390,
+   "categories": [
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "kitchenandbath",
+     "title": "Kitchen \u0026 Bath"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -88.0377466,
+    "Latitude": 41.7279183
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "750 E Boughton Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Bolingbrook",
+    "zip_code": "60440",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "750 E Boughton Rd",
+     "Bolingbrook, IL 60440"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18888884532",
+   "display_phone": "(888) 888-4532",
+   "distance": 37713.08618881992
+  },
+  {
+   "id": "OrfW8sgoZdHu5qvf5KL6Bg",
+   "alias": "county-line-orchard-hobart-2",
+   "name": "County Line Orchard",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/r2OvVgUfE9VeFosSLoI-EQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/county-line-orchard-hobart-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 388,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "pumpkinpatches",
+     "title": "Pumpkin Patches"
+    },
+    {
+     "alias": "pickyourown",
+     "title": "Pick Your Own Farms"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.22215,
+    "Latitude": 41.53331
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "200 S County Line Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Hobart",
+    "zip_code": "46342",
+    "country": "US",
+    "state": "IN",
+    "display_address": [
+     "200 S County Line Rd",
+     "Hobart, IN 46342"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12199474477",
+   "display_phone": "(219) 947-4477",
+   "distance": 51107.692884766075
+  },
+  {
+   "id": "_JTNkHtwqidDdkq-KSAouA",
+   "alias": "gethsemane-garden-center-chicago",
+   "name": "Gethsemane Garden Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/upGoXTKhhKn9ZDH5ilvAgw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gethsemane-garden-center-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 367,
+   "categories": [
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.669133,
+    "Latitude": 41.986769
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5739 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60660",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5739 N Clark St",
+     "Chicago, IL 60660"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738785915",
+   "display_phone": "(773) 878-5915",
+   "distance": 12513.820125951956
+  },
+  {
+   "id": "dtEF4fSm95MZQb3GXcwoew",
+   "alias": "target-chicago-6",
+   "name": "Target",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pw1WK_K3fLyD-5X7yXPCGw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-chicago-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 324,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.685128,
+    "Latitude": 41.929386
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2656 N Elston Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2656 N Elston Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732521994",
+   "display_phone": "(773) 252-1994",
+   "distance": 7313.500791427038
+  },
+  {
+   "id": "CjT48aL3hv_ZmPGSDvr90g",
+   "alias": "interior-define-chicago-2",
+   "name": "Interior Define",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cmWHWmoh90yNshQSCQOr4A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/interior-define-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 308,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.64989,
+    "Latitude": 41.91793
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "833 W Armitage Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "833 W Armitage Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18728024119",
+   "display_phone": "(872) 802-4119",
+   "distance": 4730.829460123729
+  },
+  {
+   "id": "5spG35XWXVvoMhcEabFlxA",
+   "alias": "adams-and-son-and-daughter-gardens-chicago-2",
+   "name": "Adams \u0026 Son \u0026 Daughter Gardens",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RM5R5tSirs4anFzHdewGBQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/adams-and-son-and-daughter-gardens-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 292,
+   "categories": [
+    {
+     "alias": "florists",
+     "title": "Florists"
+    },
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6964569091797,
+    "Latitude": 41.9008941650391
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1057 N California Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1057 N California Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732350991",
+   "display_phone": "(773) 235-0991",
+   "distance": 6083.624481883116
+  },
+  {
+   "id": "d2QJth_j7PbSS1Ob-i0ssw",
+   "alias": "ashley-homestore-niles-2",
+   "name": "Ashley HomeStore",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Y6sJNiEB34IMHr2I8nCYfQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ashley-homestore-niles-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 279,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.833019,
+    "Latitude": 42.052439
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "8251 W. Golf Rd.",
+    "address2": "",
+    "address3": "",
+    "city": "Niles",
+    "zip_code": "60714",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "8251 W. Golf Rd.",
+     "Niles, IL 60714"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18474702580",
+   "display_phone": "(847) 470-2580",
+   "distance": 25659.87308268063
+  },
+  {
+   "id": "BcDRi-258YDvujI4upHomw",
+   "alias": "value-city-furniture-niles-3",
+   "name": "Value City Furniture",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NomqwSV9JhOkyxOGK7b38Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/value-city-furniture-niles-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 276,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.838015,
+    "Latitude": 42.052405
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "500 Golf Mill Ctr",
+    "address2": "",
+    "address3": "",
+    "city": "Niles",
+    "zip_code": "60714",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "500 Golf Mill Ctr",
+     "Niles, IL 60714"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18477689714",
+   "display_phone": "(847) 768-9714",
+   "distance": 25923.151453363967
+  },
+  {
+   "id": "LezAJNYXKBXmunMma5wKSQ",
+   "alias": "the-roomplace-chicago-7",
+   "name": "The RoomPlace",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a84DnLjZYSGqFanEl2RMLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-roomplace-chicago-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 275,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6818923950195,
+    "Latitude": 41.9285659790039
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2575 North Elston Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2575 North Elston Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737722004",
+   "display_phone": "(773) 772-2004",
+   "distance": 7071.133611526911
+  },
+  {
+   "id": "e9iRX06OGE3K39wHkvetkg",
+   "alias": "the-home-depot-chicago-17",
+   "name": "The Home Depot",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/J9DiaLuKcfd-OCrtDGhxbw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-home-depot-chicago-17?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 273,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    },
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.659032,
+    "Latitude": 41.911663
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1232 W North Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1232 W North Ave",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734869200",
+   "display_phone": "(773) 486-9200",
+   "distance": 4447.721211470958
+  },
+  {
+   "id": "HIHnt6VYFDJk5evyf9SGyA",
+   "alias": "target-chicago-3",
+   "name": "Target",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vHqCIeEF106cN5yLcR-iVA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 266,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.630707,
+    "Latitude": 41.867718
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1154 S Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1154 S Clark St",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122126300",
+   "display_phone": "(312) 212-6300",
+   "distance": 1156.864545275112
+  },
+  {
+   "id": "aSI6yAr8VqYNiY9_YGjjLg",
+   "alias": "bobs-discount-furniture-skokie-skokie-2",
+   "name": "Bob's Discount Furniture - Skokie",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/X5qYJ6CiKj6Titw7ownu_A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bobs-discount-furniture-skokie-skokie-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 258,
+   "categories": [
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.747879,
+    "Latitude": 42.054398
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4825 Golf Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Skokie",
+    "zip_code": "60077",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4825 Golf Rd",
+     "Skokie, IL 60077"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12246016260",
+   "display_phone": "(224) 601-6260",
+   "distance": 21899.77555582145
+  },
+  {
+   "id": "Ji9e3o2uRqG-EBgpuguWQA",
+   "alias": "target-chicago-11",
+   "name": "Target",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yOHu3cmKPsyjiDdiljgxkA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-chicago-11?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 255,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.65645690869745,
+    "Latitude": 41.96337072463883
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4466 N Broadway St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4466 N Broadway St",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735962376",
+   "display_phone": "(773) 596-2376",
+   "distance": 9734.790761378948
+  },
+  {
+   "id": "FsE2Hs0J5RsSM-r5KxVDeA",
+   "alias": "west-elm-chicago",
+   "name": "west elm",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-ZFsTxFbSIG5SyYS_PPG5w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/west-elm-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 244,
+   "categories": [
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.654039,
+    "Latitude": 41.911505
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1000 W North Ave",
+    "address2": "Ste B",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1000 W North Ave",
+     "Ste B",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128671770",
+   "display_phone": "(312) 867-1770",
+   "distance": 4221.652308985471
+  },
+  {
+   "id": "j_dLEG9mmypZvNL_g3-jxQ",
+   "alias": "best-buy-chicago-4",
+   "name": "Best Buy",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TCGWONMC7_MwBOcNq-gC8Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/best-buy-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 227,
+   "categories": [
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    },
+    {
+     "alias": "computers",
+     "title": "Computers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.669632804304,
+    "Latitude": 41.919077767869
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2100 N Elston St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2100 N Elston St",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734860142",
+   "display_phone": "(773) 486-0142",
+   "distance": 5624.10633219083
+  },
+  {
+   "id": "YWxHQa7VbZq6AFbcALK9dg",
+   "alias": "the-home-depot-chicago-19",
+   "name": "The Home Depot",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Hs92vpPNsHb1xdRgaIBptA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-home-depot-chicago-19?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 223,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    },
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.648598,
+    "Latitude": 41.931051
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2665 N Halsted St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2665 N Halsted St",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734727740",
+   "display_phone": "(773) 472-7740",
+   "distance": 6089.92760873545
+  },
+  {
+   "id": "ZzILBUVr84wkVnPeUZT7sg",
+   "alias": "the-faucet-shoppe-chicago-2",
+   "name": "The Faucet Shoppe",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dya3Kg9T4FdHz_SXHDNuOQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-faucet-shoppe-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 221,
+   "categories": [
+    {
+     "alias": "kitchenandbath",
+     "title": "Kitchen \u0026 Bath"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.7150296,
+    "Latitude": 41.9503744
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3812 N Elston Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3812 N Elston Ave",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734783890",
+   "display_phone": "(773) 478-3890",
+   "distance": 10692.11485867115
+  },
+  {
+   "id": "o1fE8vOuRiQn64NOQICnHQ",
+   "alias": "nadeau-furniture-with-a-soul-chicago",
+   "name": "Nadeau - Furniture with a Soul",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/N4ibv92AHuqKfjymLBBD4w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nadeau-furniture-with-a-soul-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 214,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6735535,
+    "Latitude": 41.9625587
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4433 N Ravenswood Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4433 N Ravenswood Ave",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737283497",
+   "display_phone": "(773) 728-3497",
+   "distance": 10065.759726783916
+  },
+  {
+   "id": "BmeOnM3WhJVf7pRirGukIg",
+   "alias": "the-home-depot-chicago-18",
+   "name": "The Home Depot",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/19Nw_BtwM6InGuX-yZxB9Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-home-depot-chicago-18?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 213,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    },
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6415282487869,
+    "Latitude": 41.86574976866
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1300 S Clinton St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1300 S Clinton St",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128504836",
+   "display_phone": "(312) 850-4836",
+   "distance": 1681.9436357833033
+  },
+  {
+   "id": "d-6dJflD_qk4A39diiR5-A",
+   "alias": "clark-devon-hardware-chicago-2",
+   "name": "Clark Devon Hardware",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6T0mUPkjTyziiwh6F66gSA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/clark-devon-hardware-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 208,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    },
+    {
+     "alias": "knifesharpening",
+     "title": "Knife Sharpening"
+    },
+    {
+     "alias": "outdoorpowerequipmentservices",
+     "title": "Outdoor Power Equipment Services"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6704656,
+    "Latitude": 41.9982372
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "6401 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60626",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "6401 N Clark St",
+     "Chicago, IL 60626"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737643575",
+   "display_phone": "(773) 764-3575",
+   "distance": 13802.20434956759
+  },
+  {
+   "id": "EvkHBFabsZs-mjeFm5qoIQ",
+   "alias": "northwestern-cutlery-chicago-2",
+   "name": "Northwestern Cutlery",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dA_VVUtQRDRiApSQqbQBpQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/northwestern-cutlery-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 207,
+   "categories": [
+    {
+     "alias": "knifesharpening",
+     "title": "Knife Sharpening"
+    },
+    {
+     "alias": "kitchensupplies",
+     "title": "Kitchen Supplies"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.80611,
+    "Latitude": 41.98117
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "7138 W Higgins Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60656",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "7138 W Higgins Ave",
+     "Chicago, IL 60656"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124213666",
+   "display_phone": "(312) 421-3666",
+   "distance": 18550.170048082862
+  },
+  {
+   "id": "6sdKjk1wtUsK34YwKOqEIw",
+   "alias": "ashley-homestore-schaumburg-3",
+   "name": "Ashley HomeStore",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K-IAQVCpaLbubiwXakXhOQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ashley-homestore-schaumburg-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 207,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -88.0318622,
+    "Latitude": 42.0455828
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "905 Perimeter Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Schaumburg",
+    "zip_code": "60173",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "905 Perimeter Dr",
+     "Schaumburg, IL 60173"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18472405910",
+   "display_phone": "(847) 240-5910",
+   "distance": 38159.870710309166
+  },
+  {
+   "id": "F92P3lXhbnKxJkZma8BU9Q",
+   "alias": "target-chicago-13",
+   "name": "Target",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iL1PFsHjE9wIKjb8X5TnBw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-chicago-13?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 207,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.627409,
+    "Latitude": 41.881699
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1 S State St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60603",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1 S State St",
+     "Chicago, IL 60603"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122792133",
+   "display_phone": "(312) 279-2133",
+   "distance": 446.4709524923129
+  },
+  {
+   "id": "sB7guy0v8TP6r-C8LDkXdg",
+   "alias": "joann-fabric-and-crafts-chicago-2",
+   "name": "JOANN Fabric and Crafts",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QKBdOmaam2hzOy_zCAQAQA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/joann-fabric-and-crafts-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 207,
+   "categories": [
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "artsupplies",
+     "title": "Art Supplies"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6825166,
+    "Latitude": 41.9302595
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2639 N Elston Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2639 N Elston Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732277874",
+   "display_phone": "(773) 227-7874",
+   "distance": 7257.536425316675
+  },
+  {
+   "id": "wu5driBDs9ILKSW2tfUkLg",
+   "alias": "sprout-home-chicago",
+   "name": "Sprout Home",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x1P0xfLZKPXcZPRKUV0TLQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sprout-home-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 206,
+   "categories": [
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "florists",
+     "title": "Florists"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6768319,
+    "Latitude": 41.895349
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "745 N Damen Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "745 N Damen Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122265950",
+   "display_phone": "(312) 226-5950",
+   "distance": 4340.137761718168
+  },
+  {
+   "id": "awGx0DPKFAqYWf20roilOA",
+   "alias": "best-buy-north-avenue-chicago",
+   "name": "Best Buy North Avenue",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rcfvs6NKBPKpJoQUgOo5vg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/best-buy-north-avenue-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 198,
+   "categories": [
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.654597,
+    "Latitude": 41.91256
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1000 W North Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1000 W North Ave",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129884067",
+   "display_phone": "(312) 988-4067",
+   "distance": 4346.8364310819425
+  },
+  {
+   "id": "IZP0L_4VI_DvA5sEXszTIA",
+   "alias": "salvage-one-chicago",
+   "name": "Salvage One",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LwAHGdqzgnNKDAwjx6Jdlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/salvage-one-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 198,
+   "categories": [
+    {
+     "alias": "antiques",
+     "title": "Antiques"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.67340357583151,
+    "Latitude": 41.889902418757416
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1840 W Hubbard St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1840 W Hubbard St",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127330098",
+   "display_phone": "(312) 733-0098",
+   "distance": 3840.8571624779815
+  },
+  {
+   "id": "oFqodmQ3rXMtznYGFIi82w",
+   "alias": "personal-creations-woodridge-2",
+   "name": "Personal Creations",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xTrDmpk50zZTmHA8j0KKXg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/personal-creations-woodridge-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 192,
+   "categories": [
+    {
+     "alias": "holidaydecorations",
+     "title": "Holiday Decorations"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -88.0073647,
+    "Latitude": 41.695484
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1301 Internationale Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Woodridge",
+    "zip_code": "60517",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1301 Internationale Pkwy",
+     "Woodridge, IL 60517"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16307832400",
+   "display_phone": "(630) 783-2400",
+   "distance": 37313.054270602224
+  },
+  {
+   "id": "bW7EXpV5carzRMMIw2kNnQ",
+   "alias": "bob-s-discount-furniture-and-mattress-store-lincoln-park",
+   "name": "Bob’s Discount Furniture and Mattress Store",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2t27iXZH92c3x0maADxZCA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bob-s-discount-furniture-and-mattress-store-lincoln-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 188,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.67267191534427,
+    "Latitude": 41.923904
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1801 W Fullerton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Lincoln Park",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1801 W Fullerton Ave",
+     "Lincoln Park, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125837182",
+   "display_phone": "(312) 583-7182",
+   "distance": 6207.246385518844
+  },
+  {
+   "id": "c-alGJ631QuhaUlLBDfIkw",
+   "alias": "best-buy-south-loop-chicago",
+   "name": "Best Buy South Loop",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dLfRbBN4nzQL645IQ9fOgQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/best-buy-south-loop-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 187,
+   "categories": [
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    },
+    {
+     "alias": "computers",
+     "title": "Computers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.64150052876468,
+    "Latitude": 41.86688377512279
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "555 W Roosevelt Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "555 W Roosevelt Rd",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127336635",
+   "display_phone": "(312) 733-6635",
+   "distance": 1579.251647514989
+  },
+  {
+   "id": "raJcBrwi7n3ptzrChaYmUw",
+   "alias": "lowes-home-improvement-lincolnwood",
+   "name": "Lowe's Home Improvement",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/h1S2lsiILBFTDKM_-aXMZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lowes-home-improvement-lincolnwood?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 183,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.719318,
+    "Latitude": 42.010717
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3601 West Touhy Avenue",
+    "address2": "",
+    "address3": "",
+    "city": "Lincolnwood",
+    "zip_code": "60712",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3601 West Touhy Avenue",
+     "Lincolnwood, IL 60712"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18479724041",
+   "display_phone": "(847) 972-4041",
+   "distance": 16500.554772478063
+  },
+  {
+   "id": "ZfpTSrvV8NQFjYWy2e5vyw",
+   "alias": "target-chicago-4",
+   "name": "Target",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6Eo0a0-jWjM_17POn23hLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 182,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6830871878357,
+    "Latitude": 41.990757041026
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2112 W Peterson Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60659",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2112 W Peterson Ave",
+     "Chicago, IL 60659"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737613001",
+   "display_phone": "(773) 761-3001",
+   "distance": 13279.75395230982
+  },
+  {
+   "id": "L9-CUq7LeNY5UDW5VmIALw",
+   "alias": "the-home-depot-chicago-6",
+   "name": "The Home Depot",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/piDtAF-kjARYC6t7kqvYOA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-home-depot-chicago-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 174,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    },
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.7135101587556,
+    "Latitude": 41.944048
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3500 N Kimball Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3500 N Kimball Ave",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734636306",
+   "display_phone": "(773) 463-6306",
+   "distance": 10087.448066137289
+  },
+  {
+   "id": "pz8RZtWE-h_dF4UhD_AE_Q",
+   "alias": "marjen-furniture-of-chicago-chicago",
+   "name": "Marjen Furniture of Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hXPX0Wrydg9Dk-TEs_fy-A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/marjen-furniture-of-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 173,
+   "categories": [
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.66937,
+    "Latitude": 41.99836
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1536 W Devon Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60660",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1536 W Devon Ave",
+     "Chicago, IL 60660"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17733386636",
+   "display_phone": "(773) 338-6636",
+   "distance": 13763.873939703148
+  }
+ ],
+ "total": 2400,
+ "region": {
+  "center": {
+   "longitude": -87.6298,
+   "Latitude": 41.8781
+  }
+ }
+}

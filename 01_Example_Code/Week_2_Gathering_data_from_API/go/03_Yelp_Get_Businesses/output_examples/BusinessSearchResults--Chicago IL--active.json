@@ -1,0 +1,1885 @@
+{
+ "businesses": [
+  {
+   "id": "XAh7Xce30KGmL_CTCdHAhg",
+   "alias": "shedd-aquarium-chicago",
+   "name": "Shedd Aquarium",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kQRCE9HGLRWG8im8u-WNrA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shedd-aquarium-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1989,
+   "categories": [
+    {
+     "alias": "aquariums",
+     "title": "Aquariums"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.61403659583402,
+    "Latitude": 41.867572601856395
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1200 S DuSable Lake Shore",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1200 S DuSable Lake Shore",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129392438",
+   "display_phone": "(312) 939-2438",
+   "distance": 1753.2278301781987
+  },
+  {
+   "id": "RQmbLZvI7XyFQd2JgNDVig",
+   "alias": "lincoln-park-zoo-chicago-3",
+   "name": "Lincoln Park Zoo",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FXADXjKk-jARKTFceW-j7A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lincoln-park-zoo-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1404,
+   "categories": [
+    {
+     "alias": "zoos",
+     "title": "Zoos"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.63363896090308,
+    "Latitude": 41.9217039770791
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2001 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2001 N Clark St",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127422000",
+   "display_phone": "(312) 742-2000",
+   "distance": 4858.934882073048
+  },
+  {
+   "id": "2DfcXGtDv7T_rnvl4lHzaQ",
+   "alias": "millennium-park-chicago",
+   "name": "Millennium Park",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Q6vWirg3CFeuxRkUi77rcA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/millennium-park-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1350,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6218446,
+    "Latitude": 41.88339
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "201 E Randolph St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60602",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "201 E Randolph St",
+     "Chicago, IL 60602"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127421168",
+   "display_phone": "(312) 742-1168",
+   "distance": 883.0505101287372
+  },
+  {
+   "id": "ZboeT_8JZUDPN2vr6L0itw",
+   "alias": "brookfield-zoo-brookfield",
+   "name": "Brookfield Zoo",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/feOk3kraaqHDfYYMd6YyaA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brookfield-zoo-brookfield?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 859,
+   "categories": [
+    {
+     "alias": "zoos",
+     "title": "Zoos"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.835844,
+    "Latitude": 41.833198
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3300 Golf Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Brookfield",
+    "zip_code": "60513",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3300 Golf Rd",
+     "Brookfield, IL 60513"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17086888000",
+   "display_phone": "(708) 688-8000",
+   "distance": 17780.190230242417
+  },
+  {
+   "id": "GfVRzIuA3H-l1cpjy39tMA",
+   "alias": "kings-dining-and-entertainment-rosemont-rosemont-9",
+   "name": "Kings Dining \u0026 Entertainment - Rosemont",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hkJ8LRgkYisDftK3Cr_k6A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kings-dining-and-entertainment-rosemont-rosemont-9?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 821,
+   "categories": [
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.86800250197008,
+    "Latitude": 41.97921782117026
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "5505 Park Pl",
+    "address2": "",
+    "address3": "",
+    "city": "Rosemont",
+    "zip_code": "60018",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5505 Park Pl",
+     "Rosemont, IL 60018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18472330099",
+   "display_phone": "(847) 233-0099",
+   "distance": 22687.75399334294
+  },
+  {
+   "id": "JfNZVzh052lwZKpIMgsA1g",
+   "alias": "garfield-park-conservatory-chicago",
+   "name": "Garfield Park Conservatory",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QKVGRMuMrXxkZ1nR3_Zt8g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/garfield-park-conservatory-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 728,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "gardens",
+     "title": "Botanical Gardens"
+    },
+    {
+     "alias": "hiking",
+     "title": "Hiking"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.717822,
+    "Latitude": 41.8864959
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "300 N Central Park Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60624",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "300 N Central Park Ave",
+     "Chicago, IL 60624"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736381766",
+   "display_phone": "(773) 638-1766",
+   "distance": 7346.593858328858
+  },
+  {
+   "id": "xu2CiXfGWryHTyZbGWufJQ",
+   "alias": "enterrium-schaumburg-2",
+   "name": "ENTERRIUM",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Brx0OeHNNvRTBrxaZVaBdA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/enterrium-schaumburg-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 694,
+   "categories": [
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -88.034914,
+    "Latitude": 42.045722
+   },
+   "transactions": [
+    "restaurant_reservation",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "2 Woodfield Mall",
+    "address2": "Unit A",
+    "address3": "",
+    "city": "Schaumburg",
+    "zip_code": "60173",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2 Woodfield Mall",
+     "Unit A",
+     "Schaumburg, IL 60173"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18478050257",
+   "display_phone": "(847) 805-0257",
+   "distance": 38332.60572251606
+  },
+  {
+   "id": "dqZUitMsBFi3hbY7DL_BOw",
+   "alias": "topgolf-schaumburg",
+   "name": "Topgolf",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fMPW8EW6xm8bOV4acujEfw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/topgolf-schaumburg?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 628,
+   "categories": [
+    {
+     "alias": "golf",
+     "title": "Golf"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -88.05679857730865,
+    "Latitude": 42.06466689439425
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2050 Progress Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Schaumburg",
+    "zip_code": "60196",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2050 Progress Pkwy",
+     "Schaumburg, IL 60196"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18476562122",
+   "display_phone": "(847) 656-2122",
+   "distance": 40944.81460145275
+  },
+  {
+   "id": "8abTVgcVxYL8jrDfqxXvAA",
+   "alias": "xsport-fitness-chicago-6",
+   "name": "XSport Fitness",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PAKDkezpgnba_0c8wnDYQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/xsport-fitness-chicago-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 577,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "tanning",
+     "title": "Tanning"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6272401213646,
+    "Latitude": 41.8712685388549
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "819 S State St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "819 S State St",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122940500",
+   "display_phone": "(312) 294-0500",
+   "distance": 788.6376308214008
+  },
+  {
+   "id": "IZrcxu7P8MWdqk6R11gEXQ",
+   "alias": "xsport-fitness-chicago-7",
+   "name": "XSport Fitness",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Y5l9Cdbk_eKjPyQGLjqMlw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/xsport-fitness-chicago-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 566,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "tanning",
+     "title": "Tanning"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.68614,
+    "Latitude": 41.9301469
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2310 W Logan Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2310 W Logan Blvd",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732274500",
+   "display_phone": "(773) 227-4500",
+   "distance": 7431.902936809352
+  },
+  {
+   "id": "fZNUqak_dVH38C5mIsyueA",
+   "alias": "sluggers-world-class-sports-bar-chicago",
+   "name": "Sluggers World Class Sports Bar",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Y88uWIdHe21s1w6ur7iHtw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sluggers-world-class-sports-bar-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 544,
+   "categories": [
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "battingcages",
+     "title": "Batting Cages"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.65635,
+    "Latitude": 41.94651
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "3540 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3540 N Clark St",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732480055",
+   "display_phone": "(773) 248-0055",
+   "distance": 7920.874822217526
+  },
+  {
+   "id": "9Uf3_-RipRSKDmk405RsyQ",
+   "alias": "lucky-strike-downtown-chicago-chicago",
+   "name": "Lucky Strike Downtown Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8HqA8FJXR7Pgm4dUUK6rnA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lucky-strike-downtown-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 531,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.61960181288508,
+    "Latitude": 41.89141834738924
+   },
+   "transactions": [
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "322 E Illinois St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "322 E Illinois St",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122458331",
+   "display_phone": "(312) 245-8331",
+   "distance": 1704.6693510620864
+  },
+  {
+   "id": "qcbsCNq9PTznZFne15Uedw",
+   "alias": "xsport-fitness-chicago-3",
+   "name": "XSport Fitness",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BRBQBVqdekRiFI3aLVjqPw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/xsport-fitness-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 519,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "tanning",
+     "title": "Tanning"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.636195,
+    "Latitude": 41.911533
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "230 W North Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60610",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "230 W North Ave",
+     "Chicago, IL 60610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129329100",
+   "display_phone": "(312) 932-9100",
+   "distance": 3755.069333763324
+  },
+  {
+   "id": "hZCKjk7f--ktWda1Na1xfQ",
+   "alias": "xsport-fitness-chicago-4",
+   "name": "XSport Fitness",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/H2nUAOWiDxmanlHY9dO2uw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/xsport-fitness-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 490,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "tanning",
+     "title": "Tanning"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.669098675251,
+    "Latitude": 41.9412853437795
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3240 N Ashland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3240 N Ashland Ave",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735291461",
+   "display_phone": "(773) 529-1461",
+   "distance": 7741.999085625824
+  },
+  {
+   "id": "tS_hEa5NkNtajHastI1p0A",
+   "alias": "tall-ship-windy-chicago",
+   "name": "Tall Ship Windy",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3fwiP6PSzjIxstT2ugW1mw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tall-ship-windy-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 437,
+   "categories": [
+    {
+     "alias": "boating",
+     "title": "Boating"
+    },
+    {
+     "alias": "tours",
+     "title": "Tours"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.605119,
+    "Latitude": 41.89111
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "600 E Grand Ave",
+    "address2": "Ste 40",
+    "address3": "Navy Pier",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "600 E Grand Ave",
+     "Ste 40",
+     "Navy Pier",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124512700",
+   "display_phone": "(312) 451-2700",
+   "distance": 2503.470642942814
+  },
+  {
+   "id": "U702ZB0oLiNVE5fKGkpTIA",
+   "alias": "article-ii-range-lombard",
+   "name": "Article II Range",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ml3_tLjwkYoqDc-q4HQbOg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/article-ii-range-lombard?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 409,
+   "categories": [
+    {
+     "alias": "gun_ranges",
+     "title": "Gun/Rifle Ranges"
+    },
+    {
+     "alias": "guns_and_ammo",
+     "title": "Guns \u0026 Ammo"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -88.02373,
+    "Latitude": 41.91145
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "250 Cortland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Lombard",
+    "zip_code": "60148",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "250 Cortland Ave",
+     "Lombard, IL 60148"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16306270310",
+   "display_phone": "(630) 627-0310",
+   "distance": 32813.32965735282
+  },
+  {
+   "id": "Efoh_6jkYUWgwt4-afE29g",
+   "alias": "fox-in-a-box-chicago-6",
+   "name": "Fox in a Box",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zedJzKdTsRNoNHfr9Ie1GQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fox-in-a-box-chicago-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 398,
+   "categories": [
+    {
+     "alias": "escapegames",
+     "title": "Escape Games"
+    },
+    {
+     "alias": "teambuilding",
+     "title": "Team Building Activities"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.62909,
+    "Latitude": 41.87173
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "47 W Polk St",
+    "address2": "Ste L5",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "47 W Polk St",
+     "Ste L5",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128787899",
+   "display_phone": "(312) 878-7899",
+   "distance": 707.4188374648854
+  },
+  {
+   "id": "kxhRDTC9kX_oD04MKBrnxg",
+   "alias": "legoland-discovery-center-schaumburg-2",
+   "name": "LEGOLAND Discovery Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RoZ5mJHRldf3o6uiHFTFWw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/legoland-discovery-center-schaumburg-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 392,
+   "categories": [
+    {
+     "alias": "kids_activities",
+     "title": "Kids Activities"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -88.0341247639404,
+    "Latitude": 42.0395929842033
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "601 N Martingale Rd",
+    "address2": "",
+    "address3": "Streets of Woodfield",
+    "city": "Schaumburg",
+    "zip_code": "60173",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "601 N Martingale Rd",
+     "Streets of Woodfield",
+     "Schaumburg, IL 60173"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18475929700",
+   "display_phone": "(847) 592-9700",
+   "distance": 37949.813243251214
+  },
+  {
+   "id": "cBEmclcgjQIeLyTiyCfoiA",
+   "alias": "la-fitness-chicago-15",
+   "name": "LA Fitness",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/J8ddenFzi-gy0RvdTH9e1w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-fitness-chicago-15?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 392,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6260633,
+    "Latitude": 41.8843851
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "55 E Randolph St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "55 E Randolph St",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122810113",
+   "display_phone": "(312) 281-0113",
+   "distance": 777.793089292422
+  },
+  {
+   "id": "7vmz0fAU-jltbsIW3uq9aQ",
+   "alias": "divvy-chicago",
+   "name": "Divvy",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V4fM-skE-DX7o-oRSQk9zw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/divvy-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 373,
+   "categories": [
+    {
+     "alias": "bikerentals",
+     "title": "Bike Rentals"
+    },
+    {
+     "alias": "bikesharing",
+     "title": "Bike Sharing"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.617257,
+    "Latitude": 41.880833
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60603",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60603"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18555534889",
+   "display_phone": "(855) 553-4889",
+   "distance": 1081.9909331580523
+  },
+  {
+   "id": "P65RUX-VnAmLs8RZazAItw",
+   "alias": "chicagos-first-lady-chicago-7",
+   "name": "Chicago's First Lady",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/scFgu4REPd2rjS-siFvM_A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicagos-first-lady-chicago-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 365,
+   "categories": [
+    {
+     "alias": "boating",
+     "title": "Boating"
+    },
+    {
+     "alias": "tours",
+     "title": "Tours"
+    },
+    {
+     "alias": "boatcharters",
+     "title": "Boat Charters"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.62424640968362,
+    "Latitude": 41.88844
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "112 E Wacker Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "112 E Wacker Dr",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18473581330",
+   "display_phone": "(847) 358-1330",
+   "distance": 1238.2689101568285
+  },
+  {
+   "id": "1aEQABeBQGyknci7ZIetZQ",
+   "alias": "10pin-bowling-lounge-chicago",
+   "name": "10pin Bowling Lounge",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Li4-0GxCiFn0jDrYHK63Fw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/10pin-bowling-lounge-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 357,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.62871,
+    "Latitude": 41.88828
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "330 N State St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "330 N State St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126440300",
+   "display_phone": "(312) 644-0300",
+   "distance": 1169.4287137590627
+  },
+  {
+   "id": "P3x31PM4v6gBCQJLuqmd3A",
+   "alias": "xsport-fitness-skokie",
+   "name": "XSport Fitness",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KnJpUKZzZg-SZezt42ySEg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/xsport-fitness-skokie?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 354,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "tanning",
+     "title": "Tanning"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.71568864583969,
+    "Latitude": 42.012313475077846
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3450 W Touhy Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Skokie",
+    "zip_code": "60076",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3450 W Touhy Ave",
+     "Skokie, IL 60076"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18473299100",
+   "display_phone": "(847) 329-9100",
+   "distance": 16528.14200229601
+  },
+  {
+   "id": "MheNSJCubqiJBWzUHIZgWQ",
+   "alias": "la-fitness-chicago-16",
+   "name": "LA Fitness",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YRSTs-8BHbVF9-e0JgrR4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-fitness-chicago-16?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 343,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.638567,
+    "Latitude": 41.868524
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1101 S Canal St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1101 S Canal St",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123798631",
+   "display_phone": "(312) 379-8631",
+   "distance": 1394.304019289337
+  },
+  {
+   "id": "KHEUEil6ik77i3G8C4ESuw",
+   "alias": "urban-kayaks-riverwalk-chicago-2",
+   "name": "Urban Kayaks Riverwalk",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZaKzyZYNX9RJerTOLv1YHA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/urban-kayaks-riverwalk-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 322,
+   "categories": [
+    {
+     "alias": "rafting",
+     "title": "Rafting/Kayaking"
+    },
+    {
+     "alias": "tours",
+     "title": "Tours"
+    },
+    {
+     "alias": "summer_camps",
+     "title": "Summer Camps"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6185653,
+    "Latitude": 41.8878859
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "435 E Riverwalk S",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "435 E Riverwalk S",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129650035",
+   "display_phone": "(312) 965-0035",
+   "distance": 1307.2003618068798
+  },
+  {
+   "id": "TNioV6lomaP-GYR5lPx6pA",
+   "alias": "la-fitness-chicago-21",
+   "name": "LA Fitness",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xtLvNdTIfVWd6NZZc2IlvQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-fitness-chicago-21?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 317,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.67506668428705,
+    "Latitude": 41.969440767668566
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1804 W Lawrence Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1804 W Lawrence Ave",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732500298",
+   "display_phone": "(773) 250-0298",
+   "distance": 10825.072779038193
+  },
+  {
+   "id": "PzphmAEYhRLQJzoJOsL4nw",
+   "alias": "east-bank-club-chicago-4",
+   "name": "East Bank Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aD8GfJP-yhwE2bycDtedyA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/east-bank-club-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 316,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "sports_clubs",
+     "title": "Sports Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.638467,
+    "Latitude": 41.889503
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "500 N Kingsbury St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "500 N Kingsbury St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125275800",
+   "display_phone": "(312) 527-5800",
+   "distance": 1456.8821581858128
+  },
+  {
+   "id": "qdWS2gEaFwwhV9TCAXEWGQ",
+   "alias": "lincoln-park-conservatory-chicago",
+   "name": "Lincoln Park Conservatory",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cZgEV_ixhCCXSPb_XSFt0Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lincoln-park-conservatory-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 287,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6352185,
+    "Latitude": 41.92433507444941
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2391 N Stockton Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2391 N Stockton Dr",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127427736",
+   "display_phone": "(312) 742-7736",
+   "distance": 5160.621375966074
+  },
+  {
+   "id": "bXWDcvNxv11oqswmT3Fljw",
+   "alias": "navy-piers-centennial-wheel-chicago",
+   "name": "Navy Pier's Centennial Wheel",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OSNG8QAr73YjYeF5CR3lNw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/navy-piers-centennial-wheel-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 285,
+   "categories": [
+    {
+     "alias": "amusementparks",
+     "title": "Amusement Parks"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.60509514292993,
+    "Latitude": 41.891868860012394
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "600 E Grand Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "600 E Grand Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125591212",
+   "display_phone": "(312) 559-1212",
+   "distance": 2554.730820390065
+  },
+  {
+   "id": "WZ-Iiu0ecxlpcQnDD8Ff7w",
+   "alias": "wateriders-kayak-tours-chicago",
+   "name": "Wateriders Kayak Tours",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UGxUUy3D11TlGBwVOFjhiw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wateriders-kayak-tours-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 285,
+   "categories": [
+    {
+     "alias": "boating",
+     "title": "Boating"
+    },
+    {
+     "alias": "rafting",
+     "title": "Rafting/Kayaking"
+    },
+    {
+     "alias": "tours",
+     "title": "Tours"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.639364,
+    "Latitude": 41.889649
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "500 N Kingsbury St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "500 N Kingsbury St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129539287",
+   "display_phone": "(312) 953-9287",
+   "distance": 1508.64508331384
+  },
+  {
+   "id": "iIwTBfjZAgdco-UB0aFefg",
+   "alias": "hot-chocolate-15k-5k-chicago",
+   "name": "Hot Chocolate 15K/5K",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9lE-09igCA8DfcEq_e46Vg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hot-chocolate-15k-5k-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 283,
+   "categories": [
+    {
+     "alias": "races",
+     "title": "Races \u0026 Competitions"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6182022094727,
+    "Latitude": 41.8862152099609
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1061.9440126621291
+  },
+  {
+   "id": "9byvOQM3fSG9RU1fTYte5A",
+   "alias": "montrose-dog-beach-chicago",
+   "name": "Montrose Dog Beach",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bMhcme4vzOmdg1yPMbeRmQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/montrose-dog-beach-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 283,
+   "categories": [
+    {
+     "alias": "dog_parks",
+     "title": "Dog Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.64338043313141,
+    "Latitude": 41.968549496721856
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "610 W Lawrence Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "610 W Lawrence Ave",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 10120.077163820577
+  },
+  {
+   "id": "0yk_tO-ydnlwuHjKxhHzog",
+   "alias": "diversey-river-bowl-chicago",
+   "name": "Diversey River Bowl",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0x529xgzUGns2SmNgeRUsA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/diversey-river-bowl-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 276,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "eatertainment",
+     "title": "Eatertainment"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.683426,
+    "Latitude": 41.931666
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2211 W Diversey Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2211 W Diversey Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732275800",
+   "display_phone": "(773) 227-5800",
+   "distance": 7427.809242804399
+  },
+  {
+   "id": "faZQI58EHQXjffQLL3cc_A",
+   "alias": "whirlyball-chicago-3",
+   "name": "WhirlyBall",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iQoZk7G3qTQfK5sJr2jbgQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/whirlyball-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 273,
+   "categories": [
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.67371,
+    "Latitude": 41.92119
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1825 W Webster Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1825 W Webster Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734867777",
+   "display_phone": "(773) 486-7777",
+   "distance": 6015.461351251503
+  },
+  {
+   "id": "TNXZ07WJL_GpRd67a59hog",
+   "alias": "xsport-fitness-downers-grove-2",
+   "name": "XSport Fitness",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lHBFX_QuQvNatWLDrYQkZA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/xsport-fitness-downers-grove-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 270,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "tanning",
+     "title": "Tanning"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -88.027321100235,
+    "Latitude": 41.8282302830675
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3200 Finley Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Downers Grove",
+    "zip_code": "60515",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3200 Finley Rd",
+     "Downers Grove, IL 60515"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16304350055",
+   "display_phone": "(630) 435-0055",
+   "distance": 33388.065489147244
+  },
+  {
+   "id": "ML5aiAyf-5Y-SYWXouLMMw",
+   "alias": "lakeview-athletic-club-chicago",
+   "name": "Lakeview Athletic Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/J4awIbbB5KJGLlsX5xHEOw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lakeview-athletic-club-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 264,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "bootcamps",
+     "title": "Boot Camps"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.64482,
+    "Latitude": 41.94047
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3212 N Broadway Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3212 N Broadway Ave",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735292024",
+   "display_phone": "(773) 529-2024",
+   "distance": 7046.7594057198085
+  },
+  {
+   "id": "eZsh_cCjYdA1GFelUx5nLA",
+   "alias": "maxon-shooters-supplies-and-indoor-range-des-plaines",
+   "name": "Maxon Shooters Supplies \u0026 Indoor Range",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bFAyBrMkWZ6OoIfbxfV8TQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/maxon-shooters-supplies-and-indoor-range-des-plaines?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 263,
+   "categories": [
+    {
+     "alias": "gun_ranges",
+     "title": "Gun/Rifle Ranges"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.9171905,
+    "Latitude": 42.020152
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "75 E Bradrock Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Des Plaines",
+    "zip_code": "60018",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "75 E Bradrock Dr",
+     "Des Plaines, IL 60018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18472984867",
+   "display_phone": "(847) 298-4867",
+   "distance": 28537.20997591326
+  },
+  {
+   "id": "7TtJqky-LyyxF9JeTdVx5A",
+   "alias": "american-girl-chicago-chicago-2",
+   "name": "American Girl - Chicago",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SkWa8EkXmUPnVo2mdONbcA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-girl-chicago-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 253,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "kids_activities",
+     "title": "Kids Activities"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.622687,
+    "Latitude": 41.8981918778486
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "835 Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "835 Michigan Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18772475223",
+   "display_phone": "(877) 247-5223",
+   "distance": 2310.400706394069
+  },
+  {
+   "id": "32ZUPt22EAo4ErY8f4c97w",
+   "alias": "chicago-line-cruises-chicago-2",
+   "name": "Chicago Line Cruises",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kINMqMcgo6Hz5swkWBBKBg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-line-cruises-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 253,
+   "categories": [
+    {
+     "alias": "boating",
+     "title": "Boating"
+    },
+    {
+     "alias": "boatcharters",
+     "title": "Boat Charters"
+    },
+    {
+     "alias": "tours",
+     "title": "Tours"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.615299,
+    "Latitude": 41.890879
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "465 N Mcclurg Ct",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "465 N Mcclurg Ct",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125272002",
+   "display_phone": "(312) 527-2002",
+   "distance": 1860.1595417934452
+  },
+  {
+   "id": "ngYQERKnT4_1Fq0fsOJQow",
+   "alias": "xsport-fitness-chicago-11",
+   "name": "XSport Fitness",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KCoGZtZ2EdHXZ2wnjE7n9w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/xsport-fitness-chicago-11?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 250,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "tanning",
+     "title": "Tanning"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.64470398426056,
+    "Latitude": 41.9374127217616
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3030 N Broadway St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3030 N Broadway St",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736347333",
+   "display_phone": "(773) 634-7333",
+   "distance": 6709.598258775688
+  }
+ ],
+ "total": 5000,
+ "region": {
+  "center": {
+   "longitude": -87.6298,
+   "Latitude": 41.8781
+  }
+ }
+}

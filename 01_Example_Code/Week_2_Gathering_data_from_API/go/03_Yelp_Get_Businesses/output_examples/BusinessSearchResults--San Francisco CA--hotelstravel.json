@@ -1,0 +1,1738 @@
+{
+ "businesses": [
+  {
+   "id": "ydUXCMT-41zejd23zhCB5w",
+   "alias": "san-francisco-international-airport-sfo-san-francisco-3",
+   "name": "San Francisco International Airport - SFO",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TI7lr5MmeuG_eDe70QaWng/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/san-francisco-international-airport-sfo-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4175,
+   "categories": [
+    {
+     "alias": "airports",
+     "title": "Airports"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.3789285779102,
+    "Latitude": 37.62124066773012
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "780 S Airport Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94128",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "780 S Airport Blvd",
+     "San Francisco, CA 94128"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18004359736",
+   "display_phone": "(800) 435-9736",
+   "distance": 17453.209008398557
+  },
+  {
+   "id": "MUI5wfc7NvqiOzPDWCnJgw",
+   "alias": "united-airlines-san-francisco-6",
+   "name": "United Airlines",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6MqTYMpcyYJn3rQDxm7IOw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/united-airlines-san-francisco-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3265,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.386346319692,
+    "Latitude": 37.6164443953257
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "780 S Airport Blvd",
+    "address2": "",
+    "address3": "Terminal G",
+    "city": "San Francisco",
+    "zip_code": "94128",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "780 S Airport Blvd",
+     "Terminal G",
+     "San Francisco, CA 94128"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18008648331",
+   "display_phone": "(800) 864-8331",
+   "distance": 17857.84000540398
+  },
+  {
+   "id": "QY1pr7Y2ju1UGP2d1_GU9g",
+   "alias": "oakland-international-airport-oakland-8",
+   "name": "Oakland International Airport",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VEJn5JFhFp06AyWtTgcmdQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/oakland-international-airport-oakland-8?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2093,
+   "categories": [
+    {
+     "alias": "airports",
+     "title": "Airports"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.34895324707,
+    "Latitude": 37.9110832214355
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 Airport Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94621",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1 Airport Dr",
+     "Oakland, CA 94621"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105633300",
+   "display_phone": "(510) 563-3300",
+   "distance": 19379.174658298976
+  },
+  {
+   "id": "YnCU8gSc0YW-tk8mDT0ghw",
+   "alias": "city-toyota-daly-city-3",
+   "name": "City Toyota",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FlnhB59ByEC1ZilJcel8Og/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/city-toyota-daly-city-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2003,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    },
+    {
+     "alias": "carrental",
+     "title": "Car Rental"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.46922343634,
+    "Latitude": 37.6858569294827
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "255 San Pedro Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Daly City",
+    "zip_code": "94014",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "255 San Pedro Rd",
+     "Daly City, CA 94014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16502821097",
+   "display_phone": "(650) 282-1097",
+   "distance": 10827.340318847406
+  },
+  {
+   "id": "Cc62hS5gEkXpvLJtm6GU-A",
+   "alias": "uber-san-francisco",
+   "name": "Uber",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Q0VdHxVh-FUXupobCrpZZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/uber-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1868,
+   "categories": [
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.418006526796,
+    "Latitude": 37.7755318297526
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 141.19354210419706
+  },
+  {
+   "id": "KSeCmHMIri_iuIXd0-K6TQ",
+   "alias": "fox-rent-a-car-san-francisco-3",
+   "name": "Fox Rent A Car",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Xt0INqumRvkTmcFvHtMv_w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fox-rent-a-car-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1695,
+   "categories": [
+    {
+     "alias": "carrental",
+     "title": "Car Rental"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.40245710338448,
+    "Latitude": 37.64226828957079
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "435 South Airport Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94080",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "435 South Airport Blvd",
+     "San Francisco, CA 94080"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159172713",
+   "display_phone": "(415) 917-2713",
+   "distance": 14823.08031415244
+  },
+  {
+   "id": "kmkM0EFlpK1HM_Tk4AlZ2w",
+   "alias": "the-westin-st-francis-san-francisco-on-union-square-san-francisco",
+   "name": "The Westin St. Francis San Francisco on Union Square",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fBaNbvdBCCOJ-AhH_sFvxA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-westin-st-francis-san-francisco-on-union-square-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1594,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.40879430645991,
+    "Latitude": 37.7877520297158
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "335 Powell St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "335 Powell St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153977000",
+   "display_phone": "(415) 397-7000",
+   "distance": 1706.1680424099022
+  },
+  {
+   "id": "jwVyTCiKPUkqYPIXwEFgsA",
+   "alias": "hilton-san-francisco-union-square-san-francisco-5",
+   "name": "Hilton San Francisco Union Square",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TtRgH7NdnVF46Ut42TSjqQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hilton-san-francisco-union-square-san-francisco-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1383,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.41011723876,
+    "Latitude": 37.7857305962995
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "333 O'farrell St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "333 O'farrell St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157711400",
+   "display_phone": "(415) 771-1400",
+   "distance": 1454.6136673006267
+  },
+  {
+   "id": "-gUxYX1lnebBrTIHL0wFUA",
+   "alias": "parc-55-san-francisco-a-hilton-hotel-san-francisco",
+   "name": "Parc 55 San Francisco - a Hilton Hotel",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MSp4-irhtHBdMqaCOhRLmQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/parc-55-san-francisco-a-hilton-hotel-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1367,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.40906094019,
+    "Latitude": 37.7848243182855
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "55 Cyril Magnin St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "55 Cyril Magnin St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153928000",
+   "display_phone": "(415) 392-8000",
+   "distance": 1429.4850146962372
+  },
+  {
+   "id": "1AVql73AsTgJh5cx2JMfTA",
+   "alias": "getaround-san-francisco",
+   "name": "Getaround",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8neuSH7V2d7J6Wse2cvoEQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/getaround-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1344,
+   "categories": [
+    {
+     "alias": "carrental",
+     "title": "Car Rental"
+    },
+    {
+     "alias": "carshares",
+     "title": "Car Share Services"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.4076586,
+    "Latitude": 37.7741156
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1177 Harrison St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1177 Harrison St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1035.6479863228674
+  },
+  {
+   "id": "2lIJoAiUrYwjNda83XzERg",
+   "alias": "spirit-airlines-oakland",
+   "name": "Spirit Airlines",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pet9wZqb5RhhXNBoeRhjAQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/spirit-airlines-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1315,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.21428,
+    "Latitude": 37.713584
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 Airport Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94621",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1 Airport Dr",
+     "Oakland, CA 94621"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18014012222",
+   "display_phone": "(801) 401-2222",
+   "distance": 19281.353956986615
+  },
+  {
+   "id": "lnZGaqRt113sUawMUJ_3bg",
+   "alias": "the-ritz-carlton-half-moon-bay-half-moon-bay-2",
+   "name": "The Ritz-Carlton, Half Moon Bay",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/k5hCjjrt3qQ2S6VwqoYfyw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-ritz-carlton-half-moon-bay-half-moon-bay-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1314,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.441504181807,
+    "Latitude": 37.4336827684647
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "1 Miramontes Point Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Half Moon Bay",
+    "zip_code": "94019",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1 Miramontes Point Rd",
+     "Half Moon Bay, CA 94019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16507127000",
+   "display_phone": "(650) 712-7000",
+   "distance": 37991.51748561774
+  },
+  {
+   "id": "LW4VZkeEuh6xbrqmWw45rg",
+   "alias": "fairmont-san-francisco-san-francisco",
+   "name": "Fairmont San Francisco",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uU-LO3oe8tra0k8KKkcqIg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fairmont-san-francisco-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1287,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.410663910663,
+    "Latitude": 37.7924352804106
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "950 Mason St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "950 Mason St",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157725000",
+   "display_phone": "(415) 772-5000",
+   "distance": 2095.5328763831967
+  },
+  {
+   "id": "l9Jjhf6etOB1k5SDrmfO5A",
+   "alias": "palace-hotel-a-luxury-collection-hotel-san-francisco-san-francisco",
+   "name": "Palace Hotel, a Luxury Collection Hotel, San Francisco",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5KGxX6LhbIKMQuyddYKNJA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/palace-hotel-a-luxury-collection-hotel-san-francisco-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1282,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.401775,
+    "Latitude": 37.788111
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "2 New Montgomery St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2 New Montgomery St",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155121111",
+   "display_phone": "(415) 512-1111",
+   "distance": 2134.750648113406
+  },
+  {
+   "id": "I7qM3f_vBtI3VC7jYK37NA",
+   "alias": "marriott-marquis-san-francisco-san-francisco",
+   "name": "Marriott Marquis San Francisco",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Psrep_tRGMGq3tJh3I9HUA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/marriott-marquis-san-francisco-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1275,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.404481490667,
+    "Latitude": 37.7852269082415
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "780 Mission St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "780 Mission St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158961600",
+   "display_phone": "(415) 896-1600",
+   "distance": 1742.8714934096963
+  },
+  {
+   "id": "Bab9bdd3SUkXPo6jIVO55Q",
+   "alias": "w-san-francisco-san-francisco-4",
+   "name": "W San Francisco",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nzTasSGMN32dMORfMBtzJw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/w-san-francisco-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1194,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.39685500784384,
+    "Latitude": 37.78661419687235
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "181 3rd St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "181 3rd St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157775300",
+   "display_phone": "(415) 777-5300",
+   "distance": 2371.1563798554084
+  },
+  {
+   "id": "FYcin8lZ7FLh94cn8G1rwQ",
+   "alias": "alcatraz-behind-the-scenes-san-franciso",
+   "name": "Alcatraz City Cruises",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_Vf_1xsvDh6RdOGb-LMRxw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alcatraz-behind-the-scenes-san-franciso?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1166,
+   "categories": [
+    {
+     "alias": "tours",
+     "title": "Tours"
+    },
+    {
+     "alias": "boatcharters",
+     "title": "Boat Charters"
+    },
+    {
+     "alias": "eventplanning",
+     "title": "Party \u0026 Event Planning"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.40452682713277,
+    "Latitude": 37.80650080000002
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "31 San Francisco Pier 33 Alcatraz Island",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94124",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "31 San Francisco Pier 33 Alcatraz Island",
+     "San Francisco, CA 94124"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159817625",
+   "display_phone": "(415) 981-7625",
+   "distance": 3749.025533405176
+  },
+  {
+   "id": "kX72p6TVSZbN1PfQV9bHDw",
+   "alias": "hotel-whitcomb-san-francisco",
+   "name": "Hotel Whitcomb",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_jHL2pdIqvOnudpQbnIe3A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hotel-whitcomb-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1076,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.41479,
+    "Latitude": 37.77794
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1231 Market St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1231 Market St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156268000",
+   "display_phone": "(415) 626-8000",
+   "distance": 524.0645216029969
+  },
+  {
+   "id": "E0dY10IWql1J6FOUnbsQ5Q",
+   "alias": "hyatt-regency-san-francisco-san-francisco-2",
+   "name": "Hyatt Regency San Francisco",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lctWbrAKek2Hbqbdk3ipIg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hyatt-regency-san-francisco-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1045,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.395849227905,
+    "Latitude": 37.7942537009417
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "5 Embarcadero Ctr",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "5 Embarcadero Ctr",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157881234",
+   "display_phone": "(415) 788-1234",
+   "distance": 2985.7332814647657
+  },
+  {
+   "id": "WLp0kqCxAG419I79GdTUBg",
+   "alias": "bart-bay-area-rapid-transit-oakland-2",
+   "name": "BART - Bay Area Rapid Transit",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DtrlPt6-bPnC03aiem7AHA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bart-bay-area-rapid-transit-oakland-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1006,
+   "categories": [
+    {
+     "alias": "publictransport",
+     "title": "Public Transportation"
+    },
+    {
+     "alias": "trains",
+     "title": "Trains"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.26585,
+    "Latitude": 37.80128
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94604",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "Oakland, CA 94604"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159892278",
+   "display_phone": "(415) 989-2278",
+   "distance": 13422.06741120693
+  },
+  {
+   "id": "G25YJj4oij-zDVKFtt19Xw",
+   "alias": "hilton-san-francisco-financial-district-san-francisco",
+   "name": "Hilton San Francisco Financial District",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7aw3h4KOUc4dxz8NXgU9PA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hilton-san-francisco-financial-district-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 963,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.4040729,
+    "Latitude": 37.7952284
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "750 Kearny St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "750 Kearny St",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154336600",
+   "display_phone": "(415) 433-6600",
+   "distance": 2631.288844733023
+  },
+  {
+   "id": "3axPBurF7LrT5YnBN3wbFg",
+   "alias": "lyft-san-francisco",
+   "name": "Lyft",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MKfCXUs1B4ec9H2lrj8tyg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lyft-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 961,
+   "categories": [
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.41877746582,
+    "Latitude": 37.7552719116211
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2927.672035254547
+  },
+  {
+   "id": "5c8wh5-BXxbKrCEg1uGuxw",
+   "alias": "intercontinental-san-francisco-san-francisco",
+   "name": "InterContinental San Francisco",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ePP5g5PtpAEjucx_qtREew/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/intercontinental-san-francisco-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 949,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.404734,
+    "Latitude": 37.781987
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "888 Howard St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "888 Howard St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156166500",
+   "display_phone": "(415) 616-6500",
+   "distance": 1510.7575487038882
+  },
+  {
+   "id": "Vq77UqVmI39JeLY8ocseLA",
+   "alias": "hotel-nikko-san-francisco-san-francisco-2",
+   "name": "Hotel Nikko San Francisco",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/z1y2av1PbV2B1Ry3dhKFHw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hotel-nikko-san-francisco-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 947,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.409351,
+    "Latitude": 37.785789
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "222 Mason St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "222 Mason St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153941111",
+   "display_phone": "(415) 394-1111",
+   "distance": 1498.6639191701747
+  },
+  {
+   "id": "vHmNF0vRPai_xZqV0oVoHw",
+   "alias": "big-bus-tours-san-francisco-2",
+   "name": "Big Bus Tours",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/U_KJEeBvLKXGzS0wk7-QMQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/big-bus-tours-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 936,
+   "categories": [
+    {
+     "alias": "bustours",
+     "title": "Bus Tours"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.4139574,
+    "Latitude": 37.80830974339246
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "99 Jefferson St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94133",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "99 Jefferson St",
+     "San Francisco, CA 94133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18558548687",
+   "display_phone": "(855) 854-8687",
+   "distance": 3745.646813057269
+  },
+  {
+   "id": "ZE3cfVS_8BJXp1i62Q8VrQ",
+   "alias": "the-clift-royal-sonesta-hotel-san-francisco",
+   "name": "The Clift Royal Sonesta Hotel",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EzgxjXWdfgnMMWo-TyYwjw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-clift-royal-sonesta-hotel-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 936,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.41127972605207,
+    "Latitude": 37.78688171637131
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "495 Geary St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "495 Geary St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157754700",
+   "display_phone": "(415) 775-4700",
+   "distance": 1511.3963705820113
+  },
+  {
+   "id": "VkHp5yvDyNl2Vi0_mQXxog",
+   "alias": "hertz-rent-a-car-san-francisco-12",
+   "name": "Hertz Rent A Car",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3vvuub5HLaZVyGUu0u18RA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hertz-rent-a-car-san-francisco-12?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 925,
+   "categories": [
+    {
+     "alias": "carrental",
+     "title": "Car Rental"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.4010927,
+    "Latitude": 37.6273152
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "780 Mcdonnell Rd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94128",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "780 Mcdonnell Rd",
+     "San Francisco, CA 94128"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16506246600",
+   "display_phone": "(650) 624-6600",
+   "distance": 16381.10964661373
+  },
+  {
+   "id": "_ZFDiOgdQkZlD7Y_e9Ddmw",
+   "alias": "sonoma-zipline-adventures-occidental",
+   "name": "Sonoma Zipline Adventures",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VWuz7bdMpr6qQQkMBhlYdw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sonoma-zipline-adventures-occidental?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 923,
+   "categories": [
+    {
+     "alias": "tours",
+     "title": "Tours"
+    },
+    {
+     "alias": "zipline",
+     "title": "Ziplining"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.97393,
+    "Latitude": 38.434083
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6250 Bohemian Hwy",
+    "address2": "",
+    "address3": "",
+    "city": "Occidental",
+    "zip_code": "95465",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "6250 Bohemian Hwy",
+     "Occidental, CA 95465"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18884947868",
+   "display_phone": "(888) 494-7868",
+   "distance": 87901.5123216462
+  },
+  {
+   "id": "4UV15y4w_ckFHrgLf3XF3g",
+   "alias": "southwest-airlines-oakland",
+   "name": "Southwest Airlines",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YnGUULTGLMICR1qNV74hlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/southwest-airlines-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 869,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.212233,
+    "Latitude": 37.711598
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 Airport Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94621",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1 Airport Dr",
+     "Oakland, CA 94621"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18004359792",
+   "display_phone": "(800) 435-9792",
+   "distance": 19528.551847782885
+  },
+  {
+   "id": "sV9Q7DwiQO6H7ej5j7I6zA",
+   "alias": "le-meridien-san-francisco-san-francisco-2",
+   "name": "Le Meridien San Francisco",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZAQyKcXHtcyIVMKTYUProQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-meridien-san-francisco-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 854,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.4004326,
+    "Latitude": 37.7946407
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "333 Battery St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "333 Battery St",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152962900",
+   "display_phone": "(415) 296-2900",
+   "distance": 2737.3662292148365
+  },
+  {
+   "id": "0cxpwCGocgmFd31-NmSSiQ",
+   "alias": "electric-tour-company-segway-tours-san-francisco-3",
+   "name": "Electric Tour Company Segway Tours",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mTOD-rGc06QPYPhcBmNEdA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/electric-tour-company-segway-tours-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 836,
+   "categories": [
+    {
+     "alias": "teambuilding",
+     "title": "Team Building Activities"
+    },
+    {
+     "alias": "historicaltours",
+     "title": "Historical Tours"
+    },
+    {
+     "alias": "travelservices",
+     "title": "Travel Services"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.42134,
+    "Latitude": 37.80626
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "757 Beach St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "757 Beach St",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154743130",
+   "display_phone": "(415) 474-3130",
+   "distance": 3498.12748345692
+  },
+  {
+   "id": "vaD7bKKkj5W86yDVY5_nFQ",
+   "alias": "san-francisco-international-airport-terminal-2-san-francisco-4",
+   "name": "San Francisco International Airport - Terminal 2",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0KSjjMPa6OoAuAathQNF7g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/san-francisco-international-airport-terminal-2-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 812,
+   "categories": [
+    {
+     "alias": "airportterminals",
+     "title": "Airport Terminals"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.382588386536,
+    "Latitude": 37.6172399012551
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "780 S Airport Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94128",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "780 S Airport Blvd",
+     "San Francisco, CA 94128"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16508218211",
+   "display_phone": "(650) 821-8211",
+   "distance": 17827.662614650293
+  },
+  {
+   "id": "G0hXK-1uwd-Ed2Mwdajidg",
+   "alias": "blazing-saddles-bike-rentals-and-tours-san-francisco-7",
+   "name": "Blazing Saddles Bike Rentals \u0026 Tours",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tmpNyolM_f5bXjwfdx3o5A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blazing-saddles-bike-rentals-and-tours-san-francisco-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 801,
+   "categories": [
+    {
+     "alias": "bikes",
+     "title": "Bikes"
+    },
+    {
+     "alias": "bikerentals",
+     "title": "Bike Rentals"
+    },
+    {
+     "alias": "biketours",
+     "title": "Bike tours"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.4208,
+    "Latitude": 37.80604
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2715 Hyde St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2715 Hyde St",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152028888",
+   "display_phone": "(415) 202-8888",
+   "distance": 3467.5467107029235
+  },
+  {
+   "id": "3UXqKYRfuxStXuEI1lhOuQ",
+   "alias": "american-airlines-san-francisco",
+   "name": "American Airlines",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Dwal7b0rkTXbqZHRFsaEfg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-airlines-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 800,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.40055100416397,
+    "Latitude": 37.636665268273575
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "780 S Airport Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94128",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "780 S Airport Blvd",
+     "San Francisco, CA 94128"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18004337300",
+   "display_phone": "(800) 433-7300",
+   "distance": 15460.167553373713
+  },
+  {
+   "id": "2T4BY8xtdkJT5TjS-R3GUA",
+   "alias": "grand-hyatt-san-francisco-san-francisco",
+   "name": "Grand Hyatt San Francisco",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KTLZC4HNq6UmD2VMWB3Qfw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/grand-hyatt-san-francisco-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 778,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.407129131949,
+    "Latitude": 37.7887472977753
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "345 Stockton St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "345 Stockton St",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153981234",
+   "display_phone": "(415) 398-1234",
+   "distance": 1879.8308113558803
+  },
+  {
+   "id": "i27OZ7wOXqNvchEi9Fa13g",
+   "alias": "hotel-kabuki-san-francisco-3",
+   "name": "Hotel Kabuki",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LMBpXlrw3b147ytR37dzSg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hotel-kabuki-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 774,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.4285174,
+    "Latitude": 37.7855266
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1625 Post St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94115",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1625 Post St",
+     "San Francisco, CA 94115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159223200",
+   "display_phone": "(415) 922-3200",
+   "distance": 1427.6838636304487
+  },
+  {
+   "id": "2pzKNzMZWP4pngfN4DnNzw",
+   "alias": "hornblower-cruises-and-events-san-francisco",
+   "name": "Hornblower Cruises \u0026 Events",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5GFXVdTsaZST0YHHJQoMXA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hornblower-cruises-and-events-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 771,
+   "categories": [
+    {
+     "alias": "boatcharters",
+     "title": "Boat Charters"
+    },
+    {
+     "alias": "eventplanning",
+     "title": "Party \u0026 Event Planning"
+    },
+    {
+     "alias": "tours",
+     "title": "Tours"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.40000856452664,
+    "Latitude": 37.7959976648205
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Pier 3 Hornblower Lndg",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "Pier 3 Hornblower Lndg",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157888866",
+   "display_phone": "(415) 788-8866",
+   "distance": 2899.55237473446
+  },
+  {
+   "id": "FGv9ojjRCAsE6Q_cErKtfg",
+   "alias": "yellow-cab-of-san-francisco-san-francisco-3",
+   "name": "Yellow Cab Of San Francisco",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1IJnYIDPglI5po1U9_zFUg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/yellow-cab-of-san-francisco-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 759,
+   "categories": [
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.40641,
+    "Latitude": 37.73903
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "55 Waterloo St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94124",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "55 Waterloo St",
+     "San Francisco, CA 94124"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153333333",
+   "display_phone": "(415) 333-3333",
+   "distance": 4143.859256900214
+  },
+  {
+   "id": "wSDPxiPg5AMPUzxnEm1M1A",
+   "alias": "ckgs-visa-application-centre-san-francisco-san-francisco",
+   "name": "CKGS Visa Application Centre  - San Francisco",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fszJ8OcmQfEq0BzjEanoZw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ckgs-visa-application-centre-san-francisco-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 719,
+   "categories": [
+    {
+     "alias": "passportvisaservices",
+     "title": "Passport \u0026 Visa Services"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.40137,
+    "Latitude": 37.79067
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "225 Bush St",
+    "address2": "Ste 390",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94104",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "225 Bush St",
+     "Ste 390",
+     "San Francisco, CA 94104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15162061483",
+   "display_phone": "(516) 206-1483",
+   "distance": 2363.3803709592084
+  },
+  {
+   "id": "sEoSdQUjmShqU6cas4AP9Q",
+   "alias": "omni-san-francisco-hotel-san-francisco",
+   "name": "Omni San Francisco Hotel",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YQqkbR1YpmPgq6L8gEKNMw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/omni-san-francisco-hotel-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 709,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.40313,
+    "Latitude": 37.79296
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "500 California St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94104",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "500 California St",
+     "San Francisco, CA 94104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156779494",
+   "display_phone": "(415) 677-9494",
+   "distance": 2465.185689510806
+  }
+ ],
+ "total": 4200,
+ "region": {
+  "center": {
+   "longitude": -122.4194,
+   "Latitude": 37.7749
+  }
+ }
+}

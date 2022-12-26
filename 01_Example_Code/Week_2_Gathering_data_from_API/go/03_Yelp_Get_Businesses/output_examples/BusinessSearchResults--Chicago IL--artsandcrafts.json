@@ -1,0 +1,1890 @@
+{
+ "businesses": [
+  {
+   "id": "wZCHQ6TaeK6SgyzT9XLgYA",
+   "alias": "chicago-culinary-kitchen-palatine",
+   "name": "Chicago Culinary Kitchen",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ryign0oXF2ZDD7FJqPcVhw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-culinary-kitchen-palatine?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 350,
+   "categories": [
+    {
+     "alias": "bbq",
+     "title": "Barbeque"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    },
+    {
+     "alias": "beerbar",
+     "title": "Beer Bar"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -88.028261546032,
+    "Latitude": 42.15332809232448
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "2391 N Hicks Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Palatine",
+    "zip_code": "60074",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2391 N Hicks Rd",
+     "Palatine, IL 60074"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18477018243",
+   "display_phone": "(847) 701-8243",
+   "distance": 44946.685751685785
+  },
+  {
+   "id": "hb9JVlHANC9CzlJNCInAJQ",
+   "alias": "fantasy-costumes-chicago",
+   "name": "Fantasy Costumes",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nnx8iyjGRZoszVg8AkN0lQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fantasy-costumes-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 324,
+   "categories": [
+    {
+     "alias": "costumes",
+     "title": "Costumes"
+    },
+    {
+     "alias": "wigs",
+     "title": "Wigs"
+    },
+    {
+     "alias": "cosmetics",
+     "title": "Cosmetics \u0026 Beauty Supply"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.749269,
+    "Latitude": 41.955006
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4065 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60641",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4065 N Milwaukee Ave",
+     "Chicago, IL 60641"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737770222",
+   "display_phone": "(773) 777-0222",
+   "distance": 13070.323755140651
+  },
+  {
+   "id": "sB7guy0v8TP6r-C8LDkXdg",
+   "alias": "joann-fabric-and-crafts-chicago-2",
+   "name": "JOANN Fabric and Crafts",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QKBdOmaam2hzOy_zCAQAQA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/joann-fabric-and-crafts-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 207,
+   "categories": [
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "artsupplies",
+     "title": "Art Supplies"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6825166,
+    "Latitude": 41.9302595
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2639 N Elston Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2639 N Elston Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732277874",
+   "display_phone": "(773) 227-7874",
+   "distance": 7257.536425316675
+  },
+  {
+   "id": "OH3uPUmsiPfZ1J4u0NwwDw",
+   "alias": "the-chopping-block-chicago",
+   "name": "The Chopping Block",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qZODT_Kn_sluxvJ_9WzSXA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-chopping-block-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 204,
+   "categories": [
+    {
+     "alias": "gourmet",
+     "title": "Specialty Food"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.68775,
+    "Latitude": 41.967998
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "4747 N Lincoln Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60625",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4747 N Lincoln Ave",
+     "Chicago, IL 60625"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734726700",
+   "display_phone": "(773) 472-6700",
+   "distance": 11086.489393426484
+  },
+  {
+   "id": "JPGdSzfImLOfnVVFxiowAg",
+   "alias": "textile-discount-outlet-chicago",
+   "name": "Textile Discount Outlet",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mRNg7y14Nj77NB-BeP3mOQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/textile-discount-outlet-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 197,
+   "categories": [
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.67955,
+    "Latitude": 41.8537
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "2121 W 21st St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60608",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2121 W 21st St",
+     "Chicago, IL 60608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738470572",
+   "display_phone": "(773) 847-0572",
+   "distance": 4915.357657191242
+  },
+  {
+   "id": "dIo6OkZlx5RvWtetw5GdnA",
+   "alias": "beadniks-chicago",
+   "name": "Beadniks",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w4S9IUMp-zlZJDAiM6VPAA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beadniks-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 190,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "jewelryrepair",
+     "title": "Jewelry Repair"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.676269,
+    "Latitude": 41.902917
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1937 W Division St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1937 W Division St",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732762323",
+   "display_phone": "(773) 276-2323",
+   "distance": 4733.984954375397
+  },
+  {
+   "id": "cfZHSKSKw2zaKUtDIUkABw",
+   "alias": "american-science-and-surplus-park-ridge",
+   "name": "American Science \u0026 Surplus",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oyEAp9nt63tcPOuBYMnvQA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-science-and-surplus-park-ridge?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 169,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "education",
+     "title": "Education"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.83056,
+    "Latitude": 42.01247
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "27 N Northwest Hwy",
+    "address2": "",
+    "address3": "",
+    "city": "Park Ridge",
+    "zip_code": "60068",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "27 N Northwest Hwy",
+     "Park Ridge, IL 60068"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737630313",
+   "display_phone": "(773) 763-0313",
+   "distance": 22297.672737426863
+  },
+  {
+   "id": "RILqAmkwOc-wdOyRzkMJqw",
+   "alias": "enjoy-an-urban-general-store-chicago-4",
+   "name": "Enjoy, An Urban General Store",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qN3FOdbTwATMHVd4CvGPSw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/enjoy-an-urban-general-store-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 161,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.68746,
+    "Latitude": 41.967293
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4723 N Lincoln Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60625",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4723 N Lincoln Ave",
+     "Chicago, IL 60625"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17733348626",
+   "display_phone": "(773) 334-8626",
+   "distance": 11012.550737775724
+  },
+  {
+   "id": "y8fc3VzQbsl6kTQTQactOw",
+   "alias": "rr-1-chicago-chicago",
+   "name": "RR #1 Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vIsMKu0CPBlFJmy4IyGNnQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rr-1-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 156,
+   "categories": [
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.66764,
+    "Latitude": 41.8965699
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "814 N Ashland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "814 N Ashland Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124219079",
+   "display_phone": "(312) 421-9079",
+   "distance": 3745.39730566164
+  },
+  {
+   "id": "5XxPULVW301GYPtlwb2mqg",
+   "alias": "ragstock-chicago",
+   "name": "Ragstock",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6vqS17RhuS_fTMwscJWahA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ragstock-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 147,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "costumes",
+     "title": "Costumes"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.65003881261576,
+    "Latitude": 41.940165987915705
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "812 W Belmont Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "812 W Belmont Ave",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738689263",
+   "display_phone": "(773) 868-9263",
+   "distance": 7101.723535149538
+  },
+  {
+   "id": "GKm_9ysivaJTBsLCYM8Fqg",
+   "alias": "foursided-chicago-2",
+   "name": "Foursided",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DdNYFvOXFpcwDb2C_DuIIg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/foursided-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 146,
+   "categories": [
+    {
+     "alias": "framing",
+     "title": "Framing"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "antiques",
+     "title": "Antiques"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6680771,
+    "Latitude": 41.9742378
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5061 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5061 N Clark St",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735068300",
+   "display_phone": "(773) 506-8300",
+   "distance": 11149.182887785644
+  },
+  {
+   "id": "OhlsURb8OhLEJAGZBD6bkA",
+   "alias": "paper-source-chicago-2",
+   "name": "Paper Source",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_YX_JO5XaCkgDJwPjwN8KA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paper-source-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 137,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.63555,
+    "Latitude": 41.89685
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "232 W Chicago Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60610",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "232 W Chicago Ave",
+     "Chicago, IL 60610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123370798",
+   "display_phone": "(312) 337-0798",
+   "distance": 2126.7326722162034
+  },
+  {
+   "id": "VpC4QBHc2BaRiZXPF5nmKg",
+   "alias": "beatnix-chicago",
+   "name": "Beatnix",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eY6RbD3zaJuEspCSPYyUgQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beatnix-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 136,
+   "categories": [
+    {
+     "alias": "costumes",
+     "title": "Costumes"
+    },
+    {
+     "alias": "wigs",
+     "title": "Wigs"
+    },
+    {
+     "alias": "thrift_stores",
+     "title": "Thrift Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6495475420931,
+    "Latitude": 41.9437529971252
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3400 N Halsted St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3400 N Halsted St",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732816933",
+   "display_phone": "(773) 281-6933",
+   "distance": 7480.925507671375
+  },
+  {
+   "id": "ij_wI-B_DCB3tinQYAvvIA",
+   "alias": "vogue-fabrics-evanston",
+   "name": "Vogue Fabrics",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0ECDMXsBPe1ASnsiUOJgcg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vogue-fabrics-evanston?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 132,
+   "categories": [
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.70438,
+    "Latitude": 42.02908
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "618 Hartrey Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Evanston",
+    "zip_code": "60202",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "618 Hartrey Ave",
+     "Evanston, IL 60202"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18478649600",
+   "display_phone": "(847) 864-9600",
+   "distance": 17896.267398102143
+  },
+  {
+   "id": "LB9D7mIecnmMxbvHUZWOAA",
+   "alias": "blackbird-gallery-framing-chicago",
+   "name": "Blackbird Gallery + Framing",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hPpHlKZ28DKgSWQNAEYnmQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blackbird-gallery-framing-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 127,
+   "categories": [
+    {
+     "alias": "framing",
+     "title": "Framing"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6749035331352,
+    "Latitude": 41.9625254555976
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4428 N Ravenswood Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4428 N Ravenswood Ave",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732908617",
+   "display_phone": "(773) 290-8617",
+   "distance": 10102.191538959889
+  },
+  {
+   "id": "gfx8Xk_30abdQLDhQ8119Q",
+   "alias": "foursided-card-and-gift-chicago",
+   "name": "Foursided Card \u0026 Gift",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ozC-Zp7UHKE9RuXldExNag/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/foursided-card-and-gift-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 124,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "antiques",
+     "title": "Antiques"
+    },
+    {
+     "alias": "framing",
+     "title": "Framing"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6479070757935,
+    "Latitude": 41.9363188068408
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2958 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2958 N Clark St",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732446431",
+   "display_phone": "(773) 244-6431",
+   "distance": 6644.786130986823
+  },
+  {
+   "id": "ibvG4jZAOq76LenExmywJg",
+   "alias": "tastebud-food-tours-chicago-2",
+   "name": "Tastebud  Food Tours",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rshplCJJyhuRWctR_AasqA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tastebud-food-tours-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 122,
+   "categories": [
+    {
+     "alias": "foodtours",
+     "title": "Food Tours"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6648743,
+    "Latitude": 41.9063995
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1345 N Greenview Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1345 N Greenview Ave",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12199296648",
+   "display_phone": "(219) 929-6648",
+   "distance": 4281.4491464252815
+  },
+  {
+   "id": "YxmnCbGzkOBq-aMbNMtk_Q",
+   "alias": "blick-art-materials-chicago-2",
+   "name": "Blick Art Materials",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5P9lhHIs9Tp7mDwYgR_a9A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blick-art-materials-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 121,
+   "categories": [
+    {
+     "alias": "artsupplies",
+     "title": "Art Supplies"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.62828907334662,
+    "Latitude": 41.88481016914928
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "16 W Randolph St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60603",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "16 W Randolph St",
+     "Chicago, IL 60603"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129200300",
+   "display_phone": "(312) 920-0300",
+   "distance": 756.5483111224426
+  },
+  {
+   "id": "E5cEfaCoLsegrulycze0zw",
+   "alias": "blick-art-materials-chicago",
+   "name": "Blick Art Materials",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rVZoZfag4CjfI3mDJJ_0DQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blick-art-materials-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 115,
+   "categories": [
+    {
+     "alias": "artsupplies",
+     "title": "Art Supplies"
+    },
+    {
+     "alias": "hobbyshops",
+     "title": "Hobby Shops"
+    },
+    {
+     "alias": "framing",
+     "title": "Framing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.654024,
+    "Latitude": 41.9097492494745
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1574 N Kingsbury St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1574 N Kingsbury St",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125730110",
+   "display_phone": "(312) 573-0110",
+   "distance": 4050.3384963546096
+  },
+  {
+   "id": "q6qLp_obedtbp0Sb9MS9rQ",
+   "alias": "cooking-fools-chicago-2",
+   "name": "Cooking Fools",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EjhFZLmEBHgJAajB_udm5g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cooking-fools-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 115,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6756989210844,
+    "Latitude": 41.9105485081673
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1916 W North Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1916 W North Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732769377",
+   "display_phone": "(773) 276-9377",
+   "distance": 5250.196800198932
+  },
+  {
+   "id": "UT2YwK3fTDhGyWRltZWrBA",
+   "alias": "michaels-lakewood-4",
+   "name": "Michaels",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xulqTq5OeMIz0yMp5cQWIQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/michaels-lakewood-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 142,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "knittingsupplies",
+     "title": "Knitting Supplies"
+    },
+    {
+     "alias": "hobbyshops",
+     "title": "Hobby Shops"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -118.145409196787,
+    "Latitude": 33.8504659839357
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4000 Hardwick St",
+    "address2": "",
+    "address3": "",
+    "city": "Lakewood",
+    "zip_code": "90712",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "4000 Hardwick St",
+     "Lakewood, CA 90712"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15626331913",
+   "display_phone": "(562) 633-1913",
+   "distance": 6906.16640312099
+  },
+  {
+   "id": "GR7odovRY11_-ZndjtP1jw",
+   "alias": "paper-source-chicago",
+   "name": "Paper Source",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/f_4pFbiC3pg7IBriz6WqPA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paper-source-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 113,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.65175,
+    "Latitude": 41.91791
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "919 W Armitage Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "919 W Armitage Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735257300",
+   "display_phone": "(773) 525-7300",
+   "distance": 4794.097372134337
+  },
+  {
+   "id": "9QdCtvo2qBlXTB04BKBf1w",
+   "alias": "glazed-expressions-chicago",
+   "name": "Glazed Expressions",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tqzdv74CMsRcQIBsE5Bo2Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/glazed-expressions-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 112,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.646843,
+    "Latitude": 41.918055
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "717 W Armitage Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "717 W Armitage Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128671792",
+   "display_phone": "(312) 867-1792",
+   "distance": 4661.342083926382
+  },
+  {
+   "id": "lPiBdD4bnx9_8tDFMyjScg",
+   "alias": "michaels-chicago-3",
+   "name": "Michaels",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DfUO33TKp3ibfHMhGYyuYg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/michaels-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 107,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "knittingsupplies",
+     "title": "Knitting Supplies"
+    },
+    {
+     "alias": "hobbyshops",
+     "title": "Hobby Shops"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.649453,
+    "Latitude": 41.938462
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3131 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3131 N Clark St",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17733277127",
+   "display_phone": "(773) 327-7127",
+   "distance": 6906.16640312099
+  },
+  {
+   "id": "D2ryj1yxYEmqja4DLen5UQ",
+   "alias": "personalized-planet-bolingbrook",
+   "name": "Personalized Planet",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZSi4onFQFYi2y1_1mCXQvQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/personalized-planet-bolingbrook?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 106,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "flowers",
+     "title": "Flowers \u0026 Gifts"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -88.0947113037109,
+    "Latitude": 41.676815032959
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "755 Remington Blvd",
+    "address2": "Ste B",
+    "address3": "",
+    "city": "Bolingbrook",
+    "zip_code": "60440",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "755 Remington Blvd",
+     "Ste B",
+     "Bolingbrook, IL 60440"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18889579696",
+   "display_phone": "(888) 957-9696",
+   "distance": 44577.29031243855
+  },
+  {
+   "id": "VjxBfPpGk9dBHAYDOodhEA",
+   "alias": "komoda-chicago",
+   "name": "Komoda",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-kJG435GiTJQGitSu_2TVA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/komoda-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 104,
+   "categories": [
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6915512084961,
+    "Latitude": 41.8954162597656
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2559 W Chicago Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2559 W Chicago Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732768229",
+   "display_phone": "(773) 276-8229",
+   "distance": 5464.5256371370015
+  },
+  {
+   "id": "mVAabU0Q_DMG9zc5heZLRw",
+   "alias": "april-7s-custom-framing-chicago",
+   "name": "April 7s Custom Framing",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-Mq5MVlKEWEd5QfIj_2IZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/april-7s-custom-framing-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 104,
+   "categories": [
+    {
+     "alias": "framing",
+     "title": "Framing"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.65478,
+    "Latitude": 41.89559
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "766 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "766 N Milwaukee Ave",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126664707",
+   "display_phone": "(312) 666-4707",
+   "distance": 2829.5524021712736
+  },
+  {
+   "id": "fYb3e3g3yI9g76XHFvfaMg",
+   "alias": "nina-chicago-chicago",
+   "name": "Nina Chicago",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Cnm49T_MPIETRT-Ah0Uu6g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nina-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 101,
+   "categories": [
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    },
+    {
+     "alias": "knittingsupplies",
+     "title": "Knitting Supplies"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6597137,
+    "Latitude": 41.896421
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1256 W Chicago Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1256 W Chicago Ave",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734868996",
+   "display_phone": "(773) 486-8996",
+   "distance": 3206.5620843474735
+  },
+  {
+   "id": "h9G8erRQFT_t9ndfcB4_Bg",
+   "alias": "gotcha-covered-of-chicago-chicago",
+   "name": "Gotcha Covered of Chicago",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NmP44PiyH7yHkwJ5otLxCw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gotcha-covered-of-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 100,
+   "categories": [
+    {
+     "alias": "blinds",
+     "title": "Shades \u0026 Blinds"
+    },
+    {
+     "alias": "shutters",
+     "title": "Shutters"
+    },
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.68862927187116,
+    "Latitude": 41.964998
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4601 N Western Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60625",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4601 N Western Ave",
+     "Chicago, IL 60625"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739748877",
+   "display_phone": "(773) 974-8877",
+   "distance": 10819.257326179548
+  },
+  {
+   "id": "LHTT7CfHIQavnCMmRUWbHg",
+   "alias": "chicago-costume-chicago",
+   "name": "Chicago Costume",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mJ4TpHNvSO9upS7pxDV73g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-costume-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 99,
+   "categories": [
+    {
+     "alias": "costumes",
+     "title": "Costumes"
+    },
+    {
+     "alias": "cosmetics",
+     "title": "Cosmetics \u0026 Beauty Supply"
+    },
+    {
+     "alias": "wigs",
+     "title": "Wigs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.65694,
+    "Latitude": 41.925594
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1120 W Fullerton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1120 W Fullerton Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735281264",
+   "display_phone": "(773) 528-1264",
+   "distance": 5738.902880655811
+  },
+  {
+   "id": "4rYbH-EejXVWnnuGx91Jew",
+   "alias": "the-inkling-shop-chicago-2",
+   "name": "The Inkling Shop",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wz_7euvkvw1NCmWoQQOjJw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-inkling-shop-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 91,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.643935,
+    "Latitude": 41.935317
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2917 1/2 N Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2917 1/2 N Broadway",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732488004",
+   "display_phone": "(773) 248-8004",
+   "distance": 6468.871722593165
+  },
+  {
+   "id": "kPpVB4v-qUR1RTmD8djYHA",
+   "alias": "michaels-san-diego-4",
+   "name": "Michaels",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nysRU7oSiUDWGXm3ZWt0cw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/michaels-san-diego-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 94,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "hobbyshops",
+     "title": "Hobby Shops"
+    },
+    {
+     "alias": "knittingsupplies",
+     "title": "Knitting Supplies"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -117.202958,
+    "Latitude": 32.748236
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2740 Midway Dr",
+    "address2": "",
+    "address3": "",
+    "city": "San Diego",
+    "zip_code": "92110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2740 Midway Dr",
+     "San Diego, CA 92110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16198580260",
+   "display_phone": "(619) 858-0260",
+   "distance": 32874.85667597395
+  },
+  {
+   "id": "Gis_rI4UTdA08gm9-PsOoA",
+   "alias": "cmm-framing-chicago-2",
+   "name": "CMM Framing",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yhGTzXBVZmDj0eMh7-lgAg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cmm-framing-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 78,
+   "categories": [
+    {
+     "alias": "framing",
+     "title": "Framing"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6662467,
+    "Latitude": 41.8963636
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1532 W Chicago Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1532 W Chicago Ave",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122434026",
+   "display_phone": "(312) 243-4026",
+   "distance": 3636.878305412781
+  },
+  {
+   "id": "4li1B4Ti9Z0sLZ1qeFztWw",
+   "alias": "chicago-award-source-chicago",
+   "name": "Chicago Award Source",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Wx8ZQgWo8NqUG6nmMje-dw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-award-source-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 73,
+   "categories": [
+    {
+     "alias": "engraving",
+     "title": "Engraving"
+    },
+    {
+     "alias": "trophyshops",
+     "title": "Trophy Shops"
+    },
+    {
+     "alias": "framing",
+     "title": "Framing"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.65033301843879,
+    "Latitude": 41.91167867648024
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1627 N Clybourn Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1627 N Clybourn Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122021110",
+   "display_phone": "(312) 202-1110",
+   "distance": 4102.370724820217
+  },
+  {
+   "id": "HgQeRCAuNicoiLLon08w8g",
+   "alias": "virtu-chicago-2",
+   "name": "Virtu",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fzl9kYugy5z-O2X2xA-GfQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/virtu-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 73,
+   "categories": [
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.67732,
+    "Latitude": 41.91877
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2035 N Damen Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2035 N Damen Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732353790",
+   "display_phone": "(773) 235-3790",
+   "distance": 5997.059606696427
+  },
+  {
+   "id": "-YGlkap3K_y4UoSfG0M0DQ",
+   "alias": "barnes-and-noble-oak-brook",
+   "name": "Barnes \u0026 Noble",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kx2iLJW9raPTlYEUYNZ1ag/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barnes-and-noble-oak-brook?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 73,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.951495411437,
+    "Latitude": 41.8489578592316
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "297 Oakbrook Ctr",
+    "address2": "",
+    "address3": "",
+    "city": "Oak Brook",
+    "zip_code": "60523",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "297 Oakbrook Ctr",
+     "Oak Brook, IL 60523"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16306840586",
+   "display_phone": "(630) 684-0586",
+   "distance": 26836.206725645025
+  },
+  {
+   "id": "nYVJfW2A-O_vZx9LhM-3Gw",
+   "alias": "party-city-chicago-4",
+   "name": "Party City",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HbZJ-aHLOjIkRqlTHQK0Ug/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/party-city-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 72,
+   "categories": [
+    {
+     "alias": "partysupplies",
+     "title": "Party Supplies"
+    },
+    {
+     "alias": "costumes",
+     "title": "Costumes"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6723157,
+    "Latitude": 41.9249651
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1755 W Fullerton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1755 W Fullerton Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735250399",
+   "display_phone": "(773) 525-0399",
+   "distance": 6124.895000445584
+  },
+  {
+   "id": "rg_sgVSfSx9Z3Ru-jJPKDA",
+   "alias": "michaels-skokie",
+   "name": "Michaels",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hHBXKk_zFE1WwbFIqHqoPQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/michaels-skokie?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "knittingsupplies",
+     "title": "Knitting Supplies"
+    },
+    {
+     "alias": "hobbyshops",
+     "title": "Hobby Shops"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.767445,
+    "Latitude": 42.009948
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "7055 Central Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Skokie",
+    "zip_code": "60077",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "7055 Central Ave",
+     "Skokie, IL 60077"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18474100280",
+   "display_phone": "(847) 410-0280",
+   "distance": 18561.72764461961
+  },
+  {
+   "id": "nm6aB4eJPliL1WjNSQLukg",
+   "alias": "blick-art-materials-evanston-2",
+   "name": "Blick Art Materials",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-lkOLgaHYd-gxoucWf_ZAg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blick-art-materials-evanston-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "artsupplies",
+     "title": "Art Supplies"
+    },
+    {
+     "alias": "hobbyshops",
+     "title": "Hobby Shops"
+    },
+    {
+     "alias": "framing",
+     "title": "Framing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6844816549649,
+    "Latitude": 42.04960293315827
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1755 Maple Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Evanston",
+    "zip_code": "60201",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1755 Maple Ave",
+     "Evanston, IL 60201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18474259100",
+   "display_phone": "(847) 425-9100",
+   "distance": 19598.83528034258
+  },
+  {
+   "id": "bBNIz0sA1MA-uodOq5rN8w",
+   "alias": "all-she-wrote-chicago",
+   "name": "All She Wrote",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XZIoEtmxzKEPzNYPHrcdyg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/all-she-wrote-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6496053,
+    "Latitude": 41.9180461
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "825 W Armitage Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "825 W Armitage Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735290100",
+   "display_phone": "(773) 529-0100",
+   "distance": 4734.614546657021
+  }
+ ],
+ "total": 640,
+ "region": {
+  "center": {
+   "longitude": -87.6298,
+   "Latitude": 41.8781
+  }
+ }
+}

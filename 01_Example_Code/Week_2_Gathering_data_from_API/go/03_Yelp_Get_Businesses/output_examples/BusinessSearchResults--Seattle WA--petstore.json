@@ -1,0 +1,1841 @@
+{
+ "businesses": [
+  {
+   "id": "aJKxPv4cbyblVydRyKGS3A",
+   "alias": "wally-pets-seattle",
+   "name": "Wally Pets",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gioUpKk94ajnIgod_buMQQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wally-pets-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 200,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.336474,
+    "Latitude": 47.66073
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4411 Wallingford Ave N",
+    "address2": "Ste A",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4411 Wallingford Ave N",
+     "Ste A",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065470301",
+   "display_phone": "(206) 547-0301",
+   "distance": 6072.304046199962
+  },
+  {
+   "id": "j6CFGomlquJNq_fBxFRuTA",
+   "alias": "rex-seattle-2",
+   "name": "Rex",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WQ71Qyg_1a7tEce8CULYeQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rex-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 173,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.31665968895,
+    "Latitude": 47.613077934646
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1402 12th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1402 12th Ave",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064674440",
+   "display_phone": "(206) 467-4440",
+   "distance": 1387.326617312017
+  },
+  {
+   "id": "lZolLVtFtvyhEt5L2vfOaA",
+   "alias": "sierra-fish-and-pets-renton",
+   "name": "Sierra Fish \u0026 Pets",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kj47bJe-FuXGICchuUhSLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sierra-fish-and-pets-renton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 170,
+   "categories": [
+    {
+     "alias": "aquariumservices",
+     "title": "Aquarium Services"
+    },
+    {
+     "alias": "localfishstores",
+     "title": "Local Fish Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.2114893,
+    "Latitude": 47.4708488
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "601 S Grady Way",
+    "address2": "Ste M",
+    "address3": "",
+    "city": "Renton",
+    "zip_code": "98057",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "601 S Grady Way",
+     "Ste M",
+     "Renton, WA 98057"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252263215",
+   "display_phone": "(425) 226-3215",
+   "distance": 17563.758392871026
+  },
+  {
+   "id": "i1OfGCwfYk7u-Vc1czuvDg",
+   "alias": "reber-ranch-kent",
+   "name": "Reber Ranch",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FFhm9l72nZ9wUHPUdgwxnQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/reber-ranch-kent?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 166,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.16447325348666,
+    "Latitude": 47.34482644942216
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "28606 132nd Ave SE",
+    "address2": "",
+    "address3": "",
+    "city": "Kent",
+    "zip_code": "98042",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "28606 132nd Ave SE",
+     "Kent, WA 98042"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12536303330",
+   "display_phone": "(253) 630-3330",
+   "distance": 31676.44482883593
+  },
+  {
+   "id": "VBtqjWZQCpSoVEBLtijOrQ",
+   "alias": "petsmart-woodinville",
+   "name": "PetSmart",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B-c9M0TeZhSNNfjIHw73wg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsmart-woodinville?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 157,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.157188,
+    "Latitude": 47.756517
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17845 Garden Way NE",
+    "address2": "unit 11",
+    "address3": "",
+    "city": "Woodinville",
+    "zip_code": "98072",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17845 Garden Way NE",
+     "unit 11",
+     "Woodinville, WA 98072"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254242098",
+   "display_phone": "(425) 424-2098",
+   "distance": 21232.847055977814
+  },
+  {
+   "id": "ia7bxpopOguz7C58iGcAEA",
+   "alias": "earthwise-pet-supply-and-grooming-seattle",
+   "name": "EarthWise Pet Supply \u0026 Grooming",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1bjc0GPlSnq7GC7FGJ44TQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/earthwise-pet-supply-and-grooming-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 155,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3568794,
+    "Latitude": 47.6529684
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "114 N 36th St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "114 N 36th St",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066324567",
+   "display_phone": "(206) 632-4567",
+   "distance": 5521.974377242382
+  },
+  {
+   "id": "S2KXD6nnjfoojrVZs8W4kQ",
+   "alias": "bridges-pets-gifts-and-water-gardens-snohomish",
+   "name": "Bridges Pets Gifts \u0026 Water Gardens",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QWG_5lq59ZXNjHJd-86cdA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bridges-pets-gifts-and-water-gardens-snohomish?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 153,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.1095951,
+    "Latitude": 47.944418
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2929 Bickford Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Snohomish",
+    "zip_code": "98290",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2929 Bickford Ave",
+     "Snohomish, WA 98290"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14253224012",
+   "display_phone": "(425) 322-4012",
+   "distance": 41207.06696505178
+  },
+  {
+   "id": "hoXUUkANWO3ls9-1et0pRQ",
+   "alias": "aquarium-co-op-edmonds",
+   "name": "Aquarium Co-Op",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/awEQTnBvRQrH_BQ2yJ4hlw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aquarium-co-op-edmonds?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 146,
+   "categories": [
+    {
+     "alias": "aquariumservices",
+     "title": "Aquarium Services"
+    },
+    {
+     "alias": "localfishstores",
+     "title": "Local Fish Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.364134417999,
+    "Latitude": 47.7786188123692
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9661 Firdale Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Edmonds",
+    "zip_code": "98020",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "9661 Firdale Ave",
+     "Edmonds, WA 98020"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 19321.419493907786
+  },
+  {
+   "id": "VCAtNPIG6J3X15OwThuuOg",
+   "alias": "petsmart-bellevue",
+   "name": "PetSmart",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NiJk_3ETCCeg5TqVbaJSTA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsmart-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 134,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.19534,
+    "Latitude": 47.61111
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "100 108th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98004",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "100 108th Ave NE",
+     "Bellevue, WA 98004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254541054",
+   "display_phone": "(425) 454-1054",
+   "distance": 10269.832059586406
+  },
+  {
+   "id": "kDf5hOeywsb0-2LymupcjA",
+   "alias": "animal-health-care-center-renton-3",
+   "name": "Animal Health Care Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eka237s9G3yB3Uq6EAjz0g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/animal-health-care-center-renton-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 128,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "petinsurance",
+     "title": "Pet Insurance"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.21584,
+    "Latitude": 47.47624
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "504 Renton Center Way SW",
+    "address2": "Ste 3",
+    "address3": "",
+    "city": "Renton",
+    "zip_code": "98057",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "504 Renton Center Way SW",
+     "Ste 3",
+     "Renton, WA 98057"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252039000",
+   "display_phone": "(425) 203-9000",
+   "distance": 16888.83268998761
+  },
+  {
+   "id": "Qtaz8DpiNRwCyINTFWcZHA",
+   "alias": "petsmart-tukwila",
+   "name": "PetSmart",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M55rBVIOpenmBxA40JYXqQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsmart-tukwila?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 126,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.263123,
+    "Latitude": 47.444808
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17585 Southcenter Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Tukwila",
+    "zip_code": "98188",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17585 Southcenter Pkwy",
+     "Tukwila, WA 98188"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065752373",
+   "display_phone": "(206) 575-2373",
+   "distance": 18678.356822465244
+  },
+  {
+   "id": "7wUB6yTUEVSzg1Lb92S9Mg",
+   "alias": "fairwood-pet-center-renton",
+   "name": "Fairwood Pet Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/c6ls8UzMnSOzhK38CfcpEw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fairwood-pet-center-renton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 124,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.15357,
+    "Latitude": 47.4446299
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "14201 SE Petrovitsky Rd",
+    "address2": "Ste A-1",
+    "address3": "",
+    "city": "Renton",
+    "zip_code": "98058",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "14201 SE Petrovitsky Rd",
+     "Ste A-1",
+     "Renton, WA 98058"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252719344",
+   "display_phone": "(425) 271-9344",
+   "distance": 22516.74014851645
+  },
+  {
+   "id": "IoIBn_aqih57sVXUZe8GtA",
+   "alias": "cats-exclusive-veterinary-center-shoreline",
+   "name": "Cats Exclusive Veterinary Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/b4hFAO56F6VJ89-5RyoCcg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cats-exclusive-veterinary-center-shoreline?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 120,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.346198,
+    "Latitude": 47.767957
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "19203 Aurora Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Shoreline",
+    "zip_code": "98133",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "19203 Aurora Ave N",
+     "Shoreline, WA 98133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065462287",
+   "display_phone": "(206) 546-2287",
+   "distance": 18017.468755742506
+  },
+  {
+   "id": "W88J04jLO_qP4BgDytLvjQ",
+   "alias": "all-the-best-pet-care-seattle-5",
+   "name": "All The Best Pet Care",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aFAXDDmzrEBZz6xMqTq9mA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/all-the-best-pet-care-seattle-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 119,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3817589,
+    "Latitude": 47.6685351
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1909 NW Market St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1909 NW Market St",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067821500",
+   "display_phone": "(206) 782-1500",
+   "distance": 7862.040613183924
+  },
+  {
+   "id": "jxYgsqbEkE5RsLiWf3DmFQ",
+   "alias": "wag-n-wash-natural-pet-food-and-grooming-seattle",
+   "name": "Wag N’ Wash Natural Pet Food \u0026 Grooming",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zj_s77xcd0NS7duc3MP7pQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wag-n-wash-natural-pet-food-and-grooming-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 112,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.35667,
+    "Latitude": 47.63698
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1932 Queen Anne Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1932 Queen Anne Ave N",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066692818",
+   "display_phone": "(206) 669-2818",
+   "distance": 3875.165742394265
+  },
+  {
+   "id": "yme50teBp0D7nvS0uNTykA",
+   "alias": "paddywack-mill-creek",
+   "name": "Paddywack",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Nl6F_ibZ0JEel47hmpwPxQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paddywack-mill-creek?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 110,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.22,
+    "Latitude": 47.8581999
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15407 Main St",
+    "address2": "Ste 101",
+    "address3": "",
+    "city": "Mill Creek",
+    "zip_code": "98012",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15407 Main St",
+     "Ste 101",
+     "Mill Creek, WA 98012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14253576510",
+   "display_phone": "(425) 357-6510",
+   "distance": 29242.39309903184
+  },
+  {
+   "id": "logUjMAr6rPLSDGBmfLpRQ",
+   "alias": "mud-bay-seattle-23",
+   "name": "Mud Bay",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aIGBd0gKJugdbmj4QXeIkQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mud-bay-seattle-23?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 105,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.32111,
+    "Latitude": 47.62083
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "231 Broadway E",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98102",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "231 Broadway E",
+     "Seattle, WA 98102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063226177",
+   "display_phone": "(206) 322-6177",
+   "distance": 1823.4770349419857
+  },
+  {
+   "id": "DQNjtcBiaeLF_0gbsaZVyw",
+   "alias": "petsmart-renton",
+   "name": "PetSmart",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MyXUadiRk3B3cl4NdF4inA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsmart-renton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 105,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.204218,
+    "Latitude": 47.496792
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1203 N Landing Way",
+    "address2": "",
+    "address3": "",
+    "city": "Renton",
+    "zip_code": "98055",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1203 N Landing Way",
+     "Renton, WA 98055"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252041759",
+   "display_phone": "(425) 204-1759",
+   "distance": 15495.503936400377
+  },
+  {
+   "id": "bhNOYs9_5CRmY-eF2pogeg",
+   "alias": "mud-bay-seattle-28",
+   "name": "Mud Bay",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IB4Mrd0wXCgy3mOdDMVLcQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mud-bay-seattle-28?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 104,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.34470746,
+    "Latitude": 47.6120199
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2119 1st Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2119 1st Ave",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067282405",
+   "display_phone": "(206) 728-2405",
+   "distance": 1145.4530444272339
+  },
+  {
+   "id": "eM4CJzbqZe2igs88qdI9lA",
+   "alias": "petsmart-seattle",
+   "name": "PetSmart",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nlz7KEErKqEF1AubTCQb-g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsmart-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 102,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.343036,
+    "Latitude": 47.724264
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13000 Aurora Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98133",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "13000 Aurora Ave N",
+     "Seattle, WA 98133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063611634",
+   "display_phone": "(206) 361-1634",
+   "distance": 13153.62184336104
+  },
+  {
+   "id": "uLy1oILaF2GUH40LBkuqLw",
+   "alias": "petco-seattle-2",
+   "name": "Petco",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BlSBfR5bX63I-_Mb3A-Y0Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petco-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 98,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.31905316796308,
+    "Latitude": 47.66110524742288
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "809 NE 45th St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98105",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "809 NE 45th St",
+     "Seattle, WA 98105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065481400",
+   "display_phone": "(206) 548-1400",
+   "distance": 6182.9538055315215
+  },
+  {
+   "id": "1i1v7k92bu3lyHcdMNojSw",
+   "alias": "petco-seattle",
+   "name": "Petco",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LBGoLN86pamKTwy1Lwqqsg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petco-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 96,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.3843,
+    "Latitude": 47.5611
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4100 SW Alaska St",
+    "address2": "Ste #a",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98116",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4100 SW Alaska St",
+     "Ste #a",
+     "Seattle, WA 98116"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12069370575",
+   "display_phone": "(206) 937-0575",
+   "distance": 6362.174093167949
+  },
+  {
+   "id": "QfLVfycGzmT9QmBDd7GAmg",
+   "alias": "petco-lynnwood",
+   "name": "Petco",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JQxss4K1WY4PAI0n1M7dVg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petco-lynnwood?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 92,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.2685,
+    "Latitude": 47.8208
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2617 196th St SW",
+    "address2": "Ste 141",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98036",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2617 196th St SW",
+     "Ste 141",
+     "Lynnwood, WA 98036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256737060",
+   "display_phone": "(425) 673-7060",
+   "distance": 24332.19479865259
+  },
+  {
+   "id": "JOaZ-NhIC66-82h0ClxSyg",
+   "alias": "dennys-pet-world-kirkland-3",
+   "name": "Denny's Pet World",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WwuVJ-mshJfqX10g75KumA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dennys-pet-world-kirkland-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 90,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "petadoption",
+     "title": "Pet Adoption"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.165168762207,
+    "Latitude": 47.7110290527344
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13123 NE 124th St",
+    "address2": "",
+    "address3": "",
+    "city": "Kirkland",
+    "zip_code": "98034",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "13123 NE 124th St",
+     "Kirkland, WA 98034"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258213800",
+   "display_phone": "(425) 821-3800",
+   "distance": 17097.4649689586
+  },
+  {
+   "id": "iQb3x3Yqa-RDjLa0lidCmw",
+   "alias": "masers-grooming-and-pet-boutique-kenmore",
+   "name": "Maser's Grooming \u0026 Pet Boutique",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_4t6GGLXBLyWkKJgUJTo-Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/masers-grooming-and-pet-boutique-kenmore?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 90,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "petadoption",
+     "title": "Pet Adoption"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.2529599,
+    "Latitude": 47.7592886
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6515 NE 181st St",
+    "address2": "",
+    "address3": "",
+    "city": "Kenmore",
+    "zip_code": "98028",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "6515 NE 181st St",
+     "Kenmore, WA 98028"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254851500",
+   "display_phone": "(425) 485-1500",
+   "distance": 18024.14583986687
+  },
+  {
+   "id": "Behl8arThMyR1rRzqX3Qig",
+   "alias": "aquarium-zen-seattle",
+   "name": "Aquarium Zen",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xaWkihXumnya85WeVanBFA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aquarium-zen-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 90,
+   "categories": [
+    {
+     "alias": "localfishstores",
+     "title": "Local Fish Stores"
+    },
+    {
+     "alias": "aquariumservices",
+     "title": "Aquarium Services"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.31763,
+    "Latitude": 47.67509
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "920 NE 64th St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98115",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "920 NE 64th St",
+     "Seattle, WA 98115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064991372",
+   "display_phone": "(206) 499-1372",
+   "distance": 7733.231979697121
+  },
+  {
+   "id": "HHXmlTT5yI7A8xfMwddijQ",
+   "alias": "mud-bay-seattle-10",
+   "name": "Mud Bay",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kzgGTtqjTsJsoT4SfjzdgA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mud-bay-seattle-10?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 89,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.37575,
+    "Latitude": 47.6675963
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5314 15th Ave NW",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5314 15th Ave NW",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067831328",
+   "display_phone": "(206) 783-1328",
+   "distance": 7569.910325279716
+  },
+  {
+   "id": "7fT3vb9ywpwhc0GDFOWQ-A",
+   "alias": "paws-in-the-park-normandy-park",
+   "name": "Paws In The Park",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Cd1NPWm6A-5dZU83XatSpA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paws-in-the-park-normandy-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 86,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3351862,
+    "Latitude": 47.4423316
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17833 1st Ave S",
+    "address2": "Ste B",
+    "address3": "",
+    "city": "Normandy Park",
+    "zip_code": "98148",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17833 1st Ave S",
+     "Ste B",
+     "Normandy Park, WA 98148"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062429952",
+   "display_phone": "(206) 242-9952",
+   "distance": 18222.788019706775
+  },
+  {
+   "id": "x88tY_fMHJ9jvZyWlj0dmg",
+   "alias": "petsmart-issaquah",
+   "name": "PetSmart",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yP_uuH__7B0fFAMqPOKHYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsmart-issaquah?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 85,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.056075,
+    "Latitude": 47.54765833
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1505 11th Ave Nw",
+    "address2": "",
+    "address3": "",
+    "city": "Issaquah",
+    "zip_code": "98027",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1505 11th Ave Nw",
+     "Issaquah, WA 98027"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14255576651",
+   "display_phone": "(425) 557-6651",
+   "distance": 21713.265404768987
+  },
+  {
+   "id": "giGGtByxhDLXsrVsX5MbOg",
+   "alias": "petco-seattle-3",
+   "name": "Petco",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zPh0lTbdwgVsAq6YlB1wow/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petco-seattle-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 84,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.37585703483056,
+    "Latitude": 47.69356129965427
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8728 Holman Rd NW",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98117",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "8728 Holman Rd NW",
+     "Seattle, WA 98117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067840524",
+   "display_phone": "(206) 784-0524",
+   "distance": 10252.202429841089
+  },
+  {
+   "id": "zuq6gZfutnkqBYstxLtDuQ",
+   "alias": "the-seattle-barkery-seattle",
+   "name": "The Seattle Barkery",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YIGTONH5Y7dq9HUcjNNHmw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-seattle-barkery-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 84,
+   "categories": [
+    {
+     "alias": "foodtrucks",
+     "title": "Food Trucks"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.34018,
+    "Latitude": 47.61747
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "2225 8th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2225 8th Ave",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12068511549",
+   "display_phone": "(206) 851-1549",
+   "distance": 1375.0381341693153
+  },
+  {
+   "id": "amqyGHjqoyp2MYPNLAKx7Q",
+   "alias": "mud-bay-seattle",
+   "name": "Mud Bay",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tVmP-bGW1DJm_XT1mpIbSw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mud-bay-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 82,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.35765,
+    "Latitude": 47.69159
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8532 1st Ave NW",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98117",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "8532 1st Ave NW",
+     "Seattle, WA 98117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067897977",
+   "display_phone": "(206) 789-7977",
+   "distance": 9685.900818872458
+  },
+  {
+   "id": "a883BCMCv67tc-NmMb95ww",
+   "alias": "midway-tropical-fish-and-pets-kent",
+   "name": "Midway Tropical Fish \u0026 Pets",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sUMCwJicFeeFPQfyoMfakQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/midway-tropical-fish-and-pets-kent?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 82,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.2971942,
+    "Latitude": 47.3854752
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "24101 Pacific Hwy S",
+    "address2": "",
+    "address3": "",
+    "city": "Kent",
+    "zip_code": "98032",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "24101 Pacific Hwy S",
+     "Kent, WA 98032"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12068242616",
+   "display_phone": "(206) 824-2616",
+   "distance": 24683.151044531347
+  },
+  {
+   "id": "Hixdm_ZkkkFpHR-359_QrQ",
+   "alias": "lucky-dog-outfitters-tacoma",
+   "name": "Lucky Dog Outfitters",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZSddYj9EaGXMZxdG6PbAfg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lucky-dog-outfitters-tacoma?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 82,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4815866,
+    "Latitude": 47.2554049
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3411 6th Ave",
+    "address2": "Ste B",
+    "address3": "",
+    "city": "Tacoma",
+    "zip_code": "98406",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "3411 6th Ave",
+     "Ste B",
+     "Tacoma, WA 98406"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12537614486",
+   "display_phone": "(253) 761-4486",
+   "distance": 40589.04540774001
+  },
+  {
+   "id": "HB_YNK317G5YIA4ZPzsIyw",
+   "alias": "green-dog-grooming-kent",
+   "name": "Green Dog Grooming",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wy1jIBZnAyd-ZXLvxDrQ6g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/green-dog-grooming-kent?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 81,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.23372,
+    "Latitude": 47.38006
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "229 1st Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Kent",
+    "zip_code": "98032",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "229 1st Ave S",
+     "Kent, WA 98032"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12532467233",
+   "display_phone": "(253) 246-7233",
+   "distance": 26206.08142879068
+  },
+  {
+   "id": "RRBut-qzn5JziJgDW2Rnkg",
+   "alias": "little-amazon-fish-and-pets-seattle",
+   "name": "Little Amazon Fish \u0026 Pets",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/A19KOIvassJ6VZZdplyp_A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/little-amazon-fish-and-pets-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 81,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.344365,
+    "Latitude": 47.703731
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10316 Aurora Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98133",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "10316 Aurora Ave N",
+     "Seattle, WA 98133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065281646",
+   "display_phone": "(206) 528-1646",
+   "distance": 10883.779130442697
+  },
+  {
+   "id": "b9QQYpCOJ7AKaREJu_t5XA",
+   "alias": "petco-seattle-6",
+   "name": "Petco",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iOhvIWmzM5gX3wMGmLNIWw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petco-seattle-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 80,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.344,
+    "Latitude": 47.7778
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1241 N 205th",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98133",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1241 N 205th",
+     "Seattle, WA 98133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065461234",
+   "display_phone": "(206) 546-1234",
+   "distance": 19101.804769004026
+  },
+  {
+   "id": "Wqe2FQXCBJQpQXAP9vJe4A",
+   "alias": "petco-kirkland",
+   "name": "Petco",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ywqSM4cI6Mr-U6cA5CAGwQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petco-kirkland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 78,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.1799,
+    "Latitude": 47.6793
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "12040 NE 85th St",
+    "address2": "",
+    "address3": "",
+    "city": "Kirkland",
+    "zip_code": "98033",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "12040 NE 85th St",
+     "Kirkland, WA 98033"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258898319",
+   "display_phone": "(425) 889-8319",
+   "distance": 14003.070142219427
+  },
+  {
+   "id": "zvTkyK__YMnj_NlneR_hSg",
+   "alias": "petsmart-federal-way",
+   "name": "PetSmart",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HqfxRJWt4xv790Up4MeeVA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsmart-federal-way?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 76,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.3135049,
+    "Latitude": 47.3173179
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "31705 Pacific Hwy S",
+    "address2": "",
+    "address3": "",
+    "city": "Federal Way",
+    "zip_code": "98003",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "31705 Pacific Hwy S",
+     "Federal Way, WA 98003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12535294693",
+   "display_phone": "(253) 529-4693",
+   "distance": 32148.762311019986
+  },
+  {
+   "id": "diyBSimJx-hVe12pxoSNhQ",
+   "alias": "all-the-best-pet-care-seattle-2",
+   "name": "All The Best Pet Care",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6V98R2tIBqJlIfDggjfdJw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/all-the-best-pet-care-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 76,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3572748,
+    "Latitude": 47.63800907085248
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2127 Queen Anne Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2127 Queen Anne Ave N",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062833959",
+   "display_phone": "(206) 283-3959",
+   "distance": 4008.7825628544483
+  }
+ ],
+ "total": 266,
+ "region": {
+  "center": {
+   "longitude": -122.3321,
+   "Latitude": 47.6062
+  }
+ }
+}

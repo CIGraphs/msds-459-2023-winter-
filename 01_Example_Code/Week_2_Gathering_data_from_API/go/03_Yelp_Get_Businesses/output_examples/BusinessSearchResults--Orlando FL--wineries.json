@@ -1,0 +1,637 @@
+{
+ "businesses": [
+  {
+   "id": "dW2hl4YE1-Omlzoisx6hbg",
+   "alias": "coopers-hawk-winery-and-restaurants-orlando-14",
+   "name": "Cooper's Hawk Winery \u0026 Restaurants",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JRj5KzbW_heiXmGIPU76ag/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/coopers-hawk-winery-and-restaurants-orlando-14?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1060,
+   "categories": [
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -81.469580126181,
+    "Latitude": 28.4493164742388
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "8005 International Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32819",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "8005 International Dr",
+     "Orlando, FL 32819"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14079563400",
+   "display_phone": "(407) 956-3400",
+   "distance": 13291.061319729311
+  },
+  {
+   "id": "_JlTf8X3R1v3igOYthZdkQ",
+   "alias": "coopers-hawk-winery-and-restaurants-orlando-16",
+   "name": "Cooper's Hawk Winery \u0026 Restaurants",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0PhyCMZi9bkNbvlFHqrXJw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/coopers-hawk-winery-and-restaurants-orlando-16?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 931,
+   "categories": [
+    {
+     "alias": "wine_bars",
+     "title": "Wine Bars"
+    },
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.20177749622731,
+    "Latitude": 28.554719349409872
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "529 N Alafaya Trl",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32828",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "529 N Alafaya Trl",
+     "Orlando, FL 32828"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14073742464",
+   "display_phone": "(407) 374-2464",
+   "distance": 17395.65374803739
+  },
+  {
+   "id": "Fhbce0cLt26M55YxRnylOA",
+   "alias": "lakeridge-winery-and-vineyards-clermont",
+   "name": "Lakeridge Winery \u0026 Vineyards",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/d3XkmIpmU4140TW3olCD8w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lakeridge-winery-and-vineyards-clermont?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 321,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -81.7686867713928,
+    "Latitude": 28.6271907410183
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "19239 US Hwy 27",
+    "address2": "",
+    "address3": "",
+    "city": "Clermont",
+    "zip_code": "34715",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "19239 US Hwy 27",
+     "Clermont, FL 34715"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13523948627",
+   "display_phone": "(352) 394-8627",
+   "distance": 39319.70355772454
+  },
+  {
+   "id": "NEcq7rh46XHjcErlAzA62w",
+   "alias": "quantum-leap-winery-orlando",
+   "name": "Quantum Leap Winery",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mYZ5tbsYJLLmsAG2qeTqdA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/quantum-leap-winery-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 119,
+   "categories": [
+    {
+     "alias": "eventplanning",
+     "title": "Party \u0026 Event Planning"
+    },
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.36572,
+    "Latitude": 28.56304
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1312 Wilfred Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32803",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1312 Wilfred Dr",
+     "Orlando, FL 32803"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14077303082",
+   "display_phone": "(407) 730-3082",
+   "distance": 3046.361564604345
+  },
+  {
+   "id": "jjBlkGgt1mqT9TaLOksuNQ",
+   "alias": "island-grove-wine-company-at-formosa-gardens-kissimmee",
+   "name": "Island Grove Wine Company at Formosa Gardens",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FMFEi7EMLn-EWce5kB0CPw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/island-grove-wine-company-at-formosa-gardens-kissimmee?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 86,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "breakfast_brunch",
+     "title": "Breakfast \u0026 Brunch"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.6034993,
+    "Latitude": 28.3360264
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3011 Formosa Gardens Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Kissimmee",
+    "zip_code": "34747",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "3011 Formosa Gardens Blvd",
+     "Kissimmee, FL 34747"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14075079888",
+   "display_phone": "(407) 507-9888",
+   "distance": 31679.848746481897
+  },
+  {
+   "id": "MSppC0Fd3iLAZfWiZiBcdQ",
+   "alias": "brix-and-mortar-urban-winery-sanford-2",
+   "name": "Brix \u0026 Mortar Urban Winery",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fiASvykrkYwwwq8M-3QM4A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brix-and-mortar-urban-winery-sanford-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 32,
+   "categories": [
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.26579,
+    "Latitude": 28.81125
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "117 S Palmetto Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Sanford",
+    "zip_code": "32771",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "117 S Palmetto Ave",
+     "Sanford, FL 32771"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076883078",
+   "display_phone": "(407) 688-3078",
+   "distance": 32286.11839634909
+  },
+  {
+   "id": "QjlZQ7cZdnxYISKqJGnzaw",
+   "alias": "oak-haven-farms-and-winery-sorrento",
+   "name": "Oak Haven Farms \u0026 Winery",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fTHj7xevbrjTundv0vd_EA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/oak-haven-farms-and-winery-sorrento?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.581785,
+    "Latitude": 28.821267
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "32418 Avington Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Sorrento",
+    "zip_code": "32776",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "32418 Avington Rd",
+     "Sorrento, FL 32776"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13527351996",
+   "display_phone": "(352) 735-1996",
+   "distance": 37162.27859634315
+  },
+  {
+   "id": "7TRVn1Tmlq-noHvLRXoLPw",
+   "alias": "golden-hour-wine-orlando",
+   "name": "Golden Hour Wine",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kj4RqG76NvkGYHOhDWR9AA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/golden-hour-wine-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 15,
+   "categories": [
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "wine_bars",
+     "title": "Wine Bars"
+    },
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.32505389912198,
+    "Latitude": 28.56675018270269
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1560 Lake Baldwin Ln",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32814",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1560 Lake Baldwin Ln",
+     "Orlando, FL 32814"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16894446072",
+   "display_phone": "(689) 444-6072",
+   "distance": 6131.630024677302
+  },
+  {
+   "id": "P8TBazE04r_Yn3uF8kfO1Q",
+   "alias": "brix-and-mortar-urban-winery-avalon-park-orlando",
+   "name": "Brix and Mortar Urban Winery - Avalon Park",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RBIuWsZ3WZK7DGdXQwEahg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brix-and-mortar-urban-winery-avalon-park-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    },
+    {
+     "alias": "wine_bars",
+     "title": "Wine Bars"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.15441,
+    "Latitude": 28.50905
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3885 Avalon Park E Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32828",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "3885 Avalon Park E Blvd",
+     "Orlando, FL 32828"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14077305883",
+   "display_phone": "(407) 730-5883",
+   "distance": 22151.77615616766
+  },
+  {
+   "id": "SYKu3qjual_qtb7vNccV7w",
+   "alias": "twisted-vine-winery-kissimmee-2",
+   "name": "Twisted Vine Winery",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RHChcY0Eo3S2_qsgjISK_w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/twisted-vine-winery-kissimmee-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    },
+    {
+     "alias": "breweries",
+     "title": "Breweries"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -81.4609632,
+    "Latitude": 28.3050358
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "",
+   "location": {
+    "address1": "4467 W Vine St",
+    "address2": "",
+    "address3": "",
+    "city": "Kissimmee",
+    "zip_code": "34746",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "4467 W Vine St",
+     "Kissimmee, FL 34746"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14075074189",
+   "display_phone": "(407) 507-4189",
+   "distance": 27161.508505244405
+  },
+  {
+   "id": "tSuk7uVrD_KMgL3fcoIxkg",
+   "alias": "weinkeller-lake-buena-vista",
+   "name": "Weinkeller",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KzNCHDaNtlfl-BdkQ_4rQw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/weinkeller-lake-buena-vista?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -81.54710163144036,
+    "Latitude": 28.3682946655409
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "Germany Pavilion",
+    "address2": "",
+    "address3": "",
+    "city": "Lake Buena Vista",
+    "zip_code": "32830",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "Germany Pavilion",
+     "Lake Buena Vista, FL 32830"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 25063.3682194803
+  },
+  {
+   "id": "rVG7pE2ikUA6OKlH_UB7wA",
+   "alias": "lake-seneca-farms-eustis-2",
+   "name": "Lake Seneca Farms",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Pvi9Jt7sNvE5AxJdJ91Hww/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lake-seneca-farms-eustis-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.57783,
+    "Latitude": 28.87465
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "36047 E Lake Seneca Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Eustis",
+    "zip_code": "32736",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "36047 E Lake Seneca Rd",
+     "Eustis, FL 32736"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13525896100",
+   "display_phone": "(352) 589-6100",
+   "distance": 42124.318426628764
+  },
+  {
+   "id": "mMU6gv6AFYjASx520Hm8tA",
+   "alias": "enoteca-castello-orlando",
+   "name": "Enoteca Castello",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/P7Q4ZVUDTQVhAG8bM93SOQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/enoteca-castello-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -81.559391,
+    "Latitude": 28.365615
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1200 Epcot Resorts Blvd",
+    "address2": "",
+    "address3": "Walt Disney World Resort",
+    "city": "Orlando",
+    "zip_code": "32830",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1200 Epcot Resorts Blvd",
+     "Walt Disney World Resort",
+     "Orlando, FL 32830"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 26113.89738933552
+  },
+  {
+   "id": "rPx-cH3SNhxM_8CFROnisg",
+   "alias": "la-maison-du-vin-bay-lake",
+   "name": "La Maison Du Vin",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CR8qq913HM4f2z02pW6HZA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-maison-du-vin-bay-lake?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.552642,
+    "Latitude": 28.368867
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1830 Ave Of The Stars",
+    "address2": "",
+    "address3": "",
+    "city": "Bay Lake",
+    "zip_code": "32830",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1830 Ave Of The Stars",
+     "Bay Lake, FL 32830"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 25374.676926818236
+  }
+ ],
+ "total": 14,
+ "region": {
+  "center": {
+   "longitude": -81.3789,
+   "Latitude": 28.5384
+  }
+ }
+}

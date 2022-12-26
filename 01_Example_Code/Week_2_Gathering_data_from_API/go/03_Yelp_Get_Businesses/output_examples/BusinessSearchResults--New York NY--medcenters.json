@@ -1,0 +1,1777 @@
+{
+ "businesses": [
+  {
+   "id": "Z9cGEZt8tZcl9tAV-QAUxg",
+   "alias": "newyork-presbyterian-weill-cornell-medical-center-new-york",
+   "name": "NewYork-Presbyterian/Weill Cornell Medical Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZH3PU-wDdwiuQeZXXUjvUg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/newyork-presbyterian-weill-cornell-medical-center-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 328,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.954322,
+    "Latitude": 40.764652
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "525 East 68th St",
+    "address2": "M302C",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10065",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "525 East 68th St",
+     "M302C",
+     "New York, NY 10065"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18006979355",
+   "display_phone": "(800) 697-9355",
+   "distance": 7224.94866895421
+  },
+  {
+   "id": "AzaKXel0hqs0ZGpyCzfdgA",
+   "alias": "hackensack-university-medical-center-hackensack-2",
+   "name": "Hackensack University Medical Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JG7IRs2DOrBWVwI9V_dDEA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hackensack-university-medical-center-hackensack-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 291,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.0563122,
+    "Latitude": 40.88266440644805
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "30 Prospect Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Hackensack",
+    "zip_code": "07601",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "30 Prospect Ave",
+     "Hackensack, NJ 07601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15519962000",
+   "display_phone": "(551) 996-2000",
+   "distance": 19357.019975203097
+  },
+  {
+   "id": "bsNkhc3AAA9HXIiSqgktUg",
+   "alias": "citymd-west-57th-urgent-care-nyc-new-york",
+   "name": "CityMD West 57th Urgent Care - NYC",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/d1YAHj4oYzGYdAm05uhZcw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/citymd-west-57th-urgent-care-nyc-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 260,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.983792,
+    "Latitude": 40.767328
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "315 W 57th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "315 W 57th St",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123152330",
+   "display_phone": "(212) 315-2330",
+   "distance": 6345.351090501244
+  },
+  {
+   "id": "_f-f-K8JAlZvNIe-Vl4gSQ",
+   "alias": "maimonides-medical-center-brooklyn-21",
+   "name": "Maimonides Medical Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bFyayGymCNUJGDDMOK7z-w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/maimonides-medical-center-brooklyn-21?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 238,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.99869558220635,
+    "Latitude": 40.639617817732216
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4802 10th Ave",
+    "address2": "",
+    "address3": "Maimonides Medical Center",
+    "city": "Brooklyn",
+    "zip_code": "11219",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "4802 10th Ave",
+     "Maimonides Medical Center",
+     "Brooklyn, NY 11219"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182836000",
+   "display_phone": "(718) 283-6000",
+   "distance": 8160.759371657343
+  },
+  {
+   "id": "s5xa2ZdJxNypLCnF3SloIA",
+   "alias": "hospital-for-special-surgery-new-york-5",
+   "name": "Hospital For Special Surgery",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qVx1e1-TXCA_n65nmgZz0Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hospital-for-special-surgery-new-york-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 227,
+   "categories": [
+    {
+     "alias": "orthopedists",
+     "title": "Orthopedists"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "rhematologists",
+     "title": "Rheumatologists"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9526625094,
+    "Latitude": 40.764960063439
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "535 E 70th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10021",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "535 E 70th St",
+     "New York, NY 10021"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126061000",
+   "display_phone": "(212) 606-1000",
+   "distance": 7337.098257332763
+  },
+  {
+   "id": "xlUc88NwHu9RlU1_CaGo6Q",
+   "alias": "summit-health-berkeley-heights",
+   "name": "Summit Health",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_8NKWka8iqWa3Simq3n0lg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/summit-health-berkeley-heights?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 201,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.411556,
+    "Latitude": 40.677083
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 Diamond Hill Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley Heights",
+    "zip_code": "07922",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "1 Diamond Hill Rd",
+     "Berkeley Heights, NJ 07922"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19082734300",
+   "display_phone": "(908) 273-4300",
+   "distance": 34421.06601436859
+  },
+  {
+   "id": "XvAlj_j6uk_FqpwVbg3zNg",
+   "alias": "wyckoff-heights-medical-center-brooklyn",
+   "name": "Wyckoff Heights Medical Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TZfgE8Z0Gf9UN50592FM8w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wyckoff-heights-medical-center-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 187,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.91749465301838,
+    "Latitude": 40.7042335185851
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "374 Stockholm St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11237",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "374 Stockholm St",
+     "Brooklyn, NY 11237"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17189637272",
+   "display_phone": "(718) 963-7272",
+   "distance": 7520.666893153672
+  },
+  {
+   "id": "FoHj-nmOpnvmMl9ApoLDoQ",
+   "alias": "memorial-sloan-kettering-cancer-center-new-york-21",
+   "name": "Memorial Sloan Kettering Cancer Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uxAae1M6OyBHWe6ONk9K9g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/memorial-sloan-kettering-cancer-center-new-york-21?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 182,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "oncologist",
+     "title": "Oncologist"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.9562397,
+    "Latitude": 40.76423570904819
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1275 York Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10065",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1275 York Ave",
+     "New York, NY 10065"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126392000",
+   "display_phone": "(212) 639-2000",
+   "distance": 7091.370280676323
+  },
+  {
+   "id": "9vdB2bDnCBkB-LzeiMVgNw",
+   "alias": "morristown-medical-center-morristown",
+   "name": "Morristown Medical Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EOHyCTueua_u5uCzZqYRoQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/morristown-medical-center-morristown?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 179,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.4651971124325,
+    "Latitude": 40.7889089717787
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "100 Madison Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Morristown",
+    "zip_code": "07960",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "100 Madison Ave",
+     "Morristown, NJ 07960"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19739715000",
+   "display_phone": "(973) 971-5000",
+   "distance": 39595.94004917443
+  },
+  {
+   "id": "Q3Jku_dw-k4kAVlp6pc29g",
+   "alias": "mount-sinai-union-square-new-york-5",
+   "name": "Mount Sinai Union Square",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_1-FmbF0Ja_awqzj-b_x6A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mount-sinai-union-square-new-york-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 177,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.989213,
+    "Latitude": 40.734643
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10 Union Square East",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "10 Union Square East",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124202000",
+   "display_phone": "(212) 420-2000",
+   "distance": 2803.143832731481
+  },
+  {
+   "id": "LOfIU6QYfjLyvlXvyFPZwQ",
+   "alias": "afc-urgent-care-lyndhurst-lyndhurst",
+   "name": "AFC Urgent Care Lyndhurst",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LK5amDeD8uX6pX-w7Hrh_g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/afc-urgent-care-lyndhurst-lyndhurst?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 153,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "familydr",
+     "title": "Family Practice"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.1199172,
+    "Latitude": 40.813391
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "560 New York Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Lyndhurst",
+    "zip_code": "07071",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "560 New York Ave",
+     "Lyndhurst, NJ 07071"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12013453839",
+   "display_phone": "(201) 345-3839",
+   "distance": 14736.245673932706
+  },
+  {
+   "id": "356JBrIJFWCYsYTNw9SYaQ",
+   "alias": "holy-name-medical-center-teaneck-2",
+   "name": "Holy Name Medical Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t3dORq3poobT5t7G9QVa9g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/holy-name-medical-center-teaneck-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 142,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.01006,
+    "Latitude": 40.88299
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "718 Teaneck Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Teaneck",
+    "zip_code": "07666",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "718 Teaneck Rd",
+     "Teaneck, NJ 07666"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12018333000",
+   "display_phone": "(201) 833-3000",
+   "distance": 18948.546688293703
+  },
+  {
+   "id": "cgV_TmxTPY5yTYG99p2EmQ",
+   "alias": "westmed-medical-group-white-plains-white-plains",
+   "name": "Westmed Medical Group - White Plains",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sEndJLdmGBBEXrs27fgKaA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/westmed-medical-group-white-plains-white-plains?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 141,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.74226,
+    "Latitude": 41.03137
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "210 Westchester Ave",
+    "address2": "",
+    "address3": "",
+    "city": "White Plains",
+    "zip_code": "10604",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "210 Westchester Ave",
+     "White Plains, NY 10604"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19146820700",
+   "display_phone": "(914) 682-0700",
+   "distance": 41816.73946720775
+  },
+  {
+   "id": "hV_dMvTVILfQVOTf8v_DIg",
+   "alias": "callen-lorde-community-health-center-new-york",
+   "name": "Callen-Lorde Community Health Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zcNcpWNT_vw5ea4c5fUWrA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/callen-lorde-community-health-center-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 134,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.00306,
+    "Latitude": 40.74314
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "356 W 18th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "356 W 18th St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122717200",
+   "display_phone": "(212) 271-7200",
+   "distance": 3406.1393001312913
+  },
+  {
+   "id": "wcF3oEvE_6S9kK1Z7HmwmQ",
+   "alias": "forest-urgent-care-forest-hills-2",
+   "name": "Forest Urgent Care LIC and Forest Hills",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Od3lN_YfxcN0aL_Ht-cbbA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/forest-urgent-care-forest-hills-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 128,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.8371496,
+    "Latitude": 40.7191616
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "112-01 75th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Forest Hills",
+    "zip_code": "11375",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "112-01 75th Ave",
+     "Forest Hills, NY 11375"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182686808",
+   "display_phone": "(718) 268-6808",
+   "distance": 14237.07559677807
+  },
+  {
+   "id": "l9ecVcjFsUz_2JlKY0z6gg",
+   "alias": "nassau-university-medical-center-east-meadow",
+   "name": "Nassau University Medical Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wt1oNYI0dYsvFedRaCQ97g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nassau-university-medical-center-east-meadow?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 122,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.554059,
+    "Latitude": 40.72722713979567
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2201 Hempstead Tpke",
+    "address2": "",
+    "address3": "",
+    "city": "East Meadow",
+    "zip_code": "11554",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2201 Hempstead Tpke",
+     "East Meadow, NY 11554"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15165720123",
+   "display_phone": "(516) 572-0123",
+   "distance": 38121.17492131362
+  },
+  {
+   "id": "NLCgDhbDKBwRlDC8k6BBsA",
+   "alias": "overlook-medical-center-summit",
+   "name": "Overlook Medical Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3Aw-cNfaUK0rnuxxyCCt8A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/overlook-medical-center-summit?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 119,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.3538564,
+    "Latitude": 40.7122872
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "99 Beauvoir Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Summit",
+    "zip_code": "07901",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "99 Beauvoir Ave",
+     "Summit, NJ 07901"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19085222000",
+   "display_phone": "(908) 522-2000",
+   "distance": 29299.075150548153
+  },
+  {
+   "id": "MAt4gxOHYTXaLbDOq0cIbQ",
+   "alias": "mount-sinai-doctors-west-8th-street-new-york-5",
+   "name": "Mount Sinai Doctors - West 8th Street",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jeSAsOP8JTJGtrsXueoh0w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mount-sinai-doctors-west-8th-street-new-york-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 119,
+   "categories": [
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9989626,
+    "Latitude": 40.7330498
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "52 West 8th Street",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "52 West 8th Street",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124664848",
+   "display_phone": "(212) 466-4848",
+   "distance": 2328.463184318922
+  },
+  {
+   "id": "UCmd72G78ESFVBaMFv8Rvw",
+   "alias": "planned-parenthood-manhattan-health-center-new-york-2",
+   "name": "Planned Parenthood - Manhattan Health Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hv4BQtpEvk0tOX6kvSdMKw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/planned-parenthood-manhattan-health-center-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 116,
+   "categories": [
+    {
+     "alias": "obgyn",
+     "title": "Obstetricians \u0026 Gynecologists"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "reproductivehealthservices",
+     "title": "Reproductive Health Services"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.993621,
+    "Latitude": 40.725249
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "26 Bleecker St.",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "26 Bleecker St.",
+     "New York, NY 10012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129657000",
+   "display_phone": "(212) 965-7000",
+   "distance": 1744.9289488275833
+  },
+  {
+   "id": "8YcNGSn9IpnS0C48wS-Ylg",
+   "alias": "barnabas-health-retail-pharmacy-at-saint-barnabas-medical-center-livingston",
+   "name": "Barnabas Health Retail Pharmacy at Saint Barnabas Medical Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M7jzR8vak3MUb_mCup31PQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barnabas-health-retail-pharmacy-at-saint-barnabas-medical-center-livingston?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 111,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.3047661581515,
+    "Latitude": 40.76316127579365
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "94 Old Short Hills Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Livingston",
+    "zip_code": "07039",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "94 Old Short Hills Rd",
+     "Livingston, NJ 07039"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19733222445",
+   "display_phone": "(973) 322-2445",
+   "distance": 25787.16316198437
+  },
+  {
+   "id": "XrKZFq1HiLoK0hCrUHG2CQ",
+   "alias": "riverside-medical-group-hoboken-6",
+   "name": "Riverside Medical Group",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ChW3d1bXEAtEB14RV3ykjg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/riverside-medical-group-hoboken-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 108,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "familydr",
+     "title": "Family Practice"
+    },
+    {
+     "alias": "internalmed",
+     "title": "Internal Medicine"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.028625,
+    "Latitude": 40.743717
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "609 Washington St.",
+    "address2": "",
+    "address3": "",
+    "city": "Hoboken",
+    "zip_code": "07030",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "609 Washington St.",
+     "Hoboken, NJ 07030"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12017068490",
+   "display_phone": "(201) 706-8490",
+   "distance": 3945.3656154913174
+  },
+  {
+   "id": "ZX_Dc7hGPPwBueDsXJ1Dtg",
+   "alias": "jersey-city-medical-center-jersey-city-3",
+   "name": "Jersey City Medical Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wxD8dVwTUDgZb8xR_wCPzg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jersey-city-medical-center-jersey-city-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 106,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.050121092744,
+    "Latitude": 40.716419598898
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "355 Grand St",
+    "address2": "",
+    "address3": "",
+    "city": "Jersey City",
+    "zip_code": "07302",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "355 Grand St",
+     "Jersey City, NJ 07302"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12019152000",
+   "display_phone": "(201) 915-2000",
+   "distance": 3740.3361962573563
+  },
+  {
+   "id": "PT0hHbHZBeZQqnIMTi3G7w",
+   "alias": "westmed-medical-group-yonkers-5",
+   "name": "Westmed Medical Group",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/l4DOtXSGIz9VrJkkPHHMdA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/westmed-medical-group-yonkers-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 105,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.85667,
+    "Latitude": 40.96289
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "73 Market St",
+    "address2": "",
+    "address3": "",
+    "city": "Yonkers",
+    "zip_code": "10710",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "73 Market St",
+     "Yonkers, NY 10710"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19148488073",
+   "display_phone": "(914) 848-8073",
+   "distance": 30508.94068819104
+  },
+  {
+   "id": "cEFT9RerXBt4_gzRHpIkDw",
+   "alias": "nyu-langone-at-trinity-new-york",
+   "name": "NYU Langone at Trinity",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/e2MI03g35OXt37z66Nse9A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nyu-langone-at-trinity-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 104,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.011663,
+    "Latitude": 40.708711
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "111 Broadway",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10006",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "111 Broadway",
+     "Fl 2",
+     "New York, NY 10006"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122639700",
+   "display_phone": "(212) 263-9700",
+   "distance": 659.2128366832077
+  },
+  {
+   "id": "gUZdu-GESpkZajaaopefNA",
+   "alias": "hackensack-meridian-health-jfk-medical-center-edison",
+   "name": "Hackensack Meridian Health JFK Medical Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WX40qjF7Q51Q0sx42XJP4A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hackensack-meridian-health-jfk-medical-center-edison?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 101,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -74.350833,
+    "Latitude": 40.55677
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "65 James St",
+    "address2": "",
+    "address3": "",
+    "city": "Edison",
+    "zip_code": "08820",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "65 James St",
+     "Edison, NJ 08820"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17323217000",
+   "display_phone": "(732) 321-7000",
+   "distance": 33877.83685299224
+  },
+  {
+   "id": "uk2_s6ZrQyly4W2q1Qsn5Q",
+   "alias": "midoctor-new-york-3",
+   "name": "MiDoctor",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gwybtBQcR_xA5ubhkQ77Sg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/midoctor-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 100,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "pediatricians",
+     "title": "Pediatricians"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.98995,
+    "Latitude": 40.7628
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "715 9th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "715 9th Ave",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127573859",
+   "display_phone": "(212) 757-3859",
+   "distance": 5723.70703706598
+  },
+  {
+   "id": "TOpImpzINwDOvmPOUeh7uw",
+   "alias": "afc-urgent-care-north-bergen-north-bergen",
+   "name": "AFC Urgent Care North Bergen",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/awTXoyogA6Nf1PebH1jzQw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/afc-urgent-care-north-bergen-north-bergen?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 100,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "familydr",
+     "title": "Family Practice"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.0142837166786,
+    "Latitude": 40.812401175499
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2100 88th St",
+    "address2": "",
+    "address3": "Bldg G 1a",
+    "city": "North Bergen",
+    "zip_code": "07047",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "2100 88th St",
+     "Bldg G 1a",
+     "North Bergen, NJ 07047"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12015881300",
+   "display_phone": "(201) 588-1300",
+   "distance": 11152.580297967503
+  },
+  {
+   "id": "EYj-n8C5obtvJK47FRdueg",
+   "alias": "afc-urgent-care-west-orange-west-orange-2",
+   "name": "AFC Urgent Care - West Orange",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YV6NmPshmPLUDmQDb9cgNQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/afc-urgent-care-west-orange-west-orange-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 96,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "familydr",
+     "title": "Family Practice"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.24967,
+    "Latitude": 40.8034899
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "464 Eagle Rock Ave",
+    "address2": "",
+    "address3": "",
+    "city": "West Orange",
+    "zip_code": "07052",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "464 Eagle Rock Ave",
+     "West Orange, NJ 07052"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19736695900",
+   "display_phone": "(973) 669-5900",
+   "distance": 22882.66096959147
+  },
+  {
+   "id": "ZgGcsTLuqIwt_VqLF_IeSQ",
+   "alias": "montefiore-medical-center-bronx-9",
+   "name": "Montefiore Medical Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NjiYAMbyU2lEVz2SzKYfLw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/montefiore-medical-center-bronx-9?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 92,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.87976841381966,
+    "Latitude": 40.8806012327371
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3412 Bainbridge Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10467",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "3412 Bainbridge Ave",
+     "Bronx, NY 10467"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187412426",
+   "display_phone": "(718) 741-2426",
+   "distance": 21472.179810022615
+  },
+  {
+   "id": "IT0ULTidRwBakUQEFoDkdA",
+   "alias": "medemerge-green-brook",
+   "name": "Medemerge",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RTnKjQyBhp-v2LO1TdCcuA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/medemerge-green-brook?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 92,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.47448,
+    "Latitude": 40.60186
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1005 N Washington Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Green Brook",
+    "zip_code": "08812",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "1005 N Washington Ave",
+     "Green Brook, NJ 08812"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17329688900",
+   "display_phone": "(732) 968-8900",
+   "distance": 41406.597868092096
+  },
+  {
+   "id": "FxKcmwoZEuvvCZeiVELKkQ",
+   "alias": "afc-urgent-care-east-meadow-east-meadow",
+   "name": "AFC Urgent Care - East Meadow",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M3aWPdgl6Sh7ekxV_XRoXg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/afc-urgent-care-east-meadow-east-meadow?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 89,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.55075191409817,
+    "Latitude": 40.72467748792842
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2310 Hempstead Tpke",
+    "address2": "",
+    "address3": "",
+    "city": "East Meadow",
+    "zip_code": "11554",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2310 Hempstead Tpke",
+     "East Meadow, NY 11554"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15165316492",
+   "display_phone": "(516) 531-6492",
+   "distance": 38389.5698015253
+  },
+  {
+   "id": "788m5pc57YprlpfOGjbMAQ",
+   "alias": "afc-urgent-care-paramus-paramus-2",
+   "name": "AFC Urgent Care Paramus",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Hz545-EPtfB7pNMi6vE4jw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/afc-urgent-care-paramus-paramus-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 87,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "familydr",
+     "title": "Family Practice"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.0730897,
+    "Latitude": 40.9673895
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "67C E Ridgewood Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Paramus",
+    "zip_code": "07652",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "67C E Ridgewood Ave",
+     "Paramus, NJ 07652"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12012622010",
+   "display_phone": "(201) 262-2010",
+   "distance": 28908.167707324883
+  },
+  {
+   "id": "-kQcNK81ZntYpfR2KdP_yA",
+   "alias": "mount-sinai-doctors-west-23rd-street-new-york-3",
+   "name": "Mount Sinai Doctors - West 23rd Street",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/G6fR4BwHhg_oPVdtOpzG8A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mount-sinai-doctors-west-23rd-street-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 85,
+   "categories": [
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.9986995,
+    "Latitude": 40.7455217
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "309 West 23rd Street",
+    "address2": "2nd Floor",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "309 West 23rd Street",
+     "2nd Floor",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122567000",
+   "display_phone": "(212) 256-7000",
+   "distance": 3701.228331586305
+  },
+  {
+   "id": "p8s09zZ1K8qdvlwrbhZ_VQ",
+   "alias": "mercy-medical-center-rockville-ctr",
+   "name": "Mercy Medical Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rEKFTGWjqE4W-szSVNP_Eg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mercy-medical-center-rockville-ctr?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 83,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.6318516060265,
+    "Latitude": 40.688415496547
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1000 N Village Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Rockville Ctr",
+    "zip_code": "11571",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1000 N Village Ave",
+     "Rockville Ctr, NY 11571"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15166263729",
+   "display_phone": "(516) 626-3729",
+   "distance": 31656.95239046867
+  },
+  {
+   "id": "fdasbrxSTC4qFTQW9pKwrw",
+   "alias": "richmond-university-medical-center-staten-island-2",
+   "name": "Richmond University Medical Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o7wUwLqFu196BwmmMSG05Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/richmond-university-medical-center-staten-island-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 82,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.105557,
+    "Latitude": 40.635877
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "355 Bard Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Staten Island",
+    "zip_code": "10310",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "355 Bard Ave",
+     "Staten Island, NY 10310"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188181234",
+   "display_phone": "(718) 818-1234",
+   "distance": 11985.540608938149
+  },
+  {
+   "id": "sNtYua_jP9jAK4tixaBErQ",
+   "alias": "concorde-medical-group-new-york-2",
+   "name": "Concorde Medical Group",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wDw-PQ2JzPbgZuUyzJu_ww/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/concorde-medical-group-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 81,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.9831517,
+    "Latitude": 40.745923
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "38 E 32nd St",
+    "address2": "Fl 9",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "38 E 32nd St",
+     "Fl 9",
+     "New York, NY 10016"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127252660",
+   "display_phone": "(212) 725-2660",
+   "distance": 4155.954000480505
+  },
+  {
+   "id": "MRN6WeJR43h8PY329bSWDg",
+   "alias": "statmd-new-hyde-park",
+   "name": "StatMD",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P23cOWM_FNaXGIjSnszPrQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/statmd-new-hyde-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 81,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.67174,
+    "Latitude": 40.73638
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2090 Jericho Tpke",
+    "address2": "",
+    "address3": "",
+    "city": "New Hyde Park",
+    "zip_code": "11040",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2090 Jericho Tpke",
+     "New Hyde Park, NY 11040"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15163527828",
+   "display_phone": "(516) 352-7828",
+   "distance": 28293.903658180447
+  },
+  {
+   "id": "DeLe895F1LH96Y4NmbkW4Q",
+   "alias": "femgyn-for-her-wellness-brooklyn-6",
+   "name": "FemGYN: For Her Wellness",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/r8gFLZ_isGAz31r07w9eXA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/femgyn-for-her-wellness-brooklyn-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 77,
+   "categories": [
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    },
+    {
+     "alias": "obgyn",
+     "title": "Obstetricians \u0026 Gynecologists"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9774169921875,
+    "Latitude": 40.6714324951172
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "175 7th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11215",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "175 7th Ave",
+     "Brooklyn, NY 11215"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13479874414",
+   "display_phone": "(347) 987-4414",
+   "distance": 5190.974891823186
+  },
+  {
+   "id": "zx6g4qTNLXSyjZZB2r19cQ",
+   "alias": "brookdale-hospital-medical-center-brooklyn-6",
+   "name": "Brookdale Hospital Medical Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7oUjIM1IP8wJGIxPA4rehA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brookdale-hospital-medical-center-brooklyn-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 75,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "oncologist",
+     "title": "Oncologist"
+    },
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.9125793,
+    "Latitude": 40.6550664
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 Brookdale Plz",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11212",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1 Brookdale Plz",
+     "Brooklyn, NY 11212"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182405000",
+   "display_phone": "(718) 240-5000",
+   "distance": 10161.908954632441
+  },
+  {
+   "id": "Ujt93wL0oWPOJuxB2iJ1sw",
+   "alias": "afc-urgent-care-stamford-stamford",
+   "name": "AFC Urgent Care Stamford",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-EPP6H-fqUkDixS2r46WCg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/afc-urgent-care-stamford-stamford?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 74,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "familydr",
+     "title": "Family Practice"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.54946,
+    "Latitude": 41.0712
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3000 Summer St",
+    "address2": "",
+    "address3": "",
+    "city": "Stamford",
+    "zip_code": "06905",
+    "country": "US",
+    "state": "CT",
+    "display_address": [
+     "3000 Summer St",
+     "Stamford, CT 06905"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12039692000",
+   "display_phone": "(203) 969-2000",
+   "distance": 55318.69566537361
+  }
+ ],
+ "total": 1000,
+ "region": {
+  "center": {
+   "longitude": -74.006,
+   "Latitude": 40.7128
+  }
+ }
+}

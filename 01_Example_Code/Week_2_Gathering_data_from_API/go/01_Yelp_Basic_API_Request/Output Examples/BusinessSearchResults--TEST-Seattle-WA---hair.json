@@ -1,0 +1,1813 @@
+{
+ "businesses": [
+  {
+   "id": "SUV6YpOKkdDos0kVN5DUBw",
+   "alias": "vain-seattle",
+   "name": "VAIN",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NIU1rw36qVKgURLfvRiIhA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vain-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 617,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.328,
+    "Latitude": 47.61371
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1121 Pike St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1121 Pike St",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064413441",
+   "display_phone": "(206) 441-3441",
+   "distance": 889.8393192158644
+  },
+  {
+   "id": "6MeJCEc1go4xvZrpDIqphQ",
+   "alias": "sensa-salon-seattle-2",
+   "name": "Sensa Salon",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/03-S09egEnOZb0zxY4bzzg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sensa-salon-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 519,
+   "categories": [
+    {
+     "alias": "hair_extensions",
+     "title": "Hair Extensions"
+    },
+    {
+     "alias": "makeupartists",
+     "title": "Makeup Artists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3376207,
+    "Latitude": 47.6059424
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1123 1st Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1123 1st Ave",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063952060",
+   "display_phone": "(206) 395-2060",
+   "distance": 414.8780792548678
+  },
+  {
+   "id": "TPixb26qJubB_DuLjw3LmA",
+   "alias": "ten-pachi-modern-salon-seattle",
+   "name": "Ten Pachi Modern Salon",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HihuQ-_iLpvSecjV19_sGQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ten-pachi-modern-salon-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 457,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.31339263916,
+    "Latitude": 47.6698722839355
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5611 University Way NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98105",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5611 University Way NE",
+     "Seattle, WA 98105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12069851010",
+   "display_phone": "(206) 985-1010",
+   "distance": 7218.801924952655
+  },
+  {
+   "id": "5qHmMb1Juwp5KNVmk4Ju8g",
+   "alias": "habitude-seattle",
+   "name": "Habitude",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5LgJEoA9VaOVZaHzVqq9ww/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/habitude-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 439,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.39429,
+    "Latitude": 47.66811
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "2801 NW Market St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2801 NW Market St",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067822898",
+   "display_phone": "(206) 782-2898",
+   "distance": 8287.1960662238
+  },
+  {
+   "id": "g5ToiLlvtHFypI9sSvcHHA",
+   "alias": "vivi-salon-and-spa-mill-creek",
+   "name": "Vivi Salon \u0026 Spa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WQQqFheF-2Dh7UGZ8RPhcg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vivi-salon-and-spa-mill-creek?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 434,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "permanentmakeup",
+     "title": "Permanent Makeup"
+    },
+    {
+     "alias": "eyelashservice",
+     "title": "Eyelash Service"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.219486623279,
+    "Latitude": 47.8557613436188
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "15704 Mill Creek Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Mill Creek",
+    "zip_code": "98012",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15704 Mill Creek Blvd",
+     "Mill Creek, WA 98012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14253797212",
+   "display_phone": "(425) 379-7212",
+   "distance": 28999.926811240824
+  },
+  {
+   "id": "qs-dfOmxgWzlGzEieKviVg",
+   "alias": "aveda-arts-and-sciences-institute-seattle-seattle",
+   "name": "Aveda Arts \u0026 Sciences Institute Seattle ",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Dvt2HLYQTzZTHDrEW1Vb7g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aveda-arts-and-sciences-institute-seattle-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 409,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.3217399,
+    "Latitude": 47.6143762
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "802 E Pike St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "802 E Pike St",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063021044",
+   "display_phone": "(206) 302-1044",
+   "distance": 1195.7087774541853
+  },
+  {
+   "id": "ul8S-v1rqu2zwXSnMRG8HA",
+   "alias": "mint-hair-studio-seattle-2",
+   "name": "Mint Hair Studio",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WEgtktaeGu-WMn-6p7l_Ag/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mint-hair-studio-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 409,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3855011,
+    "Latitude": 47.6683962
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5424 Ballard Ave NW",
+    "address2": "Ste 301",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5424 Ballard Ave NW",
+     "Ste 301",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067065220",
+   "display_phone": "(206) 706-5220",
+   "distance": 7989.893546922581
+  },
+  {
+   "id": "5892zb0TNOSnf5HIf_00_w",
+   "alias": "gene-juarez-salon-and-spa-bellevue-3",
+   "name": "Gene Juarez Salon \u0026 Spa",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wAumyRlR5GmZ_8EVw_t7bg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gene-juarez-salon-and-spa-bellevue-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 399,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.19324,
+    "Latitude": 47.61615
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "700 110th Ave NE",
+    "address2": "Ste 290",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98004",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "700 110th Ave NE",
+     "Ste 290",
+     "Bellevue, WA 98004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254555511",
+   "display_phone": "(425) 455-5511",
+   "distance": 10499.015038378748
+  },
+  {
+   "id": "5L5ysUB1CylzavPQMIvoRQ",
+   "alias": "foxycut-salon-seattle",
+   "name": "Foxycut Salon",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tatv7KPP1rwjqnQhHcuBmw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/foxycut-salon-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 373,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.3111884,
+    "Latitude": 47.5956113
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "808 Rainier Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98144",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "808 Rainier Ave S",
+     "Seattle, WA 98144"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063813699",
+   "display_phone": "(206) 381-3699",
+   "distance": 1960.7670509639045
+  },
+  {
+   "id": "NlZj4ly78BXDpaZ_TwD2hA",
+   "alias": "bella-nails-and-spa-seattle",
+   "name": "Bella Nails and Spa",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oCHMdXmjKGwyFqt4vABoCg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bella-nails-and-spa-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 358,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.38336,
+    "Latitude": 47.66847
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2019 NW Market St",
+    "address2": "Ste B",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2019 NW Market St",
+     "Ste B",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067831260",
+   "display_phone": "(206) 783-1260",
+   "distance": 7917.148821196772
+  },
+  {
+   "id": "RrLxNLA6Fj_xLAA2nT4Fpw",
+   "alias": "industry-salon-seattle",
+   "name": "Industry Salon",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uAj1yf9DO-DCQRgPoD4I7Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/industry-salon-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 327,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.322,
+    "Latitude": 47.62094
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "801 E Thomas St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98102",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "801 E Thomas St",
+     "Seattle, WA 98102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065880570",
+   "display_phone": "(206) 588-0570",
+   "distance": 1806.9526275439569
+  },
+  {
+   "id": "alnUjQudDUZS-WpdyY6vqw",
+   "alias": "rudys-barbershop-seattle",
+   "name": "Rudy's Barbershop",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6Evx_LCTd8yXFcExcydzEA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rudys-barbershop-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 316,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "barbers",
+     "title": "Barbers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.32374,
+    "Latitude": 47.61538
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "614 E Pine St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "614 E Pine St",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063293008",
+   "display_phone": "(206) 329-3008",
+   "distance": 1195.3095364561123
+  },
+  {
+   "id": "WqckY6WJNh5JORM-AULVxg",
+   "alias": "trievas-spa-and-boutique-lynnwood",
+   "name": "Trieva's Spa \u0026 Boutique",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2JcA8RvduvuT2jzSZXwYIA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/trievas-spa-and-boutique-lynnwood?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 297,
+   "categories": [
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.2920829,
+    "Latitude": 47.8220656
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "19505 44th Ave W",
+    "address2": "Ste A",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98036",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "19505 44th Ave W",
+     "Ste A",
+     "Lynnwood, WA 98036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063753100",
+   "display_phone": "(206) 375-3100",
+   "distance": 24189.123674509363
+  },
+  {
+   "id": "61Z9lwHYMwl-qCUjAAbkPA",
+   "alias": "vann-studio-seattle",
+   "name": "Vann Studio",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/55DCtMgJ-cZ77Wur1pX4LA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vann-studio-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 297,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "makeupartists",
+     "title": "Makeup Artists"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3433653,
+    "Latitude": 47.611876
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2030 1st Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2030 1st Ave",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064415511",
+   "display_phone": "(206) 441-5511",
+   "distance": 1054.2978420759207
+  },
+  {
+   "id": "uXLTS-aCWQx2cRXlXcYdbw",
+   "alias": "antonio-salon-seattle",
+   "name": "Antonio Salon",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NKn-u1UirMVNgW470b0mVA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/antonio-salon-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 295,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3420728,
+    "Latitude": 47.6113956
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "113 Virginia St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "113 Virginia St",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067357566",
+   "display_phone": "(206) 735-7566",
+   "distance": 944.8314109130749
+  },
+  {
+   "id": "eBvxk4YpKqCdFqLk1uHC6w",
+   "alias": "chromatique-salon-bellevue",
+   "name": "Chromatique Salon",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/__bWPHUMhyN7XsryGIQwiw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chromatique-salon-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 294,
+   "categories": [
+    {
+     "alias": "hair_extensions",
+     "title": "Hair Extensions"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.170237031252,
+    "Latitude": 47.6279959164123
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "12727 Northup Way",
+    "address2": "Ste 5",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98005",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "12727 Northup Way",
+     "Ste 5",
+     "Bellevue, WA 98005"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064097498",
+   "display_phone": "(206) 409-7498",
+   "distance": 12372.045566357348
+  },
+  {
+   "id": "GpAJe04uCg6m1JxZP9Ljxw",
+   "alias": "sports-hair-salon-seattle",
+   "name": "Sports Hair Salon",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eDv8riHaCOgIy0MRNHyuFA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sports-hair-salon-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 268,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3229027,
+    "Latitude": 47.6116477
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1103 Boylston Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1103 Boylston Ave",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063231761",
+   "display_phone": "(206) 323-1761",
+   "distance": 917.7860258516016
+  },
+  {
+   "id": "HvHTnSEQ1Nr-TjLnHqQePQ",
+   "alias": "elle-marie-hair-studio-lynnwood",
+   "name": "Elle Marie Hair Studio - Alderwood",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2uD4nsoCq52s4lQaSG70BQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/elle-marie-hair-studio-lynnwood?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 264,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.27034,
+    "Latitude": 47.832705
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2701 184th St SW",
+    "address2": "Ste A101",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98037",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2701 184th St SW",
+     "Ste A101",
+     "Lynnwood, WA 98037"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256406555",
+   "display_phone": "(425) 640-6555",
+   "distance": 25606.42390161075
+  },
+  {
+   "id": "JUIuLkm2ugSqBTGVooLbfw",
+   "alias": "gene-juarez-salon-and-spa-lynnwood-2",
+   "name": "Gene Juarez Salon \u0026 Spa",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0M0Avw4QJ4yE3SJUOKH39w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gene-juarez-salon-and-spa-lynnwood-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 259,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.2725703,
+    "Latitude": 47.829906
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "3000 184th St SW",
+    "address2": "Ste 932",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98037",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "3000 184th St SW",
+     "Ste 932",
+     "Lynnwood, WA 98037"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14257446000",
+   "display_phone": "(425) 744-6000",
+   "distance": 25270.44621979664
+  },
+  {
+   "id": "N9kPsl12ZWpgATok6smm9A",
+   "alias": "bowie-salon-and-spa-seattle",
+   "name": "Bowie Salon and Spa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OcQpaHl4RP2X1CnNCHOhTw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bowie-salon-and-spa-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 252,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "eyebrowservices",
+     "title": "Eyebrow Services"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.32478,
+    "Latitude": 47.61438
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "1507 Belmont Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1507 Belmont Ave",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065683300",
+   "display_phone": "(206) 568-3300",
+   "distance": 1060.605915092991
+  },
+  {
+   "id": "jFIxui3XL27NvIiDMxPfIg",
+   "alias": "gary-manuel-studio-seattle",
+   "name": "Gary Manuel Studio",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nI6R_ezeL6wNAShR7cbxgA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gary-manuel-studio-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 251,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3380928,
+    "Latitude": 47.6214782
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "390 Westlake Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "390 Westlake Ave N",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067289933",
+   "display_phone": "(206) 728-9933",
+   "distance": 1757.2441940581577
+  },
+  {
+   "id": "kuXkl85gOhfodAPUGsBIaA",
+   "alias": "stan-parente-salons-bellevue-8",
+   "name": "Stan Parente Salons",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dDqLUNfS5oDKzJMqPF2_ig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/stan-parente-salons-bellevue-8?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 250,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.16364,
+    "Latitude": 47.62854
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "13238 NE 20th St",
+    "address2": "Ste 300",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98005",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "13238 NE 20th St",
+     "Ste 300",
+     "Bellevue, WA 98005"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254559135",
+   "display_phone": "(425) 455-9135",
+   "distance": 12869.465462436081
+  },
+  {
+   "id": "5BmD22-QwTeVe2tjRtv3Ww",
+   "alias": "moda-organic-salon-and-spa-renton-2",
+   "name": "Moda Organic Salon and Spa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VNDxdnGuBqlX_jJgghYNkQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/moda-organic-salon-and-spa-renton-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 249,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "eyelashservice",
+     "title": "Eyelash Service"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.1471254,
+    "Latitude": 47.4879877
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5335 NE 4th St",
+    "address2": "Ste 2",
+    "address3": "",
+    "city": "Renton",
+    "zip_code": "98059",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5335 NE 4th St",
+     "Ste 2",
+     "Renton, WA 98059"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252286222",
+   "display_phone": "(425) 228-6222",
+   "distance": 19118.671355848554
+  },
+  {
+   "id": "UAqHNgwxYr2g5nb7RMTM6Q",
+   "alias": "red-chair-salon-seattle-5",
+   "name": "Red Chair Salon",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BE8Umnc2d3e32hvIKrSrsg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/red-chair-salon-seattle-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 245,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.31243,
+    "Latitude": 47.62135
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "324 15th Ave E",
+    "address2": "Ste 104",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98112",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "324 15th Ave E",
+     "Ste 104",
+     "Seattle, WA 98112"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12069222427",
+   "display_phone": "(206) 922-2427",
+   "distance": 2237.3949208747185
+  },
+  {
+   "id": "pKhRrwtFw0HNxOAnhhpbmA",
+   "alias": "robert-leonard-seattle-2",
+   "name": "Robert Leonard",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rN-DnTSgSyNO6AVTHJCoJQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/robert-leonard-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 243,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.339414,
+    "Latitude": 47.614678
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2033 6th Ave",
+    "address2": "Ste 151",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2033 6th Ave",
+     "Ste 151",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064419900",
+   "display_phone": "(206) 441-9900",
+   "distance": 1090.559148461678
+  },
+  {
+   "id": "SBkrMI1KSKNagjRgxghGhw",
+   "alias": "vain-seattle-5",
+   "name": "VAIN",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1ITyNyva4hhzAyf5kAs5fA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vain-seattle-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 239,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.38488,
+    "Latitude": 47.66747
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5401 Ballard Ave NW",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5401 Ballard Ave NW",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067062707",
+   "display_phone": "(206) 706-2707",
+   "distance": 7880.878252426527
+  },
+  {
+   "id": "ByQl3aNko5zwUsagEtIT9w",
+   "alias": "fringe-hair-salon-seattle",
+   "name": "Fringe Hair Salon",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Jkqt8QGAW-dLxSC0TVZi2g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fringe-hair-salon-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 232,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3242992,
+    "Latitude": 47.6800676
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "402 NE 71st",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98115",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "402 NE 71st",
+     "Seattle, WA 98115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063645500",
+   "display_phone": "(206) 364-5500",
+   "distance": 8234.457809618918
+  },
+  {
+   "id": "BttUIar9d2pKFIA-y_Y9bA",
+   "alias": "willow-salon-and-spa-tacoma",
+   "name": "Willow Salon and Spa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/P7GgUuGYsiKm6hGZ71rVlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/willow-salon-and-spa-tacoma?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 232,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "hairremoval",
+     "title": "Hair Removal"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4719051,
+    "Latitude": 47.2674773
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2702 N 21st St",
+    "address2": "",
+    "address3": "",
+    "city": "Tacoma",
+    "zip_code": "98406",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2702 N 21st St",
+     "Tacoma, WA 98406"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12537592000",
+   "display_phone": "(253) 759-2000",
+   "distance": 39104.44675361248
+  },
+  {
+   "id": "v5FdjtpzDtvyidDHuQ6ylQ",
+   "alias": "rudys-barbershop-seattle-4",
+   "name": "Rudy's Barbershop",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SEJoKywLPcHj2k2EPt1Gmg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rudys-barbershop-seattle-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 231,
+   "categories": [
+    {
+     "alias": "barbers",
+     "title": "Barbers"
+    },
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.383125,
+    "Latitude": 47.665981
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5229 Ballard Ave NW",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5229 Ballard Ave NW",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067838500",
+   "display_phone": "(206) 783-8500",
+   "distance": 7669.909500350399
+  },
+  {
+   "id": "ApxflOCA6Q2LqWnek2o43g",
+   "alias": "bocz-salon-seattle",
+   "name": "Bocz Salon",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yi7lPr2RfoKjtiw6CCLC6w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bocz-salon-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 230,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3353613,
+    "Latitude": 47.6116833
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1511 6th Ave",
+    "address2": "Ste 200",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1511 6th Ave",
+     "Ste 200",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066249134",
+   "display_phone": "(206) 624-9134",
+   "distance": 656.9060837143244
+  },
+  {
+   "id": "wD1Cz7x3-InZHW7XtRPO_Q",
+   "alias": "haircomb-federal-way-2",
+   "name": "Haircomb",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/n5wNuf-7sRZu8dBOCO0OIQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/haircomb-federal-way-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 228,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.31274,
+    "Latitude": 47.32105
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "31248 Pacific Hwy S",
+    "address2": "",
+    "address3": "",
+    "city": "Federal Way",
+    "zip_code": "98003",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "31248 Pacific Hwy S",
+     "Federal Way, WA 98003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12539459333",
+   "display_phone": "(253) 945-9333",
+   "distance": 31736.462317167247
+  },
+  {
+   "id": "gSQDHusnv3NfoGzNJ249Eg",
+   "alias": "blossom-hair-salon-kent",
+   "name": "Blossom Hair Salon",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZWFclsHHOzpSI7H03aGelg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blossom-hair-salon-kent?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 226,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.20402,
+    "Latitude": 47.37322
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "10216 SE 256th St",
+    "address2": "Ste 102A",
+    "address3": "",
+    "city": "Kent",
+    "zip_code": "98030",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "10216 SE 256th St",
+     "Ste 102A",
+     "Kent, WA 98030"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12533043456",
+   "display_phone": "(253) 304-3456",
+   "distance": 27638.48089502235
+  },
+  {
+   "id": "JFRGVuvnGnhvMqmqQXElGQ",
+   "alias": "brag-hair-salon-renton",
+   "name": "Brag Hair Salon",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hPPuOEli4emml_BbobFeAw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brag-hair-salon-renton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 222,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.2085383,
+    "Latitude": 47.4786272
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "339 Burnett Ave S",
+    "address2": "Ste C",
+    "address3": "",
+    "city": "Renton",
+    "zip_code": "98057",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "339 Burnett Ave S",
+     "Ste C",
+     "Renton, WA 98057"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 16948.352814122572
+  },
+  {
+   "id": "vfUN2QgDGbYh7eaYs1Tr5w",
+   "alias": "bang-seattle",
+   "name": "BANG",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DF__YT4cDRHe6r6Y5N0M4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bang-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 221,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3300838,
+    "Latitude": 47.623428
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "500 Yale Ave N",
+    "address2": "",
+    "address3": "South Lake Union",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "500 Yale Ave N",
+     "South Lake Union",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12069104060",
+   "display_phone": "(206) 910-4060",
+   "distance": 1921.6162514740165
+  },
+  {
+   "id": "8_pniuUO_CXk_RrHfrtarQ",
+   "alias": "derby-salon-seattle-2",
+   "name": "Derby Salon",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jS4eDBKBGLHWv1rGtRzfhQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/derby-salon-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 219,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.31749,
+    "Latitude": 47.67461
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "6315 Roosevelt Way NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98115",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "6315 Roosevelt Way NE",
+     "Seattle, WA 98115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065261470",
+   "display_phone": "(206) 526-1470",
+   "distance": 7683.465851497529
+  },
+  {
+   "id": "-0owimCz7j8sadxE_tkD3A",
+   "alias": "gene-juarez-salon-and-spa-tukwila-2",
+   "name": "Gene Juarez Salon \u0026 Spa",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/l9mFW6GXDRzkVyEYnz1uSA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gene-juarez-salon-and-spa-tukwila-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 216,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.25975,
+    "Latitude": 47.459222
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "280 Southcenter Mall",
+    "address2": "",
+    "address3": "",
+    "city": "Tukwila",
+    "zip_code": "98188",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "280 Southcenter Mall",
+     "Tukwila, WA 98188"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064318888",
+   "display_phone": "(206) 431-8888",
+   "distance": 17222.16949709802
+  },
+  {
+   "id": "-BcPGRrMHt59XWVws3uODA",
+   "alias": "gene-juarez-salon-and-spa-redmond-2",
+   "name": "Gene Juarez Salon \u0026 Spa",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JEABTmN2Vi8t3Ai3_aNY_w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gene-juarez-salon-and-spa-redmond-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 215,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.12053738487795,
+    "Latitude": 47.669794954894435
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "7330 164th Ave Ne",
+    "address2": "Ste E155",
+    "address3": "",
+    "city": "Redmond",
+    "zip_code": "98052",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "7330 164th Ave Ne",
+     "Ste E155",
+     "Redmond, WA 98052"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258829000",
+   "display_phone": "(425) 882-9000",
+   "distance": 17357.00904919021
+  },
+  {
+   "id": "CyHQCcU0SMW6EsWzF6SdXA",
+   "alias": "swink-style-bar-seattle",
+   "name": "Swink Style Bar",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Z8YS4SO0mwsGyggexJNO3Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/swink-style-bar-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 211,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "eyelashservice",
+     "title": "Eyelash Service"
+    },
+    {
+     "alias": "makeupartists",
+     "title": "Makeup Artists"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.3365,
+    "Latitude": 47.6138199
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "611 Stewart St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "611 Stewart St",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066827070",
+   "display_phone": "(206) 682-7070",
+   "distance": 902.8993327351044
+  },
+  {
+   "id": "bJwFQg-xuk6nBY1xrrmlJA",
+   "alias": "lotte-hair-salon-bellevue-2",
+   "name": "Lotte Hair Salon",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rB3Znr0KkXWQ56bUp_VLwg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lotte-hair-salon-bellevue-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 211,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.168942541081,
+    "Latitude": 47.5763673570737
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "12816 SE 38th St",
+    "address2": "Ste E",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98006",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "12816 SE 38th St",
+     "Ste E",
+     "Bellevue, WA 98006"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14255624768",
+   "display_phone": "(425) 562-4768",
+   "distance": 12677.112894742435
+  },
+  {
+   "id": "SuC8ep9oy0fM9bvthPct_A",
+   "alias": "the-salon-at-mill-creek-town-center-mill-creek",
+   "name": "The Salon at Mill Creek Town Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/khxPi8t_P-tYSrNulagg4w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-salon-at-mill-creek-town-center-mill-creek?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 209,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "permanentmakeup",
+     "title": "Permanent Makeup"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.22025,
+    "Latitude": 47.861197
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "15111 Main St",
+    "address2": "Ste 209",
+    "address3": "",
+    "city": "Mill Creek",
+    "zip_code": "98012",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15111 Main St",
+     "Ste 209",
+     "Mill Creek, WA 98012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258763993",
+   "display_phone": "(425) 876-3993",
+   "distance": 29562.48150869703
+  }
+ ],
+ "total": 2100,
+ "region": {
+  "center": {
+   "longitude": -122.3321,
+   "Latitude": 47.6062
+  }
+ }
+}

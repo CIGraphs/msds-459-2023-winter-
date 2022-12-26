@@ -1,0 +1,1793 @@
+{
+ "businesses": [
+  {
+   "id": "EWg7h_RCRQICv1TDnagNBg",
+   "alias": "swedish-medical-center-seattle-20",
+   "name": "Swedish Medical Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CR8vUBU0ETYullrzp3cFxg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/swedish-medical-center-seattle-20?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 283,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.32148380554318,
+    "Latitude": 47.60848219063351
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "747 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "747 Broadway",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063866000",
+   "display_phone": "(206) 386-6000",
+   "distance": 835.3571843281904
+  },
+  {
+   "id": "quScZfdU--jFqFjOl1KBOA",
+   "alias": "virginia-mason-seattle-6",
+   "name": "Virginia Mason",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FqlXa2a0aokfeUtBI_5qEQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/virginia-mason-seattle-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 249,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.3281092,
+    "Latitude": 47.6094754
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1100 9th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1100 9th Ave",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062236600",
+   "display_phone": "(206) 223-6600",
+   "distance": 471.33467264892585
+  },
+  {
+   "id": "9s4FPPLuvd1c9pKr5QXnGQ",
+   "alias": "overlake-medical-center-bellevue",
+   "name": "Overlake Medical Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-Pu3WrqYRRWUp_j6imBubw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/overlake-medical-center-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 245,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.18686,
+    "Latitude": 47.621342
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1135 116th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98004",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1135 116th Ave NE",
+     "Bellevue, WA 98004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256885000",
+   "display_phone": "(425) 688-5000",
+   "distance": 11016.495817281451
+  },
+  {
+   "id": "k56xsRYDD71cdSIy78mi1w",
+   "alias": "the-polyclinic-madison-center-seattle-3",
+   "name": "The Polyclinic - Madison Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1sXmBBcBO_L6aZt0-1CApw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-polyclinic-madison-center-seattle-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 214,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.32893365767171,
+    "Latitude": 47.607538018043435
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "904 7th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "904 7th Ave",
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063291760",
+   "display_phone": "(206) 329-1760",
+   "distance": 280.14975279326393
+  },
+  {
+   "id": "vgPYDxSv9BIGvViKxu1SHQ",
+   "alias": "evergreenhealth-kirkland-8",
+   "name": "EvergreenHealth",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/L-2ROJvZ56Z7JdaRm-G1IA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/evergreenhealth-kirkland-8?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 211,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.17955930002111,
+    "Latitude": 47.715639093074905
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "12040 NE 128th St",
+    "address2": "",
+    "address3": "",
+    "city": "Kirkland",
+    "zip_code": "98034",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "12040 NE 128th St",
+     "Kirkland, WA 98034"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258991000",
+   "display_phone": "(425) 899-1000",
+   "distance": 16691.130312848836
+  },
+  {
+   "id": "LbOyaFD0tOmgHGxmyENQmA",
+   "alias": "uw-medical-center-montlake-seattle-9",
+   "name": "UW Medical Center – Montlake",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/r1MjKxJGsfOBK-LvVmZ6Ew/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/uw-medical-center-montlake-seattle-9?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 202,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.30823563496998,
+    "Latitude": 47.64987807240901
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1959 NE Pacific St",
+    "address2": "Fl 3",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98195",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1959 NE Pacific St",
+     "Fl 3",
+     "Seattle, WA 98195"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065983300",
+   "display_phone": "(206) 598-3300",
+   "distance": 5175.568517029624
+  },
+  {
+   "id": "tx4hoQThlR-rp-DII4mSPA",
+   "alias": "kaiser-permanente-capitol-hill-campus-seattle",
+   "name": "Kaiser Permanente Capitol Hill Campus",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RH4d-Q3O4Tkw0jMZLalX9A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kaiser-permanente-capitol-hill-campus-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 195,
+   "categories": [
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    },
+    {
+     "alias": "diagnosticservices",
+     "title": "Diagnostic Services"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.312424021466,
+    "Latitude": 47.6202077145773
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "201 16th Ave E",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98112",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "201 16th Ave E",
+     "Seattle, WA 98112"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063263000",
+   "display_phone": "(206) 326-3000",
+   "distance": 2145.095445631452
+  },
+  {
+   "id": "BzqsKPMfiA6gQ1k2xW82pw",
+   "alias": "uw-medicine-valley-medical-center-renton",
+   "name": "UW Medicine Valley Medical Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FMd5cTl1BNwB3eEmJY6dMg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/uw-medicine-valley-medical-center-renton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 186,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "emergencyrooms",
+     "title": "Emergency Rooms"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.165374,
+    "Latitude": 47.487829
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "400 S 43rd St",
+    "address2": "",
+    "address3": "",
+    "city": "Renton",
+    "zip_code": "98055",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "400 S 43rd St",
+     "Renton, WA 98055"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252283450",
+   "display_phone": "(425) 228-3450",
+   "distance": 18161.338039808754
+  },
+  {
+   "id": "N0ZSAOoKj1l0Z5-qt8UMxg",
+   "alias": "kaiser-permanente-bellevue-medical-center-bellevue",
+   "name": "Kaiser Permanente Bellevue Medical Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GKocn7pUvENawpk-kcVgsw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kaiser-permanente-bellevue-medical-center-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 144,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    },
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.18657218621,
+    "Latitude": 47.61853789346
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11511 NE 10th St",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98004",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "11511 NE 10th St",
+     "Bellevue, WA 98004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14255023000",
+   "display_phone": "(425) 502-3000",
+   "distance": 10994.864252839761
+  },
+  {
+   "id": "2Zk_tFqs9fnL4vA3IhWamg",
+   "alias": "st-joseph-medical-center-tacoma-3",
+   "name": "St. Joseph Medical Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DKMBMoXXh-H2wUlDTvuYJA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/st-joseph-medical-center-tacoma-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 142,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.447579,
+    "Latitude": 47.245311
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1717 S J St",
+    "address2": "",
+    "address3": "",
+    "city": "Tacoma",
+    "zip_code": "98405",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1717 S J St",
+     "Tacoma, WA 98405"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12534264101",
+   "display_phone": "(253) 426-4101",
+   "distance": 41058.5309368947
+  },
+  {
+   "id": "UmrItq4JbSnj23aim5xryA",
+   "alias": "the-everett-clinic-everett-4",
+   "name": "The Everett Clinic",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P5jKuwh2u4a3FYHvgwiv8g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-everett-clinic-everett-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 124,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "allergist",
+     "title": "Allergists"
+    },
+    {
+     "alias": "endocrinologists",
+     "title": "Endocrinologists"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.210403442383,
+    "Latitude": 47.9648628234863
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3927 Rucker Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Everett",
+    "zip_code": "98201",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "3927 Rucker Ave",
+     "Everett, WA 98201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252590966",
+   "display_phone": "(425) 259-0966",
+   "distance": 40907.747973259255
+  },
+  {
+   "id": "EgjtUWyw7rJH2JW3eaj_0A",
+   "alias": "swedish-issaquah-campus-issaquah-2",
+   "name": "Swedish Issaquah Campus",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bqUYyfw6NueyChWs8ZHBQA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/swedish-issaquah-campus-issaquah-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 119,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.02150629420832,
+    "Latitude": 47.535863840988625
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "751 NE Blakely Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Issaquah",
+    "zip_code": "98029",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "751 NE Blakely Dr",
+     "Issaquah, WA 98029"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14253134000",
+   "display_phone": "(425) 313-4000",
+   "distance": 24578.403080038683
+  },
+  {
+   "id": "vljXRvul5y1t35mRwxWFgQ",
+   "alias": "virginia-mason-edmonds-medical-center-edmonds",
+   "name": "Virginia Mason Edmonds Medical Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NegQK3rqGZuczVOH3o9d_A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/virginia-mason-edmonds-medical-center-edmonds?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 117,
+   "categories": [
+    {
+     "alias": "familydr",
+     "title": "Family Practice"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.332045,
+    "Latitude": 47.807431
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7315 212th St SW",
+    "address2": "Ste 101-207",
+    "address3": "",
+    "city": "Edmonds",
+    "zip_code": "98026",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "7315 212th St SW",
+     "Ste 101-207",
+     "Edmonds, WA 98026"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14257759474",
+   "display_phone": "(425) 775-9474",
+   "distance": 22375.841844985218
+  },
+  {
+   "id": "zFUrLEhIG0tRyCm1uxWZPA",
+   "alias": "overlake-clinics-issaquah-urgent-care-issaquah",
+   "name": "Overlake Clinics - Issaquah Urgent Care",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3UjqqYZfjH3ARGmRjRGnGQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/overlake-clinics-issaquah-urgent-care-issaquah?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 107,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.04069,
+    "Latitude": 47.55096
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5708 E Lake Sammamish Pkwy SE",
+    "address2": "",
+    "address3": "",
+    "city": "Issaquah",
+    "zip_code": "98029",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5708 E Lake Sammamish Pkwy SE",
+     "Issaquah, WA 98029"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256885777",
+   "display_phone": "(425) 688-5777",
+   "distance": 22686.432354741657
+  },
+  {
+   "id": "j3GwzGEUbIEHGwuxAaZjfA",
+   "alias": "swedish-cherry-hill-seattle-2",
+   "name": "Swedish Cherry Hill",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZgSGMXU9GUPN7735jcQmRA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/swedish-cherry-hill-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 96,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.31047893079318,
+    "Latitude": 47.60714647966333
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "500 17th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "500 17th Ave",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063202000",
+   "display_phone": "(206) 320-2000",
+   "distance": 1624.3307131923152
+  },
+  {
+   "id": "q0QjMdeYjZ2cYqgpBcU5tw",
+   "alias": "the-polyclinic-downtown-seattle-3",
+   "name": "The Polyclinic Downtown",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/y1KPN68vJnv0Z5VnTf1HiA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-polyclinic-downtown-seattle-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 95,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.3366129,
+    "Latitude": 47.6127061
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "509 Olive Way",
+    "address2": "Ste 200 \u0026 900",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "509 Olive Way",
+     "Ste 200 \u0026 900",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063291760",
+   "display_phone": "(206) 329-1760",
+   "distance": 798.6403742998577
+  },
+  {
+   "id": "UKLJpY_7AFizSyxwNCKavw",
+   "alias": "country-doctor-community-clinic-seattle",
+   "name": "Country Doctor Community Clinic",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YOG_UvWxEGBdq_vw-OiCFA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/country-doctor-community-clinic-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 94,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.306999206543,
+    "Latitude": 47.623420715332
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "500 19th Ave E",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98112",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "500 19th Ave E",
+     "Seattle, WA 98112"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062991600",
+   "display_phone": "(206) 299-1600",
+   "distance": 2677.8581950796324
+  },
+  {
+   "id": "Qax9n0rmRhz7phaYVHb4zw",
+   "alias": "the-everett-clinic-mill-creek-2",
+   "name": "The Everett Clinic",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/84DurL0BjtW3cKLIq4eVdw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-everett-clinic-mill-creek-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 92,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.22096,
+    "Latitude": 47.85738
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15418 Main St",
+    "address2": "Unit M200",
+    "address3": "",
+    "city": "Mill Creek",
+    "zip_code": "98012",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15418 Main St",
+     "Unit M200",
+     "Mill Creek, WA 98012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252258000",
+   "display_phone": "(425) 225-8000",
+   "distance": 29180.250175051347
+  },
+  {
+   "id": "B0QV7l6SIQ8msY7Nx_l_qA",
+   "alias": "kaiser-permanente-tacoma-medical-center-tacoma",
+   "name": "Kaiser Permanente Tacoma Medical Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/o3f2CrQpK8El3j3gKpwkpQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kaiser-permanente-tacoma-medical-center-tacoma?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 82,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "pharmacy",
+     "title": "Pharmacy"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.452813,
+    "Latitude": 47.260695
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "209 Martin Luther King Jr Way",
+    "address2": "",
+    "address3": "Tacoma Medical Center",
+    "city": "Tacoma",
+    "zip_code": "98405",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "209 Martin Luther King Jr Way",
+     "Tacoma Medical Center",
+     "Tacoma, WA 98405"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12535963300",
+   "display_phone": "(253) 596-3300",
+   "distance": 39469.177393440375
+  },
+  {
+   "id": "uynLXzW3iolep1bSvFvwTw",
+   "alias": "uw-medical-center-roosevelt-seattle-2",
+   "name": "UW Medical Center - Roosevelt",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FG039PEPgXMkJ0gYZelV-Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/uw-medical-center-roosevelt-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 80,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.318316,
+    "Latitude": 47.658242
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4225 Roosevelt Way NE",
+    "address2": "Fl 4",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98105",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4225 Roosevelt Way NE",
+     "Fl 4",
+     "Seattle, WA 98105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065985500",
+   "display_phone": "(206) 598-5500",
+   "distance": 5872.832973172605
+  },
+  {
+   "id": "ArlqFGEEj2Y7ZZS6qD11JQ",
+   "alias": "multicare-indigo-urgent-care-kirkland",
+   "name": "MultiCare Indigo Urgent Care",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/v2e1_Hnr-KPHMuGxjMnduA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/multicare-indigo-urgent-care-kirkland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 75,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.1791017,
+    "Latitude": 47.709894
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "12423 Totem Lake Blvd NE",
+    "address2": "",
+    "address3": "",
+    "city": "Kirkland",
+    "zip_code": "98034",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "12423 Totem Lake Blvd NE",
+     "Kirkland, WA 98034"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254065458",
+   "display_phone": "(425) 406-5458",
+   "distance": 16255.854119702197
+  },
+  {
+   "id": "49fPgb9gBmdE6ZwBmOH0qQ",
+   "alias": "multicare-auburn-medical-center-auburn-2",
+   "name": "MultiCare Auburn Medical Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tNLB8GSznELtwYHKtS4sVw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/multicare-auburn-medical-center-auburn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 75,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.22921102019099,
+    "Latitude": 47.30876967121101
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "202 N Division St",
+    "address2": "",
+    "address3": "",
+    "city": "Auburn",
+    "zip_code": "98001",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "202 N Division St",
+     "Auburn, WA 98001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12538337711",
+   "display_phone": "(253) 833-7711",
+   "distance": 33965.29414709914
+  },
+  {
+   "id": "TOWDd-SDQq3_d9BffjbSXg",
+   "alias": "multicare-indigo-urgent-care-covington",
+   "name": "MultiCare Indigo Urgent Care",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jwGPiadYODCWdQonRv_rKQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/multicare-indigo-urgent-care-covington?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.11891,
+    "Latitude": 47.35861
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "27111 167th Pl SE",
+    "address2": "Ste 101",
+    "address3": "",
+    "city": "Covington",
+    "zip_code": "98042",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "27111 167th Pl SE",
+     "Ste 101",
+     "Covington, WA 98042"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12533726600",
+   "display_phone": "(253) 372-6600",
+   "distance": 31842.208525952145
+  },
+  {
+   "id": "pKrqZQK1NfT6s_QphFGX-A",
+   "alias": "multicare-indigo-urgent-care-tukwila",
+   "name": "MultiCare Indigo Urgent Care",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Lq55sPlzMEw5qoxouLRMQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/multicare-indigo-urgent-care-tukwila?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 69,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.26287,
+    "Latitude": 47.44885
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17275 Southcenter Pkwy",
+    "address2": "Ste 160",
+    "address3": "",
+    "city": "Tukwila",
+    "zip_code": "98188",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17275 Southcenter Pkwy",
+     "Ste 160",
+     "Tukwila, WA 98188"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064307555",
+   "display_phone": "(206) 430-7555",
+   "distance": 18239.889069083325
+  },
+  {
+   "id": "5VZf7QUQVtizHyiHNGbspg",
+   "alias": "chi-franciscan-burien",
+   "name": "CHI Franciscan",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yv7ejkQhq4p5hlnrPYjXXA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chi-franciscan-burien?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 67,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.333942949532,
+    "Latitude": 47.4596831825938
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "16045 1st Ave SW",
+    "address2": "",
+    "address3": "",
+    "city": "Burien",
+    "zip_code": "98166",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "16045 1st Ave SW",
+     "Burien, WA 98166"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 16292.496192281104
+  },
+  {
+   "id": "r1TNiB3HkazzDcz_o-LUug",
+   "alias": "overlake-clinics-redmond-urgent-care-redmond",
+   "name": "Overlake Clinics - Redmond Urgent Care",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dKXXOmM9QGCpdncMU13L-Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/overlake-clinics-redmond-urgent-care-redmond?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 67,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.110322713852,
+    "Latitude": 47.6702787455399
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17209 Redmond Way",
+    "address2": "",
+    "address3": "",
+    "city": "Redmond",
+    "zip_code": "98052",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17209 Redmond Way",
+     "Redmond, WA 98052"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256356400",
+   "display_phone": "(425) 635-6400",
+   "distance": 18079.69496078952
+  },
+  {
+   "id": "I9mFBUmi-CW6lCZQDq5P4g",
+   "alias": "va-puget-sound-health-care-system-seattle-division-seattle-2",
+   "name": "VA Puget Sound Health Care System - Seattle Division",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cF4xXAkUAMEpch-NjaUf7A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/va-puget-sound-health-care-system-seattle-division-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 66,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.30799030243568,
+    "Latitude": 47.56296503759056
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1660 S Columbian Way",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98108",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1660 S Columbian Way",
+     "Seattle, WA 98108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067621010",
+   "display_phone": "(206) 762-1010",
+   "distance": 5136.3274968825
+  },
+  {
+   "id": "MiKFme5_T9alx7qdsd33gA",
+   "alias": "franciscan-urgent-care-west-seattle-seattle",
+   "name": "Franciscan Urgent Care - West Seattle",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9MnZB2Xph1ue7-BY_-Mrnw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/franciscan-urgent-care-west-seattle-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 65,
+   "categories": [
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    },
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.38183,
+    "Latitude": 47.55971
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4755 Fauntleroy Way SW",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98116",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4755 Fauntleroy Way SW",
+     "Seattle, WA 98116"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062010551",
+   "display_phone": "(206) 201-0551",
+   "distance": 6395.441051442543
+  },
+  {
+   "id": "DIgGMptUCTKDtRAaQV3uug",
+   "alias": "pacific-medical-centers-canyon-park-bothell-2",
+   "name": "Pacific Medical Centers - Canyon Park",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hRRzeTI1faTeP3hqMnAIrg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pacific-medical-centers-canyon-park-bothell-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 62,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "internalmed",
+     "title": "Internal Medicine"
+    },
+    {
+     "alias": "pediatricians",
+     "title": "Pediatricians"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.20679,
+    "Latitude": 47.80439
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1909 214th St SE",
+    "address2": "Ste 300",
+    "address3": "",
+    "city": "Bothell",
+    "zip_code": "98021",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1909 214th St SE",
+     "Ste 300",
+     "Bothell, WA 98021"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254127200",
+   "display_phone": "(425) 412-7200",
+   "distance": 23956.513132257907
+  },
+  {
+   "id": "ZRYATukZH_J85VeTAd25nQ",
+   "alias": "kaiser-permanente-northgate-medical-center-seattle",
+   "name": "Kaiser Permanente Northgate Medical Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5lLioCqBpxrJ9kOYlf484Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kaiser-permanente-northgate-medical-center-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 60,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "physicians",
+     "title": "Doctors"
+    },
+    {
+     "alias": "diagnosticservices",
+     "title": "Diagnostic Services"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.32378,
+    "Latitude": 47.70086
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9800 4th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98115",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "9800 4th Ave NE",
+     "Seattle, WA 98115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063021200",
+   "display_phone": "(206) 302-1200",
+   "distance": 10534.804552613805
+  },
+  {
+   "id": "0utr-TlJLEgPzp-n-_BHDg",
+   "alias": "multicare-indigo-urgent-care-seattle",
+   "name": "MultiCare Indigo Urgent Care",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HKuESTn-AKwbNWuxNZa8Qg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/multicare-indigo-urgent-care-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 60,
+   "categories": [
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    },
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.3277,
+    "Latitude": 47.6616
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "118 NE 45th St",
+    "address2": "Ste A",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98105",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "118 NE 45th St",
+     "Ste A",
+     "Seattle, WA 98105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064307570",
+   "display_phone": "(206) 430-7570",
+   "distance": 6163.079264037962
+  },
+  {
+   "id": "pQMJ4drlg263bm1ifOcM6g",
+   "alias": "pacific-medical-centers-northgate-seattle",
+   "name": "Pacific Medical Centers - Northgate",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lvwUkz4HEn9rlh9_P1hoyw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pacific-medical-centers-northgate-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 56,
+   "categories": [
+    {
+     "alias": "internalmed",
+     "title": "Internal Medicine"
+    },
+    {
+     "alias": "familydr",
+     "title": "Family Practice"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.3227,
+    "Latitude": 47.70441
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10416 5th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98125",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "10416 5th Ave NE",
+     "Seattle, WA 98125"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065176700",
+   "display_phone": "(206) 517-6700",
+   "distance": 10935.615811171458
+  },
+  {
+   "id": "nXYtZE7XSQwIZ2NJNheEGQ",
+   "alias": "afc-urgent-care-southcenter-kent-2",
+   "name": "AFC Urgent Care Southcenter",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MT7VAKcTACE3ExitpQvZEQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/afc-urgent-care-southcenter-kent-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 55,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    },
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "familydr",
+     "title": "Family Practice"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.244720964279,
+    "Latitude": 47.4408720246602
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "18012 68th Ave S",
+    "address2": "Ste 101",
+    "address3": "",
+    "city": "Kent",
+    "zip_code": "98032",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "18012 68th Ave S",
+     "Ste 101",
+     "Kent, WA 98032"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14259708117",
+   "display_phone": "(425) 970-8117",
+   "distance": 19519.369771431946
+  },
+  {
+   "id": "WqyZzVo8WlFoD9qcgAil6Q",
+   "alias": "the-everett-clinic-shoreline",
+   "name": "The Everett Clinic",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VpuIq6lbvjNiidIaFVrwoA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-everett-clinic-shoreline?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.34338,
+    "Latitude": 47.75545
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1201 N 175th St",
+    "address2": "",
+    "address3": "",
+    "city": "Shoreline",
+    "zip_code": "98133",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1201 N 175th St",
+     "Shoreline, WA 98133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252590966",
+   "display_phone": "(425) 259-0966",
+   "distance": 16557.57768975489
+  },
+  {
+   "id": "NEXz9D1ND_p2GY1tj-7XgA",
+   "alias": "capitol-hill-medical-seattle",
+   "name": "Capitol Hill Medical",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YbR4_r4Fj1a2s_cHhJ7OGA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/capitol-hill-medical-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.32496586919166,
+    "Latitude": 47.60891348850454
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "901 Boren Ave",
+    "address2": "Ste 705",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "901 Boren Ave",
+     "Ste 705",
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067209999",
+   "display_phone": "(206) 720-9999",
+   "distance": 614.0715896005357
+  },
+  {
+   "id": "eUoqYbSxpfWgwPSfWNxmIg",
+   "alias": "the-polyclinic-broadway-seattle-2",
+   "name": "The Polyclinic Broadway",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vUDBXZgfyrc5R7ZC0z_hhA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-polyclinic-broadway-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 53,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.32145,
+    "Latitude": 47.61249
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1145 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1145 Broadway",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063291760",
+   "display_phone": "(206) 329-1760",
+   "distance": 1089.603585186456
+  },
+  {
+   "id": "-eQ_Yr9Ty07-ESyuYnSH7A",
+   "alias": "multicare-indigo-urgent-care-issaquah",
+   "name": "MultiCare Indigo Urgent Care",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cc2s-iK6Y7xNht9ReGRMzA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/multicare-indigo-urgent-care-issaquah?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 51,
+   "categories": [
+    {
+     "alias": "walkinclinics",
+     "title": "Walk-in Clinics"
+    },
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.04078,
+    "Latitude": 47.548
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6140 E Lake Sammamish Pkwy SE",
+    "address2": "Ste F",
+    "address3": "",
+    "city": "Issaquah",
+    "zip_code": "98029",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "6140 E Lake Sammamish Pkwy SE",
+     "Ste F",
+     "Issaquah, WA 98029"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256517090",
+   "display_phone": "(425) 651-7090",
+   "distance": 22790.823318793715
+  },
+  {
+   "id": "aTVPI2U6zpZ6lCj1ySKAiw",
+   "alias": "northwest-asthma-and-allergy-center-redmond",
+   "name": "Northwest Asthma \u0026 Allergy Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/E3uGuj59BHT1tJ4J0rTb6Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/northwest-asthma-and-allergy-center-redmond?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 48,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.12621307373,
+    "Latitude": 47.6770439147949
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8301 161st Ave NE",
+    "address2": "Ste 308",
+    "address3": "",
+    "city": "Redmond",
+    "zip_code": "98052",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "8301 161st Ave NE",
+     "Ste 308",
+     "Redmond, WA 98052"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258850261",
+   "display_phone": "(425) 885-0261",
+   "distance": 17320.26550537259
+  },
+  {
+   "id": "KO_8xNLG8nYod0Ozeefdmg",
+   "alias": "pacific-medical-centers-beacon-hill-seattle",
+   "name": "Pacific Medical Centers - Beacon Hill",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/a3Epxo-xrnTJQfKmzwadvA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pacific-medical-centers-beacon-hill-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 48,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    },
+    {
+     "alias": "internalmed",
+     "title": "Internal Medicine"
+    },
+    {
+     "alias": "familydr",
+     "title": "Family Practice"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.3171351,
+    "Latitude": 47.5919773
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1200 12th Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98144",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1200 12th Ave S",
+     "Seattle, WA 98144"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063262400",
+   "display_phone": "(206) 326-2400",
+   "distance": 1999.5299639563684
+  },
+  {
+   "id": "FTFk7wiCCfihN-6AXN6wsg",
+   "alias": "microsoft-living-well-health-center-redmond",
+   "name": "Microsoft Living Well Health Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/u4YpwFy8cDTWzJTnE3zXpQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/microsoft-living-well-health-center-redmond?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 48,
+   "categories": [
+    {
+     "alias": "medcenters",
+     "title": "Medical Centers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.127777,
+    "Latitude": 47.645416
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3925 159th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Redmond",
+    "zip_code": "98052",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "3925 159th Ave NE",
+     "Redmond, WA 98052"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252160550",
+   "display_phone": "(425) 216-0550",
+   "distance": 15917.32379116717
+  }
+ ],
+ "total": 372,
+ "region": {
+  "center": {
+   "longitude": -122.3321,
+   "Latitude": 47.6062
+  }
+ }
+}

@@ -1,0 +1,1784 @@
+{
+ "businesses": [
+  {
+   "id": "uG1fe1pGTqotBpWXkM8scg",
+   "alias": "animalis-paris-2",
+   "name": "Animalis",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PdwBtcgScjC7iLNwA53uNw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/animalis-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 23,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.38754,
+    "Latitude": 48.8337
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "47 rue des Pirogues de Bercy",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "47 rue des Pirogues de Bercy",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153338735",
+   "display_phone": "+33 1 53 33 87 35",
+   "distance": 3629.2863030903522
+  },
+  {
+   "id": "yRf7OdyCWOeKwpwXQksCXQ",
+   "alias": "dog-in-the-city-paris",
+   "name": "Dog in the City",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ps7A9VEDSVhmVBN8w-c8zA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dog-in-the-city-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.36419,
+    "Latitude": 48.85264
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "26 rue du Petit Musc",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "26 rue du Petit Musc",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142740711",
+   "display_phone": "+33 1 42 74 07 11",
+   "distance": 981.5373120773501
+  },
+  {
+   "id": "yWIxu17L4jrdjNG-iMbbgQ",
+   "alias": "la-tour-câline-paris-3",
+   "name": "La Tour Câline",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_A7WIAi1PYfrH72Hvt03bQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-tour-c%C3%A2line-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.28554,
+    "Latitude": 48.86537
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "129 Rue Lauriston",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75116",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "129 Rue Lauriston",
+     "75116 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145055425",
+   "display_phone": "+33 1 45 05 54 25",
+   "distance": 4972.98018455016
+  },
+  {
+   "id": "5jadez3Uf1mMpikh7iglTw",
+   "alias": "au-paradis-canin-paris",
+   "name": "Au Paradis Canin",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/y3oinGaU4AVpIWtjvet1-w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/au-paradis-canin-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3536456,
+    "Latitude": 48.848417
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "21 rue Cardinal Lemoine",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "21 rue Cardinal Lemoine",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143292559",
+   "display_phone": "+33 1 43 29 25 59",
+   "distance": 916.0338211598959
+  },
+  {
+   "id": "o0Fnux9wJWCVGAatn92OHA",
+   "alias": "lovely-dog-ermont",
+   "name": "Lovely Dog",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lovely-dog-ermont?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.2585816,
+    "Latitude": 48.9909278
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "35 rue Louis Savoie",
+    "address2": "",
+    "address3": "",
+    "city": "Ermont",
+    "zip_code": "95120",
+    "country": "FR",
+    "state": "95",
+    "display_address": [
+     "35 rue Louis Savoie",
+     "95120 Ermont",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33134136859",
+   "display_phone": "+33 1 34 13 68 59",
+   "distance": 16428.187135513574
+  },
+  {
+   "id": "IahfRm27H_Nun2qH02zAtQ",
+   "alias": "a-nonos-toilettage-boulogne-billancourt",
+   "name": "A Nonos Toilettage",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/a-nonos-toilettage-boulogne-billancourt?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.2269382,
+    "Latitude": 48.8411322
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "14 Mar de Lattre de Tassigny",
+    "address2": "",
+    "address3": "",
+    "city": "Boulogne Billancourt",
+    "zip_code": "92100",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "14 Mar de Lattre de Tassigny",
+     "92100 Boulogne Billancourt",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146046795",
+   "display_phone": "+33 1 46 04 67 95",
+   "distance": 9325.566639609651
+  },
+  {
+   "id": "OeMS2NB-RhuNnOW8-DwtaQ",
+   "alias": "les-amis-des-chats-du-val-de-marne-fontenay-sous-bois",
+   "name": "Les Amis Des Chats du Val De Marne",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6QplVevZ3JNin-8J7G-ngQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/les-amis-des-chats-du-val-de-marne-fontenay-sous-bois?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": 2.4797679,
+    "Latitude": 48.8593011
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "288 ave Victor Hugo",
+    "address2": "",
+    "address3": "",
+    "city": "Fontenay Sous Bois",
+    "zip_code": "94120",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "288 ave Victor Hugo",
+     "94120 Fontenay Sous Bois",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148777738",
+   "display_phone": "+33 1 48 77 77 38",
+   "distance": 9337.466898240633
+  },
+  {
+   "id": "igq8pNjDZvTWPmIfNxVPTg",
+   "alias": "canicrèche-paris-2",
+   "name": "Canicrèche",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_JLs6L32gCGBTvRunROgRQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/canicr%C3%A8che-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "dogwalkers",
+     "title": "Dog Walkers"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": 2.35251,
+    "Latitude": 48.86455
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "32 rue Turbigo",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "32 rue Turbigo",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142715909",
+   "display_phone": "+33 1 42 71 59 09",
+   "distance": 883.8108601428472
+  },
+  {
+   "id": "N2I4MLfo_Xzk8cHF3g8ing",
+   "alias": "dogs-store-paris",
+   "name": "Dog's Store",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hyGgmAaLWt2lcUyZ6oE2Gg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dogs-store-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.28897,
+    "Latitude": 48.86928
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "22 rue Copernic",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75116",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "22 rue Copernic",
+     "75116 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145531124",
+   "display_phone": "+33 1 45 53 11 24",
+   "distance": 4834.231192628423
+  },
+  {
+   "id": "IaUDGz1fxNWiMTk0sB_yDQ",
+   "alias": "centre-du-bien-etre-animal-paris-2",
+   "name": "Centre du Bien-Etre Animal",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-Hs0-yp4Ryh9AMRQ60P4gg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/centre-du-bien-etre-animal-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.2877675,
+    "Latitude": 48.8455233
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "77 Rue Lourmel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "77 Rue Lourmel",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145783550",
+   "display_phone": "+33 1 45 78 35 50",
+   "distance": 4872.64898656733
+  },
+  {
+   "id": "9W4uSUGNO9pL_tk4tC9GQQ",
+   "alias": "gardicanin-paris",
+   "name": "gardicanin",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/m7yBpl7PtAYrfLHG1S1Qww/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gardicanin-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "dog_parks",
+     "title": "Dog Parks"
+    },
+    {
+     "alias": "dogwalkers",
+     "title": "Dog Walkers"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.30814,
+    "Latitude": 48.870739
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17 rue du colisée",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "17 rue du colisée",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33826620705",
+   "display_phone": "+33 826 62 07 05",
+   "distance": 3591.2501018956705
+  },
+  {
+   "id": "2OjgGRAr5AsmGRP8HAgUoQ",
+   "alias": "em-garnier-maisons-laffitte",
+   "name": "EM Garnier",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/em-garnier-maisons-laffitte?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.1622499,
+    "Latitude": 48.95834
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "22 avenue Racine",
+    "address2": "",
+    "address3": "",
+    "city": "Maisons Laffitte",
+    "zip_code": "78600",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "22 avenue Racine",
+     "78600 Maisons Laffitte",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33139622724",
+   "display_phone": "+33 1 39 62 27 24",
+   "distance": 17920.756922605622
+  },
+  {
+   "id": "iXSpQtrUVzOyQjx0Ug-2bw",
+   "alias": "croc-blanc-meudon-2",
+   "name": "Croc Blanc",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/croc-blanc-meudon-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.2333615,
+    "Latitude": 48.8217587
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "66-70 route de Vaugirard",
+    "address2": "",
+    "address3": "",
+    "city": "Meudon",
+    "zip_code": "92190",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "66-70 route de Vaugirard",
+     "92190 Meudon",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33607311283",
+   "display_phone": "+33 6 07 31 12 83",
+   "distance": 9521.11682520648
+  },
+  {
+   "id": "DWT_Mb2ntkBoEhh1WAHcJA",
+   "alias": "disneyland-resort-paris-animal-care-center-chessy",
+   "name": "Disneyland Resort Paris Animal Care Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/073dwAYfyPKcSBa9yjT8uA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/disneyland-resort-paris-animal-care-center-chessy?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.794667,
+    "Latitude": 48.869419
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Disneyland",
+    "address2": "",
+    "address3": "",
+    "city": "Chessy",
+    "zip_code": "77700",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "Disneyland",
+     "77700 Chessy",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 31278.863899135296
+  },
+  {
+   "id": "gDeZzoI7jtAIJG8Emnv1wA",
+   "alias": "le-royaume-du-chien-st-cyr-l-école",
+   "name": "Le Royaume du Chien",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/X0yzJ7VgNz4bZAssLiEjZg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-royaume-du-chien-st-cyr-l-%C3%A9cole?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.0719498,
+    "Latitude": 48.8000045
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "25/27 avenue de la Division Leclerc",
+    "address2": "",
+    "address3": "",
+    "city": "St Cyr l'École",
+    "zip_code": "78210",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "25/27 avenue de la Division Leclerc",
+     "78210 St Cyr l'École",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33134604958",
+   "display_phone": "+33 1 34 60 49 58",
+   "distance": 21458.267270396635
+  },
+  {
+   "id": "0ImzyJ_Q2KjpYQfTBgjhww",
+   "alias": "c-o-poil-le-plessis-trévise",
+   "name": "C O Poil",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/c-o-poil-le-plessis-tr%C3%A9vise?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "beautysvc",
+     "title": "Beauty \u0026 Spas"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.5724803,
+    "Latitude": 48.810791
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "1 Avenue Jean Charcot",
+    "address2": "",
+    "address3": "",
+    "city": "Le Plessis Trévise",
+    "zip_code": "94420",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "1 Avenue Jean Charcot",
+     "94420 Le Plessis Trévise",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145945952",
+   "display_phone": "+33 1 45 94 59 52",
+   "distance": 16908.595068277555
+  },
+  {
+   "id": "wp-w6n4uz8GKqJ3NGmWd7g",
+   "alias": "le-château-de-poils-paris-2",
+   "name": "Le Château de Poils",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fd0zEL99NIBkP1GZoqGlAQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-ch%C3%A2teau-de-poils-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": 2.32435,
+    "Latitude": 48.83327
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "179 rue du Château",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75014",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "179 rue du Château",
+     "75014 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143209611",
+   "display_phone": "+33 1 43 20 96 11",
+   "distance": 3298.95834105769
+  },
+  {
+   "id": "T8sT8Pt2dNYRk7jOXBujNg",
+   "alias": "chats-comme-chiens-paris",
+   "name": "Chats Comme Chiens",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/m4QZmni8X87ij0i74H3p-Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chats-comme-chiens-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.2863,
+    "Latitude": 48.84751
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "72 rue Saint-Charles",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "72 rue Saint-Charles",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145770507",
+   "display_phone": "+33 1 45 77 05 07",
+   "distance": 4926.494932700748
+  },
+  {
+   "id": "NbmRgAwUnDh4o_wetfR_oQ",
+   "alias": "happy-dogs-vincennes",
+   "name": "Happy Dogs",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cm0uHMOiB7FBPwua6Faxyw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/happy-dogs-vincennes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.4557327,
+    "Latitude": 48.8493094
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "147 rue Defrance",
+    "address2": "",
+    "address3": "",
+    "city": "Vincennes",
+    "zip_code": "94300",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "147 rue Defrance",
+     "94300 Vincennes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148080874",
+   "display_phone": "+33 1 48 08 08 74",
+   "distance": 7618.275630421367
+  },
+  {
+   "id": "epNq6ms05p9BDydyq4w1kA",
+   "alias": "les-chiens-de-caroline-st-germain-en-laye",
+   "name": "Les Chiens de Caroline",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XO-riNAevBd48K-pZPfHkw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/les-chiens-de-caroline-st-germain-en-laye?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "beautysvc",
+     "title": "Beauty \u0026 Spas"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.0899837,
+    "Latitude": 48.8965689
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "9 Rue Danès de Montardat",
+    "address2": "",
+    "address3": "",
+    "city": "St Germain en Laye",
+    "zip_code": "78100",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "9 Rue Danès de Montardat",
+     "78100 St Germain en Laye",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33139734781",
+   "display_phone": "+33 1 39 73 47 81",
+   "distance": 19684.397625863163
+  },
+  {
+   "id": "P3oaLWLfwbcahXICn10HBw",
+   "alias": "calina-paris",
+   "name": "Calina",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/calina-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.3185081,
+    "Latitude": 48.8747778
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3 rue Roy",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 rue Roy",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148745504",
+   "display_phone": "+33 1 48 74 55 04",
+   "distance": 3187.3357918406873
+  },
+  {
+   "id": "Fx-p3WSgmy3ZA3n4W8Cbqg",
+   "alias": "goldenway-international-pets-and-live-animals-roissy-en-france",
+   "name": "Goldenway International Pets and Live Animals",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/goldenway-international-pets-and-live-animals-roissy-en-france?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "petservices",
+     "title": "Pet Services"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.516978,
+    "Latitude": 49.00363
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Aéroport Roissy Charles De Gaulle Cargo 4",
+    "address2": "Bat 3421J Rue de la Jeune Fille",
+    "address3": "",
+    "city": "Roissy-en-France",
+    "zip_code": "93290",
+    "country": "FR",
+    "state": "95",
+    "display_address": [
+     "Aéroport Roissy Charles De Gaulle Cargo 4",
+     "Bat 3421J Rue de la Jeune Fille",
+     "93290 Roissy-en-France",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148628725",
+   "display_phone": "+33 1 48 62 87 25",
+   "distance": 20302.441805046794
+  },
+  {
+   "id": "exJomMAraB7_kLFFIBsDYw",
+   "alias": "atout-canin-la-garenne-colombes",
+   "name": "Atout Canin",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dlgoc4McshX2vZhEoJRNaA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/atout-canin-la-garenne-colombes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "beautysvc",
+     "title": "Beauty \u0026 Spas"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.2472851,
+    "Latitude": 48.9077431
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "45 Rue Sartoris",
+    "address2": "",
+    "address3": "",
+    "city": "La Garenne Colombes",
+    "zip_code": "92250",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "45 Rue Sartoris",
+     "92250 La Garenne Colombes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147822756",
+   "display_phone": "+33 1 47 82 27 56",
+   "distance": 9549.592061293035
+  },
+  {
+   "id": "8Ruk-9vwj0omDB1U1SEUKA",
+   "alias": "animals-paris",
+   "name": "Animal'S",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/animals-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.3277067,
+    "Latitude": 48.8255422
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "45 Rue Sarrette",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75014",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "45 Rue Sarrette",
+     "75014 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145414017",
+   "display_phone": "+33 1 45 41 40 17",
+   "distance": 3890.944053221167
+  },
+  {
+   "id": "FqiskagDPK9q0dKH5WUXfA",
+   "alias": "sissi-toilettage-vincennes",
+   "name": "Sissi Toilettage",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sissi-toilettage-vincennes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.4347338,
+    "Latitude": 48.8454047
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6 rue Montreuil",
+    "address2": "",
+    "address3": "",
+    "city": "Vincennes",
+    "zip_code": "94300",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "6 rue Montreuil",
+     "94300 Vincennes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33141740060",
+   "display_phone": "+33 1 41 74 00 60",
+   "distance": 6165.834512805988
+  },
+  {
+   "id": "IpTCdeiWB0P1uAsSJAly4w",
+   "alias": "a-l-ecole-des-chiens-saint-mickael-coubron-2",
+   "name": "A L'Ecole des Chiens Saint Mickael",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MmXRfDLmo-5bP7cRnhHuKg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/a-l-ecole-des-chiens-saint-mickael-coubron-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.56352,
+    "Latitude": 48.91673
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "54 Rue Jean Baptiste Clement",
+    "address2": "",
+    "address3": "",
+    "city": "Coubron",
+    "zip_code": "93470",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "54 Rue Jean Baptiste Clement",
+     "93470 Coubron",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143302727",
+   "display_phone": "+33 1 43 30 27 27",
+   "distance": 16835.531215564028
+  },
+  {
+   "id": "KlNEwReyeCPuUlGlkdo2rg",
+   "alias": "toilettage-chiens-et-chats-paris",
+   "name": "Toilettage Chiens et Chats",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/toilettage-chiens-et-chats-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "beautysvc",
+     "title": "Beauty \u0026 Spas"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.3721943,
+    "Latitude": 48.8608833
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "73 Boulevard Richard Lenoir",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "73 Boulevard Richard Lenoir",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148058933",
+   "display_phone": "+33 1 48 05 89 33",
+   "distance": 1538.311953569456
+  },
+  {
+   "id": "5Xmz2_ZMRJDXzMz7PKYc9A",
+   "alias": "toutou-calin-saint-leu-la-forêt-2",
+   "name": "Toutou Calin",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/toutou-calin-saint-leu-la-for%C3%AAt-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.23807,
+    "Latitude": 49.01337
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15 rue Maurice Berteaux",
+    "address2": "",
+    "address3": "",
+    "city": "Saint Leu la Forêt",
+    "zip_code": "95320",
+    "country": "FR",
+    "state": "95",
+    "display_address": [
+     "15 rue Maurice Berteaux",
+     "95320 Saint Leu la Forêt",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33139954767",
+   "display_phone": "+33 1 39 95 47 67",
+   "distance": 19300.932914779518
+  },
+  {
+   "id": "sBKUAr-SzNaqnE1HD_se9Q",
+   "alias": "au-comptoir-des-quatre-pattes-paris",
+   "name": "Au Comptoir des Quatre Pattes",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Y42dmgtzCWRaw8vYEDOu1w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/au-comptoir-des-quatre-pattes-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.26815,
+    "Latitude": 48.84748
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7 rue d'Auteuil",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75016",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "7 rue d'Auteuil",
+     "75016 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145256556",
+   "display_phone": "+33 1 45 25 65 56",
+   "distance": 6228.35393002921
+  },
+  {
+   "id": "OBuv74NZ-QCvyUGfWs2wDA",
+   "alias": "doggies-et-compagnie-bois-colombes",
+   "name": "Doggies et compagnie",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_ZR443uQMCkHbfEz8J6pKw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/doggies-et-compagnie-bois-colombes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "dog_parks",
+     "title": "Dog Parks"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.2636,
+    "Latitude": 48.91186
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6 Square Cote Saint Thibault",
+    "address2": "",
+    "address3": "",
+    "city": "Bois Colombes",
+    "zip_code": "92270",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "6 Square Cote Saint Thibault",
+     "92270 Bois Colombes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143345080",
+   "display_phone": "+33 1 43 34 50 80",
+   "distance": 8928.953583756156
+  },
+  {
+   "id": "QNiCV0TBC4nBBvI-Mjz6Yg",
+   "alias": "esthetichien-draveil",
+   "name": "Esthetichien",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/esthetichien-draveil?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "beautysvc",
+     "title": "Beauty \u0026 Spas"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.4099862,
+    "Latitude": 48.6793584
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "91 Bis Bd henri Barbusse",
+    "address2": "",
+    "address3": "",
+    "city": "Draveil",
+    "zip_code": "91210",
+    "country": "FR",
+    "state": "91",
+    "display_address": [
+     "91 Bis Bd henri Barbusse",
+     "91210 Draveil",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33169037817",
+   "display_phone": "+33 1 69 03 78 17",
+   "distance": 20158.251069644786
+  },
+  {
+   "id": "-m4bGVAz8TetxqoEoVKJsg",
+   "alias": "canicoiff-92-boulogne-billancourt",
+   "name": "Canicoiff 92",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/canicoiff-92-boulogne-billancourt?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "beautysvc",
+     "title": "Beauty \u0026 Spas"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.2399319,
+    "Latitude": 48.8469841
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "11 bis Avenue Jean Baptiste Clément",
+    "address2": "",
+    "address3": "",
+    "city": "Boulogne Billancourt",
+    "zip_code": "92100",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "11 bis Avenue Jean Baptiste Clément",
+     "92100 Boulogne Billancourt",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33950537377",
+   "display_phone": "+33 9 50 53 73 77",
+   "distance": 8283.637875676686
+  },
+  {
+   "id": "pvVVG-9OjfyjIV3HdCBblA",
+   "alias": "marie-poirier-paris-2",
+   "name": "Marie Poirier",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0tWCs4GP-VFfqDCg2byvpw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/marie-poirier-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.31827,
+    "Latitude": 48.88179
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "82 Boulevard Batignolles",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "82 Boulevard Batignolles",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145222250",
+   "display_phone": "+33 1 45 22 22 50",
+   "distance": 3742.2476096762357
+  },
+  {
+   "id": "XPFeEwxRhGenRkmgJlApvg",
+   "alias": "dog-shop-malakoff",
+   "name": "Dog Shop",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dog-shop-malakoff?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.29806,
+    "Latitude": 48.81915
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "46 boulevard Gabriel Péri",
+    "address2": "",
+    "address3": "",
+    "city": "Malakoff",
+    "zip_code": "92240",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "46 boulevard Gabriel Péri",
+     "92240 Malakoff",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146572444",
+   "display_phone": "+33 1 46 57 24 44",
+   "distance": 5747.256933848059
+  },
+  {
+   "id": "A2tsPScbPMrSMUOt0z6DMA",
+   "alias": "dogs-discount-vincennes-2",
+   "name": "Dogs Discount",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dogs-discount-vincennes-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.4327,
+    "Latitude": 48.84872
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "42 Avenue République",
+    "address2": "",
+    "address3": "",
+    "city": "Vincennes",
+    "zip_code": "94300",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "42 Avenue République",
+     "94300 Vincennes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148081430",
+   "display_phone": "+33 1 48 08 14 30",
+   "distance": 5954.675336281774
+  },
+  {
+   "id": "ph8Vr4I8-rUAu8f9k0UMtg",
+   "alias": "toutou-shop-vincennes",
+   "name": "Toutou Shop",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BoMVrn-ddqAx2G9ciXRPRQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/toutou-shop-vincennes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.42929,
+    "Latitude": 48.84556
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "80 avenue de Paris",
+    "address2": "",
+    "address3": "",
+    "city": "Vincennes",
+    "zip_code": "94300",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "80 avenue de Paris",
+     "94300 Vincennes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143287631",
+   "display_phone": "+33 1 43 28 76 31",
+   "distance": 5773.303085283145
+  },
+  {
+   "id": "bVMxK9ZqaeGDu68eRrmkQg",
+   "alias": "sweety-dog-pontault-combault",
+   "name": "Sweety Dog",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sweety-dog-pontault-combault?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "beautysvc",
+     "title": "Beauty \u0026 Spas"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.6138227,
+    "Latitude": 48.8027382
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "62 Avenue Gén de Gaulle",
+    "address2": "",
+    "address3": "",
+    "city": "Pontault Combault",
+    "zip_code": "77340",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "62 Avenue Gén de Gaulle",
+     "77340 Pontault Combault",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33164438106",
+   "display_phone": "+33 1 64 43 81 06",
+   "distance": 20065.318201320348
+  },
+  {
+   "id": "2bTfYzBIjBW3I1JtRtyhDA",
+   "alias": "prima-toilettage-paris",
+   "name": "Prima Toilettage",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FZMER-GC592Nfu6e7SXfPw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/prima-toilettage-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.31624,
+    "Latitude": 48.87757
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "83 boulevard Malesherbes",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "83 boulevard Malesherbes",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145221546",
+   "display_phone": "+33 1 45 22 15 46",
+   "distance": 3515.4845510553814
+  },
+  {
+   "id": "bkbyuqhchAHpg37-Zy-EBw",
+   "alias": "de-bon-poil-clamart",
+   "name": "De Bon Poil",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/de-bon-poil-clamart?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.26578,
+    "Latitude": 48.80377
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "45 avenue Jean Jaurès",
+    "address2": "",
+    "address3": "",
+    "city": "Clamart",
+    "zip_code": "92140",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "45 avenue Jean Jaurès",
+     "92140 Clamart",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147658342",
+   "display_phone": "+33 1 47 65 83 42",
+   "distance": 8632.78742456579
+  },
+  {
+   "id": "vOxzQPRphX03vCZizj2q0g",
+   "alias": "centre-canin-paris",
+   "name": "Centre Canin",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/centre-canin-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3945586,
+    "Latitude": 48.8860689
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "122 bd Sérurier",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75019",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "122 bd Sérurier",
+     "75019 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142089667",
+   "display_phone": "+33 1 42 08 96 67",
+   "distance": 4509.462706454718
+  }
+ ],
+ "total": 72,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

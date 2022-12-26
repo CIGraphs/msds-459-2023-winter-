@@ -1,0 +1,1935 @@
+{
+ "businesses": [
+  {
+   "id": "AE58buqS6MZ108uwRZ0Giw",
+   "alias": "nordstrom-seattle-11",
+   "name": "Nordstrom",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6CoQNDzxq9l2RLBUzbk0eg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nordstrom-seattle-11?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 680,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "cosmetics",
+     "title": "Cosmetics \u0026 Beauty Supply"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.33629882335663,
+    "Latitude": 47.612300416713325
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "500 Pine St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "500 Pine St",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066282111",
+   "display_phone": "(206) 628-2111",
+   "distance": 747.807801354159
+  },
+  {
+   "id": "qlNIrY3x0eivDug3wFPUkA",
+   "alias": "rei-seattle-2",
+   "name": "REI",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SJUlD9Y1kPYF3dS0alCXbQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rei-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 598,
+   "categories": [
+    {
+     "alias": "outdoorgear",
+     "title": "Outdoor Gear"
+    },
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    },
+    {
+     "alias": "bikes",
+     "title": "Bikes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.3302751,
+    "Latitude": 47.6199423
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "222 Yale Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "222 Yale Ave N",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062231944",
+   "display_phone": "(206) 223-1944",
+   "distance": 1579.4584684562276
+  },
+  {
+   "id": "VJYfZ9zwcGEJGIwFHI-vrA",
+   "alias": "davids-bridal-tukwila-2",
+   "name": "David's Bridal",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WmBMtPpZjUFtfxb1ZjsvjQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/davids-bridal-tukwila-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 427,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.259686,
+    "Latitude": 47.44359
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "17740 Southcenter Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Tukwila",
+    "zip_code": "98188",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17740 Southcenter Pkwy",
+     "Tukwila, WA 98188"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065754884",
+   "display_phone": "(206) 575-4884",
+   "distance": 18883.473774435042
+  },
+  {
+   "id": "ukA065_WsDazpVDsr8HdGQ",
+   "alias": "target-seattle-7",
+   "name": "Target",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LgHEnwrIt1ZKNj362Dij_w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-seattle-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 409,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.33862977055517,
+    "Latitude": 47.6084708816124
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1401 2nd Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1401 2nd Ave",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064943250",
+   "display_phone": "(206) 494-3250",
+   "distance": 550.8154100983104
+  },
+  {
+   "id": "q3rLN8-k_Dqch8xh99hPkQ",
+   "alias": "nordstrom-bellevue-3",
+   "name": "Nordstrom",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0D3AnlP96sV3EoWbLm-Czw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nordstrom-bellevue-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 379,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "cosmetics",
+     "title": "Cosmetics \u0026 Beauty Supply"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.20396,
+    "Latitude": 47.615421
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "100 Bellevue Sq",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98004",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "100 Bellevue Sq",
+     "Bellevue, WA 98004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254555800",
+   "display_phone": "(425) 455-5800",
+   "distance": 9659.076019595075
+  },
+  {
+   "id": "yJhyfM00NephvjKv6Crfmw",
+   "alias": "walmart-supercenter-renton-2",
+   "name": "Walmart Supercenter",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NKkPDmswWb7eoRjK3waLuQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/walmart-supercenter-renton-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 358,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.2210384,
+    "Latitude": 47.4721419
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "743 Rainier Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Renton",
+    "zip_code": "98057",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "743 Rainier Ave S",
+     "Renton, WA 98057"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252270407",
+   "display_phone": "(425) 227-0407",
+   "distance": 17079.529662433826
+  },
+  {
+   "id": "QFS1aY7VxvPgVruhUzSD-A",
+   "alias": "prep-sportswear-seattle-2",
+   "name": "Prep Sportswear",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CE64p6jaEqr2NMwiBImqzA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/prep-sportswear-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 355,
+   "categories": [
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -122.347592,
+    "Latitude": 47.611579
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "2211 Elliott Ave",
+    "address2": "Ste 601",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2211 Elliott Ave",
+     "Ste 601",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1305.1816106307333
+  },
+  {
+   "id": "ohMucx22PBqqnQ3wsx9lcQ",
+   "alias": "target-seattle-4",
+   "name": "Target",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Bn00ZBqXpbQ5zWl3dVoDCA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-seattle-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 322,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.325013,
+    "Latitude": 47.70897
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "302 NE Northgate Way",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98125",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "302 NE Northgate Way",
+     "Seattle, WA 98125"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064940897",
+   "display_phone": "(206) 494-0897",
+   "distance": 11439.81050738749
+  },
+  {
+   "id": "Hku6Sl-fTFnUqaDLwh2jzQ",
+   "alias": "fred-meyer-seattle-2",
+   "name": "Fred Meyer",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aVqsBRrsSMlkRrGU-Fb2vw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fred-meyer-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 238,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "drugstores",
+     "title": "Drugstores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.36862944110447,
+    "Latitude": 47.65985130982494
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "915 NW 45th St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "915 NW 45th St",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062974300",
+   "display_phone": "(206) 297-4300",
+   "distance": 6563.7218238786645
+  },
+  {
+   "id": "nSySleuPcu0e6MaT9Karlg",
+   "alias": "road-runner-sports-seattle",
+   "name": "Road Runner Sports",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SGsvlRnAzsNKumOWymKeFQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/road-runner-sports-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 224,
+   "categories": [
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.324194,
+    "Latitude": 47.679405
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "7020 Woodlawn Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98115",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "7020 Woodlawn Ave NE",
+     "Seattle, WA 98115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065175100",
+   "display_phone": "(206) 517-5100",
+   "distance": 8161.536041311958
+  },
+  {
+   "id": "PH4QHZqQxluJpQ5b3LHYkA",
+   "alias": "crossroads-trading-seattle",
+   "name": "Crossroads Trading",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qdM0Cc1JnldTnfz7oh1IRQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/crossroads-trading-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 222,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.32112075829505,
+    "Latitude": 47.621875330150885
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "325 Broadway E",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98102",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "325 Broadway E",
+     "Seattle, WA 98102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063285867",
+   "display_phone": "(206) 328-5867",
+   "distance": 1927.5414403626735
+  },
+  {
+   "id": "Y1lqsSHyE45gKzWJ7M0HwA",
+   "alias": "samila-bridal-and-formal-seattle",
+   "name": "Samila Bridal and Formal",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zWOwEQNDBKTlq63uC2AMQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/samila-bridal-and-formal-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 221,
+   "categories": [
+    {
+     "alias": "formalwear",
+     "title": "Formal Wear"
+    },
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.3869197,
+    "Latitude": 47.584151
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4306 SW Walker St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98116",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4306 SW Walker St",
+     "Seattle, WA 98116"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14255585714",
+   "display_phone": "(425) 558-5714",
+   "distance": 4786.320263377522
+  },
+  {
+   "id": "kaoYlnuOmkTKm36cVhmBRQ",
+   "alias": "fred-meyer-seattle",
+   "name": "Fred Meyer",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0DxFqbp3UXvRJ5zDXvewpA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fred-meyer-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 200,
+   "categories": [
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.3582067,
+    "Latitude": 47.6907449
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "100 NW 85th St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98117",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "100 NW 85th St",
+     "Seattle, WA 98117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067849600",
+   "display_phone": "(206) 784-9600",
+   "distance": 9751.422683122133
+  },
+  {
+   "id": "y2KUbJsuURfk8uXZ2HBElg",
+   "alias": "walmart-lynnwood-2",
+   "name": "Walmart",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6nWNz2iQt5cp4Koo16lhjQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/walmart-lynnwood-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 197,
+   "categories": [
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.252676,
+    "Latitude": 47.84877
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1400 164th St SW",
+    "address2": "",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98087",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1400 164th St SW",
+     "Lynnwood, WA 98087"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14257419445",
+   "display_phone": "(425) 741-9445",
+   "distance": 27618.969994626175
+  },
+  {
+   "id": "xb0Wf5FkHOzzMMXEs-23Pw",
+   "alias": "target-renton",
+   "name": "Target",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/R6Lau3KjFPFFBdketsbvYA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-renton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 184,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.2004,
+    "Latitude": 47.496773
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1215 N Landing Way",
+    "address2": "",
+    "address3": "",
+    "city": "Renton",
+    "zip_code": "98057",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1215 N Landing Way",
+     "Renton, WA 98057"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252070067",
+   "display_phone": "(425) 207-0067",
+   "distance": 15676.22795307673
+  },
+  {
+   "id": "e0wpn7VaENHAudZqyi4piw",
+   "alias": "fleet-feet-seattle-seattle",
+   "name": "Fleet Feet Seattle",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Vb6EelkPO4uJumRADtgwag/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fleet-feet-seattle-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 181,
+   "categories": [
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.319968853394,
+    "Latitude": 47.6151354073487
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "911 E Pine St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "911 E Pine St",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063291466",
+   "display_phone": "(206) 329-1466",
+   "distance": 1346.9157236440149
+  },
+  {
+   "id": "TH5gjVmwrM_FI6HnAtFHaQ",
+   "alias": "sturtevants-bellevue",
+   "name": "Sturtevant's",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gCLAi-skxhy31_O8hbG7JA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sturtevants-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 173,
+   "categories": [
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    },
+    {
+     "alias": "golfequipment",
+     "title": "Golf Equipment"
+    },
+    {
+     "alias": "skishops",
+     "title": "Ski \u0026 Snowboard Shops"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.164873,
+    "Latitude": 47.627692
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "13131 NE 20th St",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98005",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "13131 NE 20th St",
+     "Bellevue, WA 98005"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258697669",
+   "display_phone": "(425) 869-7669",
+   "distance": 12760.219891362138
+  },
+  {
+   "id": "gVSBrrgD-h9095RE1hrD2A",
+   "alias": "zara-seattle-5",
+   "name": "ZARA",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VtQW4uCW3WwhvNY9O3XyzQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zara-seattle-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 167,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "childcloth",
+     "title": "Children's Clothing"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.33765345118688,
+    "Latitude": 47.61204855425935
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "400 Pine St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "400 Pine St",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062046440",
+   "display_phone": "(206) 204-6440",
+   "distance": 772.1717683096415
+  },
+  {
+   "id": "qDxpb6oJzcfZ5BLQ3_G9Ng",
+   "alias": "nordstrom-lynnwood-3",
+   "name": "Nordstrom",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kEie3wcIoqK-xKq0D-1aXg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nordstrom-lynnwood-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 167,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "cosmetics",
+     "title": "Cosmetics \u0026 Beauty Supply"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.27418959140778,
+    "Latitude": 47.83061279061934
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "3200 184th St SW",
+    "address2": "",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98037",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "3200 184th St SW",
+     "Lynnwood, WA 98037"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14257715755",
+   "display_phone": "(425) 771-5755",
+   "distance": 25326.804290673696
+  },
+  {
+   "id": "Qeoe2EPXbEspP4J_VjmUpw",
+   "alias": "nordstrom-rack-seattle-14",
+   "name": "Nordstrom Rack",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pld4SKdty5zqvMgqxVe_fA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nordstrom-rack-seattle-14?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 165,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.33683796078694,
+    "Latitude": 47.61174868739874
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "400 Pine St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "400 Pine St",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064488522",
+   "display_phone": "(206) 448-8522",
+   "distance": 711.918543249087
+  },
+  {
+   "id": "u1UdqwGKTHU0oqj-nCj_CA",
+   "alias": "macys-bellevue",
+   "name": "Macy's",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UrzFbBS4Pt6avhGXTL7yDw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/macys-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 164,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.202378,
+    "Latitude": 47.615734
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "400 Bellevue Sq",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98004",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "400 Bellevue Sq",
+     "Bellevue, WA 98004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256886000",
+   "display_phone": "(425) 688-6000",
+   "distance": 9781.991385352201
+  },
+  {
+   "id": "uRlvnUDyw-v0QSVt85IceQ",
+   "alias": "target-redmond-2",
+   "name": "Target",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JGDh9mtz818VYa7TE7P5IA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-redmond-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 162,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.104025,
+    "Latitude": 47.672424
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "17700 NE 76th St",
+    "address2": "",
+    "address3": "",
+    "city": "Redmond",
+    "zip_code": "98052",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17700 NE 76th St",
+     "Redmond, WA 98052"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14255569533",
+   "display_phone": "(425) 556-9533",
+   "distance": 18607.07336901609
+  },
+  {
+   "id": "7xWsVmvuNVsqNgWc_WrS2Q",
+   "alias": "nordstrom-tukwila-tukwila",
+   "name": "Nordstrom",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rmtQGjLC8uUcGSuAFXZa5w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nordstrom-tukwila-tukwila?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 161,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "cosmetics",
+     "title": "Cosmetics \u0026 Beauty Supply"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.260815,
+    "Latitude": 47.459498
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "100 Southcenter Mall",
+    "address2": "",
+    "address3": "",
+    "city": "Tukwila",
+    "zip_code": "98188",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "100 Southcenter Mall",
+     "Tukwila, WA 98188"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062460400",
+   "display_phone": "(206) 246-0400",
+   "distance": 17167.952305208382
+  },
+  {
+   "id": "FDQdYS4RadbA0oCiGkOhsQ",
+   "alias": "zara-bellevue",
+   "name": "ZARA",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gDuvqSFTLYQqcCQOa3WxIg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zara-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 159,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "childcloth",
+     "title": "Children's Clothing"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.20359153630714,
+    "Latitude": 47.61565425189586
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "575 Bellevue Way NE",
+    "address2": "",
+    "address3": "Bellevue Square",
+    "city": "Bellevue",
+    "zip_code": "98004",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "575 Bellevue Way NE",
+     "Bellevue Square",
+     "Bellevue, WA 98004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254537001",
+   "display_phone": "(425) 453-7001",
+   "distance": 9690.60299380561
+  },
+  {
+   "id": "9rx_vHkoc43kiHyzN7Rs3A",
+   "alias": "rei-bellevue-2",
+   "name": "REI",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JRa7tWY8RJALWoWXg9Phvg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rei-bellevue-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 157,
+   "categories": [
+    {
+     "alias": "bikes",
+     "title": "Bikes"
+    },
+    {
+     "alias": "outdoorgear",
+     "title": "Outdoor Gear"
+    },
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.184827165249,
+    "Latitude": 47.613417121427
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "410 116th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98004",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "410 116th Ave NE",
+     "Bellevue, WA 98004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254551938",
+   "display_phone": "(425) 455-1938",
+   "distance": 11069.41446764881
+  },
+  {
+   "id": "AMh29w8Z9hlEkyy7Ke3YPA",
+   "alias": "skin-and-soul-bellevue-3",
+   "name": "Skin and Soul",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fETOqSJN-UpgGjxe3BWR6A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/skin-and-soul-bellevue-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 157,
+   "categories": [
+    {
+     "alias": "piercing",
+     "title": "Piercing"
+    },
+    {
+     "alias": "tattoo",
+     "title": "Tattoo"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.1988062,
+    "Latitude": 47.6104279
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "114 106th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98004",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "114 106th Ave NE",
+     "Bellevue, WA 98004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254531155",
+   "display_phone": "(425) 453-1155",
+   "distance": 10003.688506079385
+  },
+  {
+   "id": "XY_sTUbA_Sil9an9sh1GUw",
+   "alias": "nordstrom-rack-bellevue-bellevue",
+   "name": "Nordstrom Rack - Bellevue",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GL8vquzb5TLVn9oD7L355g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nordstrom-rack-bellevue-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 157,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.172164898148,
+    "Latitude": 47.5755136189327
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3920 124th Ave SE",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98006",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "3920 124th Ave SE",
+     "Bellevue, WA 98006"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14257467200",
+   "display_phone": "(425) 746-7200",
+   "distance": 12469.780099385815
+  },
+  {
+   "id": "vKKvDahAvIKGbEL7z2CqjQ",
+   "alias": "fremont-vintage-mall-seattle",
+   "name": "Fremont Vintage Mall",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WiVDVQ92sMi_WqCV9lM7fA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fremont-vintage-mall-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 155,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.35015,
+    "Latitude": 47.65023
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3419 Fremont Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "3419 Fremont Ave N",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063294460",
+   "display_phone": "(206) 329-4460",
+   "distance": 5084.564404996739
+  },
+  {
+   "id": "QHBqRu97QZDVfgjnKrR9aA",
+   "alias": "ballard-consignment-store-seattle-2",
+   "name": "Ballard Consignment Store",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zjnZOYaoeYZHjqlSo_fLXA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ballard-consignment-store-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 153,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "interiordesign",
+     "title": "Interior Design"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.38422,
+    "Latitude": 47.66806
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5459 Leary Ave NW",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5459 Leary Ave NW",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12068599956",
+   "display_phone": "(206) 859-9956",
+   "distance": 7906.505995343035
+  },
+  {
+   "id": "TyuVBCrTJy6PJkbiP49mJQ",
+   "alias": "walmart-supercenter-federal-way",
+   "name": "Walmart Supercenter",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ynCesZrkhVmeqyE6dtsDoA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/walmart-supercenter-federal-way?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 152,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.310190493569,
+    "Latitude": 47.2926697940315
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "34520 16th Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Federal Way",
+    "zip_code": "98003",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "34520 16th Ave S",
+     "Federal Way, WA 98003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12538354965",
+   "display_phone": "(253) 835-4965",
+   "distance": 34901.833707166894
+  },
+  {
+   "id": "9CpQBtpXihqzlp6FusaWGQ",
+   "alias": "platos-closet-lynnwood-lynnwood-3",
+   "name": "Plato's Closet - Lynnwood",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QD0kQsRwioKDRlFBUm-SDw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/platos-closet-lynnwood-lynnwood-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 151,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.271498,
+    "Latitude": 47.826763
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "18920 28th Ave W",
+    "address2": "",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98037",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "18920 28th Ave W",
+     "Lynnwood, WA 98037"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14257755868",
+   "display_phone": "(425) 775-5868",
+   "distance": 24940.98834778495
+  },
+  {
+   "id": "WDrEx8rxndQ-O6IrazAT2Q",
+   "alias": "fred-meyer-bellevue",
+   "name": "Fred Meyer",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2yXaqPBuuBbi40ogwxPGGw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fred-meyer-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 150,
+   "categories": [
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "drugstores",
+     "title": "Drugstores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.144115,
+    "Latitude": 47.628892
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2041 148th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98007",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2041 148th Ave NE",
+     "Bellevue, WA 98007"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258658560",
+   "display_phone": "(425) 865-8560",
+   "distance": 14314.325069048684
+  },
+  {
+   "id": "Ivz2lrOXUosoxZ2Ul8c9qg",
+   "alias": "target-lynnwood",
+   "name": "Target",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nQoSfQmQ8UtVONvBLZJjuA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-lynnwood?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 140,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.266588,
+    "Latitude": 47.832446
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "18305 Alderwood Mall Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98037",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "18305 Alderwood Mall Pkwy",
+     "Lynnwood, WA 98037"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256701435",
+   "display_phone": "(425) 670-1435",
+   "distance": 25630.28464337414
+  },
+  {
+   "id": "3fkNMmShiXpUM_opiiDPtQ",
+   "alias": "fred-meyer-kirkland",
+   "name": "Fred Meyer",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rpGP19lgUJhV7d194vLD4A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fred-meyer-kirkland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 140,
+   "categories": [
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.18415288220886,
+    "Latitude": 47.70780362445069
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "12221 120th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Kirkland",
+    "zip_code": "98034",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "12221 120th Ave NE",
+     "Kirkland, WA 98034"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258203200",
+   "display_phone": "(425) 820-3200",
+   "distance": 15824.81103964297
+  },
+  {
+   "id": "UHoXJ24W2dmaZOVAWg-92g",
+   "alias": "target-tukwila-3",
+   "name": "Target",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8b7W28zfB6FtB3uK_xBBCw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-tukwila-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 140,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.258,
+    "Latitude": 47.4553
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "301 Strander Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Tukwila",
+    "zip_code": "98188",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "301 Strander Blvd",
+     "Tukwila, WA 98188"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065750682",
+   "display_phone": "(206) 575-0682",
+   "distance": 17677.524078565486
+  },
+  {
+   "id": "ks8N4I_3eZxD4LvnFKc8Kw",
+   "alias": "fred-meyer-seattle-3",
+   "name": "Fred Meyer",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JfBthL8xZ9El43dSE8LnHQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fred-meyer-seattle-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 139,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "drugstores",
+     "title": "Drugstores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.2920171252008,
+    "Latitude": 47.72406087919249
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "13000 Lake City Way NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98125",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "13000 Lake City Way NE",
+     "Seattle, WA 98125"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064402400",
+   "display_phone": "(206) 440-2400",
+   "distance": 13444.862792540729
+  },
+  {
+   "id": "de4Ps4sYvlBOeQiZnB6rZw",
+   "alias": "velo-bike-shop-seattle",
+   "name": "Velo Bike Shop",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ft-CRtMqxNzH6wd0YmQOSQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/velo-bike-shop-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 138,
+   "categories": [
+    {
+     "alias": "bikes",
+     "title": "Bikes"
+    },
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    },
+    {
+     "alias": "bike_repair_maintenance",
+     "title": "Bike Repair/Maintenance"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.34094,
+    "Latitude": 47.61567
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2151 6th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2151 6th Ave",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063253292",
+   "display_phone": "(206) 325-3292",
+   "distance": 1234.3967332116715
+  },
+  {
+   "id": "ETxrDzo4ft30r5v2PaEFsA",
+   "alias": "road-runner-sports-bellevue",
+   "name": "Road Runner Sports",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BKbwaGHwbEOgRAne_on09w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/road-runner-sports-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 135,
+   "categories": [
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.1771802,
+    "Latitude": 47.6306065
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "12200 Northup Way",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98005",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "12200 Northup Way",
+     "Bellevue, WA 98005"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254066730",
+   "display_phone": "(425) 406-6730",
+   "distance": 11924.558255752161
+  },
+  {
+   "id": "_d_oZYWkZ0ThKuNPtHb1QA",
+   "alias": "romashka-bridal-everett-2",
+   "name": "Romashka Bridal",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lPsLWXy3ilXjQ3zobFY9jg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/romashka-bridal-everett-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 135,
+   "categories": [
+    {
+     "alias": "sewingalterations",
+     "title": "Sewing \u0026 Alterations"
+    },
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "formalwear",
+     "title": "Formal Wear"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.22437,
+    "Latitude": 47.90814
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "620 SE Everett Mall Way",
+    "address2": "Ste 225",
+    "address3": "",
+    "city": "Everett",
+    "zip_code": "98208",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "620 SE Everett Mall Way",
+     "Ste 225",
+     "Everett, WA 98208"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14253744906",
+   "display_phone": "(425) 374-4906",
+   "distance": 34599.76316843698
+  },
+  {
+   "id": "TORCDxYe6RZUyVOE8eY1pw",
+   "alias": "pure-barre-seattle-9",
+   "name": "Pure Barre",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9_oQiSILQ6Dz9sJWJmU24Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pure-barre-seattle-9?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 134,
+   "categories": [
+    {
+     "alias": "barreclasses",
+     "title": "Barre Classes"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "cardioclasses",
+     "title": "Cardio Classes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.347284920884,
+    "Latitude": 47.625073313231
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "500 Mercer St",
+    "address2": "Ste c205",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "500 Mercer St",
+     "Ste c205",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063279817",
+   "display_phone": "(206) 327-9817",
+   "distance": 2387.404678900673
+  }
+ ],
+ "total": 1300,
+ "region": {
+  "center": {
+   "longitude": -122.3321,
+   "Latitude": 47.6062
+  }
+ }
+}

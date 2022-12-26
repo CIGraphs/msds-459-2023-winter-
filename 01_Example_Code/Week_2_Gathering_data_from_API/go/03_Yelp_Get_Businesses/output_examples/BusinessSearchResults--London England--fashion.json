@@ -1,0 +1,1833 @@
+{
+ "businesses": [
+  {
+   "id": "cmyapOK57SE8dslSk_l0nA",
+   "alias": "harrods-london",
+   "name": "Harrods",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WXdjcDq07lrVQYog0K0SWQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/harrods-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 952,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.163289034393301,
+    "Latitude": 51.499362558402
+   },
+   "transactions": [],
+   "price": "££££",
+   "location": {
+    "address1": "87-135 Brompton Road",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SW1X 7XL",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "87-135 Brompton Road",
+     "London SW1X 7XL",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442077301234",
+   "display_phone": "+44 20 7730 1234",
+   "distance": 20152.841967981323
+  },
+  {
+   "id": "eyFzHGBlLjMWmsXFdMrA3w",
+   "alias": "fortnum-and-mason-london",
+   "name": "Fortnum \u0026 Mason",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l-x6jtK3UZkhp6TOKJ93UA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fortnum-and-mason-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 464,
+   "categories": [
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.138357858761537,
+    "Latitude": 51.5083667842501
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "181 Piccadilly",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1A 1ER",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "181 Piccadilly",
+     "London W1A 1ER",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442077348040",
+   "display_phone": "+44 20 7734 8040",
+   "distance": 18407.010297745986
+  },
+  {
+   "id": "KJ9aIWMd1sIFKlsvOfOo5w",
+   "alias": "selfridges-london",
+   "name": "Selfridges",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Tq0GDKQM6D0RAE-lYaeoLg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/selfridges-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 383,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.151944,
+    "Latitude": 51.514445
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "400 Oxford Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1A 1AB",
+    "country": "GB",
+    "state": "LND",
+    "display_address": [
+     "400 Oxford Street",
+     "London W1A 1AB",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+44800123400",
+   "display_phone": "+44 800 123400",
+   "distance": 19362.30493456299
+  },
+  {
+   "id": "UVHYRnLprB0Vx9yHE7Nzgg",
+   "alias": "topshop-london",
+   "name": "TopShop",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xJU6V5kx3CYIHwJA_zk2ew/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/topshop-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 234,
+   "categories": [
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.14004356651039,
+    "Latitude": 51.5157276791754
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "214 Oxford Street",
+    "address2": "",
+    "address3": "Oxford Circus",
+    "city": "London",
+    "zip_code": "W1D 1LA",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "214 Oxford Street",
+     "Oxford Circus",
+     "London W1D 1LA",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+443448487487",
+   "display_phone": "+44 344 848 7487",
+   "distance": 18545.978768202996
+  },
+  {
+   "id": "veYY2GHCJzhCHnPZlZ-4eA",
+   "alias": "primark-london",
+   "name": "Primark",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Y44xhIPuCvNp03C7ZWziBQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/primark-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 228,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.156270256706927,
+    "Latitude": 51.5134501401037
+   },
+   "transactions": [],
+   "price": "£",
+   "location": {
+    "address1": "499-517 Oxford Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1K 7DA",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "499-517 Oxford Street",
+     "London W1K 7DA",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442074950420",
+   "display_phone": "+44 20 7495 0420",
+   "distance": 19657.435603923677
+  },
+  {
+   "id": "iBImrE7AzoIQuSglVJXZZA",
+   "alias": "liberty-london-4",
+   "name": "Liberty",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oqNeJ-K-e0nqrzG_pmC1Ww/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/liberty-london-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 226,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.1401291,
+    "Latitude": 51.5138272
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "Regent Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1B 5AH",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Regent Street",
+     "London W1B 5AH",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442077341234",
+   "display_phone": "+44 20 7734 1234",
+   "distance": 18542.676214631632
+  },
+  {
+   "id": "NFKFG1u5VtOQ2f2LuKLxpw",
+   "alias": "john-lewis-and-partners-london",
+   "name": "John Lewis \u0026 Partners",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dvpcZPRioh9ruCeNQzWBEA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/john-lewis-and-partners-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 133,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.144495964050293,
+    "Latitude": 51.5150189480808
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "300 Oxford Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1A 1EX",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "300 Oxford Street",
+     "London W1A 1EX",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442076297711",
+   "display_phone": "+44 20 7629 7711",
+   "distance": 18850.048101053882
+  },
+  {
+   "id": "6-SiYv2AwKatWmF_ohi20Q",
+   "alias": "brick-lane-and-market-london",
+   "name": "Brick Lane and Market",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/froChzyLQtdCPsok7jKxzw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brick-lane-and-market-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 114,
+   "categories": [
+    {
+     "alias": "fashion",
+     "title": "Fashion"
+    },
+    {
+     "alias": "farmersmarket",
+     "title": "Farmers Market"
+    },
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.0725192870915743,
+    "Latitude": 51.5206479128337
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "Brick Lane",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "E1 6PU",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Brick Lane",
+     "London E1 6PU",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 13928.599012100207
+  },
+  {
+   "id": "nf4yqqDSvFyU6_OEEgHZ6g",
+   "alias": "marks-and-spencer-london-345",
+   "name": "Marks and Spencer",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rj3JgmD3e9wqcZ4jq6FFVw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/marks-and-spencer-london-345?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 90,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.154340476599714,
+    "Latitude": 51.5141404658561
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "Oxford st",
+    "address2": "Marble Arch",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1C 1AP",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Oxford st",
+     "Marble Arch",
+     "London W1C 1AP",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442079357954",
+   "display_phone": "+44 20 7935 7954",
+   "distance": 19526.705407019894
+  },
+  {
+   "id": "-HlhiFmwZhEA9si5GeJg6g",
+   "alias": "cyberdog-london",
+   "name": "Cyberdog",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CIlWHMstTiJxNCxOgW8uqA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cyberdog-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 89,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "childcloth",
+     "title": "Children's Clothing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.147413332604065,
+    "Latitude": 51.5422243556121
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "Stables Market",
+    "address2": "Chalk Farm Road",
+    "address3": "",
+    "city": "London",
+    "zip_code": "NW1 8AH",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Stables Market",
+     "Chalk Farm Road",
+     "London NW1 8AH",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442074822842",
+   "display_phone": "+44 20 7482 2842",
+   "distance": 19420.694990385717
+  },
+  {
+   "id": "5Q93Z1enoh_TBej2umkvEQ",
+   "alias": "primark-london-10",
+   "name": "Primark",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GmOj9Y6aE0R0s9gao8Soaw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/primark-london-10?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 80,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "childcloth",
+     "title": "Children's Clothing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.131587377246092,
+    "Latitude": 51.5164890152852
+   },
+   "transactions": [],
+   "price": "£",
+   "location": {
+    "address1": "14 - 28 Oxford Street",
+    "address2": "3 Tottenham Court Road",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1D 1AU",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "14 - 28 Oxford Street",
+     "3 Tottenham Court Road",
+     "London W1D 1AU",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+44442075805510",
+   "display_phone": "+44 442075805510",
+   "distance": 17966.095006155236
+  },
+  {
+   "id": "orSfF4k8ImNglqwhcqCf2w",
+   "alias": "harvey-nichols-london-13",
+   "name": "Harvey Nichols",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/58wy8CfoLSzo_z3AWDv_OQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/harvey-nichols-london-13?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 78,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.1597348,
+    "Latitude": 51.50151227
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "109-125 Knightsbridge",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SW1X 7RJ",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "109-125 Knightsbridge",
+     "London SW1X 7RJ",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442072355250",
+   "display_phone": "+44 20 7235 5250",
+   "distance": 19897.56744658528
+  },
+  {
+   "id": "KfwqtYxizGtLnSsCC2p2Qw",
+   "alias": "farfetch-london",
+   "name": "Farfetch",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/q7YxW9AJuAFWKd6VU88GWw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/farfetch-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 73,
+   "categories": [
+    {
+     "alias": "fashion",
+     "title": "Fashion"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -0.0989547,
+    "Latitude": 51.5239108
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "90-98 Goswell Road",
+    "address2": "2nd Floor Harella House",
+    "address3": "",
+    "city": "London",
+    "zip_code": "EC1V 7DF",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "90-98 Goswell Road",
+     "2nd Floor Harella House",
+     "London EC1V 7DF",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 15786.583666854202
+  },
+  {
+   "id": "4WkZeSZDM2J05j2U0wDs4g",
+   "alias": "abercrombie-and-fitch-london-2",
+   "name": "Abercrombie \u0026 Fitch",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s0ygtEr_wRta6vEW7HItZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/abercrombie-and-fitch-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 64,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.14008214764843,
+    "Latitude": 51.510188753899
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "7 Burlington Gardens",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1S 3ES",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "7 Burlington Gardens",
+     "London W1S 3ES",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+448444125750",
+   "display_phone": "+44 844 412 5750",
+   "distance": 18528.49867765173
+  },
+  {
+   "id": "Lu9ywvIMEqqKom29OUba3Q",
+   "alias": "beyond-retro-london",
+   "name": "Beyond Retro",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/54erwuEID6ZwS0ug_05zRw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beyond-retro-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 55,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.066522,
+    "Latitude": 51.523725
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "110-112 Cheshire Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "E2 6EJ",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "110-112 Cheshire Street",
+     "London E2 6EJ",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442077299001",
+   "display_phone": "+44 20 7729 9001",
+   "distance": 13586.440646715087
+  },
+  {
+   "id": "1mwu87AyIif_do3sQao5zw",
+   "alias": "charles-tyrwhitt-london",
+   "name": "Charles Tyrwhitt",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/80jS5htqv_T18yYbYgvDkQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/charles-tyrwhitt-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.135947,
+    "Latitude": 51.508528
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "100 Jermyn Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SW1Y 6EE",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "100 Jermyn Street",
+     "London SW1Y 6EE",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442078396060",
+   "display_phone": "+44 20 7839 6060",
+   "distance": 18257.45757052646
+  },
+  {
+   "id": "cuEJ1ZRSSkK9yYoEdkkFFQ",
+   "alias": "debenhams-london-4",
+   "name": "Debenhams",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6AG9-7-EKQEwxHLGfltWBQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/debenhams-london-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 49,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.147642408236699,
+    "Latitude": 51.5147982250657
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "334-348 Oxford Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1C 1JG",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "334-348 Oxford Street",
+     "London W1C 1JG",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 19066.50640169521
+  },
+  {
+   "id": "SL02yhRLZEiqaJTYPdUhqg",
+   "alias": "james-smith-and-sons-london",
+   "name": "James Smith \u0026 Sons",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9ogwqerBsOqwvHM7rQt-CQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/james-smith-and-sons-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.1266243433125,
+    "Latitude": 51.516862290791
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "53 New Oxford Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "WC1A 1BL",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "53 New Oxford Street",
+     "London WC1A 1BL",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442078364731",
+   "display_phone": "+44 20 7836 4731",
+   "distance": 17625.630216040652
+  },
+  {
+   "id": "XHPbJlRrpll_w2LJl84ueA",
+   "alias": "primark-london-2",
+   "name": "Primark",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pFVXuM30gAujjEAudb_ZnA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/primark-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 43,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.228747152744311,
+    "Latitude": 51.49267042723
+   },
+   "transactions": [],
+   "price": "£",
+   "location": {
+    "address1": "1 Kings Street",
+    "address2": "Kings Mall",
+    "address3": "Hammersmith",
+    "city": "London",
+    "zip_code": "W6 0PZ",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "1 Kings Street",
+     "Kings Mall",
+     "Hammersmith",
+     "London W6 0PZ",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442087487119",
+   "display_phone": "+44 20 8748 7119",
+   "distance": 24719.35344410905
+  },
+  {
+   "id": "jth8xMF39MqPjgb_5SH8Cw",
+   "alias": "urban-outfitters-london-2",
+   "name": "Urban Outfitters",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oM_IHMKJBNFPoxQHW1q0Dw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/urban-outfitters-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 41,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.140505451892738,
+    "Latitude": 51.5156220852237
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "200 Oxford Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1D 1NU",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "200 Oxford Street",
+     "London W1D 1NU",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442079070800",
+   "display_phone": "+44 20 7907 0800",
+   "distance": 18577.326705959647
+  },
+  {
+   "id": "clyuwPW5iNt_dpjtDEbIvg",
+   "alias": "burberry-factory-shop-london",
+   "name": "Burberry Factory Shop",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VQPvifYVxSTIi-1SiifOAg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/burberry-factory-shop-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 37,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.051175,
+    "Latitude": 51.545896
+   },
+   "transactions": [],
+   "price": "££££",
+   "location": {
+    "address1": "29 Chatham Place",
+    "address2": "Hackney",
+    "address3": "",
+    "city": "London",
+    "zip_code": "E9 6LP",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "29 Chatham Place",
+     "Hackney",
+     "London E9 6LP",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442083284287",
+   "display_phone": "+44 20 8328 4287",
+   "distance": 13094.773247660638
+  },
+  {
+   "id": "LfDEVmRhEQzmR6_-_CKY9g",
+   "alias": "absolute-vintage-london",
+   "name": "Absolute Vintage",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DAhasSFmN9tiT0gwIrs1kA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/absolute-vintage-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 36,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.073113,
+    "Latitude": 51.520237
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "15 Hanbury Street",
+    "address2": "Spitalfields",
+    "address3": "",
+    "city": "London",
+    "zip_code": "E1 6QR",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "15 Hanbury Street",
+     "Spitalfields",
+     "London E1 6QR",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442072473883",
+   "display_phone": "+44 20 7247 3883",
+   "distance": 13954.447500326896
+  },
+  {
+   "id": "VJig15XscgsFvZXlXhGBoQ",
+   "alias": "peter-jones-and-partners-london",
+   "name": "Peter Jones \u0026 Partners",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/M5xmTAzG_sZNdAWEgHqT9g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/peter-jones-and-partners-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 31,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.158781352522169,
+    "Latitude": 51.4923173901974
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "Sloane Square",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SW1W 8EL",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Sloane Square",
+     "London SW1W 8EL",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442077303434",
+   "display_phone": "+44 20 7730 3434",
+   "distance": 19892.47600419296
+  },
+  {
+   "id": "1FbdWv0sM7kN9DS0y0mwyQ",
+   "alias": "tk-maxx-london",
+   "name": "TK Maxx",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PksVKuQTTZsgHajLR_PuBw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tk-maxx-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 30,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.22761925485005,
+    "Latitude": 51.492542351555
+   },
+   "transactions": [],
+   "price": "£",
+   "location": {
+    "address1": "57 King Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W6 9HW",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "57 King Street",
+     "London W6 9HW",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442085639200",
+   "display_phone": "+44 20 8563 9200",
+   "distance": 24642.419786040333
+  },
+  {
+   "id": "faLe94oByMgcSiVWwrwpVQ",
+   "alias": "uniqlo-london-4",
+   "name": "UNIQLO",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qA-KtXd6o-TiJs3TN0NWkg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/uniqlo-london-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 29,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "childcloth",
+     "title": "Children's Clothing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.145392852227711,
+    "Latitude": 51.5146080731123
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "311 Oxford Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1C 2HP",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "311 Oxford Street",
+     "London W1C 2HP",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442072907701",
+   "display_phone": "+44 20 7290 7701",
+   "distance": 18910.08983253285
+  },
+  {
+   "id": "tcgrYe-YgkYinKSwrLMYSQ",
+   "alias": "irregular-choice-london",
+   "name": "Irregular Choice",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9hvGo_L-FYlBfD_4wOu4XA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/irregular-choice-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 29,
+   "categories": [
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.1392668,
+    "Latitude": 51.5133526
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "35 Carnaby Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1F 7DT",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "35 Carnaby Street",
+     "London W1F 7DT",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442074944811",
+   "display_phone": "+44 20 7494 4811",
+   "distance": 18485.610905446225
+  },
+  {
+   "id": "WrMcxDEsc9IRUuS6SYn5rQ",
+   "alias": "rokit-london-2",
+   "name": "Rokit",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hXAgLNrANwmJcHy2B3shRg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rokit-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 27,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.071769,
+    "Latitude": 51.522355
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "101 \u0026 107 Brick Lane",
+    "address2": "London",
+    "address3": "",
+    "city": "London",
+    "zip_code": "E1 6SE",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "101 \u0026 107 Brick Lane",
+     "London",
+     "London E1 6SE",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442073753864",
+   "display_phone": "+44 20 7375 3864",
+   "distance": 13902.662646145352
+  },
+  {
+   "id": "bgjq7uZ77BpRT1CImiLr5Q",
+   "alias": "disney-store-london",
+   "name": "Disney Store",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1XEmLcLBoo5fFtUdmhA2aQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/disney-store-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 27,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "baby_gear",
+     "title": "Baby Gear \u0026 Furniture"
+    },
+    {
+     "alias": "childcloth",
+     "title": "Children's Clothing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.1484111,
+    "Latitude": 51.5148246
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "350-352 Oxford Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1C 1JH",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "350-352 Oxford Street",
+     "London W1C 1JH",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442074919136",
+   "display_phone": "+44 20 7491 9136",
+   "distance": 19119.77479866249
+  },
+  {
+   "id": "QLmUf1kKamT_bEchcyPFeQ",
+   "alias": "southbank-book-market-london",
+   "name": "Southbank Book Market",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0Q8gzgbz8jr0SVUXnklxEg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/southbank-book-market-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 26,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.116838,
+    "Latitude": 51.505775
+   },
+   "transactions": [],
+   "price": "£",
+   "location": {
+    "address1": "Belvedere Road",
+    "address2": "Lambeth",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SE1 7GA",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Belvedere Road",
+     "Lambeth",
+     "London SE1 7GA",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 16918.419845390203
+  },
+  {
+   "id": "9D15gArn8OaY0pjsJDwt1Q",
+   "alias": "anthropologie-london",
+   "name": "Anthropologie",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-TOjwYMtAhnD4ticwJG-2Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/anthropologie-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 25,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.1393482,
+    "Latitude": 51.5118827
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "158 Regent Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1B 5SW",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "158 Regent Street",
+     "London W1B 5SW",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442075299800",
+   "display_phone": "+44 20 7529 9800",
+   "distance": 18480.130452030637
+  },
+  {
+   "id": "UBxgjgRSMX2MBAeiJLGE_g",
+   "alias": "beyond-retro-london-2",
+   "name": "Beyond Retro",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QC9qDedq3bp3q8DsVfjCmw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beyond-retro-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 25,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.137368,
+    "Latitude": 51.514672
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "58-59 Great Marlborough Street",
+    "address2": "Soho",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1F 7JY",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "58-59 Great Marlborough Street",
+     "Soho",
+     "London W1F 7JY",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442077299001",
+   "display_phone": "+44 20 7729 9001",
+   "distance": 18355.59087953433
+  },
+  {
+   "id": "7jGE3iwemExbyVrvfGTgFQ",
+   "alias": "rokit-secondhand-shops-london",
+   "name": "Rokit Secondhand Shops",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jAa3B3FAuHyqfTTSeXkocA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rokit-secondhand-shops-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.124539,
+    "Latitude": 51.51402
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "42 Shelton Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "WC2H 9HZ",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "42 Shelton Street",
+     "London WC2H 9HZ",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442078366547",
+   "display_phone": "+44 20 7836 6547",
+   "distance": 17467.457055223287
+  },
+  {
+   "id": "ucvKplyE7WK007tqaYACSA",
+   "alias": "british-boot-company-london",
+   "name": "British Boot Company",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/le5j8TZAK0wMpsGRGzFJNg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/british-boot-company-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.142508223338472,
+    "Latitude": 51.5395744903263
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "5 Kentish Town Road",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "NW1 8NH",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "5 Kentish Town Road",
+     "London NW1 8NH",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442074858505",
+   "display_phone": "+44 20 7485 8505",
+   "distance": 19030.964607367434
+  },
+  {
+   "id": "BArxdD5MqLjLRvVFW8y3CQ",
+   "alias": "new-look-london-2",
+   "name": "New Look",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ovSwpLvemXa_SrCfDR51Pw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/new-look-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.155823580678795,
+    "Latitude": 51.5139050282159
+   },
+   "transactions": [],
+   "price": "£",
+   "location": {
+    "address1": "500-502 Oxford Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1C 1HG",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "500-502 Oxford Street",
+     "London W1C 1HG",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442072907860",
+   "display_phone": "+44 20 7290 7860",
+   "distance": 19628.301262803638
+  },
+  {
+   "id": "SUcylldPBW1HrjO7bJmoSw",
+   "alias": "river-island-london",
+   "name": "River Island",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IW2m1CTh0qI-0ndqWpGHJw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/river-island-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 23,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "childcloth",
+     "title": "Children's Clothing"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -0.145151054332913,
+    "Latitude": 51.5146614368183
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "301-309 Oxford Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1C 2HW",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "301-309 Oxford Street",
+     "London W1C 2HW",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+443443951011",
+   "display_phone": "+44 344 395 1011",
+   "distance": 18893.62101217612
+  },
+  {
+   "id": "qvb3USDOBQQJMQrvMdxI-A",
+   "alias": "alfies-antique-market-london",
+   "name": "Alfies Antique Market",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7I_sGpN12uVj1lG8GGPLeQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alfies-antique-market-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 22,
+   "categories": [
+    {
+     "alias": "antiques",
+     "title": "Antiques"
+    },
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "interiordesign",
+     "title": "Interior Design"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.168873,
+    "Latitude": 51.524228
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "13-25 Church Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "NW8 8DT",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "13-25 Church Street",
+     "London NW8 8DT",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442077236066",
+   "display_phone": "+44 20 7723 6066",
+   "distance": 20602.07809425118
+  },
+  {
+   "id": "6bkmCIvGJLAdKzMnpnckHA",
+   "alias": "urban-outfitters-london-3",
+   "name": "Urban Outfitters",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pFqNRduwQnO7VVVyfS2_zw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/urban-outfitters-london-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 22,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.125305349685505,
+    "Latitude": 51.5138683322313
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "42-56 Earlham Street",
+    "address2": "Seven Earls Warehouse",
+    "address3": "",
+    "city": "London",
+    "zip_code": "WC2H 9LJ",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "42-56 Earlham Street",
+     "Seven Earls Warehouse",
+     "London WC2H 9LJ",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442077596390",
+   "display_phone": "+44 20 7759 6390",
+   "distance": 17517.8517268599
+  },
+  {
+   "id": "v3Fbd22GU-NaeLcBmNEj0w",
+   "alias": "victorias-secret-london-2",
+   "name": "Victoria's Secret",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/V_9QUeAAK7lVlX_8GA4t-g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/victorias-secret-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 21,
+   "categories": [
+    {
+     "alias": "lingerie",
+     "title": "Lingerie"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.1456238,
+    "Latitude": 51.5130642
+   },
+   "transactions": [],
+   "price": "£££",
+   "location": {
+    "address1": "111 New Bond Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1S 1DP",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "111 New Bond Street",
+     "London W1S 1DP",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442073181740",
+   "display_phone": "+44 20 7318 1740",
+   "distance": 18919.682924085246
+  },
+  {
+   "id": "cwVlhcjags97Y6fmsaZWRQ",
+   "alias": "cos-london",
+   "name": "COS",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VPHa_ixRgu-8LMzV5f5dSw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cos-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 21,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.140817745705908,
+    "Latitude": 51.5135375486166
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "222 Regent Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1B 5BD",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "222 Regent Street",
+     "London W1B 5BD",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442074780400",
+   "display_phone": "+44 20 7478 0400",
+   "distance": 18589.106083738032
+  },
+  {
+   "id": "KiHpFcU97zoYxiN7SKCWUg",
+   "alias": "bravissimo-london-2",
+   "name": "Bravissimo",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/M7NWhjAaSYxtUJK5jimcPA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bravissimo-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "lingerie",
+     "title": "Lingerie"
+    },
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    },
+    {
+     "alias": "swimwear",
+     "title": "Swimwear"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.1215374,
+    "Latitude": 51.5113643
+   },
+   "transactions": [],
+   "price": "££",
+   "location": {
+    "address1": "20 Tavistock Street",
+    "address2": "Covent Garden",
+    "address3": "",
+    "city": "London",
+    "zip_code": "WC2E 7PH",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "20 Tavistock Street",
+     "Covent Garden",
+     "London WC2E 7PH",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442073955760",
+   "display_phone": "+44 20 7395 5760",
+   "distance": 17216.289171927034
+  }
+ ],
+ "total": 3000,
+ "region": {
+  "center": {
+   "longitude": 0.12760000000000002,
+   "Latitude": 51.5072
+  }
+ }
+}

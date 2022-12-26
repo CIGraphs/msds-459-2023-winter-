@@ -1,0 +1,1675 @@
+{
+ "businesses": [
+  {
+   "id": "dRGqUZ1JAanJsrPJhEikrw",
+   "alias": "chicago-tribune-chicago-3",
+   "name": "Chicago Tribune",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TVwCVO5wMdLRZyzo0q-o_g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-tribune-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 174,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.6236499,
+    "Latitude": 41.89038
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "435 N Michigan Ave",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "435 N Michigan Ave",
+     "Fl 2",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122223232",
+   "display_phone": "(312) 222-3232",
+   "distance": 1457.3014480352163
+  },
+  {
+   "id": "1rKfdtsfC1yBM4QvcEhbdQ",
+   "alias": "daily-herald-arlington-heights",
+   "name": "Daily Herald",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HTDn0_SKhl8SsUI0tYW7oA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/daily-herald-arlington-heights?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 78,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.980028,
+    "Latitude": 42.040715
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "155 E Algonquin Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Arlington Heights",
+    "zip_code": "60005",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "155 E Algonquin Rd",
+     "Arlington Heights, IL 60005"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18474274300",
+   "display_phone": "(847) 427-4300",
+   "distance": 34140.66992705938
+  },
+  {
+   "id": "HHDzySLJbGQgoUxdDm78YA",
+   "alias": "wxrt-chicago",
+   "name": "WXRT",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VSTJO830mu3IGd27AGuMVA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wxrt-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.75122,
+    "Latitude": 41.93851
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4949 W Belmont St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60641",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4949 W Belmont St",
+     "Chicago, IL 60641"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 12086.224437008079
+  },
+  {
+   "id": "keoc1BnZv6HkiYu5vesRtw",
+   "alias": "wgn-tv-chicago",
+   "name": "Wgn Tv",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3ilMrfvH4F-HEwpEkiXB3w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wgn-tv-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 63,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.69173895,
+    "Latitude": 41.94889618
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2501 W Bradley Pl",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2501 W Bradley Pl",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735282311",
+   "display_phone": "(773) 528-2311",
+   "distance": 9393.54749691204
+  },
+  {
+   "id": "soKCwoi63avHs70dX41Sog",
+   "alias": "chicago-tribune-redeye-chicago-chicago",
+   "name": "Chicago Tribune - RedEye Chicago",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EakmSF5tbms6fszuwJw7jg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-tribune-redeye-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 58,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.62327,
+    "Latitude": 41.89031
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "435 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60610",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "435 N Michigan Ave",
+     "Chicago, IL 60610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122222444",
+   "display_phone": "(312) 222-2444",
+   "distance": 1455.4991738667768
+  },
+  {
+   "id": "QhwkuLORWM-nmMmicu5WVA",
+   "alias": "wbez-fm-91-5-chicago",
+   "name": "WBEZ-FM 91.5",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wbez-fm-91-5-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 52,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6083922386169,
+    "Latitude": 41.8921508627967
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "848 E Grand Ave",
+    "address2": "",
+    "address3": "Navy Pier",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "848 E Grand Ave",
+     "Navy Pier",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129484600",
+   "display_phone": "(312) 948-4600",
+   "distance": 2362.5658411860773
+  },
+  {
+   "id": "AauzqNrCLRe67JwrqFHY0Q",
+   "alias": "sirius-satelitte-radio-chicago",
+   "name": "Sirius Satelitte Radio",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sirius-satelitte-radio-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 47,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6373825073242,
+    "Latitude": 41.8744277954102
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60689",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60689"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 900.8301210516928
+  },
+  {
+   "id": "y6tv-NkSYZ5qqJNNbuC4BA",
+   "alias": "abc-wls-tv-chicago",
+   "name": "ABC / WLS-TV",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AeUQ380PJ4MaTAz9fxEzsA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/abc-wls-tv-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 47,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6282059224067,
+    "Latitude": 41.8852923443586
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "190 N State St",
+    "address2": "Ste 1100",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "190 N State St",
+     "Ste 1100",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128994000",
+   "display_phone": "(312) 899-4000",
+   "distance": 810.5665197912515
+  },
+  {
+   "id": "HScXuQVThwDy07LUfKGbgQ",
+   "alias": "js-paluch-company-franklin-park-2",
+   "name": "JS Paluch Company",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BGv07RLTclms77pDiA1NYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/js-paluch-company-franklin-park-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.860788,
+    "Latitude": 41.945029
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3708 River Rd",
+    "address2": "Ste 400",
+    "address3": "",
+    "city": "Franklin Park",
+    "zip_code": "60131",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3708 River Rd",
+     "Ste 400",
+     "Franklin Park, IL 60131"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18476789300",
+   "display_phone": "(847) 678-9300",
+   "distance": 20511.647214769342
+  },
+  {
+   "id": "IKBP6xYkDUyW0aGC2yhNIw",
+   "alias": "chicago-sun-times-chicago-3",
+   "name": "Chicago Sun-Times",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DGIS7bO0qpO_c0Hl1azz3Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-sun-times-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 41,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    },
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6568649,
+    "Latitude": 41.8820608
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "30 N Racine Ave",
+    "address2": "Fl 3",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "30 N Racine Ave",
+     "Fl 3",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123213000",
+   "display_phone": "(312) 321-3000",
+   "distance": 2312.8961487523825
+  },
+  {
+   "id": "5zpWzqKpzeL5iXwkAs2s1w",
+   "alias": "nbc-tower-chicago-3",
+   "name": "NBC Tower",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xQgE_Ykj0egJ_j7McCinCw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nbc-tower-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 39,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.62081696031932,
+    "Latitude": 41.89002729330691
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "454 North Cityfront Plaza Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "454 North Cityfront Plaza Dr",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122459666",
+   "display_phone": "(312) 245-9666",
+   "distance": 1520.515824753243
+  },
+  {
+   "id": "G6SOtbB7mk_3ePBCquzqiQ",
+   "alias": "wbbm-newsradio-780-chicago",
+   "name": "WBBM Newsradio 780",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4wrf-EyJylJlDkEQ1hfM8w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wbbm-newsradio-780-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 38,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.622736,
+    "Latitude": 41.885456
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "180 North Stetson",
+    "address2": "Ste 1100",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "180 North Stetson",
+     "Ste 1100",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122023248",
+   "display_phone": "(312) 202-3248",
+   "distance": 1005.5057130217623
+  },
+  {
+   "id": "VJglS3mL1zsviaaYZ2r-Xg",
+   "alias": "wgn-radio-chicago-2",
+   "name": "WGN Radio",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9aQ_1iYkCX9ziLHV7bEJSw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wgn-radio-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 36,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.62024,
+    "Latitude": 41.887281
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "303 East Wacker Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "303 East Wacker Dr",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125917200",
+   "display_phone": "(312) 591-7200",
+   "distance": 1297.775227492993
+  },
+  {
+   "id": "JujAlTgEhYyEnjLIrG9esQ",
+   "alias": "kiss-fm-103-5-chicago",
+   "name": "KISS FM 103.5",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fH-EBLd1BkQZUa6UOPEUgw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kiss-fm-103-5-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 34,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.623023,
+    "Latitude": 41.898796
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "875 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "875 N Michigan Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122555100",
+   "display_phone": "(312) 255-5100",
+   "distance": 2368.8750429798524
+  },
+  {
+   "id": "ZGvez6TiDTYPcBpedsSxrg",
+   "alias": "wlit-93-9-my-fm-chicago",
+   "name": "WLIT 93.9 My FM",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/OAdHrmC8E_cP7vvKUVoalA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wlit-93-9-my-fm-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 34,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.62256615968245,
+    "Latitude": 41.8869943
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "233 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "233 N Michigan Ave",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125919548",
+   "display_phone": "(312) 591-9548",
+   "distance": 1156.181943582347
+  },
+  {
+   "id": "-SoALCgFIICnppHvmhr6Kg",
+   "alias": "cbs-2-chicago-chicago",
+   "name": "CBS 2 Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/f9CAvj4hXROlj_l8x9PH_Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cbs-2-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 32,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.6286093890667,
+    "Latitude": 41.8832952529192
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "22 West Washington St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60602",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "22 West Washington St",
+     "Chicago, IL 60602"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128992222",
+   "display_phone": "(312) 899-2222",
+   "distance": 589.5112981420101
+  },
+  {
+   "id": "RDiYFqxK71Ya0PJDvYb2Fg",
+   "alias": "people-magazine-chicago",
+   "name": "People Magazine",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hGm5S8mWuA18Xfar3Bdbsg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/people-magazine-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 31,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.62313,
+    "Latitude": 41.88514
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "130 E Randolph St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "130 E Randolph St",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123217992",
+   "display_phone": "(312) 321-7992",
+   "distance": 929.9542426955649
+  },
+  {
+   "id": "GHTlUFUpUmn7DJGBjdJegQ",
+   "alias": "wttw-chicago-pbs-chicago",
+   "name": "WTTW - Chicago PBS",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FNHBVlud4lAZUAn9bjbYkg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wttw-chicago-pbs-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 30,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.71689,
+    "Latitude": 41.979691
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5400 N Saint Louis Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60625",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5400 N Saint Louis Ave",
+     "Chicago, IL 60625"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735091111",
+   "display_phone": "(773) 509-1111",
+   "distance": 13398.317640313515
+  },
+  {
+   "id": "eZBhVs3_BxBMpi1lFMu5iQ",
+   "alias": "wdrv-chicago",
+   "name": "WDRV",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yQ6KFaswAyqIVGqsugbJzQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wdrv-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 26,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.623152,
+    "Latitude": 41.898883
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "875 N Michigan Ave",
+    "address2": "Ste 1510",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "875 N Michigan Ave",
+     "Ste 1510",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125919378",
+   "display_phone": "(312) 591-9378",
+   "distance": 2375.581220024074
+  },
+  {
+   "id": "-5at8uvPKS5RPOkZ1R-Yxw",
+   "alias": "svengoolie-chicago",
+   "name": "Svengoolie",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gxOkOI1Y68wscGEOtIz3kw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/svengoolie-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 23,
+   "categories": [
+    {
+     "alias": "massmedia",
+     "title": "Mass Media"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6477355957031,
+    "Latitude": 41.8825988769531
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "26 N Halsted St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60661",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "26 N Halsted St",
+     "Chicago, IL 60661"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1576.8963966453798
+  },
+  {
+   "id": "L37wN5xTRGG7S4eR0hGlbg",
+   "alias": "wluw-88-7-fm-chicago",
+   "name": "WLUW 88.7 FM",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xNSg7nzmXwNZrQfkTuSnYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wluw-88-7-fm-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 23,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6271628623278,
+    "Latitude": 41.8977054595272
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "820 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "820 N Michigan Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735089589",
+   "display_phone": "(773) 508-9589",
+   "distance": 2190.9278756762365
+  },
+  {
+   "id": "Me2nlcrnmHyM50CQqqB1ag",
+   "alias": "jerry-springer-show-chicago",
+   "name": "Jerry Springer Show",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GuOFuEyIkRlrdb62eV-Tsw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jerry-springer-show-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 22,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.65017,
+    "Latitude": 41.8743
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123215350",
+   "display_phone": "(312) 321-5350",
+   "distance": 1809.7026466512912
+  },
+  {
+   "id": "iLMDy2qblAKZ0WHHKT5pqg",
+   "alias": "chic-a-go-go-chicago",
+   "name": "Chic-A-Go-Go!",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7FRPaLqadG7z8rEtaQ2HQw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chic-a-go-go-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 22,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    },
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6487197875977,
+    "Latitude": 41.8770599365234
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "322 S Green St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "322 S Green St",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1577.2989971503916
+  },
+  {
+   "id": "BKm9LrMhrTSTqnXHRS4HiQ",
+   "alias": "wcpt-820-am-chicago",
+   "name": "WCPT 820 AM",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xtizVpjcZGMTEnwi4KZ8ew/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wcpt-820-am-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 21,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.723281,
+    "Latitude": 41.783649
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6012 S Pulaski Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60629",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "6012 S Pulaski Rd",
+     "Chicago, IL 60629"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737920400",
+   "display_phone": "(773) 792-0400",
+   "distance": 13037.27121944068
+  },
+  {
+   "id": "4aHm70MZBsvGmFzNCDPjxg",
+   "alias": "jbtv-music-television-chicago",
+   "name": "JBTV Music Television",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4UZoDjMnWCijgRkz2fQ8og/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jbtv-music-television-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6363525390625,
+    "Latitude": 41.8917922973633
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "318 W Grand Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "318 W Grand Ave",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126702666",
+   "display_phone": "(312) 670-2666",
+   "distance": 1616.6181589907387
+  },
+  {
+   "id": "dWtW2pbB3o97PpdoDEZ1rw",
+   "alias": "101-9fm-the-mix-wtmx-chicago-chicago",
+   "name": "101.9fm The MIX- WTMX Chicago",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/06jIyA77VZZ9M7MH_N7xIA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/101-9fm-the-mix-wtmx-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 19,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.62313,
+    "Latitude": 41.88514
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "130 E Randolph St",
+    "address2": "Ste 2700",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "130 E Randolph St",
+     "Ste 2700",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129464765",
+   "display_phone": "(312) 946-4765",
+   "distance": 929.9542426955649
+  },
+  {
+   "id": "Zoqd6uo6604wzbC6GTMeDw",
+   "alias": "wdcb-90-9-fm-glen-ellyn",
+   "name": "WDCB 90.9 FM",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/R5EzUogAZjBiV4icWXuYCQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wdcb-90-9-fm-glen-ellyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 19,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -88.068816,
+    "Latitude": 41.8436623
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "425 Fawell Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Glen Ellyn",
+    "zip_code": "60137",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "425 Fawell Blvd",
+     "Glen Ellyn, IL 60137"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16309424200",
+   "display_phone": "(630) 942-4200",
+   "distance": 36557.84761109897
+  },
+  {
+   "id": "EjJkAgnEi9LqHa8vnVVPNA",
+   "alias": "nadig-newspapers-chicago-2",
+   "name": "Nadig Newspapers",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nadig-newspapers-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 19,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.7627547085285,
+    "Latitude": 41.9702095538378
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4937 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60630",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4937 N Milwaukee Ave",
+     "Chicago, IL 60630"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732866100",
+   "display_phone": "(773) 286-6100",
+   "distance": 15077.055536990863
+  },
+  {
+   "id": "IiMS4mjO0UuHFkkgZc8GNQ",
+   "alias": "pitchfork-media-chicago",
+   "name": "Pitchfork Media",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pitchfork-media-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 19,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.674,
+    "Latitude": 41.91073
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1834 W N Ave",
+    "address2": "Ste 2",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60626",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1834 W N Ave",
+     "Ste 2",
+     "Chicago, IL 60626"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17733955992",
+   "display_phone": "(773) 395-5992",
+   "distance": 5151.956866397927
+  },
+  {
+   "id": "uAu6_h5L_8dZR5-KxZ-26w",
+   "alias": "chicago-public-media-chicago",
+   "name": "Chicago Public Media",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iEwMgtS40jMf8Lj1y5iMnw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-public-media-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 18,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.60492,
+    "Latitude": 41.891672
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "848 E Grand Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "848 E Grand Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129484600",
+   "display_phone": "(312) 948-4600",
+   "distance": 2553.3563775819825
+  },
+  {
+   "id": "JyBySmguGdQG49rtToKH0g",
+   "alias": "the-score-670-am-chicago",
+   "name": "The Score 670 AM",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/m0bUYozAlYhmu4H4taL8Sg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-score-670-am-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 18,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6214651,
+    "Latitude": 41.89001
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "455 North Cityfront Plz",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60686",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "455 North Cityfront Plz",
+     "Chicago, IL 60686"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126446767",
+   "display_phone": "(312) 644-6767",
+   "distance": 1540.3306524553795
+  },
+  {
+   "id": "O8LXJqd6B84eNUrnd_Ag0A",
+   "alias": "wfmt-general-public-info-chicago",
+   "name": "WFMT General Public Info",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QNtgbawsFmtB-PSabKtZUw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wfmt-general-public-info-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 16,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.7162384986877,
+    "Latitude": 41.9795759210154
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5400 N Saint Louis Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60625",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5400 N Saint Louis Ave",
+     "Chicago, IL 60625"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732792000",
+   "display_phone": "(773) 279-2000",
+   "distance": 13358.606711758694
+  },
+  {
+   "id": "fffBUAdiKVd3h9dna8u1KQ",
+   "alias": "wnur-89-3-fm-evanston",
+   "name": "WNUR 89.3 FM",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bvaCgZqgYYMQ2CqBfKbtsA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wnur-89-3-fm-evanston?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 16,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6737149,
+    "Latitude": 42.0519013
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1920 Campus Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Evanston",
+    "zip_code": "60201",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1920 Campus Dr",
+     "Evanston, IL 60201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18474917101",
+   "display_phone": "(847) 491-7101",
+   "distance": 19726.7342882312
+  },
+  {
+   "id": "Tpshj97drrUWYFFaakn8SQ",
+   "alias": "wls-talkradio-am-890-chicago",
+   "name": "Wls Talkradio Am-890",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wls-talkradio-am-890-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 16,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6281168,
+    "Latitude": 41.8853886
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "190 N State St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "190 N State St",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125918900",
+   "display_phone": "(312) 591-8900",
+   "distance": 814.601869360109
+  },
+  {
+   "id": "Qr-utdt9e2C_8vEE44rkYg",
+   "alias": "radio-accounting-service-chicago",
+   "name": "Radio Accounting Service",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/si9tlF2G2NtZTyyoRBYukA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/radio-accounting-service-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 16,
+   "categories": [
+    {
+     "alias": "advertising",
+     "title": "Advertising"
+    },
+    {
+     "alias": "marketing",
+     "title": "Marketing"
+    },
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.7121276855469,
+    "Latitude": 41.9906234741211
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3312 W Peterson Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60659",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3312 W Peterson Ave",
+     "Chicago, IL 60659"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18006211343",
+   "display_phone": "(800) 621-1343",
+   "distance": 14245.637927493202
+  },
+  {
+   "id": "DnKUsgvfwr7SQOaszTJGGA",
+   "alias": "chicago-magazine-chicago",
+   "name": "Chicago Magazine",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-magazine-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 15,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6233292,
+    "Latitude": 41.8903389
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "435 N Michigan Ave",
+    "address2": "Ste 1100",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "435 N Michigan Ave",
+     "Ste 1100",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122228999",
+   "display_phone": "(312) 222-8999",
+   "distance": 1455.4991738664085
+  },
+  {
+   "id": "JdWKoJqJ-oXhMFkCJ_HvOw",
+   "alias": "wnua-95-5-chicago",
+   "name": "WNUA 95.5",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/e_6mN74yT79JkXJsbgx7kQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wnua-95-5-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 14,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.623088,
+    "Latitude": 41.887083
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "233 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "233 N Michigan Ave",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125402000",
+   "display_phone": "(312) 540-2000",
+   "distance": 1143.016080202861
+  },
+  {
+   "id": "_zGnog4aBsgh7v9K8ujNMw",
+   "alias": "wfld-tv-fox-television-stations-chicago",
+   "name": "Wfld Tv-Fox Television Stations",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Fr36gMhiOy1TF3yVn9o0dg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wfld-tv-fox-television-stations-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 14,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.623424,
+    "Latitude": 41.886096
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "205 N Michigan Ave Lbby 2",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "205 N Michigan Ave Lbby 2",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125655532",
+   "display_phone": "(312) 565-5532",
+   "distance": 1033.9956896598123
+  },
+  {
+   "id": "IY2zuBkaIXlpoIzgWYmzFg",
+   "alias": "b-96-wbbm-fm-chicago",
+   "name": "B-96 Wbbm FM",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2KNmADxfq8ufJpuC6KoFBw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/b-96-wbbm-fm-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6224249,
+    "Latitude": 41.8853378
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "180 N Stetson St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "180 N Stetson St",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128619600",
+   "display_phone": "(312) 861-9600",
+   "distance": 1004.0271964447603
+  },
+  {
+   "id": "E__ReLEcFQKqt0cEidXP3A",
+   "alias": "the-printing-store-oak-park",
+   "name": "The Printing Store",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-printing-store-oak-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.790401,
+    "Latitude": 41.879499
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "621 Madison St",
+    "address2": "",
+    "address3": "",
+    "city": "Oak Park",
+    "zip_code": "60302",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "621 Madison St",
+     "Oak Park, IL 60302"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17083833638",
+   "display_phone": "(708) 383-3638",
+   "distance": 13297.233085716967
+  }
+ ],
+ "total": 227,
+ "region": {
+  "center": {
+   "longitude": -87.6298,
+   "Latitude": 41.8781
+  }
+ }
+}

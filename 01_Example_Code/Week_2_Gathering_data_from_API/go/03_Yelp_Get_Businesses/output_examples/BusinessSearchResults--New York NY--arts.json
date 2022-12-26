@@ -1,0 +1,1832 @@
+{
+ "businesses": [
+  {
+   "id": "XzUW9MvEGOFs9_aNj11j2Q",
+   "alias": "dinosaur-bar-b-que-new-york-4",
+   "name": "Dinosaur Bar-B-Que",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZKEmZEp5a5dUYIP_LW_IAw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dinosaur-bar-b-que-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3389,
+   "categories": [
+    {
+     "alias": "bbq",
+     "title": "Barbeque"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9608729269837,
+    "Latitude": 40.818098338924
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "700 W 125th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10027",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "700 W 125th St",
+     "New York, NY 10027"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126941777",
+   "display_phone": "(212) 694-1777",
+   "distance": 12309.985811714483
+  },
+  {
+   "id": "jVncyqXwlx_D9f2xZn05tg",
+   "alias": "the-metropolitan-museum-of-art-new-york-3",
+   "name": "The Metropolitan Museum of Art",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NcHMjAQ1mgaPKwQEEOLM_A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-metropolitan-museum-of-art-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3298,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.963245,
+    "Latitude": 40.779449
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1000 Fifth Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10028",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1000 Fifth Ave",
+     "New York, NY 10028"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125357710",
+   "display_phone": "(212) 535-7710",
+   "distance": 8239.904938064268
+  },
+  {
+   "id": "IH0vUeLREFC1D_TuNXge5w",
+   "alias": "american-museum-of-natural-history-new-york-7",
+   "name": "American Museum of Natural History",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZesAtfqK1ojCwr1WeIQE3w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-museum-of-natural-history-new-york-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2299,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.97399475214957,
+    "Latitude": 40.78138382121182
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "200 Central Park W",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10024",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "200 Central Park W",
+     "New York, NY 10024"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127695100",
+   "display_phone": "(212) 769-5100",
+   "distance": 8088.734419368845
+  },
+  {
+   "id": "g2IUVjeIwx5x6x9u1cLS6w",
+   "alias": "empire-state-building-new-york-2",
+   "name": "Empire State Building",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bOoNS6Mb1oP3l5OOc7Zxrg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/empire-state-building-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2150,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    },
+    {
+     "alias": "observatories",
+     "title": "Observatories"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.985669,
+    "Latitude": 40.748448
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "20 W 34th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10118",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "20 W 34th St",
+     "New York, NY 10118"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127363100",
+   "display_phone": "(212) 736-3100",
+   "distance": 4318.2275003555715
+  },
+  {
+   "id": "OUPyV2WKYETuprScXSAtuA",
+   "alias": "the-museum-of-modern-art-new-york-3",
+   "name": "The Museum of Modern Art",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZH1CKc2eiHihovFfww-WMw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-museum-of-modern-art-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2117,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.977625,
+    "Latitude": 40.761441
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11 West 53rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "11 West 53rd St",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127089400",
+   "display_phone": "(212) 708-9400",
+   "distance": 5913.430985574114
+  },
+  {
+   "id": "36krOhexcsA8Uetoq52A7g",
+   "alias": "top-of-the-rock-new-york",
+   "name": "Top of the Rock",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/REKZQxIKDbyThfGxSzRcCQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/top-of-the-rock-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1730,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    },
+    {
+     "alias": "observatories",
+     "title": "Observatories"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9794036288354,
+    "Latitude": 40.7593755
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "30 Rockefeller Plz",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10112",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "30 Rockefeller Plz",
+     "New York, NY 10112"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18776927625",
+   "display_phone": "(877) 692-7625",
+   "distance": 5642.967247165755
+  },
+  {
+   "id": "kViIWJFfAfWPpJOwAXBKGA",
+   "alias": "national-september-11-memorial-museum-new-york",
+   "name": "National September 11 Memorial Museum",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5Kr-uhwE5k_Tt9CvGfSGpw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/national-september-11-memorial-museum-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1536,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.01247659038673,
+    "Latitude": 40.71142179527282
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "180 Greenwich St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10007",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "180 Greenwich St",
+     "New York, NY 10007"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122665211",
+   "display_phone": "(212) 266-5211",
+   "distance": 566.9846271315478
+  },
+  {
+   "id": "uH56KMuTI_2SBYZ7Wa_hqw",
+   "alias": "yankee-stadium-bronx-3",
+   "name": "Yankee Stadium",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4aHC1ILNsMJvNFbKXCbguA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/yankee-stadium-bronx-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1474,
+   "categories": [
+    {
+     "alias": "stadiumsarenas",
+     "title": "Stadiums \u0026 Arenas"
+    },
+    {
+     "alias": "sportsteams",
+     "title": "Professional Sports Teams"
+    },
+    {
+     "alias": "ticketsales",
+     "title": "Ticket Sales"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.926173,
+    "Latitude": 40.829659
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 E 161st St",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10451",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1 E 161st St",
+     "Bronx, NY 10451"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129265337",
+   "display_phone": "(212) 926-5337",
+   "distance": 14629.960673753505
+  },
+  {
+   "id": "-YPaO4YpJMlagrAwlkhpfA",
+   "alias": "museum-of-sex-new-york",
+   "name": "Museum of Sex",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DKR1jY9FDooNU8M8sTP1Qw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/museum-of-sex-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1420,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.98742,
+    "Latitude": 40.744086
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "233 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "233 5th Ave",
+     "New York, NY 10016"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126896337",
+   "display_phone": "(212) 689-6337",
+   "distance": 3814.9113106384425
+  },
+  {
+   "id": "0xyJkg_fveS0JdP68TH2qQ",
+   "alias": "sleep-no-more-new-york",
+   "name": "Sleep No More",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gXn6Sx7wQsYgawr7Tal_xQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sleep-no-more-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1328,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.00379,
+    "Latitude": 40.75072
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "530 W 27th St",
+    "address2": "",
+    "address3": "McKittrick Hotel",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "530 W 27th St",
+     "McKittrick Hotel",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129041880",
+   "display_phone": "(212) 904-1880",
+   "distance": 4205.574121705359
+  },
+  {
+   "id": "ljTc01CCZP73g6qqO7lqfQ",
+   "alias": "comedy-cellar-new-york",
+   "name": "Comedy Cellar",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qPxD_oRGBI7Bo49Gqxq_LA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/comedy-cellar-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1237,
+   "categories": [
+    {
+     "alias": "comedyclubs",
+     "title": "Comedy Clubs"
+    },
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.00058,
+    "Latitude": 40.73021
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "117 MacDougal St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "117 MacDougal St",
+     "New York, NY 10012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122543480",
+   "display_phone": "(212) 254-3480",
+   "distance": 1987.8926198076015
+  },
+  {
+   "id": "Ecf8YEqNzom53Y93Ytpi8g",
+   "alias": "madison-square-garden-new-york",
+   "name": "Madison Square Garden",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2VlTIBbutTaGP4KrjOOiLw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/madison-square-garden-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1141,
+   "categories": [
+    {
+     "alias": "stadiumsarenas",
+     "title": "Stadiums \u0026 Arenas"
+    },
+    {
+     "alias": "ticketsales",
+     "title": "Ticket Sales"
+    },
+    {
+     "alias": "sportsteams",
+     "title": "Professional Sports Teams"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9934435427789,
+    "Latitude": 40.75046014956
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4 Pennsylvania Plz",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "4 Pennsylvania Plz",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124656000",
+   "display_phone": "(212) 465-6000",
+   "distance": 4319.200810624089
+  },
+  {
+   "id": "spQMbvAokpUrgrDCSfYSgw",
+   "alias": "citi-field-corona-3",
+   "name": "Citi Field",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lZYRRhokhTAvoj4LOyw-jg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/citi-field-corona-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1120,
+   "categories": [
+    {
+     "alias": "stadiumsarenas",
+     "title": "Stadiums \u0026 Arenas"
+    },
+    {
+     "alias": "baseballfields",
+     "title": "Baseball Fields"
+    },
+    {
+     "alias": "parking",
+     "title": "Parking"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.84582197651841,
+    "Latitude": 40.757087635052315
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "123-01 Roosevelt Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Corona",
+    "zip_code": "11368",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "123-01 Roosevelt Ave",
+     "Corona, NY 11368"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18668001275",
+   "display_phone": "(866) 800-1275",
+   "distance": 14366.406701722519
+  },
+  {
+   "id": "UPOtComj8_OlNLSmd3zh1w",
+   "alias": "barcade-brooklyn",
+   "name": "Barcade",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yiAJtEQZ2BHsIvRSXgYvFg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barcade-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1078,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.95113,
+    "Latitude": 40.71204
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "388 Union Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11211",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "388 Union Ave",
+     "Brooklyn, NY 11211"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183026464",
+   "display_phone": "(718) 302-6464",
+   "distance": 4630.8633902748015
+  },
+  {
+   "id": "jv0Gu4wXNuyaoJMBOXqfVQ",
+   "alias": "guggenheim-museum-new-york",
+   "name": "Guggenheim Museum",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qqZVaYWzXZ8eLJXljssOTQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/guggenheim-museum-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1070,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.95912,
+    "Latitude": 40.78301
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1071 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10128",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1071 5th Ave",
+     "New York, NY 10128"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124233500",
+   "display_phone": "(212) 423-3500",
+   "distance": 8777.995826634313
+  },
+  {
+   "id": "JOr11q2DKWezsDNTTTtS8A",
+   "alias": "barclays-center-brooklyn-2",
+   "name": "Barclays Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/J0dXZxlac_F8WylTKWpeSQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barclays-center-brooklyn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1068,
+   "categories": [
+    {
+     "alias": "stadiumsarenas",
+     "title": "Stadiums \u0026 Arenas"
+    },
+    {
+     "alias": "sportsteams",
+     "title": "Professional Sports Teams"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.97541895479644,
+    "Latitude": 40.68265766635774
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "620 Atlantic Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11217",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "620 Atlantic Ave",
+     "Brooklyn, NY 11217"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19176186700",
+   "display_phone": "(917) 618-6700",
+   "distance": 4228.5028452289425
+  },
+  {
+   "id": "OPL90jsXEt6XpbxI796A3g",
+   "alias": "amc-empire-25-new-york",
+   "name": "AMC Empire 25",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/j5Amk5ET-M8rMpgBNuSX_A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-empire-25-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1012,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.988874,
+    "Latitude": 40.756362
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "234 West 42nd Street",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "234 West 42nd Street",
+     "New York, NY 10036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123982597",
+   "display_phone": "(212) 398-2597",
+   "distance": 5054.231393336265
+  },
+  {
+   "id": "ueUXI1l4VfMLuoIEwyxZ6A",
+   "alias": "dave-and-busters-new-york-6",
+   "name": "Dave \u0026 Buster's",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GyziJ6aPOGMtsVTTA53P0g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dave-and-busters-new-york-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 990,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    },
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.988688769321,
+    "Latitude": 40.7565097115657
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "234 W 42nd St",
+    "address2": "Fl 3",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "234 W 42nd St",
+     "Fl 3",
+     "New York, NY 10036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16464952015",
+   "display_phone": "(646) 495-2015",
+   "distance": 5074.438236656873
+  },
+  {
+   "id": "IMA18MENFeqdZc5YVh8njg",
+   "alias": "brooklyn-botanic-garden-brooklyn-2",
+   "name": "Brooklyn Botanic Garden",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gVyOrt9ixKc7CJygr5tJYg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brooklyn-botanic-garden-brooklyn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 988,
+   "categories": [
+    {
+     "alias": "gardens",
+     "title": "Botanical Gardens"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9633,
+    "Latitude": 40.6692899
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "990 Washington Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11225",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "990 Washington Ave",
+     "Brooklyn, NY 11225"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17186237200",
+   "display_phone": "(718) 623-7200",
+   "distance": 6057.43054717065
+  },
+  {
+   "id": "uURLk6br8ifI63dqbPnzjA",
+   "alias": "webster-hall-new-york",
+   "name": "Webster Hall",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FxaNC4ohKwAfTkChtRPH6g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/webster-hall-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 987,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9891926,
+    "Latitude": 40.7316609
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "125 E 11th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "125 E 11th St",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2530.727608877022
+  },
+  {
+   "id": "3Ic4C60oSH1cV2jknUXSjQ",
+   "alias": "the-flatiron-room-new-york-3",
+   "name": "The Flatiron Room",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Tq15tVlU7siEXcAkLhBBbg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-flatiron-room-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 942,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "jazzandblues",
+     "title": "Jazz \u0026 Blues"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.99049,
+    "Latitude": 40.74452
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "37 W 26th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "37 W 26th St",
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127253860",
+   "display_phone": "(212) 725-3860",
+   "distance": 3770.367059391322
+  },
+  {
+   "id": "79vCbIPpegECCPrn3bNpiQ",
+   "alias": "pianos-new-york",
+   "name": "Pianos",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t742DSezQuqHomTc5SfRHg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pianos-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 941,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.98773098451653,
+    "Latitude": 40.721047071126954
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "158 Ludlow St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "158 Ludlow St",
+     "New York, NY 10002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125053733",
+   "display_phone": "(212) 505-3733",
+   "distance": 1792.0980300809201
+  },
+  {
+   "id": "HeR2gHJbP5CN69UsVCtMGg",
+   "alias": "new-york-botanical-garden-bronx",
+   "name": "New York Botanical Garden",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Cv-mptyw_j8If2tvF2DFaw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/new-york-botanical-garden-bronx?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 906,
+   "categories": [
+    {
+     "alias": "gardens",
+     "title": "Botanical Gardens"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.8769194420523,
+    "Latitude": 40.8624081105702
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2900 Southern Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10458",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2900 Southern Blvd",
+     "Bronx, NY 10458"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188178700",
+   "display_phone": "(718) 817-8700",
+   "distance": 19870.61747508238
+  },
+  {
+   "id": "NMm7eeQoXwzGfAGFuCAteA",
+   "alias": "amc-lincoln-square-13-new-york",
+   "name": "AMC Lincoln Square 13",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-IqZqk1db5amokU6HRnIYw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-lincoln-square-13-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 821,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9818779132687,
+    "Latitude": 40.7750416132642
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1998 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10023",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1998 Broadway",
+     "New York, NY 10023"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123365020",
+   "display_phone": "(212) 336-5020",
+   "distance": 7213.1240237807615
+  },
+  {
+   "id": "9z1GDpTfD3ubVZSioPu_-A",
+   "alias": "wicked-new-york-2",
+   "name": "Wicked",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CPM1TysP_nLaEyYJ3luElA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wicked-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 816,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.98467985302078,
+    "Latitude": 40.76232096119672
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "222 W 51st St",
+    "address2": "",
+    "address3": "Gershwin Theatre",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "222 W 51st St",
+     "Gershwin Theatre",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18007554000",
+   "display_phone": "(800) 755-4000",
+   "distance": 5792.054760255658
+  },
+  {
+   "id": "S3T5lIRgXv2zZF964XjIiA",
+   "alias": "terminal-5-new-york",
+   "name": "Terminal 5",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jVA2vkAGywlHlvy9d9kstQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/terminal-5-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 813,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9927673339844,
+    "Latitude": 40.7697105407715
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "610 W 56th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "610 W 56th St",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125826600",
+   "display_phone": "(212) 582-6600",
+   "distance": 6426.588784867192
+  },
+  {
+   "id": "nfaS-7o4ZrVdsdqhZHnksQ",
+   "alias": "alamo-drafthouse-cinema-downtown-brooklyn-brooklyn",
+   "name": "Alamo Drafthouse Cinema Downtown Brooklyn",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/naNiZaWBBNMyldawm0_OLQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alamo-drafthouse-cinema-downtown-brooklyn-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 774,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "dinnertheater",
+     "title": "Dinner Theater"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9832732500862,
+    "Latitude": 40.6907477441643
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "445 Albee Square West",
+    "address2": "Suite 4-400",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "445 Albee Square West",
+     "Suite 4-400",
+     "Brooklyn, NY 11201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17185132547",
+   "display_phone": "(718) 513-2547",
+   "distance": 3111.7794325885975
+  },
+  {
+   "id": "210LxcDl5dXlYOMlIUmEFQ",
+   "alias": "lips-new-york-new-york-2",
+   "name": "Lips - New York",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/83x8G3UlFNQrCJkCvJuYWw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lips-new-york-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 765,
+   "categories": [
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "cabaret",
+     "title": "Cabaret"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.96691,
+    "Latitude": 40.75923
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "227 E 56th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "227 E 56th St",
+     "New York, NY 10022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126757710",
+   "display_phone": "(212) 675-7710",
+   "distance": 6138.326780932101
+  },
+  {
+   "id": "V2moAvUHJARiEXp6YngC3w",
+   "alias": "one-world-observatory-new-york",
+   "name": "One World Observatory",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VRDmdf2LSCdoLwXok4GJqA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/one-world-observatory-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 764,
+   "categories": [
+    {
+     "alias": "observatories",
+     "title": "Observatories"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.0131694239426,
+    "Latitude": 40.71305802279098
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "117 West St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10007",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "117 West St",
+     "New York, NY 10007"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126024000",
+   "display_phone": "(212) 602-4000",
+   "distance": 604.9501437770241
+  },
+  {
+   "id": "aNAroN3ohGjhlkFHNs1tuQ",
+   "alias": "the-book-of-mormon-new-york",
+   "name": "The Book of Mormon",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jTwDSKkgZnA6FvMlsonJTA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-book-of-mormon-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 758,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.985605,
+    "Latitude": 40.761333
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "230 W 49th St",
+    "address2": "",
+    "address3": "Eugene O'Neill Theatre",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "230 W 49th St",
+     "Eugene O'Neill Theatre",
+     "New York, NY 10036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122396200",
+   "display_phone": "(212) 239-6200",
+   "distance": 5663.587015258614
+  },
+  {
+   "id": "6BnU1pAeE2Urlx3x4ANigQ",
+   "alias": "the-met-cloisters-new-york",
+   "name": "The Met Cloisters",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qWPaoUxyq1zLU14qQCqisg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-met-cloisters-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 748,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9315730494599,
+    "Latitude": 40.8649766228154
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "99 Margaret Corbin Dr",
+    "address2": "",
+    "address3": "Fort Tryon Park",
+    "city": "New York",
+    "zip_code": "10040",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "99 Margaret Corbin Dr",
+     "Fort Tryon Park",
+     "New York, NY 10040"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129233700",
+   "display_phone": "(212) 923-3700",
+   "distance": 18044.100711222567
+  },
+  {
+   "id": "4lQ6gP64Ay-Rt8hBLV2a9g",
+   "alias": "alamo-drafthouse-cinema-yonkers-yonkers",
+   "name": "Alamo Drafthouse Cinema Yonkers",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FtxWfCJA69CyVMS5X90gQw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alamo-drafthouse-cinema-yonkers-yonkers?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 732,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "dinnertheater",
+     "title": "Dinner Theater"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.8279335,
+    "Latitude": 40.9827317
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "2548 Central Park Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Yonkers",
+    "zip_code": "10710",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2548 Central Park Ave",
+     "Yonkers, NY 10710"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19142263082",
+   "display_phone": "(914) 226-3082",
+   "distance": 33660.70625295506
+  },
+  {
+   "id": "bUpeNcz4-SWnhIKqSKTVMQ",
+   "alias": "tenement-museum-new-york-2",
+   "name": "Tenement Museum",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/L_bC8PffsnZVZHGLNU_lYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tenement-museum-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 725,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "historicaltours",
+     "title": "Historical Tours"
+    },
+    {
+     "alias": "walkingtours",
+     "title": "Walking Tours"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.98998,
+    "Latitude": 40.71883
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "103 Orchard St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "103 Orchard St",
+     "New York, NY 10002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18779753786",
+   "display_phone": "(877) 975-3786",
+   "distance": 1503.71542129048
+  },
+  {
+   "id": "c1onPljpeivCbdgYisVWNw",
+   "alias": "nitehawk-cinema-brooklyn",
+   "name": "Nitehawk Cinema",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_8iAKa9hzSwFpM7InmRDbw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nitehawk-cinema-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 719,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.962473,
+    "Latitude": 40.716025
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "136 Metropolitan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11249",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "136 Metropolitan Ave",
+     "Brooklyn, NY 11249"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16469639288",
+   "display_phone": "(646) 963-9288",
+   "distance": 3686.0432251337497
+  },
+  {
+   "id": "3qG36gvrX9V1Jm8FqDkBQA",
+   "alias": "the-red-cadillac-union",
+   "name": "The Red Cadillac",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hsFSRiyplCqQeSr961uqmQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-red-cadillac-union?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 715,
+   "categories": [
+    {
+     "alias": "mexican",
+     "title": "Mexican"
+    },
+    {
+     "alias": "tex-mex",
+     "title": "Tex-Mex"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.281336,
+    "Latitude": 40.698861
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "2258 Morris Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Union",
+    "zip_code": "07083",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "2258 Morris Ave",
+     "Union, NJ 07083"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19083498411",
+   "display_phone": "(908) 349-8411",
+   "distance": 23260.644895390054
+  },
+  {
+   "id": "_LF3ULe-5TI92CTJcWEz5g",
+   "alias": "south-house-jersey-city-3",
+   "name": "South House",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/y7JgSDBlI9hpOxDezWwpeA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/south-house-jersey-city-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 703,
+   "categories": [
+    {
+     "alias": "southern",
+     "title": "Southern"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.0442,
+    "Latitude": 40.7205
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "149 Newark Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Jersey City",
+    "zip_code": "07302",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "149 Newark Ave",
+     "Jersey City, NJ 07302"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12012091316",
+   "display_phone": "(201) 209-1316",
+   "distance": 3331.383425417229
+  },
+  {
+   "id": "Wy010IeikcMCGxL-leLZFA",
+   "alias": "brooklyn-museum-brooklyn-2",
+   "name": "Brooklyn Museum",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WHsKZQpH3Nvw8mQ3G2EZ7Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brooklyn-museum-brooklyn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 699,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.96363194312516,
+    "Latitude": 40.67122245416281
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "200 Eastern Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11238",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "200 Eastern Pkwy",
+     "Brooklyn, NY 11238"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17186385000",
+   "display_phone": "(718) 638-5000",
+   "distance": 5842.414129895862
+  },
+  {
+   "id": "Ndem0ydCV03xpoMduv8tkQ",
+   "alias": "ipic-new-york-city-new-york",
+   "name": "IPIC New York City",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yv6iY5FS_JvgsgHmLwUVoA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ipic-new-york-city-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 688,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "dinnertheater",
+     "title": "Dinner Theater"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.00341904318263,
+    "Latitude": 40.70675228764969
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11 Fulton St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10038",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "11 Fulton St",
+     "New York, NY 10038"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127768272",
+   "display_phone": "(212) 776-8272",
+   "distance": 706.7864167000071
+  },
+  {
+   "id": "KkhpageuuLY53qdyicOL1g",
+   "alias": "regal-union-square-new-york",
+   "name": "Regal Union Square",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7TK2EbDGjAgIqm9D-byqMg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/regal-union-square-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 683,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.990753,
+    "Latitude": 40.734137
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "850 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "850 Broadway",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18444627342",
+   "display_phone": "(844) 462-7342",
+   "distance": 2698.141910194713
+  },
+  {
+   "id": "l_RAv09V67j-Hm9dyZxWhw",
+   "alias": "tomi-jazz-new-york",
+   "name": "Tomi Jazz",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5wcFi9ZUrPeb-qYE-l2CKw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tomi-jazz-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 681,
+   "categories": [
+    {
+     "alias": "japanese",
+     "title": "Japanese"
+    },
+    {
+     "alias": "jazzandblues",
+     "title": "Jazz \u0026 Blues"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.96774,
+    "Latitude": 40.75725
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "239 E 53rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "239 E 53rd St",
+     "New York, NY 10022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16464971254",
+   "display_phone": "(646) 497-1254",
+   "distance": 5894.36996287928
+  }
+ ],
+ "total": 5100,
+ "region": {
+  "center": {
+   "longitude": -74.006,
+   "Latitude": 40.7128
+  }
+ }
+}

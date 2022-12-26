@@ -1,0 +1,1869 @@
+{
+ "businesses": [
+  {
+   "id": "6LfqlrbkpjZt83bEMZWq7A",
+   "alias": "asiasf-san-francisco",
+   "name": "AsiaSF",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/j0EMMcvTEdawrdqI4iihJA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/asiasf-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1933,
+   "categories": [
+    {
+     "alias": "asianfusion",
+     "title": "Asian Fusion"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.412817,
+    "Latitude": 37.775035
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "201 9th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "201 9th St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152552742",
+   "display_phone": "(415) 255-2742",
+   "distance": 578.7904238940345
+  },
+  {
+   "id": "KXSWiM3g-yPoBhmsxiX-Kw",
+   "alias": "temple-nightclub-san-francisco-2",
+   "name": "Temple Nightclub",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6uo-iBkFKeYP35VdDyy4gA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/temple-nightclub-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1750,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.397241,
+    "Latitude": 37.787965
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "540 Howard St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "540 Howard St",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158519551",
+   "display_phone": "(415) 851-9551",
+   "distance": 2431.8435975985353
+  },
+  {
+   "id": "SEZpdigGSqVNWnyANNIMeA",
+   "alias": "butter-san-francisco-4",
+   "name": "Butter",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Nj20MiNRZ27SaKFop2FnxQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/butter-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1150,
+   "categories": [
+    {
+     "alias": "divebars",
+     "title": "Dive Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "karaoke",
+     "title": "Karaoke"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.413343,
+    "Latitude": 37.771019
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "354 11th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "354 11th St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158635964",
+   "display_phone": "(415) 863-5964",
+   "distance": 685.3103408844836
+  },
+  {
+   "id": "2_LMFvnu6JFdFAq8-WLVYw",
+   "alias": "harlot-san-francisco",
+   "name": "Harlot",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HZYxFbSx_mE8JI0x-Kj4yg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/harlot-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 993,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.397916540504,
+    "Latitude": 37.7887161076069
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "46 Minna St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "46 Minna St",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152444222",
+   "display_phone": "(415) 244-4222",
+   "distance": 2403.3816810565786
+  },
+  {
+   "id": "6RD33qPwBS6j3ggo84J4iA",
+   "alias": "bissap-baobab-san-francisco-3",
+   "name": "Bissap Baobab",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qCw4-6Zm5C3AHHvVacS_Xw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bissap-baobab-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 906,
+   "categories": [
+    {
+     "alias": "senegalese",
+     "title": "Senegalese"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.419098,
+    "Latitude": 37.761095
+   },
+   "transactions": [
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "2243 Mission St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2243 Mission St",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158269287",
+   "display_phone": "(415) 826-9287",
+   "distance": 1532.0662290872704
+  },
+  {
+   "id": "xGaaM-b7Xcs3Y6X2O_H9uw",
+   "alias": "dna-lounge-san-francisco",
+   "name": "DNA Lounge",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZPw0PfLvksa6Z7cdZQP1Bw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dna-lounge-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 833,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.41271,
+    "Latitude": 37.77098
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "375 11th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "375 11th St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156261409",
+   "display_phone": "(415) 626-1409",
+   "distance": 731.3045875406596
+  },
+  {
+   "id": "F877QW8fR8CKIdPBWKyzLg",
+   "alias": "holy-cow-nightclub-san-francisco-2",
+   "name": "Holy Cow Nightclub",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mvfrJ5jYDGTs179hqVEPvQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/holy-cow-nightclub-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 752,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.4144158,
+    "Latitude": 37.7713955
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1535 Folsom St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1535 Folsom St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157577560",
+   "display_phone": "(415) 757-7560",
+   "distance": 586.3133236289469
+  },
+  {
+   "id": "VnvpAxMoY3JfmzYUtX4VZA",
+   "alias": "the-patio-palo-alto",
+   "name": "The Patio",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TRNrQKY83AqgGyLQA5YWSQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-patio-palo-alto?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 738,
+   "categories": [
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.163948059082,
+    "Latitude": 37.4450645446777
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "412 Emerson St",
+    "address2": "",
+    "address3": "",
+    "city": "Palo Alto",
+    "zip_code": "94301",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "412 Emerson St",
+     "Palo Alto, CA 94301"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16503222575",
+   "display_phone": "(650) 322-2575",
+   "distance": 43020.983827872704
+  },
+  {
+   "id": "h7277Zjd676myyn7n3EOjw",
+   "alias": "madrone-art-bar-san-francisco",
+   "name": "Madrone Art Bar",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DnguksiOAI7GLW907hcZQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/madrone-art-bar-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 734,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.437362670898,
+    "Latitude": 37.7742233276367
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "500 Divisadero St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94117",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "500 Divisadero St",
+     "San Francisco, CA 94117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152410202",
+   "display_phone": "(415) 241-0202",
+   "distance": 1583.063453906356
+  },
+  {
+   "id": "n1I0P_l-5J8yIEueblFWLw",
+   "alias": "1015-folsom-san-francisco-4",
+   "name": "1015 Folsom",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TwI3FwarKQ4n3aetJj8VBA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/1015-folsom-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 715,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.4058001,
+    "Latitude": 37.77812600992125
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1015 Folsom St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1015 Folsom St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159911015",
+   "display_phone": "(415) 991-1015",
+   "distance": 1247.949097385763
+  },
+  {
+   "id": "uXIXd10crfSV8JJi-efHeA",
+   "alias": "mayes-oyster-house-san-francisco",
+   "name": "Mayes Oyster House",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fazWYps1HB4Yg9Z7OK8ETA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mayes-oyster-house-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 713,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.4203981,
+    "Latitude": 37.7883142
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1233 Polk St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1233 Polk St",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158851233",
+   "display_phone": "(415) 885-1233",
+   "distance": 1494.1662667359321
+  },
+  {
+   "id": "_2e7KMszUpNP_jHS--pBaQ",
+   "alias": "the-grand-san-francisco",
+   "name": "The Grand",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yqvlR9-y2ChLw-Or6fe3Dw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-grand-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 700,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.3979,
+    "Latitude": 37.779101
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "520 4th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94107",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "520 4th St",
+     "San Francisco, CA 94107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156360029",
+   "display_phone": "(415) 636-0029",
+   "distance": 1946.4857764285896
+  },
+  {
+   "id": "jTM5X0x35rgdxFwRsT0C_A",
+   "alias": "beauty-bar-san-francisco-2",
+   "name": "Beauty Bar",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/blqN_fwXaFHMtubbJlhwuQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beauty-bar-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 682,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.4190951,
+    "Latitude": 37.7603401
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2299 Mission St",
+    "address2": "",
+    "address3": "Beauty Bar",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2299 Mission St",
+     "Beauty Bar",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152850323",
+   "display_phone": "(415) 285-0323",
+   "distance": 1616.5364482999753
+  },
+  {
+   "id": "lOENC0d2BCi9AyBjc_1BHA",
+   "alias": "raven-bar-san-francisco",
+   "name": "Raven Bar",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/i2m4tomdEUu7n-zPLwuEdQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/raven-bar-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 655,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.40876,
+    "Latitude": 37.77567
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1151 Folsom St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1151 Folsom St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154311152",
+   "display_phone": "(415) 431-1152",
+   "distance": 939.7821650144641
+  },
+  {
+   "id": "IdwiynZPVNTijXGBrwC6lA",
+   "alias": "the-endup-san-francisco",
+   "name": "The EndUp",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1qeRe_ScsC1mufEtT2REXg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-endup-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 624,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.4038475,
+    "Latitude": 37.777307
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "401 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "401 6th St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158961075",
+   "display_phone": "(415) 896-1075",
+   "distance": 1398.799394252168
+  },
+  {
+   "id": "_KsiqRiYtmRaqltOA96QZw",
+   "alias": "bootie-mashup-sf-san-francisco",
+   "name": "Bootie Mashup: SF",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8rUbUw27k9Ss7RbItB2YHQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bootie-mashup-sf-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 553,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.412704229355,
+    "Latitude": 37.7709861237108
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "375 11th St",
+    "address2": "",
+    "address3": "DNA Lounge",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "375 11th St",
+     "DNA Lounge",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 731.9490617408038
+  },
+  {
+   "id": "9kdKmkl5kejjMnzCfnkUAA",
+   "alias": "rickshaw-stop-san-francisco",
+   "name": "Rickshaw Stop",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/U0-CdGfrQlNk0HvxaF-G2Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rickshaw-stop-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 528,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.420457,
+    "Latitude": 37.776087
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "155 Fell St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "155 Fell St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158612011",
+   "display_phone": "(415) 861-2011",
+   "distance": 161.404171978809
+  },
+  {
+   "id": "INrzQm-dyoXN2zE--NarKw",
+   "alias": "fort-mckinley-restaurant-bar-and-banquet-south-san-francisco",
+   "name": "Fort McKinley Restaurant, Bar \u0026 Banquet",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aBwNcL-qn8AgbnHfnK_Vfg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fort-mckinley-restaurant-bar-and-banquet-south-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 502,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "filipino",
+     "title": "Filipino"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.425199635327,
+    "Latitude": 37.6414008396949
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "101 Brentwood Dr",
+    "address2": "",
+    "address3": "",
+    "city": "South San Francisco",
+    "zip_code": "94080",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "101 Brentwood Dr",
+     "South San Francisco, CA 94080"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16508712222",
+   "display_phone": "(650) 871-2222",
+   "distance": 14853.177864166222
+  },
+  {
+   "id": "-HPgH48c76R8DnoWaZHa0w",
+   "alias": "cat-club-san-francisco",
+   "name": "Cat Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7I0OfPgjxQYSA7DAkHV3nQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cat-club-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 485,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.409873082803,
+    "Latitude": 37.7753433573553
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1190 Folsom St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1190 Folsom St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157038965",
+   "display_phone": "(415) 703-8965",
+   "distance": 838.777590268299
+  },
+  {
+   "id": "gipd1MKJBKnYaXtrQbbIJA",
+   "alias": "monroe-san-francisco",
+   "name": "Monroe",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UqUAr43mDBDvKVqw7RCUSQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/monroe-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 480,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.40494,
+    "Latitude": 37.79787
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "473 Broadway St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94133",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "473 Broadway St",
+     "San Francisco, CA 94133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153238515",
+   "display_phone": "(415) 323-8515",
+   "distance": 2855.8118757705984
+  },
+  {
+   "id": "SdXPtsreVImvvL2V2hP8vQ",
+   "alias": "skylark-san-francisco",
+   "name": "Skylark",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IRhu1S7el21kaFTYMCS7hQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/skylark-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 469,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.421600341797,
+    "Latitude": 37.7647132873535
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3089 16th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3089 16th St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156219294",
+   "display_phone": "(415) 621-9294",
+   "distance": 1149.2658807006205
+  },
+  {
+   "id": "OUaJngCEvUblIsVHTAgSxA",
+   "alias": "bimbos-365-club-san-francisco",
+   "name": "Bimbo's 365 Club",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5qMcJ9UD5_DbSQEoYZKwFg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bimbos-365-club-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 469,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.415504455566,
+    "Latitude": 37.8039011522147
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1025 Columbus Ave",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94133",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1025 Columbus Ave",
+     "San Francisco, CA 94133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154740365",
+   "display_phone": "(415) 474-0365",
+   "distance": 3242.895258310317
+  },
+  {
+   "id": "kyGuEhgJ7ys_T51pxtHtQw",
+   "alias": "the-milk-bar-san-francisco",
+   "name": "The Milk Bar",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/va4SZqUqRw3lBhbVN7YMjA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-milk-bar-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 458,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "comedyclubs",
+     "title": "Comedy Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.452590942383,
+    "Latitude": 37.7695159912109
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1840 Haight St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94117",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1840 Haight St",
+     "San Francisco, CA 94117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153876455",
+   "display_phone": "(415) 387-6455",
+   "distance": 2980.1311230086703
+  },
+  {
+   "id": "3DpNED_u0naPawmdcVzciw",
+   "alias": "hawthorn-san-francisco-3",
+   "name": "Hawthorn",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ezlky_p2ZG62OP0dllGkhA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hawthorn-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 409,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4041972,
+    "Latitude": 37.7880758
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "46 Geary St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "46 Geary St",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156939255",
+   "display_phone": "(415) 693-9255",
+   "distance": 1982.8120398162316
+  },
+  {
+   "id": "eZAOHDGXI89e-_mL7V2CsA",
+   "alias": "monarch-san-francisco",
+   "name": "Monarch",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Bqu79XjL8O6WbwfCEtGsLw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/monarch-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 404,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.408309936523,
+    "Latitude": 37.7809638977051
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "101 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "101 6th St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152849774",
+   "display_phone": "(415) 284-9774",
+   "distance": 1186.0231600091277
+  },
+  {
+   "id": "7Dn-E9XWiu8X4KoIdW2IjA",
+   "alias": "vinyl-room-burlingame",
+   "name": "Vinyl Room",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MM9UFWqbIxEF5zEhr3ZiiQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vinyl-room-burlingame?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 401,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.3463,
+    "Latitude": 37.5775
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "221 Park Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Burlingame",
+    "zip_code": "94010",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "221 Park Rd",
+     "Burlingame, CA 94010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16503477656",
+   "display_phone": "(650) 347-7656",
+   "distance": 22883.41235669238
+  },
+  {
+   "id": "Tga6LX9UI-ySLA_Nn-eMVg",
+   "alias": "audio-san-francisco",
+   "name": "Audio",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mMBTVGTkAut_xQZJsXlZoA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/audio-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 373,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.41377847429787,
+    "Latitude": 37.771438849720326
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "316 11th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "316 11th St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157456823",
+   "display_phone": "(415) 745-6823",
+   "distance": 626.2959000520067
+  },
+  {
+   "id": "vozKiXdySs9J7toN-tIeSg",
+   "alias": "love-propaganda-san-francisco",
+   "name": "Love + Propaganda",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JcEy14VuMji0QtNpZ5mrhg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/love-propaganda-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 366,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.40656,
+    "Latitude": 37.7888
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "85 Campton Pl",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "85 Campton Pl",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154338585",
+   "display_phone": "(415) 433-8585",
+   "distance": 1927.8197240499474
+  },
+  {
+   "id": "Up7yZvCF7jiU-ScnYiWoTA",
+   "alias": "boom-boom-room-san-francisco",
+   "name": "Boom Boom Room",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Xw186YAWw-fWg3HzHlEiKw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/boom-boom-room-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 357,
+   "categories": [
+    {
+     "alias": "jazzandblues",
+     "title": "Jazz \u0026 Blues"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.43313793384,
+    "Latitude": 37.784634315785
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1601 Fillmore St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94115",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1601 Fillmore St",
+     "San Francisco, CA 94115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156738067",
+   "display_phone": "(415) 673-8067",
+   "distance": 1621.518351220228
+  },
+  {
+   "id": "OXacqbZpySqZTUp5sp7dCA",
+   "alias": "rouge-nightclub-and-lounge-san-francisco",
+   "name": "Rouge Nightclub \u0026 Lounge",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XsGFZdPUF_ujhnc1HvuDIA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rouge-nightclub-and-lounge-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 357,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.421813011169,
+    "Latitude": 37.7959408241819
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1500 Broadway St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1500 Broadway St",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152868621",
+   "display_phone": "(415) 286-8621",
+   "distance": 2349.2202762719053
+  },
+  {
+   "id": "7bWCMYLHLBA6O4JV_XFVjw",
+   "alias": "arena-sf-san-francisco",
+   "name": "Arena SF",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2vCorUi-w2IJhOHzNjSEZw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/arena-sf-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 342,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.41845,
+    "Latitude": 37.75609
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2565 Mission St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2565 Mission St",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16502737468",
+   "display_phone": "(650) 273-7468",
+   "distance": 2090.3633422535413
+  },
+  {
+   "id": "b9XkuMKe1QKTg3QF9rnh1g",
+   "alias": "the-knockout-sf-san-francisco",
+   "name": "The Knockout SF",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XTpxzOUzcG3F1i9tl9ek4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-knockout-sf-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 313,
+   "categories": [
+    {
+     "alias": "divebars",
+     "title": "Dive Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.420070245862,
+    "Latitude": 37.7452120184898
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "3223 Mission St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3223 Mission St",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 3308.537388755665
+  },
+  {
+   "id": "gexO-8UCYy_jT_WISuPqCA",
+   "alias": "retro-junkie-walnut-creek",
+   "name": "Retro Junkie",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YBR0-IrESIFb3sFYQWEPyg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/retro-junkie-walnut-creek?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 312,
+   "categories": [
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "karaoke",
+     "title": "Karaoke"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.0648373,
+    "Latitude": 37.9087857
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2112 N Main St",
+    "address2": "",
+    "address3": "",
+    "city": "Walnut Creek",
+    "zip_code": "94596",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2112 N Main St",
+     "Walnut Creek, CA 94596"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19259384140",
+   "display_phone": "(925) 938-4140",
+   "distance": 34546.10764366907
+  },
+  {
+   "id": "_nanDmDfDrzd9ZPFcPZ12g",
+   "alias": "the-café-san-francisco-7",
+   "name": "The Café",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3JFYa2qM10TUoEiw6gRZ9g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-caf%C3%A9-san-francisco-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 308,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.43438,
+    "Latitude": 37.76283
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2369 Market St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94114",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2369 Market St",
+     "San Francisco, CA 94114"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157793171",
+   "display_phone": "(415) 779-3171",
+   "distance": 1866.4429290429562
+  },
+  {
+   "id": "dmh83NEnwnedexgR8DnkiQ",
+   "alias": "city-nights-san-francisco",
+   "name": "City Nights",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/B-j5MKtncs56rDueoNe-pA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/city-nights-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 297,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.39762,
+    "Latitude": 37.78205
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "715 Harrison St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94107",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "715 Harrison St",
+     "San Francisco, CA 94107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155467938",
+   "display_phone": "(415) 546-7938",
+   "distance": 2068.7313409394524
+  },
+  {
+   "id": "Vg6MB9tsgdZ8Zn8Qo-CiIA",
+   "alias": "beaux-san-francisco",
+   "name": "Beaux",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aWnac3rniuqSZkG_yd1j2g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beaux-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 284,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.434248,
+    "Latitude": 37.763654
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2344 Market St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94114",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2344 Market St",
+     "San Francisco, CA 94114"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1807.49547044538
+  },
+  {
+   "id": "lQUCxiBfJwQSW1qhYCUetg",
+   "alias": "pura-club-san-francisco",
+   "name": "Pura Club",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pHhIN_Bitdai6jwIERSbEQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pura-club-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 264,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.40568,
+    "Latitude": 37.77805
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1015 Folsom St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1015 Folsom St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154196969",
+   "display_phone": "(415) 419-6969",
+   "distance": 1247.492761403101
+  },
+  {
+   "id": "QHwY2nzlgBUKa-haIhPhOg",
+   "alias": "public-works-san-francisco",
+   "name": "Public Works",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oYqKS6TOwV4J-4aLDkO3tw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/public-works-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 251,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.4194045,
+    "Latitude": 37.7689667
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "161 Erie St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "161 Erie St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154966738",
+   "display_phone": "(415) 496-6738",
+   "distance": 665.7735798638176
+  },
+  {
+   "id": "kDA0t8palmnxcBNu5xERYw",
+   "alias": "the-world-famous-turf-club-hayward",
+   "name": "The World Famous Turf Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/J8iRtknD79Iz9F8llxqQAw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-world-famous-turf-club-hayward?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 245,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.08373,
+    "Latitude": 37.67352
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "22519 Main St",
+    "address2": "",
+    "address3": "",
+    "city": "Hayward",
+    "zip_code": "94541",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "22519 Main St",
+     "Hayward, CA 94541"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15108819877",
+   "display_phone": "(510) 881-9877",
+   "distance": 31602.268405120027
+  },
+  {
+   "id": "XTaPGrnaYGma1KZk7u_hVQ",
+   "alias": "oasis-san-francisco-3",
+   "name": "Oasis",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UTm2uQ6vkkVDrpE7PQJrlw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/oasis-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 240,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "cabaret",
+     "title": "Cabaret"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.41438,
+    "Latitude": 37.77188
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "298 11th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "298 11th St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157953180",
+   "display_phone": "(415) 795-3180",
+   "distance": 544.8720640110259
+  }
+ ],
+ "total": 162,
+ "region": {
+  "center": {
+   "longitude": -122.4194,
+   "Latitude": 37.7749
+  }
+ }
+}

@@ -1,0 +1,1717 @@
+{
+ "businesses": [
+  {
+   "id": "j94vqL1NO3Bfu-xCKptXDw",
+   "alias": "apartment-people-chicago-8",
+   "name": "Apartment People",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_mQ7AWQEGN1s5DHiyZO0bQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/apartment-people-chicago-8?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 801,
+   "categories": [
+    {
+     "alias": "apartmentagents",
+     "title": "Apartment Agents"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.652617,
+    "Latitude": 41.93286
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "928 W Diversey Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "928 W Diversey Pkwy",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732488800",
+   "display_phone": "(773) 248-8800",
+   "distance": 6375.08893662616
+  },
+  {
+   "id": "_H6AvQgfYEP5KK9NvhYzlQ",
+   "alias": "beal-properties-chicago-2",
+   "name": "Beal Properties",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1VP0DsxWqyIBBDRjMInlqA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beal-properties-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 588,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    },
+    {
+     "alias": "apartments",
+     "title": "Apartments"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.67819,
+    "Latitude": 41.92358
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2320 N Damen Ave",
+    "address2": "Ste 1D",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2320 N Damen Ave",
+     "Ste 1D",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738625200",
+   "display_phone": "(773) 862-5200",
+   "distance": 6455.950796537657
+  },
+  {
+   "id": "BTyxjCRJQWSlFpHv477EAg",
+   "alias": "peak-properties-chicago",
+   "name": "Peak Properties",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uyEBZj8h_FPWWt7tR-jc1w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/peak-properties-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 536,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.69880818692538,
+    "Latitude": 41.94267118646161
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2815 W Roscoe St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2815 W Roscoe St",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732815252",
+   "display_phone": "(773) 281-5252",
+   "distance": 9173.940075828805
+  },
+  {
+   "id": "xiW0AUNWujLUEyjiktluYw",
+   "alias": "mac-properties-chicago-2",
+   "name": "Mac Properties",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/R_lVkO2mFaR1R4l66Nnj7w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mac-properties-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 482,
+   "categories": [
+    {
+     "alias": "apartments",
+     "title": "Apartments"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.592605,
+    "Latitude": 41.7996349
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1364 E 53rd St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60615",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1364 E 53rd St",
+     "Chicago, IL 60615"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125486563",
+   "display_phone": "(312) 548-6563",
+   "distance": 9236.074485580379
+  },
+  {
+   "id": "lCixp2dK2uZCXc0cNg-CYw",
+   "alias": "bjb-properties-chicago",
+   "name": "BJB Properties",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RNHJS_ktiCjk7uJ14wJClg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bjb-properties-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 405,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.63972,
+    "Latitude": 41.93411
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2850 N Sheridan Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2850 N Sheridan Rd",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732483800",
+   "display_phone": "(773) 248-3800",
+   "distance": 6283.591378601922
+  },
+  {
+   "id": "Xm0sw1TpIAnCGBgY_5IYXg",
+   "alias": "coldwell-banker-residential-brokerage-rental-division-chicago-6",
+   "name": "Coldwell Banker Residential Brokerage Rental Division",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7vnpDwW10H2zThGJwKeC0A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/coldwell-banker-residential-brokerage-rental-division-chicago-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 404,
+   "categories": [
+    {
+     "alias": "apartments",
+     "title": "Apartments"
+    },
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    },
+    {
+     "alias": "realestateagents",
+     "title": "Real Estate Agents"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6612125514177,
+    "Latitude": 41.88178710952709
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1338 W Madison",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1338 W Madison",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18883463377",
+   "display_phone": "(888) 346-3377",
+   "distance": 2632.750219216741
+  },
+  {
+   "id": "LNK6HFDzrz6KNXmFe1F69Q",
+   "alias": "ppm-apartments-chicago",
+   "name": "PPM Apartments",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vFSYnFsbkSxuo_eHs2zucg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ppm-apartments-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 388,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.64962,
+    "Latitude": 41.94018
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "806 W Belmont",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "806 W Belmont",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18722045099",
+   "display_phone": "(872) 204-5099",
+   "distance": 7097.328137093813
+  },
+  {
+   "id": "SCJjUKfZFAa3TRNCMyNn7Q",
+   "alias": "fulton-grace-realty-chicago",
+   "name": "Fulton Grace Realty",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fJEawRjDiIa0v4wukJlXrQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fulton-grace-realty-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 309,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    },
+    {
+     "alias": "realestateagents",
+     "title": "Real Estate Agents"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6486483128281,
+    "Latitude": 41.9347817125049
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2901 N Halsted St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2901 N Halsted St",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736986648",
+   "display_phone": "(773) 698-6648",
+   "distance": 6492.853081953573
+  },
+  {
+   "id": "9oqkyRSjal2HpkEEFyRFpw",
+   "alias": "matt-laricy-chicago",
+   "name": "Matt Laricy",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TK6z82H2jgisU59dgJmuMQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/matt-laricy-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 303,
+   "categories": [
+    {
+     "alias": "realestateagents",
+     "title": "Real Estate Agents"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.639074,
+    "Latitude": 41.893676
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "375 W Erie St",
+    "address2": "Ste 103A",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "375 W Erie St",
+     "Ste 103A",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17082502696",
+   "display_phone": "(708) 250-2696",
+   "distance": 1894.4955594746752
+  },
+  {
+   "id": "lNvaUy0WjO9QSKLTrkyD2A",
+   "alias": "mark-allen-realty-chicago",
+   "name": "Mark Allen Realty",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Q2tdcyRi_K_MEwOMANCKkw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mark-allen-realty-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 271,
+   "categories": [
+    {
+     "alias": "realestateagents",
+     "title": "Real Estate Agents"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.67856,
+    "Latitude": 41.92472
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2015 W Fullerton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2015 W Fullerton Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739385220",
+   "display_phone": "(773) 938-5220",
+   "distance": 6570.319749463693
+  },
+  {
+   "id": "fOeFOGNmQHLmLZDDqNHmYw",
+   "alias": "33-realty-chicago",
+   "name": "33 Realty",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/52RKeUifgjFSSDH1cYnIgg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/33-realty-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 242,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    },
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.637889,
+    "Latitude": 41.8962464
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "357 W Chicago Ave",
+    "address2": "Ste 100",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "357 W Chicago Ave",
+     "Ste 100",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17733274975",
+   "display_phone": "(773) 327-4975",
+   "distance": 2125.990138341374
+  },
+  {
+   "id": "DIsSSsmOgVVlEJgSwP-Hcw",
+   "alias": "presidential-towers-chicago",
+   "name": "Presidential Towers",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4qg2qHiXxNaLemKeKv1DfA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/presidential-towers-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 241,
+   "categories": [
+    {
+     "alias": "apartments",
+     "title": "Apartments"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.64239,
+    "Latitude": 41.88095
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "555 W Madison St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60661",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "555 W Madison St",
+     "Chicago, IL 60661"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129022000",
+   "display_phone": "(312) 902-2000",
+   "distance": 1089.4381232570413
+  },
+  {
+   "id": "5VVmdTnYq9IzydkZUhciiA",
+   "alias": "cagan-management-group-inc-skokie-2",
+   "name": "Cagan Management Group, Inc.",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bkitrd14KIE6N-KdIBes4A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cagan-management-group-inc-skokie-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 237,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.7250747680664,
+    "Latitude": 42.026538848877
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3856 Oakton St",
+    "address2": "",
+    "address3": "",
+    "city": "Skokie",
+    "zip_code": "60076",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3856 Oakton St",
+     "Skokie, IL 60076"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18476795512",
+   "display_phone": "(847) 679-5512",
+   "distance": 18294.262725948087
+  },
+  {
+   "id": "xw80MbhRHfswZpA2QHOgIA",
+   "alias": "live-here-chicago-chicago-3",
+   "name": "Live Here Chicago",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JraEjMB9IMQGRnSMKYd6zA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/live-here-chicago-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 229,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.62473,
+    "Latitude": 41.90058
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "980 N Michigan Ave",
+    "address2": "ste 700",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "980 N Michigan Ave",
+     "ste 700",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737821000",
+   "display_phone": "(773) 782-1000",
+   "distance": 2543.925456835325
+  },
+  {
+   "id": "XMtvYJyP2gLP1ALMpj1HFA",
+   "alias": "group-fox-property-management-chicago-4",
+   "name": "Group Fox Property Management",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SvSW4VELoOkBwnmP1F7rJw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/group-fox-property-management-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 216,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6171381,
+    "Latitude": 41.8909402
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "411 E Illinois St",
+    "address2": "Ste 80",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "411 E Illinois St",
+     "Ste 80",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732675600",
+   "display_phone": "(773) 267-5600",
+   "distance": 1771.2221584168394
+  },
+  {
+   "id": "YKQe9H1KS5oIi01aiELazg",
+   "alias": "westward360-chicago",
+   "name": "Westward360",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aD8PcIu2ms9HOR-iEwQ0tg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/westward360-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 206,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.66575,
+    "Latitude": 41.921851
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1464 W Webster Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1464 W Webster Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735720880",
+   "display_phone": "(773) 572-0880",
+   "distance": 5702.6143922866595
+  },
+  {
+   "id": "FMwj-CNNLCgJr39nUjNqrw",
+   "alias": "the-metropolitan-chicago-3",
+   "name": "The Metropolitan",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CuyGQqj973VWARwgJJXaYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-metropolitan-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 193,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "sharedofficespaces",
+     "title": "Shared Office Spaces"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.63626800000232,
+    "Latitude": 41.87874079926512
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "233 S Wacker Dr",
+    "address2": "Fl 67",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60606",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "233 S Wacker Dr",
+     "Fl 67",
+     "Chicago, IL 60606"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128763200",
+   "display_phone": "(312) 876-3200",
+   "distance": 540.2154055043909
+  },
+  {
+   "id": "0P1cqC1kQtf3LzveITRtpw",
+   "alias": "urban-abodes-chicago-2",
+   "name": "Urban Abodes",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/K9CJ36DdWbf3PH9GdJBvng/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/urban-abodes-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 180,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.66862,
+    "Latitude": 41.95321
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3923 N Ashland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60613",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3923 N Ashland Ave",
+     "Chicago, IL 60613"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736769000",
+   "display_phone": "(773) 676-9000",
+   "distance": 8950.499405687073
+  },
+  {
+   "id": "TiHqY9RUd34NeA46XUj6iA",
+   "alias": "vesta-preferred-realty-chicago",
+   "name": "Vesta Preferred Realty",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xaTHfIr5tuA2W-AFzEMDOw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vesta-preferred-realty-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 177,
+   "categories": [
+    {
+     "alias": "realestateagents",
+     "title": "Real Estate Agents"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.661056,
+    "Latitude": 41.900129
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1001 N Milwaukee Ave",
+    "address2": "Ste 401",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1001 N Milwaukee Ave",
+     "Ste 401",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736454455",
+   "display_phone": "(773) 645-4455",
+   "distance": 3562.894596704678
+  },
+  {
+   "id": "445oWqk_hCnXvpXCT-80HQ",
+   "alias": "invitation-homes-chicago-chicago",
+   "name": "Invitation Homes Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CDZc34Ag_IRntpo5YQlNeA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/invitation-homes-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 173,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    },
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.833907,
+    "Latitude": 41.979039
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5509 N Cumberland Ave",
+    "address2": "Ste 505",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60656",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5509 N Cumberland Ave",
+     "Ste 505",
+     "Chicago, IL 60656"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738931250",
+   "display_phone": "(773) 893-1250",
+   "distance": 20275.1277187679
+  },
+  {
+   "id": "VCxI-pr1d-BomTQi09EbtQ",
+   "alias": "downtown-apartment-company-chicago",
+   "name": "Downtown Apartment Company",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2pK36nqdh0xcsWQEmF9JzQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/downtown-apartment-company-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 168,
+   "categories": [
+    {
+     "alias": "apartments",
+     "title": "Apartments"
+    },
+    {
+     "alias": "apartmentagents",
+     "title": "Apartment Agents"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.63436483,
+    "Latitude": 41.89568033
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "730 N Wells St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "730 N Wells St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127723929",
+   "display_phone": "(312) 772-3929",
+   "distance": 1995.520787350417
+  },
+  {
+   "id": "JXH9qzmaVlzql48kIVucbw",
+   "alias": "millennium-park-plaza-chicago-2",
+   "name": "Millennium Park Plaza",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/km__jC6YwxQ1fJtUdoye_g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/millennium-park-plaza-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 155,
+   "categories": [
+    {
+     "alias": "apartments",
+     "title": "Apartments"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.624108,
+    "Latitude": 41.885053
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "151 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "151 N Michigan Ave",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126166000",
+   "display_phone": "(312) 616-6000",
+   "distance": 905.4256684448555
+  },
+  {
+   "id": "8rrS-BSoT4jnaXuFXPTx-A",
+   "alias": "jim-pomposelli-lakeside-bank-chicago",
+   "name": "Jim Pomposelli - Lakeside Bank",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IqeYS5rIWQh2R2KUm6rVrQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jim-pomposelli-lakeside-bank-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 155,
+   "categories": [
+    {
+     "alias": "mortgagebrokers",
+     "title": "Mortgage Brokers"
+    },
+    {
+     "alias": "mortgagelenders",
+     "title": "Mortgage Lenders"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6687855,
+    "Latitude": 41.9326021
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2800 N Ashland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2800 N Ashland Ave",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123390024",
+   "display_phone": "(312) 339-0024",
+   "distance": 6865.632712068133
+  },
+  {
+   "id": "4-VaMZiAS_99KzheHHxHTw",
+   "alias": "firstservice-residential-chicago-chicago",
+   "name": "FirstService Residential Chicago",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AQUL6W23UT446uP3tePJDA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/firstservice-residential-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 154,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.620241,
+    "Latitude": 41.8872974
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "303 E Wacker Dr",
+    "address2": "Ste 1900",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "303 E Wacker Dr",
+     "Ste 1900",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123351950",
+   "display_phone": "(312) 335-1950",
+   "distance": 1293.1196885572163
+  },
+  {
+   "id": "GQqoXM01-xYMdhTNOcKyPA",
+   "alias": "regents-park-chicago",
+   "name": "Regents Park",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mauFuvmpaYPSPIzwZyIvrA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/regents-park-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 147,
+   "categories": [
+    {
+     "alias": "apartments",
+     "title": "Apartments"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.585263,
+    "Latitude": 41.803237
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5035 S East End Avenue",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60615",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5035 S East End Avenue",
+     "Chicago, IL 60615"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125486563",
+   "display_phone": "(312) 548-6563",
+   "distance": 9105.349218541363
+  },
+  {
+   "id": "kBCqjIhfZjRmIEGTfwEwmg",
+   "alias": "dream-town-realty-chicago-12",
+   "name": "Dream Town Realty",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/w9M5S-glycU3pdLOT09ixg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dream-town-realty-chicago-12?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 146,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.639144,
+    "Latitude": 41.917997
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1950 N Sedgwick St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1950 N Sedgwick St",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122658000",
+   "display_phone": "(312) 265-8000",
+   "distance": 4503.243271981424
+  },
+  {
+   "id": "SvU6wRPXBcHuGSBOXuZDvQ",
+   "alias": "becovic-chicago-4",
+   "name": "Becovic",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ruAVPKRT1wVFMU5giCeRHQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/becovic-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 136,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    },
+    {
+     "alias": "apartments",
+     "title": "Apartments"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.65016999396033,
+    "Latitude": 41.9643146089669
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4520 N Clarendon Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4520 N Clarendon Ave",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732716143",
+   "display_phone": "(773) 271-6143",
+   "distance": 9733.630512153804
+  },
+  {
+   "id": "fILxxmU77izEA_uA_LZ3kg",
+   "alias": "horizon-realty-group-chicago-7",
+   "name": "Horizon Realty Group",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6yLLn0LVHpk5R05-KHXfaA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/horizon-realty-group-chicago-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 135,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.678131,
+    "Latitude": 41.9689357
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1946 W Lawrence Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1946 W Lawrence Ave",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735297200",
+   "display_phone": "(773) 529-7200",
+   "distance": 10863.140472361338
+  },
+  {
+   "id": "OVU3z2S85K9y22PCFsXXXg",
+   "alias": "bertsch-properties-chicago",
+   "name": "Bertsch Properties",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fb3L5MkQAbmgBHqv1CxvYA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bertsch-properties-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 134,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6926769,
+    "Latitude": 41.9647607
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4554 N Maplewood Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60625",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4554 N Maplewood Ave",
+     "Chicago, IL 60625"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732671115",
+   "display_phone": "(773) 267-1115",
+   "distance": 10950.766324950828
+  },
+  {
+   "id": "e7-xO3bCaXcSeVq_vvkJog",
+   "alias": "apartment-guys-chicago",
+   "name": "Apartment Guys",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mIAtAeCtUTrZZ5loplqddw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/apartment-guys-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 122,
+   "categories": [
+    {
+     "alias": "apartments",
+     "title": "Apartments"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.63951,
+    "Latitude": 41.9235
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2260 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2260 N Clark St",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735493474",
+   "display_phone": "(773) 549-3474",
+   "distance": 5111.231295167547
+  },
+  {
+   "id": "0rJmGvW5VlZ16h4aOjaJCA",
+   "alias": "alta-at-k-station-chicago",
+   "name": "Alta at K Station",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mr8dnLwpZRxZsfD9CWlioA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alta-at-k-station-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 119,
+   "categories": [
+    {
+     "alias": "apartments",
+     "title": "Apartments"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.64187042945366,
+    "Latitude": 41.888927676407214
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "555 W Kinzie St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "555 W Kinzie St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18332641698",
+   "display_phone": "(833) 264-1698",
+   "distance": 1564.6313274117456
+  },
+  {
+   "id": "O1uDNJd9JU_RDpCU0Vvt5g",
+   "alias": "sudler-property-management-chicago",
+   "name": "Sudler Property Management",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_V45eeeQuA77eznensQXuA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sudler-property-management-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 119,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6227578,
+    "Latitude": 41.8986422
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "875 N Michigan Ave",
+    "address2": "Ste 3980",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "875 N Michigan Ave",
+     "Ste 3980",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127510900",
+   "display_phone": "(312) 751-0900",
+   "distance": 2357.398696618209
+  },
+  {
+   "id": "Lg_yspWeVPblnUtGC4zkVA",
+   "alias": "associa-chicagoland-schaumburg",
+   "name": "Associa Chicagoland",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZkRZtIKdBR4oSHt7qla0vQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/associa-chicagoland-schaumburg?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 118,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -88.077688,
+    "Latitude": 42.059262
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "50 Commerce Dr",
+    "address2": "Ste 110",
+    "address3": "",
+    "city": "Schaumburg",
+    "zip_code": "60173",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "50 Commerce Dr",
+     "Ste 110",
+     "Schaumburg, IL 60173"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18474903833",
+   "display_phone": "(847) 490-3833",
+   "distance": 42153.592752626384
+  },
+  {
+   "id": "mKXHHA-5dV8zZHbXeJMOxg",
+   "alias": "acm-community-management-lisle",
+   "name": "ACM Community Management",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AiI7FFGrn5Cy9l3ucilVtg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/acm-community-management-lisle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 117,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -88.06569,
+    "Latitude": 41.80861
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "650 Warrenville Rd",
+    "address2": "Ste 400",
+    "address3": "",
+    "city": "Lisle",
+    "zip_code": "60532",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "650 Warrenville Rd",
+     "Ste 400",
+     "Lisle, IL 60532"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16306201133",
+   "display_phone": "(630) 620-1133",
+   "distance": 36718.11749372837
+  },
+  {
+   "id": "r5e9XQ-rOZys5BPcNEa79w",
+   "alias": "molitor-financial-group-chicago",
+   "name": "Molitor Financial Group",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ayvT0_xPer0efwVAZMQuow/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/molitor-financial-group-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 112,
+   "categories": [
+    {
+     "alias": "mortgagebrokers",
+     "title": "Mortgage Brokers"
+    },
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.67367,
+    "Latitude": 41.96589
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4619 N Ravenswood Ave",
+    "address2": "Ste 300",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4619 N Ravenswood Ave",
+     "Ste 300",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732507349",
+   "display_phone": "(773) 250-7349",
+   "distance": 10419.992515921966
+  },
+  {
+   "id": "4TuRWmo_u19mZNqPrpGVpg",
+   "alias": "mcclurg-court-chicago-2",
+   "name": "McClurg Court",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IOJh_EIXRyiHzDu-Nrxb0w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mcclurg-court-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 111,
+   "categories": [
+    {
+     "alias": "apartments",
+     "title": "Apartments"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6188201,
+    "Latitude": 41.8931982
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "333 E Ontario St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "333 E Ontario St",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126463980",
+   "display_phone": "(312) 646-3980",
+   "distance": 1909.1045685691688
+  },
+  {
+   "id": "eeUuC7UJUHny3SLdZqMMcg",
+   "alias": "the-mg-group-chicago",
+   "name": "The MG Group",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/C_6qV_e2umpn4jBoaFdh3w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-mg-group-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 109,
+   "categories": [
+    {
+     "alias": "realestateagents",
+     "title": "Real Estate Agents"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.653759,
+    "Latitude": 41.913704
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1800 N Clybourn Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1800 N Clybourn Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736874696",
+   "display_phone": "(773) 687-4696",
+   "distance": 4427.87154895781
+  },
+  {
+   "id": "D4uR-18i4w7R3tCv7Deorg",
+   "alias": "connected-property-management-chicago",
+   "name": "Connected Property Management",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/j8ahhjf16EQTOPVvlCaNUQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/connected-property-management-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 107,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6651081,
+    "Latitude": 41.9372617
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3047 N Lincoln Ave",
+    "address2": "Ste 400",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3047 N Lincoln Ave",
+     "Ste 400",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739132569",
+   "display_phone": "(773) 913-2569",
+   "distance": 7198.17022257498
+  },
+  {
+   "id": "UCNywThlxXWe45KOjWttaw",
+   "alias": "m-fishman-and-company-chicago-2",
+   "name": "M Fishman \u0026 Company",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QE2gqpszJu8ft6BdB5_dWg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/m-fishman-and-company-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 105,
+   "categories": [
+    {
+     "alias": "propertymgmt",
+     "title": "Property Management"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.7091103,
+    "Latitude": 41.9247868
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3215 W Fullerton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3215 W Fullerton Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736615500",
+   "display_phone": "(773) 661-5500",
+   "distance": 8368.637431634797
+  },
+  {
+   "id": "OA9Irfswm3BrNOlHnD1S1Q",
+   "alias": "saffron-realty-group-chicago-6",
+   "name": "Saffron Realty Group",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kjveoGso1xVAOQZdSgSEqg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/saffron-realty-group-chicago-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 103,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    },
+    {
+     "alias": "commercialrealestate",
+     "title": "Commercial Real Estate"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.69673,
+    "Latitude": 41.92276
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2291 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2291 N Milwaukee Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17733302353",
+   "display_phone": "(773) 330-2353",
+   "distance": 7439.483367604533
+  }
+ ],
+ "total": 5100,
+ "region": {
+  "center": {
+   "longitude": -87.6298,
+   "Latitude": 41.8781
+  }
+ }
+}

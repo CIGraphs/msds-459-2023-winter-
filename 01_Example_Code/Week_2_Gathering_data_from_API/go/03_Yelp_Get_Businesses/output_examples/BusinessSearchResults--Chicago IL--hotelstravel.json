@@ -1,0 +1,1722 @@
+{
+ "businesses": [
+  {
+   "id": "PJmS_WsS_wJuoGkutgLwqA",
+   "alias": "chicago-o-hare-international-airport-ord-chicago",
+   "name": "Chicago O'Hare International Airport - ORD",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/s34zaPcKyJ29JpefTKMsGA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-o-hare-international-airport-ord-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3844,
+   "categories": [
+    {
+     "alias": "airports",
+     "title": "Airports"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.907337,
+    "Latitude": 41.97416
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10000 W O'hare Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60666",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "10000 W O'hare Ave",
+     "Chicago, IL 60666"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18008326352",
+   "display_phone": "(800) 832-6352",
+   "distance": 25323.464174836106
+  },
+  {
+   "id": "b1K2pcE8evSOzQFU4PNU2Q",
+   "alias": "spirit-airlines-chicago",
+   "name": "Spirit Airlines",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ATS2JxWBtt4fmAj6SsJRIQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/spirit-airlines-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2053,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.901295,
+    "Latitude": 41.97621
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5600 Mannheim Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60686",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5600 Mannheim Rd",
+     "Chicago, IL 60686"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18014012222",
+   "display_phone": "(801) 401-2222",
+   "distance": 24969.567655065846
+  },
+  {
+   "id": "RQ7T-DWCMcfsRxwytHUOTA",
+   "alias": "chicago-midway-international-airport-mdw-chicago-2",
+   "name": "Chicago Midway International Airport - MDW",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Co2oMplTpWEoFQ94fTOEgw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-midway-international-airport-mdw-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1946,
+   "categories": [
+    {
+     "alias": "airports",
+     "title": "Airports"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.7416325,
+    "Latitude": 41.7870385
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5700 S Cicero Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60638",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5700 S Cicero Ave",
+     "Chicago, IL 60638"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738380600",
+   "display_phone": "(773) 838-0600",
+   "distance": 13624.635153420564
+  },
+  {
+   "id": "mU1GXtwsnMuCKqDBC-AAUQ",
+   "alias": "shoreline-sightseeing-chicago",
+   "name": "Shoreline Sightseeing",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EmCPtgDIvdzGuY1F7H2h2g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shoreline-sightseeing-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1672,
+   "categories": [
+    {
+     "alias": "architecturaltours",
+     "title": "Architectural Tours"
+    },
+    {
+     "alias": "historicaltours",
+     "title": "Historical Tours"
+    },
+    {
+     "alias": "boattours",
+     "title": "Boat Tours"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6228785,
+    "Latitude": 41.8896224
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "401 N Michigan Ave",
+    "address2": "",
+    "address3": "Navy Pier",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "401 N Michigan Ave",
+     "Navy Pier",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122229328",
+   "display_phone": "(312) 222-9328",
+   "distance": 1403.5218834755503
+  },
+  {
+   "id": "zx8Y6GI_YiIo4xQSbHblEA",
+   "alias": "palmer-house-a-hilton-hotel-chicago-3",
+   "name": "Palmer House a Hilton Hotel",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8LUAVZz_IPJtHwZicUaoww/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/palmer-house-a-hilton-hotel-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1389,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6267388,
+    "Latitude": 41.8803066
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "17 E Monroe St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60603",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "17 E Monroe St",
+     "Chicago, IL 60603"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127267500",
+   "display_phone": "(312) 726-7500",
+   "distance": 352.75165840166125
+  },
+  {
+   "id": "NWxpKLN6QqNvyZd6zLoIwg",
+   "alias": "united-airlines-chicago",
+   "name": "United Airlines",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-LXoXcqYMd5WDlFpMZdyxA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/united-airlines-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1293,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.906557,
+    "Latitude": 41.978427
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10000 W O'hare Ave",
+    "address2": "",
+    "address3": "Terminal 1",
+    "city": "Chicago",
+    "zip_code": "60666",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "10000 W O'hare Ave",
+     "Terminal 1",
+     "Chicago, IL 60666"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18008648331",
+   "display_phone": "(800) 864-8331",
+   "distance": 25468.504527571044
+  },
+  {
+   "id": "V_sTEm_6xOkwBIb_cS8vCg",
+   "alias": "wendella-tours-and-cruises-chicago",
+   "name": "Wendella Tours \u0026 Cruises",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0oaHTaKcgiwaUsiHlE0iCQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wendella-tours-and-cruises-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1212,
+   "categories": [
+    {
+     "alias": "boatcharters",
+     "title": "Boat Charters"
+    },
+    {
+     "alias": "architecturaltours",
+     "title": "Architectural Tours"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.624943,
+    "Latitude": 41.88942
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "400 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "400 N Michigan Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123371446",
+   "display_phone": "(312) 337-1446",
+   "distance": 1321.3861398074462
+  },
+  {
+   "id": "inoMrmnsxHUlP-S2XviB5A",
+   "alias": "american-airlines-chicago",
+   "name": "American Airlines",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XiwEtxatkmBlGC3nhE8yPw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-airlines-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1177,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.902163361909,
+    "Latitude": 41.9763646310003
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10000 W O'Hare Ave",
+    "address2": "Terminal 3",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60666",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "10000 W O'Hare Ave",
+     "Terminal 3",
+     "Chicago, IL 60666"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18004337300",
+   "display_phone": "(800) 433-7300",
+   "distance": 25041.679212094434
+  },
+  {
+   "id": "NkOir65b_YAAQVlJR_zmJA",
+   "alias": "hyatt-regency-chicago-chicago-3",
+   "name": "Hyatt Regency Chicago",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xSuvJrZY116wzSAHr1EZsQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hyatt-regency-chicago-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 953,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.621984,
+    "Latitude": 41.887504
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "151 E Wacker Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "151 E Wacker Dr",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125651234",
+   "display_phone": "(312) 565-1234",
+   "distance": 1229.681834037178
+  },
+  {
+   "id": "FleieItlVw0Vhn_uEKDy2A",
+   "alias": "uber-chicago",
+   "name": "Uber",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GpjuENEFA7EMJt-54OCxEA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/uber-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 844,
+   "categories": [
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.63071,
+    "Latitude": 41.87905
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60290",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60290"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18772238023",
+   "display_phone": "(877) 223-8023",
+   "distance": 1.5195744862728398
+  },
+  {
+   "id": "cXKeY0NugFvCSHRWJcOq9w",
+   "alias": "the-congress-plaza-hotel-and-convention-center-chicago-2",
+   "name": "The Congress Plaza Hotel \u0026 Convention Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WpbaI0xbJZQ1WAlaehvsfA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-congress-plaza-hotel-and-convention-center-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 843,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6247999,
+    "Latitude": 41.87505
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "520 S Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "520 S Michigan Ave",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124273800",
+   "display_phone": "(312) 427-3800",
+   "distance": 536.5047720600186
+  },
+  {
+   "id": "BkMgLHN8mYFqj7DEbTh1Xw",
+   "alias": "londonhouse-chicago-curio-collection-by-hilton-chicago",
+   "name": "LondonHouse Chicago, Curio Collection by Hilton",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3EcvEjHDM8T6vKU8gNkRSA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/londonhouse-chicago-curio-collection-by-hilton-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 821,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6254261,
+    "Latitude": 41.8878318
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "85 E Wacker Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "85 E Wacker Dr",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123571200",
+   "display_phone": "(312) 357-1200",
+   "distance": 1141.1000872780326
+  },
+  {
+   "id": "SjcKbcicabk1_Q9WriiGZQ",
+   "alias": "southwest-airlines-chicago-2",
+   "name": "Southwest Airlines",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Gk2qQY3IknsxaJdizHQvIQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/southwest-airlines-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 807,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.7416325,
+    "Latitude": 41.7870385
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5700 S Cicero Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5700 S Cicero Ave",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18004359792",
+   "display_phone": "(800) 435-9792",
+   "distance": 13624.618854061597
+  },
+  {
+   "id": "YfzsjiJl3m-Yza64aIL7SQ",
+   "alias": "w-chicago-lakeshore-chicago-2",
+   "name": "W Chicago - Lakeshore",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/R4x5ZqRJ9WWowMlIObqi3w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/w-chicago-lakeshore-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 793,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.615363,
+    "Latitude": 41.893947
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "644 North Lake Shore Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "644 North Lake Shore Dr",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129439200",
+   "display_phone": "(312) 943-9200",
+   "distance": 2129.159603794925
+  },
+  {
+   "id": "5Ikge9E2BMqDUh2B4_ZA2g",
+   "alias": "bobbys-bike-hike-chicago-chicago",
+   "name": "Bobby's Bike Hike - Chicago",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4O8jBV9nYf-IPsIfDgwiNQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bobbys-bike-hike-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 751,
+   "categories": [
+    {
+     "alias": "walkingtours",
+     "title": "Walking Tours"
+    },
+    {
+     "alias": "foodtours",
+     "title": "Food Tours"
+    },
+    {
+     "alias": "biketours",
+     "title": "Bike tours"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6151605702225,
+    "Latitude": 41.8924395839824
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "540 N Lake Shore Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "540 N Lake Shore Dr",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122459300",
+   "display_phone": "(312) 245-9300",
+   "distance": 2002.7654076821495
+  },
+  {
+   "id": "mLdvQGAFadIJkOlEoHsI7w",
+   "alias": "hilton-chicago-chicago-4",
+   "name": "Hilton Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q-c-A-SNqo42E5nqXhFgGw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hilton-chicago-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 734,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6246966,
+    "Latitude": 41.87225919055682
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "720 S Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "720 S Michigan Ave",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129224400",
+   "display_phone": "(312) 922-4400",
+   "distance": 774.8213282928529
+  },
+  {
+   "id": "31yYZQjEIyYE0N3p_vmoOA",
+   "alias": "the-drake-chicago-2",
+   "name": "The Drake",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/F98nFg58EnMWTTDmf4Retw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-drake-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 689,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6234858,
+    "Latitude": 41.9001198
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "140 E Walton Pl",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "140 E Walton Pl",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127872200",
+   "display_phone": "(312) 787-2200",
+   "distance": 2503.6531763412568
+  },
+  {
+   "id": "iEV5Rpp9Miovh7UnhLb1BQ",
+   "alias": "chicago-architecture-foundation-river-cruise-first-lady-chicago-2",
+   "name": "Chicago Architecture Foundation River Cruise - First Lady",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o-ZFrMn2ZGRWLmzbGq7dKA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-architecture-foundation-river-cruise-first-lady-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 677,
+   "categories": [
+    {
+     "alias": "historicaltours",
+     "title": "Historical Tours"
+    },
+    {
+     "alias": "architecturaltours",
+     "title": "Architectural Tours"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.62424,
+    "Latitude": 41.8884343985723
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "112 E Wacker Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "112 E Wacker Dr",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18473581330",
+   "display_phone": "(847) 358-1330",
+   "distance": 1237.8878185748913
+  },
+  {
+   "id": "DxfjGOEtFJQoq6m8WjYl4Q",
+   "alias": "warwick-allerton-chicago-chicago",
+   "name": "Warwick Allerton - Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6hvEC8YonkdhIwZDFz_wUQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/warwick-allerton-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 662,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.623928,
+    "Latitude": 41.895154
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "701 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "701 N Michigan Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124401500",
+   "display_phone": "(312) 440-1500",
+   "distance": 1957.6256066448314
+  },
+  {
+   "id": "o8QGFKgeFt6-3WK8fRGGMw",
+   "alias": "routes-car-rental-schiller-park",
+   "name": "CARNGO Car Rental",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GOO50NvzIQwuACsC4LTl5A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/routes-car-rental-schiller-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 656,
+   "categories": [
+    {
+     "alias": "carrental",
+     "title": "Car Rental"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.8854900932152,
+    "Latitude": 41.9486917314788
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3901 Mannheim Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Schiller Park",
+    "zip_code": "60176",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3901 Mannheim Rd",
+     "Schiller Park, IL 60176"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18476714000",
+   "display_phone": "(847) 671-4000",
+   "distance": 22514.456469404806
+  },
+  {
+   "id": "ezxzzWj-EIigt0p4wlbLbw",
+   "alias": "sheraton-grand-chicago-chicago",
+   "name": "Sheraton Grand Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sDtzyqkBDeHjkwlNDww5tA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sheraton-grand-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 618,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6196533081107,
+    "Latitude": 41.8892536887959
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "301 E North Water St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "301 E North Water St",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124641000",
+   "display_phone": "(312) 464-1000",
+   "distance": 1497.9189186501424
+  },
+  {
+   "id": "SrNUBeLzCCBdwdUF9qepqg",
+   "alias": "intercontinental-chicago-magnificent-mile-chicago",
+   "name": "InterContinental Chicago Magnificent Mile",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/G3WstJfIR-Ox1-AoheocQw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/intercontinental-chicago-magnificent-mile-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 566,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6238748253278,
+    "Latitude": 41.891146368416564
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "505 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "505 N Michigan Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129444100",
+   "display_phone": "(312) 944-4100",
+   "distance": 1531.3698371726814
+  },
+  {
+   "id": "8HKsbnZ231AcgDKH6ZQKtg",
+   "alias": "swissôtel-chicago-chicago-3",
+   "name": "Swissôtel Chicago",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/l3SWlro9Ye-_L8XiEjKSuw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/swiss%C3%B4tel-chicago-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 562,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.61950367262703,
+    "Latitude": 41.88705157214429
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "323 East Upper Wacker Drive",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "323 East Upper Wacker Drive",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125650565",
+   "display_phone": "(312) 565-0565",
+   "distance": 1310.4703308627338
+  },
+  {
+   "id": "fH7EwQ9j_Ab1NJNYMoHA3w",
+   "alias": "thewit-chicago-a-doubletree-by-hilton-hotel-chicago",
+   "name": "theWit Chicago - a DoubleTree by Hilton Hotel",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lik4X5rpd0ESL_qtcYuNPw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/thewit-chicago-a-doubletree-by-hilton-hotel-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 552,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6276233,
+    "Latitude": 41.88599690799339
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "201 N State St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "201 N State St",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124670200",
+   "display_phone": "(312) 467-0200",
+   "distance": 896.3949241594476
+  },
+  {
+   "id": "OD4JWXdY3kERkyTOm71_Qw",
+   "alias": "chicago-food-planet-food-tours-chicago",
+   "name": "Chicago Food Planet Food Tours",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kE7EZ1p0iaW5d_4EZLHY9A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-food-planet-food-tours-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 522,
+   "categories": [
+    {
+     "alias": "foodtours",
+     "title": "Food Tours"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6227264404297,
+    "Latitude": 41.8953514099121
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129320800",
+   "display_phone": "(312) 932-0800",
+   "distance": 1959.61282634145
+  },
+  {
+   "id": "mgvWzZBNNHtVP5Xd5Mz39A",
+   "alias": "chicago-marriott-downtown-magnificent-mile-chicago-2",
+   "name": "Chicago Marriott Downtown Magnificent Mile",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eLywcWzonudHb4cGNfckRw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-marriott-downtown-magnificent-mile-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 509,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6248336435674,
+    "Latitude": 41.8920869701404
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "540 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "540 N Michigan Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128360100",
+   "display_phone": "(312) 836-0100",
+   "distance": 1608.7007878295483
+  },
+  {
+   "id": "p9aMkgTdOKhsjkkv4G0QBw",
+   "alias": "hotel-felix-chicago",
+   "name": "Hotel Felix",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IOFPM-MNSvX8TbYhX7WwjA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hotel-felix-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 503,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6315543,
+    "Latitude": 41.8946454
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "111 W Huron St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "111 W Huron St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124473440",
+   "display_phone": "(312) 447-3440",
+   "distance": 1845.485249638034
+  },
+  {
+   "id": "Zf-LMWclHz35npWbVoUYkg",
+   "alias": "inn-of-chicago-chicago-4",
+   "name": "Inn of Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GGhZ89Noe0QbWq16k2WiZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/inn-of-chicago-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 502,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.622953,
+    "Latitude": 41.892772
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "162 East Ohio St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "162 East Ohio St",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127873100",
+   "display_phone": "(312) 787-3100",
+   "distance": 1727.1087972437426
+  },
+  {
+   "id": "TAwUsdmF9epPakX0nWcxnw",
+   "alias": "flash-cab-chicago",
+   "name": "Flash Cab",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wLxNAHO4x1GSUWADLLlkHQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/flash-cab-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 502,
+   "categories": [
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.8678177971593,
+    "Latitude": 41.97344306594304
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5200 N Otto Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5200 N Otto Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735614444",
+   "display_phone": "(773) 561-4444",
+   "distance": 22363.80781368324
+  },
+  {
+   "id": "ztuO0tozkkocR_o2OXDuQw",
+   "alias": "w-chicago-city-center-chicago-2",
+   "name": "W Chicago - City Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DjLVuu6NDWryQ5HMcXyW9w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/w-chicago-city-center-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 493,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.63321596315379,
+    "Latitude": 41.879537154793645
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "172 West Adams St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60603",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "172 West Adams St",
+     "Chicago, IL 60603"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123321200",
+   "display_phone": "(312) 332-1200",
+   "distance": 324.8376115382253
+  },
+  {
+   "id": "LDze56Nd8rRljNDMaD1sbA",
+   "alias": "dana-hotel-and-spa-chicago",
+   "name": "Dana Hotel \u0026 Spa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KsjzFU9uUDbcJBfw8DzSeA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dana-hotel-and-spa-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 492,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6283025,
+    "Latitude": 41.8942645
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "660 North State St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "660 North State St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122026000",
+   "display_phone": "(312) 202-6000",
+   "distance": 1797.4336598032962
+  },
+  {
+   "id": "egGPeMrcVPVZbXrcbhv2wQ",
+   "alias": "go-airport-express-chicago",
+   "name": "GO Airport Express",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dlFjWcWD9hiZm5nMrCv-Xw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/go-airport-express-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 491,
+   "categories": [
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6564516,
+    "Latitude": 41.8308518
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1200 W 35th St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60609",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1200 W 35th St",
+     "Chicago, IL 60609"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18722409090",
+   "display_phone": "(872) 240-9090",
+   "distance": 5698.62641087505
+  },
+  {
+   "id": "EgMO1PC7I7D9DB9gi67wGg",
+   "alias": "american-coach-limousine-oak-brook-2",
+   "name": "American Coach Limousine",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Do9_97Iu_bioN-7iv3ydXw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-coach-limousine-oak-brook-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 486,
+   "categories": [
+    {
+     "alias": "limos",
+     "title": "Limos"
+    },
+    {
+     "alias": "busrental",
+     "title": "Bus Rental"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.9461199,
+    "Latitude": 41.8441
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1100 Jorie Blvd",
+    "address2": "Ste 314",
+    "address3": "",
+    "city": "Oak Brook",
+    "zip_code": "60523",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1100 Jorie Blvd",
+     "Ste 314",
+     "Oak Brook, IL 60523"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16306290001",
+   "display_phone": "(630) 629-0001",
+   "distance": 26450.514926758628
+  },
+  {
+   "id": "99vHLbWQuMcmxRSKHpyoUg",
+   "alias": "hertz-rent-a-car-chicago-28",
+   "name": "Hertz Rent A Car",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KP4NENuvLfJeuMJ7LQFhfA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hertz-rent-a-car-chicago-28?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 481,
+   "categories": [
+    {
+     "alias": "carrental",
+     "title": "Car Rental"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.881193,
+    "Latitude": 41.993142
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10255 W Zemke Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60666",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "10255 W Zemke Rd",
+     "Chicago, IL 60666"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736867272",
+   "display_phone": "(773) 686-7272",
+   "distance": 24414.14752955045
+  },
+  {
+   "id": "NdkoP46IILVL37AeKKNWfA",
+   "alias": "trump-international-hotel-and-tower-chicago-chicago-2",
+   "name": "Trump International Hotel \u0026 Tower Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BWCgJd4voEisGPGU9tR85w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/trump-international-hotel-and-tower-chicago-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 474,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6265133544163,
+    "Latitude": 41.8888275472582
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "401 N Wabash Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "401 N Wabash Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125888000",
+   "display_phone": "(312) 588-8000",
+   "distance": 1223.4849432100323
+  },
+  {
+   "id": "0c0sRK0EJy-0cpKm8T3rbg",
+   "alias": "chicago-architecture-center-chicago",
+   "name": "Chicago Architecture Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9kKmDWrdhJj1L-x7AK5njw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-architecture-center-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 469,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "tours",
+     "title": "Tours"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6235734860398,
+    "Latitude": 41.888041737312
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "111 E Wacker Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "111 E Wacker Dr",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129223432",
+   "display_phone": "(312) 922-3432",
+   "distance": 1219.7406268049424
+  },
+  {
+   "id": "sVVuxVYUM980TP9n1Kx9tg",
+   "alias": "the-godfrey-hotel-chicago-chicago",
+   "name": "The Godfrey Hotel Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IIK7lHUU43GLfRkusApgQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-godfrey-hotel-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 461,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6321868,
+    "Latitude": 41.8946533
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "127 W Huron St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "127 W Huron St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126492000",
+   "display_phone": "(312) 649-2000",
+   "distance": 1851.215223253249
+  },
+  {
+   "id": "qboZW_83Syg7-_t8-zXtag",
+   "alias": "echo-limousine-chicago-2",
+   "name": "Echo Limousine",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KonE-BQSSjZei89Dsf8ZZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/echo-limousine-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 459,
+   "categories": [
+    {
+     "alias": "limos",
+     "title": "Limos"
+    },
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    },
+    {
+     "alias": "towncarservice",
+     "title": "Town Car Service"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.7860665,
+    "Latitude": 41.950043
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3821 N Narragansett Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60634",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3821 N Narragansett Ave",
+     "Chicago, IL 60634"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737741074",
+   "display_phone": "(773) 774-1074",
+   "distance": 15204.872960168597
+  },
+  {
+   "id": "nD3EokIPjtsTgFaawPgLxA",
+   "alias": "hotel-chicago-downtown-autograph-collection-chicago",
+   "name": "Hotel Chicago Downtown, Autograph Collection",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Oy9tCEHxi1St0PimSzsdfg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hotel-chicago-downtown-autograph-collection-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 449,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.628862,
+    "Latitude": 41.888559
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "333 N Dearborn St",
+    "address2": "Driveway entrance on 350 N State St",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "333 N Dearborn St",
+     "Driveway entrance on 350 N State St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122450333",
+   "display_phone": "(312) 245-0333",
+   "distance": 1165.575989945277
+  },
+  {
+   "id": "qnizyJQ7u7bgGqSJAH62xA",
+   "alias": "sofitel-chicago-magnificent-mile-chicago-2",
+   "name": "Sofitel Chicago Magnificent Mile",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ns4CwlsihSmYLLWvXZkhaA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sofitel-chicago-magnificent-mile-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 449,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.627307,
+    "Latitude": 41.89846752564369
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "20 E Chestnut St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "20 E Chestnut St",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123244000",
+   "display_phone": "(312) 324-4000",
+   "distance": 2274.1457746185265
+  }
+ ],
+ "total": 2900,
+ "region": {
+  "center": {
+   "longitude": -87.6298,
+   "Latitude": 41.8781
+  }
+ }
+}

@@ -1,0 +1,1913 @@
+{
+ "businesses": [
+  {
+   "id": "1umE4pJi-xU5nChJcboiag",
+   "alias": "macys-new-york-12",
+   "name": "Macy's",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kSOWgMbYksJeNCOaH19Aqw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/macys-new-york-12?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1767,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9890961,
+    "Latitude": 40.750831
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "151 W 34th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "151 W 34th St",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126954400",
+   "display_phone": "(212) 695-4400",
+   "distance": 4462.272828576289
+  },
+  {
+   "id": "LGdiQZ1SsWHIcWlF_oJ6Tg",
+   "alias": "uniqlo-new-york-6",
+   "name": "UNIQLO",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EmIqxVwt-HX-F4dblr08vQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/uniqlo-new-york-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1148,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "childcloth",
+     "title": "Children's Clothing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.99822,
+    "Latitude": 40.72352
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "546 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "546 Broadway",
+     "New York, NY 10012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1362.1913467014115
+  },
+  {
+   "id": "FoUH-oZeWucn41MsjpsIMw",
+   "alias": "saks-fifth-avenue-new-york",
+   "name": "Saks Fifth Avenue",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0q1hq0pHksDvR90FRSTswg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/saks-fifth-avenue-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 783,
+   "categories": [
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9770144224167,
+    "Latitude": 40.7580543012275
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "611 Fifth Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "611 Fifth Ave",
+     "New York, NY 10022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127534000",
+   "display_phone": "(212) 753-4000",
+   "distance": 5593.371541731166
+  },
+  {
+   "id": "EcONn1mPa-LbGSY8anl6Xw",
+   "alias": "paragon-sports-new-york",
+   "name": "Paragon Sports",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4gPzfUdVVhkmhG-BzxrOLg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paragon-sports-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 777,
+   "categories": [
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9903309968226,
+    "Latitude": 40.737759621837
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "867 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "867 Broadway",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18009613030",
+   "display_phone": "(800) 961-3030",
+   "distance": 3073.4678383230976
+  },
+  {
+   "id": "8V9Q-Z7viprXJvq0g8TO2A",
+   "alias": "bloomingdales-new-york",
+   "name": "Bloomingdale's",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/joVIYnNKGlReGl8Le5kblA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bloomingdales-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 761,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9671732595536,
+    "Latitude": 40.7621779673844
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1000 3rd Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1000 3rd Ave",
+     "New York, NY 10022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127052000",
+   "display_phone": "(212) 705-2000",
+   "distance": 6391.21518916183
+  },
+  {
+   "id": "HcaPl-rEzhtMKRcwNqTAGg",
+   "alias": "proper-cloth-new-york-7",
+   "name": "Proper Cloth",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-jRfV4d8WUj9YScUh2RJig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/proper-cloth-new-york-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 670,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "bespoke",
+     "title": "Bespoke Clothing"
+    },
+    {
+     "alias": "formalwear",
+     "title": "Formal Wear"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.999889,
+    "Latitude": 40.722113
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "495 Broadway",
+    "address2": "Fl 6",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10013",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "495 Broadway",
+     "Fl 6",
+     "New York, NY 10013"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13322349626",
+   "display_phone": "(332) 234-9626",
+   "distance": 1156.5597379680923
+  },
+  {
+   "id": "16MGpwFEAw2hARDV5FI0JA",
+   "alias": "davids-bridal-new-york-5",
+   "name": "David's Bridal",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bKZe1hs84XApzH6zs7OQdg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/davids-bridal-new-york-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 643,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.992191,
+    "Latitude": 40.744163
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "751 6th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "751 6th Ave",
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16468274050",
+   "display_phone": "(646) 827-4050",
+   "distance": 3676.406260751102
+  },
+  {
+   "id": "G6q9z9MFRu8f53_4RiGKDA",
+   "alias": "rk-bridal-new-york-2",
+   "name": "RK Bridal",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aQ-cjUFJs7p2eEsr6g7t1g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rk-bridal-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 637,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9936647,
+    "Latitude": 40.7689192
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "619 W 54th St",
+    "address2": "Fl 5",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "619 W 54th St",
+     "Fl 5",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129471155",
+   "display_phone": "(212) 947-1155",
+   "distance": 6326.108484769265
+  },
+  {
+   "id": "VYrYfGnF2-Fq5cvNoOT3xQ",
+   "alias": "bergdorf-goodman-new-york-6",
+   "name": "Bergdorf Goodman",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2ZMTscDKXycquADU1-83cw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bergdorf-goodman-new-york-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 603,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.97392264692708,
+    "Latitude": 40.76353306799116
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "754 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "754 5th Ave",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12128728757",
+   "display_phone": "(212) 872-8757",
+   "distance": 6255.216446499357
+  },
+  {
+   "id": "OQfJhfV8wI4S9kg2w-dBcw",
+   "alias": "lovely-bride-new-york",
+   "name": "Lovely Bride",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oyOFh0KUib0ZJPYNHIN65Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lovely-bride-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 591,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.010028,
+    "Latitude": 40.717118
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "182 Duane St",
+    "address2": "Ground Fl",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10013",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "182 Duane St",
+     "Ground Fl",
+     "New York, NY 10013"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129242050",
+   "display_phone": "(212) 924-2050",
+   "distance": 589.6256333450567
+  },
+  {
+   "id": "SNlUa3wlXYh21Xl9-R9D2g",
+   "alias": "designer-optics-brooklyn-6",
+   "name": "Designer Optics",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/I1Eln7B8fglaCfIOVpGiiQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/designer-optics-brooklyn-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 584,
+   "categories": [
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "opticians",
+     "title": "Eyewear \u0026 Opticians"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.9598,
+    "Latitude": 40.69719
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "791 Kent Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11205",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "791 Kent Ave",
+     "Brooklyn, NY 11205"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184120407",
+   "display_phone": "(718) 412-0407",
+   "distance": 4275.30934568089
+  },
+  {
+   "id": "-dI3227I8yYUFi3Im8ybSA",
+   "alias": "target-brooklyn",
+   "name": "Target",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GNdZ8w0Tcqtus-6ZUNX54A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 570,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.97748,
+    "Latitude": 40.68449
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "139 Flatbush Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11217",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "139 Flatbush Ave",
+     "Brooklyn, NY 11217"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182901109",
+   "display_phone": "(718) 290-1109",
+   "distance": 3961.0729108765327
+  },
+  {
+   "id": "f9qWomp8q4f5KxGpIcVHIw",
+   "alias": "tiffany-and-co-new-york",
+   "name": "Tiffany \u0026 Co",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/A2xfICCZnBXXk_GFledXmw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tiffany-and-co-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 498,
+   "categories": [
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "watches",
+     "title": "Watches"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.973726645944,
+    "Latitude": 40.762659199475
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "727 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "727 5th Ave",
+     "New York, NY 10022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127558000",
+   "display_phone": "(212) 755-8000",
+   "distance": 6174.988750118209
+  },
+  {
+   "id": "zRHWzzNcROiRplAKuQsegQ",
+   "alias": "flight-club-new-york",
+   "name": "Flight Club",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xluUjN1aqzs_DciYH98EXw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/flight-club-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 477,
+   "categories": [
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.99109486170015,
+    "Latitude": 40.73265084302101
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "812 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "812 Broadway",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2539.6781775750615
+  },
+  {
+   "id": "RpAz2J8_VKLrUIfgxdyZYg",
+   "alias": "beacons-closet-brooklyn",
+   "name": "Beacon's Closet",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/055EXp-5x3_LMg4OWrj76A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beacons-closet-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 431,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.97821,
+    "Latitude": 40.680218
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "92 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11215",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "92 5th Ave",
+     "Brooklyn, NY 11215"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182301630",
+   "display_phone": "(718) 230-1630",
+   "distance": 4315.272009521032
+  },
+  {
+   "id": "o_TmLU9stoDGtSMThG5k4A",
+   "alias": "beacons-closet-new-york",
+   "name": "Beacon's Closet",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fANq3LwKaWGKWjPagCq0fg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beacons-closet-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 410,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "thrift_stores",
+     "title": "Thrift Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.99506858509825,
+    "Latitude": 40.735561378492534
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "10 W 13th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "10 W 13th St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19172614863",
+   "display_phone": "(917) 261-4863",
+   "distance": 2693.3778271494016
+  },
+  {
+   "id": "iEiWcHzcpqaxsntz6AFtvg",
+   "alias": "uniqlo-new-york-2",
+   "name": "UNIQLO",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zsjLFh1rq5Iu8NOvzxUl7Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/uniqlo-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 409,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "childcloth",
+     "title": "Children's Clothing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.976594,
+    "Latitude": 40.760651
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "666 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10103",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "666 5th Ave",
+     "New York, NY 10103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 5869.336354384554
+  },
+  {
+   "id": "TgSKKjlhd8f4qZ2lxuurAw",
+   "alias": "pearl-river-mart-new-york",
+   "name": "Pearl River Mart",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GUhiXDa05xrNmoWNtiQfHg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pearl-river-mart-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 388,
+   "categories": [
+    {
+     "alias": "fashion",
+     "title": "Fashion"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.00055,
+    "Latitude": 40.720332
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "452 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10013",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "452 Broadway",
+     "New York, NY 10013"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18008782446",
+   "display_phone": "(800) 878-2446",
+   "distance": 958.1359398717011
+  },
+  {
+   "id": "WYki_ktHZiNQF0RcQfJFVw",
+   "alias": "rent-the-runway-new-york-17",
+   "name": "Rent the Runway",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rsx2deDH3zs87Vy9Pphy-g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rent-the-runway-new-york-17?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 377,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.99482,
+    "Latitude": 40.73722251741655
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "30 W 15th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "30 W 15th St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18005090842",
+   "display_phone": "(800) 509-0842",
+   "distance": 2874.438340305232
+  },
+  {
+   "id": "4Yzr8Pm1iW6fslkBWJB8zw",
+   "alias": "buffalo-exchange-new-york-2",
+   "name": "Buffalo Exchange",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LtSk4E8NDBHe7BMINiQesQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/buffalo-exchange-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 375,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "thrift_stores",
+     "title": "Thrift Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.99231,
+    "Latitude": 40.74508
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "114 W 26th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "114 W 26th St",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126753535",
+   "display_phone": "(212) 675-3535",
+   "distance": 3756.548556673962
+  },
+  {
+   "id": "9aEnmk70rO9sroxMBX7gEg",
+   "alias": "walmart-supercenter-valley-stream",
+   "name": "Walmart Supercenter",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/v611VzsPuH-Sqjenu_5uXg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/walmart-supercenter-valley-stream?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 365,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.7268192,
+    "Latitude": 40.6609278
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "77 Green Acres Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Valley Stream",
+    "zip_code": "11581",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "77 Green Acres Rd",
+     "Valley Stream, NY 11581"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15162934520",
+   "display_phone": "(516) 293-4520",
+   "distance": 24236.09060922466
+  },
+  {
+   "id": "wPJ6CQJ7tNz3yXURKmRofg",
+   "alias": "pronovias-new-york-wedding-dresses-new-york-45",
+   "name": "Pronovias New York - Wedding Dresses",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Z3nfztfo8TcalanquYXctg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pronovias-new-york-wedding-dresses-new-york-45?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 363,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.97088,
+    "Latitude": 40.76265
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "45 E 58th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "45 E 58th St",
+     "New York, NY 10022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12128976393",
+   "display_phone": "(212) 897-6393",
+   "distance": 6283.371269059696
+  },
+  {
+   "id": "YcyN0ahcIrA840sBiXZp2A",
+   "alias": "jackrabbit-by-fleet-feet-union-square-new-york",
+   "name": "JackRabbit by Fleet Feet - Union Square",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XmCQxNFmgAQtm19MSx9zOw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jackrabbit-by-fleet-feet-union-square-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 362,
+   "categories": [
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "swimwear",
+     "title": "Swimwear"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9956053,
+    "Latitude": 40.7367146
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "42 W 14th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "42 W 14th St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16463551982",
+   "display_phone": "(646) 355-1982",
+   "distance": 2799.7373166497955
+  },
+  {
+   "id": "GErCF0S7x3ow73FNORdsGQ",
+   "alias": "leather-spa-new-york-9",
+   "name": "Leather Spa",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8fYWeNNhhokUkrIH-axoTw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/leather-spa-new-york-9?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 359,
+   "categories": [
+    {
+     "alias": "shoerepair",
+     "title": "Shoe Repair"
+    },
+    {
+     "alias": "shoeshine",
+     "title": "Shoe Shine"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.977215,
+    "Latitude": 40.7626544
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "55 W 55th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "55 W 55th St",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122624823",
+   "display_phone": "(212) 262-4823",
+   "distance": 6050.83706916682
+  },
+  {
+   "id": "fkYtakbJ1CqBjwNRCprVDQ",
+   "alias": "jacks-99cent-store-new-york",
+   "name": "Jack's 99cent Store",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QpQAW8QRAB4MZ5WKLrt6uA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jacks-99cent-store-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 350,
+   "categories": [
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "discountstore",
+     "title": "Discount Store"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.98948,
+    "Latitude": 40.74873
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "110 W 32nd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "110 W 32nd St",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122689962",
+   "display_phone": "(212) 268-9962",
+   "distance": 4220.722325257429
+  },
+  {
+   "id": "lOTAQGP-EJxpNY5nOlLMeg",
+   "alias": "forever-21-new-york-5",
+   "name": "Forever 21",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HLDJstIrNBWQEeEASdgZ8A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/forever-21-new-york-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 345,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.984832906705,
+    "Latitude": 40.75805079259304
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1540 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1540 Broadway",
+     "New York, NY 10036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123020594",
+   "display_phone": "(212) 302-0594",
+   "distance": 5338.372661795143
+  },
+  {
+   "id": "LRrIE_MejZqPk6nmqqNcmQ",
+   "alias": "beacons-closet-new-york-3",
+   "name": "Beacon's Closet",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/d_ry2b37kMGlOvGOTktw_Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beacons-closet-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 341,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.952636,
+    "Latitude": 40.7236062
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "74 Guernsey St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "11222",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "74 Guernsey St",
+     "New York, NY 11222"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184860816",
+   "display_phone": "(718) 486-0816",
+   "distance": 4655.139160907566
+  },
+  {
+   "id": "guOf5gbnCDFJ3yw9TpQRRg",
+   "alias": "supreme-new-york",
+   "name": "Supreme",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OHGqDLCpVAiaYHf-1W_ApA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/supreme-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 328,
+   "categories": [
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.994074,
+    "Latitude": 40.721284
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "190 Bowery",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "190 Bowery",
+     "New York, NY 10012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129667799",
+   "display_phone": "(212) 966-7799",
+   "distance": 1378.4807225615955
+  },
+  {
+   "id": "rjYsG4yrOsyPvPlZwW9bnA",
+   "alias": "enzo-custom-midtown-new-york",
+   "name": "Enzo Custom- Midtown",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZR9p-Kgrfg3ZDcXhXv9IUg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/enzo-custom-midtown-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 325,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "bespoke",
+     "title": "Bespoke Clothing"
+    },
+    {
+     "alias": "formalwear",
+     "title": "Formal Wear"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.979205,
+    "Latitude": 40.752558
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "315 Madison Ave",
+    "address2": "Fl 14",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10017",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "315 Madison Ave",
+     "Fl 14",
+     "New York, NY 10017"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123707619",
+   "display_phone": "(212) 370-7619",
+   "distance": 4964.023820863801
+  },
+  {
+   "id": "rYycw8bbZd5NVGd1OE1gKQ",
+   "alias": "buffalo-exchange-brooklyn",
+   "name": "Buffalo Exchange",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OYyAW_TnFTXvpEth2s0d5A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/buffalo-exchange-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 317,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "thrift_stores",
+     "title": "Thrift Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.95522,
+    "Latitude": 40.71833
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "504 Driggs Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11211",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "504 Driggs Ave",
+     "Brooklyn, NY 11211"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183846901",
+   "display_phone": "(718) 384-6901",
+   "distance": 4318.5601646593
+  },
+  {
+   "id": "w9ahbebiZVN0WKmkd0eK3A",
+   "alias": "beyond-bespoke-new-york-4",
+   "name": "Beyond Bespoke",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mWGQD-iYFjsCekUPpthFug/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beyond-bespoke-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 315,
+   "categories": [
+    {
+     "alias": "sewingalterations",
+     "title": "Sewing \u0026 Alterations"
+    },
+    {
+     "alias": "bespoke",
+     "title": "Bespoke Clothing"
+    },
+    {
+     "alias": "formalwear",
+     "title": "Formal Wear"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.98068,
+    "Latitude": 40.756994
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "45 W 46th St",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "45 W 46th St",
+     "Fl 2",
+     "New York, NY 10036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129181966",
+   "display_phone": "(212) 918-1966",
+   "distance": 5357.245598362916
+  },
+  {
+   "id": "KCWhzCq5yDQJe3PNOZzyIQ",
+   "alias": "catbird-brooklyn-2",
+   "name": "Catbird",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Tj5sdj7BTO-0f0B81ZgJqg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/catbird-brooklyn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 313,
+   "categories": [
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.95989031165658,
+    "Latitude": 40.71900680827751
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "108 N 7th",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11249",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "108 N 7th",
+     "Brooklyn, NY 11249"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17185993457",
+   "display_phone": "(718) 599-3457",
+   "distance": 3946.955661072526
+  },
+  {
+   "id": "53ruuxNzlDGmTElT_SFRHw",
+   "alias": "nordstrom-rack-new-york-4",
+   "name": "Nordstrom Rack",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IpvsHyK7yjj82-2VOYLKkA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nordstrom-rack-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 304,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.990185,
+    "Latitude": 40.7343826
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "60 E 14th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "60 E 14th St",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122202080",
+   "display_phone": "(212) 220-2080",
+   "distance": 2745.1030137313696
+  },
+  {
+   "id": "8le-zuWuXdhQY58X7XyLrg",
+   "alias": "the-realreal-soho-new-york",
+   "name": "The RealReal - Soho",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KHgrI18QuuNOfEgqNnbRdQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-realreal-soho-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 296,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.00138,
+    "Latitude": 40.72372
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "80 Wooster St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "80 Wooster St",
+     "New York, NY 10012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122038386",
+   "display_phone": "(212) 203-8386",
+   "distance": 1272.9941499874617
+  },
+  {
+   "id": "ignA7_m8Mhg2mKwMUWxLDg",
+   "alias": "suitsupply-ny-soho-new-york-2",
+   "name": "Suitsupply - NY Soho",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0U8dtfZO45bAp1o8QTkl8Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/suitsupply-ny-soho-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 291,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "formalwear",
+     "title": "Formal Wear"
+    },
+    {
+     "alias": "bespoke",
+     "title": "Bespoke Clothing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.00096,
+    "Latitude": 40.72207
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "453 Broome St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10013",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "453 Broome St",
+     "New York, NY 10013"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12128287250",
+   "display_phone": "(212) 828-7250",
+   "distance": 1115.3704877374196
+  },
+  {
+   "id": "sem9QfGcAcfznL9eGhPrNQ",
+   "alias": "modern-leather-goods-new-york-2",
+   "name": "Modern Leather Goods",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nR4z1dh8h83ryp2ztkes-w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/modern-leather-goods-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 287,
+   "categories": [
+    {
+     "alias": "leather",
+     "title": "Leather Goods"
+    },
+    {
+     "alias": "luggage",
+     "title": "Luggage"
+    },
+    {
+     "alias": "shoerepair",
+     "title": "Shoe Repair"
+    },
+    {
+     "alias": "businessconsulting",
+     "title": "Business Consulting"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.986199,
+    "Latitude": 40.747202
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2 W 32nd St",
+    "address2": "Fl 4",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2 W 32nd St",
+     "Fl 4",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122793263",
+   "display_phone": "(212) 279-3263",
+   "distance": 4173.360735673983
+  },
+  {
+   "id": "Wv44aaW2Z_BdN-ezG55Eiw",
+   "alias": "rei-new-york",
+   "name": "REI",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cCI6pfjVAurn_W3bCaAjUA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rei-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 286,
+   "categories": [
+    {
+     "alias": "outdoorgear",
+     "title": "Outdoor Gear"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.995204705279,
+    "Latitude": 40.724813946668
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "303 Lafayette St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "303 Lafayette St",
+     "New York, NY 10012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126801938",
+   "display_phone": "(212) 680-1938",
+   "distance": 1616.2675756900403
+  },
+  {
+   "id": "wPcc-1RV-TgCBVYDQW7aDA",
+   "alias": "muji-new-york-5",
+   "name": "MUJI",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zsiyVeda1pET5h88wg_0Sw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/muji-new-york-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 285,
+   "categories": [
+    {
+     "alias": "fashion",
+     "title": "Fashion"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.00112,
+    "Latitude": 40.72078
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "455 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10013",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "455 Broadway",
+     "New York, NY 10013"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123342002",
+   "display_phone": "(212) 334-2002",
+   "distance": 979.5575777108689
+  },
+  {
+   "id": "b4TW_-d_YfTkVmRTMgkHVQ",
+   "alias": "target-jersey-city",
+   "name": "Target",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FHjKjOIYpAqOkQn1pIDFDw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-jersey-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 285,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.03572,
+    "Latitude": 40.732336
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "100 14th St",
+    "address2": "",
+    "address3": "",
+    "city": "Jersey City",
+    "zip_code": "07310",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "100 14th St",
+     "Jersey City, NJ 07310"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12014990017",
+   "display_phone": "(201) 499-0017",
+   "distance": 3315.379163610424
+  },
+  {
+   "id": "plIf_2EErYcwRYnoD39fIg",
+   "alias": "bloomingdales-soho-new-york",
+   "name": "Bloomingdale's SoHo",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sEg2cy3SG5xCcPFeAQV18Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bloomingdales-soho-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 284,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9992253503307,
+    "Latitude": 40.7223422435309
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "504 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "504 Broadway",
+     "New York, NY 10012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127295900",
+   "display_phone": "(212) 729-5900",
+   "distance": 1204.9123528219072
+  }
+ ],
+ "total": 7300,
+ "region": {
+  "center": {
+   "longitude": -74.006,
+   "Latitude": 40.7128
+  }
+ }
+}

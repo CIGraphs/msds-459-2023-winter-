@@ -1,0 +1,1878 @@
+{
+ "businesses": [
+  {
+   "id": "50eVhipkGMEvNBIk4thQ3w",
+   "alias": "seattle-aquarium-seattle",
+   "name": "Seattle Aquarium",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FxNDPLjtkHPz4LFy7IuNOg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-aquarium-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1228,
+   "categories": [
+    {
+     "alias": "aquariums",
+     "title": "Aquariums"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.342983781568,
+    "Latitude": 47.6078269164476
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1483 Alaskan Way",
+    "address2": "",
+    "address3": "Pier 59",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1483 Alaskan Way",
+     "Pier 59",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063864300",
+   "display_phone": "(206) 386-4300",
+   "distance": 835.7585841976291
+  },
+  {
+   "id": "NXxA6Q0FP-G9kZQx4gngEg",
+   "alias": "kerry-park-seattle",
+   "name": "Kerry Park",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fdeuZczxbloSEUESbmJ3Hw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kerry-park-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1001,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "playgrounds",
+     "title": "Playgrounds"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.35992508220973,
+    "Latitude": 47.62947371900122
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "211 W Highland Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98119",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "211 W Highland Dr",
+     "Seattle, WA 98119"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066844075",
+   "display_phone": "(206) 684-4075",
+   "distance": 3323.6981835302718
+  },
+  {
+   "id": "HuPYP8r6mELwnHgPSPkh9g",
+   "alias": "woodland-park-zoo-seattle-4",
+   "name": "Woodland Park Zoo",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/m0jZ9D13Eaf8-aG7OXI99A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/woodland-park-zoo-seattle-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 953,
+   "categories": [
+    {
+     "alias": "zoos",
+     "title": "Zoos"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.350889,
+    "Latitude": 47.66839
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065482500",
+   "display_phone": "(206) 548-2500",
+   "distance": 7057.045101104451
+  },
+  {
+   "id": "qLRn3UDAhyxwK8qzNecV3w",
+   "alias": "the-seattle-great-wheel-seattle",
+   "name": "The Seattle Great Wheel",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tIE2mtEgHLYinkHWrdpWbQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-seattle-great-wheel-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 820,
+   "categories": [
+    {
+     "alias": "amusementparks",
+     "title": "Amusement Parks"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.341049,
+    "Latitude": 47.606079
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1301 Alaskan Way",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1301 Alaskan Way",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066238607",
+   "display_phone": "(206) 623-8607",
+   "distance": 678.8728431004497
+  },
+  {
+   "id": "QWPonI01qr_ztysx095GaQ",
+   "alias": "garage-seattle",
+   "name": "Garage",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eoKrncz_iPCEvQXweux6gA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/garage-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 772,
+   "categories": [
+    {
+     "alias": "poolhalls",
+     "title": "Pool Halls"
+    },
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.32049,
+    "Latitude": 47.612236
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1130 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1130 Broadway",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063222296",
+   "display_phone": "(206) 322-2296",
+   "distance": 1099.083271661951
+  },
+  {
+   "id": "hBzorTnBSFJzzIZ63Ab73A",
+   "alias": "snoqualmie-falls-snoqualmie",
+   "name": "Snoqualmie Falls",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SX0f_MNqOmM4zJ4ikosRDg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/snoqualmie-falls-snoqualmie?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 737,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "hiking",
+     "title": "Hiking"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -121.837604375873,
+    "Latitude": 47.5415352236262
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6501 State Hwy 202",
+    "address2": "",
+    "address3": "",
+    "city": "Snoqualmie",
+    "zip_code": "98065",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "6501 State Hwy 202",
+     "Snoqualmie, WA 98065"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13604215849",
+   "display_phone": "(360) 421-5849",
+   "distance": 37785.644891545846
+  },
+  {
+   "id": "45IC4gkYjabENFQEzYeqqA",
+   "alias": "gas-works-park-seattle-2",
+   "name": "Gas Works Park",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yCD8wOEw_MwhHi_-JsDPEQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gas-works-park-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 703,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3337,
+    "Latitude": 47.646241
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2101 N Northlake Way",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2101 N Northlake Way",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066844075",
+   "display_phone": "(206) 684-4075",
+   "distance": 4453.965421055028
+  },
+  {
+   "id": "Tn4gCj12GQSO3f3ZzgpunQ",
+   "alias": "la-fitness-seattle-4",
+   "name": "LA Fitness",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5vKQN1wFz29v3P3MKU7jbA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-fitness-seattle-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 558,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.375023651328,
+    "Latitude": 47.6624647855449
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1416 NW Ballard Way",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1416 NW Ballard Way",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065085030",
+   "display_phone": "(206) 508-5030",
+   "distance": 7034.645646834667
+  },
+  {
+   "id": "3fEBQx3DSiNzdGh92vJmQg",
+   "alias": "wild-waves-theme-and-water-park-federal-way",
+   "name": "Wild Waves Theme and Water Park",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/C5EasnZBuqMuaR-ZnSDgxA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wild-waves-theme-and-water-park-federal-way?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 552,
+   "categories": [
+    {
+     "alias": "amusementparks",
+     "title": "Amusement Parks"
+    },
+    {
+     "alias": "waterparks",
+     "title": "Water Parks"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.311061,
+    "Latitude": 47.274486
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "36201 Enchanted Pkwy S",
+    "address2": "",
+    "address3": "",
+    "city": "Federal Way",
+    "zip_code": "98003",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "36201 Enchanted Pkwy S",
+     "Federal Way, WA 98003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12536618000",
+   "display_phone": "(253) 661-8000",
+   "distance": 36918.79552386568
+  },
+  {
+   "id": "InGIjsn1Vq3UU98B2ngxow",
+   "alias": "lucky-strike-bellevue-bellevue-3",
+   "name": "Lucky Strike - Bellevue",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/f4oo-M8IhvKVoOx23hMA-g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lucky-strike-bellevue-bellevue-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 522,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.20065080049353,
+    "Latitude": 47.61664680116863
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "700 Bellevue Way NE",
+    "address2": "Ste 250",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98004",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "700 Bellevue Way NE",
+     "Ste 250",
+     "Bellevue, WA 98004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254535137",
+   "display_phone": "(425) 453-5137",
+   "distance": 9922.000005166015
+  },
+  {
+   "id": "E9R5B33QBTaH7wADVcFzog",
+   "alias": "green-lake-park-seattle",
+   "name": "Green Lake Park",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/X34sXMEWIF_bDgdiDrKthA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/green-lake-park-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 514,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "lakes",
+     "title": "Lakes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.328855806324,
+    "Latitude": 47.6806660650906
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7201 Green Lake Trl",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98115",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "7201 Green Lake Trl",
+     "Seattle, WA 98115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066844075",
+   "display_phone": "(206) 684-4075",
+   "distance": 8283.805644517262
+  },
+  {
+   "id": "pLQvKO8sg3XmNy6JVe6-JQ",
+   "alias": "olympic-sculpture-park-seattle",
+   "name": "Olympic Sculpture Park",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/y-7AfU1oBHNQ58JttXMONg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/olympic-sculpture-park-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 510,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.35493,
+    "Latitude": 47.61663
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2901 Western Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2901 Western Ave",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066543100",
+   "display_phone": "(206) 654-3100",
+   "distance": 2001.6841501060992
+  },
+  {
+   "id": "RVDu0gQvlBSbGff9TEwSwA",
+   "alias": "point-defiance-zoo-and-aquarium-tacoma-2",
+   "name": "Point Defiance Zoo \u0026 Aquarium",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/I1Gn9pKnsvEYcx2LDHNXJg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/point-defiance-zoo-and-aquarium-tacoma-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 467,
+   "categories": [
+    {
+     "alias": "zoos",
+     "title": "Zoos"
+    },
+    {
+     "alias": "aquariums",
+     "title": "Aquariums"
+    },
+    {
+     "alias": "gardens",
+     "title": "Botanical Gardens"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.521548,
+    "Latitude": 47.304963
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5400 N Pearl St",
+    "address2": "",
+    "address3": "",
+    "city": "Tacoma",
+    "zip_code": "98407",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5400 N Pearl St",
+     "Tacoma, WA 98407"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12534043800",
+   "display_phone": "(253) 404-3800",
+   "distance": 36398.68235856861
+  },
+  {
+   "id": "8PZS3-l6UYrphVR9j-lWiw",
+   "alias": "discovery-park-seattle",
+   "name": "Discovery Park",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zmuO_cskKh5ytR1sj5ZA8Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/discovery-park-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 447,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "beaches",
+     "title": "Beaches"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.412131,
+    "Latitude": 47.657469
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3801 Discovery Park Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98199",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "3801 Discovery Park Blvd",
+     "Seattle, WA 98199"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063864236",
+   "display_phone": "(206) 386-4236",
+   "distance": 9937.466326116033
+  },
+  {
+   "id": "NWI6KcFVz8y7BC6mPrIY6A",
+   "alias": "flatstick-pub-pioneer-square-seattle",
+   "name": "Flatstick Pub - Pioneer Square",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/t53ysi5mynXKN-OMOBes2A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/flatstick-pub-pioneer-square-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 395,
+   "categories": [
+    {
+     "alias": "mini_golf",
+     "title": "Mini Golf"
+    },
+    {
+     "alias": "pubs",
+     "title": "Pubs"
+    },
+    {
+     "alias": "beerbar",
+     "title": "Beer Bar"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3310024,
+    "Latitude": 47.6001432
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "240 2nd Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "240 2nd Ave S",
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066820608",
+   "display_phone": "(206) 682-0608",
+   "distance": 678.4936058960462
+  },
+  {
+   "id": "6MVqXXSAAUnSP7ZCnOZ9vw",
+   "alias": "24-hour-fitness-downtown-seattle-seattle",
+   "name": "24 Hour Fitness - Downtown Seattle",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5eRKp80bCmPpB2szpAO5HQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/24-hour-fitness-downtown-seattle-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 393,
+   "categories": [
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.330602,
+    "Latitude": 47.617695
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1827 Yale Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1827 Yale Ave",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066240651",
+   "display_phone": "(206) 624-0651",
+   "distance": 1309.018354675095
+  },
+  {
+   "id": "tdo3eSeTbRnItC-OSFziyA",
+   "alias": "marymoor-park-redmond",
+   "name": "Marymoor Park",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/r9mzUcNWDYt1oh9saHWm0Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/marymoor-park-redmond?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 383,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.1087918402357,
+    "Latitude": 47.65944672685133
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6046 W Lake Sammamish Pkwy NE",
+    "address2": "",
+    "address3": "",
+    "city": "Redmond",
+    "zip_code": "98052",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "6046 W Lake Sammamish Pkwy NE",
+     "Redmond, WA 98052"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064777275",
+   "display_phone": "(206) 477-7275",
+   "distance": 17749.506232739954
+  },
+  {
+   "id": "pVkWOH_IwdtCyfHLlNDiPw",
+   "alias": "emerald-city-athletics-seattle",
+   "name": "Emerald City Athletics",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i8uwLamBs4M0omsQU5VI6w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/emerald-city-athletics-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 377,
+   "categories": [
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.342038,
+    "Latitude": 47.655161
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3924 Stone Way N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "3924 Stone Way N",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065574909",
+   "display_phone": "(206) 557-4909",
+   "distance": 5494.906018195759
+  },
+  {
+   "id": "dSRpboYqEK6aAiD-kSbfwQ",
+   "alias": "outer-island-expeditions-eastsound",
+   "name": "Outer Island Expeditions",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/osRwVzq4YquF_KW2Ynj3hg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/outer-island-expeditions-eastsound?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 376,
+   "categories": [
+    {
+     "alias": "fishing",
+     "title": "Fishing"
+    },
+    {
+     "alias": "rafting",
+     "title": "Rafting/Kayaking"
+    },
+    {
+     "alias": "boatcharters",
+     "title": "Boat Charters"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.907494728836,
+    "Latitude": 48.7117823917385
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "54 Hunt Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Eastsound",
+    "zip_code": "98245",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "54 Hunt Rd",
+     "Eastsound, WA 98245"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13602051728",
+   "display_phone": "(360) 205-1728",
+   "distance": 130131.77760917011
+  },
+  {
+   "id": "PDO-J68co0Lqviv9G60lnw",
+   "alias": "west-coast-armory-indoor-range-bellevue",
+   "name": "West Coast Armory Indoor Range",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sa6xsEv-RIp8wxIdIlPv7w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/west-coast-armory-indoor-range-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 369,
+   "categories": [
+    {
+     "alias": "gun_ranges",
+     "title": "Gun/Rifle Ranges"
+    },
+    {
+     "alias": "guns_and_ammo",
+     "title": "Guns \u0026 Ammo"
+    },
+    {
+     "alias": "firearmtraining",
+     "title": "Firearm Training"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.16368,
+    "Latitude": 47.5824
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "13216 SE 32nd St",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98005",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "13216 SE 32nd St",
+     "Bellevue, WA 98005"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256412877",
+   "display_phone": "(425) 641-2877",
+   "distance": 12908.418700226159
+  },
+  {
+   "id": "HuIdybvULfUp-ZlZPBDTHg",
+   "alias": "alki-beach-park-seattle",
+   "name": "Alki Beach Park",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7XIhbGCiZNzqO3BOTtDr8g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alki-beach-park-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 367,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "beaches",
+     "title": "Beaches"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4084891,
+    "Latitude": 47.5798356
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2665 Alki Ave SW",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98116",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2665 Alki Ave SW",
+     "Seattle, WA 98116"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066844075",
+   "display_phone": "(206) 684-4075",
+   "distance": 6434.906520660405
+  },
+  {
+   "id": "s9q-nNAAe2rfsRtstxI-kw",
+   "alias": "round1-tukwila-tukwila",
+   "name": "Round1 Tukwila",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2NKoIJsi4wE8zWyzcR1QWg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/round1-tukwila-tukwila?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 350,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    },
+    {
+     "alias": "karaoke",
+     "title": "Karaoke"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.256324430296,
+    "Latitude": 47.459530538683
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2351 Southcenter Mall",
+    "address2": "",
+    "address3": "",
+    "city": "Tukwila",
+    "zip_code": "98188",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2351 Southcenter Mall",
+     "Tukwila, WA 98188"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062432787",
+   "display_phone": "(206) 243-2787",
+   "distance": 17272.597989597463
+  },
+  {
+   "id": "secc48CWhyyDwQ9mg5OTpQ",
+   "alias": "golden-gardens-park-seattle",
+   "name": "Golden Gardens Park",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Yuev1J2vY6ujmqeih86n_g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/golden-gardens-park-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 336,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "beaches",
+     "title": "Beaches"
+    },
+    {
+     "alias": "playgrounds",
+     "title": "Playgrounds"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.403477874824,
+    "Latitude": 47.6918369012679
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8498 Seaview Pl NW",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98117",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "8498 Seaview Pl NW",
+     "Seattle, WA 98117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066844075",
+   "display_phone": "(206) 684-4075",
+   "distance": 10920.812509527454
+  },
+  {
+   "id": "gy2V5NFS2YBYgPwgCPfWIg",
+   "alias": "flatstick-pub-kirkland-kirkland",
+   "name": "Flatstick Pub - Kirkland",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vxEpqokbBrCuNSKP0RxSfA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/flatstick-pub-kirkland-kirkland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 324,
+   "categories": [
+    {
+     "alias": "pubs",
+     "title": "Pubs"
+    },
+    {
+     "alias": "mini_golf",
+     "title": "Mini Golf"
+    },
+    {
+     "alias": "beerbar",
+     "title": "Beer Bar"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.2071483,
+    "Latitude": 47.67593500466566
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "15 Lake St",
+    "address2": "Ste 100",
+    "address3": "",
+    "city": "Kirkland",
+    "zip_code": "98033",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15 Lake St",
+     "Ste 100",
+     "Kirkland, WA 98033"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252421618",
+   "display_phone": "(425) 242-1618",
+   "distance": 12155.76638824095
+  },
+  {
+   "id": "o0cKmnpAKSBsMgVhEmBFdw",
+   "alias": "greggs-greenlake-cycle-seattle",
+   "name": "Gregg's Greenlake Cycle",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oW0tzBFaNnnjbMPaY48LtA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/greggs-greenlake-cycle-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 320,
+   "categories": [
+    {
+     "alias": "bikes",
+     "title": "Bikes"
+    },
+    {
+     "alias": "bikerentals",
+     "title": "Bike Rentals"
+    },
+    {
+     "alias": "bike_repair_maintenance",
+     "title": "Bike Repair/Maintenance"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.32497,
+    "Latitude": 47.67955
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "7007 Woodlawn Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98115",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "7007 Woodlawn Ave NE",
+     "Seattle, WA 98115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065231822",
+   "display_phone": "(206) 523-1822",
+   "distance": 8167.478821679488
+  },
+  {
+   "id": "xAouv_TEyvKxO3cbCDZbow",
+   "alias": "24-hour-fitness-seattle-seattle-3",
+   "name": "24 Hour Fitness - Seattle",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Pfjz_DPBgmteB08r7CQOJw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/24-hour-fitness-seattle-seattle-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 317,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.3226,
+    "Latitude": 47.70807
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "507 NE Northgate Way",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98125",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "507 NE Northgate Way",
+     "Seattle, WA 98125"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063682431",
+   "display_phone": "(206) 368-2431",
+   "distance": 11342.00115690986
+  },
+  {
+   "id": "nRnlkrsXY-Gl2uSOWNfsfA",
+   "alias": "la-fitness-kirkland",
+   "name": "LA Fitness",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VM5NBkmmhFw89O_xHyxdrw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-fitness-kirkland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 303,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.179237,
+    "Latitude": 47.708534
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "12321 120th Pl NE",
+    "address2": "",
+    "address3": "",
+    "city": "Kirkland",
+    "zip_code": "98034",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "12321 120th Pl NE",
+     "Kirkland, WA 98034"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252981331",
+   "display_phone": "(425) 298-1331",
+   "distance": 16141.700219746393
+  },
+  {
+   "id": "abAO2Sevs7O0wpgotnmv1Q",
+   "alias": "ifly-indoor-skydiving-seattle-tukwila",
+   "name": "iFLY Indoor Skydiving - Seattle",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oMlWYf4qijkh9D3iTWxEnw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ifly-indoor-skydiving-seattle-tukwila?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 297,
+   "categories": [
+    {
+     "alias": "skydiving",
+     "title": "Skydiving"
+    },
+    {
+     "alias": "eventplanning",
+     "title": "Party \u0026 Event Planning"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.252988,
+    "Latitude": 47.461029
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "349 Tukwila Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Tukwila",
+    "zip_code": "98188",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "349 Tukwila Pkwy",
+     "Tukwila, WA 98188"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062444359",
+   "display_phone": "(206) 244-4359",
+   "distance": 17200.21061067407
+  },
+  {
+   "id": "VjqBoXALawRh_2pqVFO3eQ",
+   "alias": "techcity-bowl-kirkland",
+   "name": "TechCity Bowl",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rzQ8PUVZS0vqX3lWqxeIBQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/techcity-bowl-kirkland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 288,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "restaurants",
+     "title": "Restaurants"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.165842182,
+    "Latitude": 47.6666013695
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "13033 NE 70th Pl",
+    "address2": "",
+    "address3": "",
+    "city": "Kirkland",
+    "zip_code": "98033",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "13033 NE 70th Pl",
+     "Kirkland, WA 98033"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258270785",
+   "display_phone": "(425) 827-0785",
+   "distance": 14152.368964098912
+  },
+  {
+   "id": "Ex5ce4XZAmrLMfpm7PUD6w",
+   "alias": "emerald-city-trapeze-arts-seattle",
+   "name": "Emerald City Trapeze Arts",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/n-QCyrBGEAsqnWpH1YSOAQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/emerald-city-trapeze-arts-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 283,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "fitness",
+     "title": "Fitness \u0026 Instruction"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.32553,
+    "Latitude": 47.57951
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2702 6th Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98134",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2702 6th Ave S",
+     "Seattle, WA 98134"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12069069442",
+   "display_phone": "(206) 906-9442",
+   "distance": 3008.2329425960374
+  },
+  {
+   "id": "cFxpmYoEZnJKkgC2j85hjg",
+   "alias": "western-prince-whale-watching-friday-harbor",
+   "name": "Western Prince Whale Watching",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G4hGWPd4eg0L1OJ-yhsBjw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/western-prince-whale-watching-friday-harbor?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 277,
+   "categories": [
+    {
+     "alias": "boatcharters",
+     "title": "Boat Charters"
+    },
+    {
+     "alias": "rafting",
+     "title": "Rafting/Kayaking"
+    },
+    {
+     "alias": "whalewatchingtours",
+     "title": "Whale Watching Tours"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -123.014973,
+    "Latitude": 48.535326
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 Spring St",
+    "address2": "Ste A",
+    "address3": "",
+    "city": "Friday Harbor",
+    "zip_code": "98250",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1 Spring St",
+     "Ste A",
+     "Friday Harbor, WA 98250"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13603785315",
+   "display_phone": "(360) 378-5315",
+   "distance": 115099.54941166434
+  },
+  {
+   "id": "4fpB8BG0s4F8mAvXbGi0bQ",
+   "alias": "washington-park-arboretum-seattle-2",
+   "name": "Washington Park Arboretum",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fhrhAcMjRP5a4yYP5IlhqA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/washington-park-arboretum-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 268,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "gardens",
+     "title": "Botanical Gardens"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.2939888,
+    "Latitude": 47.6379108
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2300 Arboretum Dr E",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98112",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2300 Arboretum Dr E",
+     "Seattle, WA 98112"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065438800",
+   "display_phone": "(206) 543-8800",
+   "distance": 4678.889095808375
+  },
+  {
+   "id": "afLiaSUKHoxNROx5U_t2_g",
+   "alias": "magnuson-park-off-leash-area-seattle",
+   "name": "Magnuson Park Off-Leash Area",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/EbndFc-678Qq8lZTYMLfNQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/magnuson-park-off-leash-area-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 266,
+   "categories": [
+    {
+     "alias": "dog_parks",
+     "title": "Dog Parks"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.25672828471,
+    "Latitude": 47.683122050587
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7400 Sand Point Way NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98115",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "7400 Sand Point Way NE",
+     "Seattle, WA 98115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066844084",
+   "display_phone": "(206) 684-4084",
+   "distance": 10249.001148866893
+  },
+  {
+   "id": "A9FS8X0Av1OMHmTmBEvxzA",
+   "alias": "tukwila-family-fun-center-and-bullwinkles-restaurant-tukwila",
+   "name": "Tukwila Family Fun Center \u0026 Bullwinkle's Restaurant",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/M2bXowXB-megx5yKaYhsSw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tukwila-family-fun-center-and-bullwinkles-restaurant-tukwila?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 265,
+   "categories": [
+    {
+     "alias": "amusementparks",
+     "title": "Amusement Parks"
+    },
+    {
+     "alias": "eventplanning",
+     "title": "Party \u0026 Event Planning"
+    },
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.242976,
+    "Latitude": 47.46562
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7300 Fun Center Way",
+    "address2": "",
+    "address3": "",
+    "city": "Tukwila",
+    "zip_code": "98188",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "7300 Fun Center Way",
+     "Tukwila, WA 98188"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252287300",
+   "display_phone": "(425) 228-7300",
+   "distance": 17003.415961678525
+  },
+  {
+   "id": "AWpYNk1yz7cL53ei5Vqymw",
+   "alias": "seattle-center-seattle",
+   "name": "Seattle Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2Ku5AdF-CXiPkD24uVN0kQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-center-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 254,
+   "categories": [
+    {
+     "alias": "amusementparks",
+     "title": "Amusement Parks"
+    },
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "stadiumsarenas",
+     "title": "Stadiums \u0026 Arenas"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.352,
+    "Latitude": 47.622038
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "305 Harrison St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "305 Harrison St",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066847200",
+   "display_phone": "(206) 684-7200",
+   "distance": 2307.9400931137698
+  },
+  {
+   "id": "YAoJ7Av1bELITUA-ATheQw",
+   "alias": "the-electric-boat-company-seattle",
+   "name": "The Electric Boat Company",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/glypXHsi1x82-DdZuTd9AA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-electric-boat-company-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 250,
+   "categories": [
+    {
+     "alias": "boating",
+     "title": "Boating"
+    },
+    {
+     "alias": "teambuilding",
+     "title": "Team Building Activities"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.340459,
+    "Latitude": 47.6377639
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2046 Westlake Ave N",
+    "address2": "Ste 102",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2046 Westlake Ave N",
+     "Ste 102",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062237476",
+   "display_phone": "(206) 223-7476",
+   "distance": 3565.2870120065677
+  },
+  {
+   "id": "ZBtm65-pyDc2xU-BK3IrbQ",
+   "alias": "la-fitness-bellevue-4",
+   "name": "LA Fitness",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lWBY43FLsNweAPTYBwvoxg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-fitness-bellevue-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 242,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.13904581964,
+    "Latitude": 47.6097612082958
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15053 Main St",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98007",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15053 Main St",
+     "Bellevue, WA 98007"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256982575",
+   "display_phone": "(425) 698-2575",
+   "distance": 14436.320904548089
+  },
+  {
+   "id": "OxLDEQhhJ4KOnN2b1PU85Q",
+   "alias": "novelty-hill-januik-winery-woodinville",
+   "name": "Novelty Hill Januik Winery",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CSFLkwSYirV0R2qBnQT1Uw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/novelty-hill-januik-winery-woodinville?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 240,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    },
+    {
+     "alias": "bocceball",
+     "title": "Bocce Ball"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.153007507324,
+    "Latitude": 47.7349472045898
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "14710 Woodinville-Redmond Rd NE",
+    "address2": "",
+    "address3": "",
+    "city": "Woodinville",
+    "zip_code": "98072",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "14710 Woodinville-Redmond Rd NE",
+     "Woodinville, WA 98072"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254815502",
+   "display_phone": "(425) 481-5502",
+   "distance": 19652.201133751558
+  },
+  {
+   "id": "zn0U-G5DQLUtvtMszEighg",
+   "alias": "elevated-sportz-bothell",
+   "name": "Elevated Sportz",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/y4fW18p-u1E15Mv-pmIyhg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/elevated-sportz-bothell?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 238,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "trampoline",
+     "title": "Trampoline Parks"
+    },
+    {
+     "alias": "indoor_playcenter",
+     "title": "Indoor Playcentre"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.20785308111435,
+    "Latitude": 47.83194
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "18311 Bothell Everett Hwy",
+    "address2": "Ste 140",
+    "address3": "",
+    "city": "Bothell",
+    "zip_code": "98012",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "18311 Bothell Everett Hwy",
+     "Ste 140",
+     "Bothell, WA 98012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14259494488",
+   "display_phone": "(425) 949-4488",
+   "distance": 26766.704551487186
+  },
+  {
+   "id": "Sh8o5DgC4gS-pD7LiXeEFQ",
+   "alias": "la-fitness-mill-creek",
+   "name": "LA Fitness",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iGE-HG_Vyhd7TOB6URaOjg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-fitness-mill-creek?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 236,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "healthtrainers",
+     "title": "Trainers"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.22105,
+    "Latitude": 47.86177
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15024 Main St",
+    "address2": "",
+    "address3": "",
+    "city": "Mill Creek",
+    "zip_code": "98012",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15024 Main St",
+     "Mill Creek, WA 98012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14253799703",
+   "display_phone": "(425) 379-9703",
+   "distance": 29602.572003657984
+  }
+ ],
+ "total": 3900,
+ "region": {
+  "center": {
+   "longitude": -122.3321,
+   "Latitude": 47.6062
+  }
+ }
+}

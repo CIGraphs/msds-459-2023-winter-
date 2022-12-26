@@ -1,0 +1,1675 @@
+{
+ "businesses": [
+  {
+   "id": "4kMBvIEWPxWkWKFN__8SxQ",
+   "alias": "yelp-san-francisco",
+   "name": "Yelp",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nQK-6_vZMt5n88zsAS94ew/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/yelp-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 14164,
+   "categories": [
+    {
+     "alias": "massmedia",
+     "title": "Mass Media"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.3967284,
+    "Latitude": 37.7909128
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "350 Mission St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "350 Mission St",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159083801",
+   "display_phone": "(415) 908-3801",
+   "distance": 2672.0841848185205
+  },
+  {
+   "id": "dJm0RV5kNEV-yKyS0mAI0w",
+   "alias": "kits-live-105-fm-san-francisco",
+   "name": "KITS Live 105 FM",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0JW4mp9zqzAkKVgcCzGY4g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kits-live-105-fm-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 574,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.40149,
+    "Latitude": 37.79902
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "865 Battery St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "865 Battery St",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154785483",
+   "display_phone": "(415) 478-5483",
+   "distance": 3104.33419767724
+  },
+  {
+   "id": "yZHFkF0wdN3bZFuBlgRWxw",
+   "alias": "san-francisco-chronicle-san-francisco-3",
+   "name": "San Francisco Chronicle",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Vf_9fHFsxBgIARqR1PGIrQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/san-francisco-chronicle-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 389,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.40652069134866,
+    "Latitude": 37.782199585025694
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "901 Mission St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "901 Mission St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157771111",
+   "display_phone": "(415) 777-1111",
+   "distance": 1392.8599260259487
+  },
+  {
+   "id": "x_NNifzlSZ74UDeysd54NQ",
+   "alias": "krev-the-revolution-92-7-fm-san-francisco",
+   "name": "KREV The Revolution 92.7 FM",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xVpTA6Aw9tXJAYQHRLSODA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/krev-the-revolution-92-7-fm-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 250,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -122.393378,
+    "Latitude": 37.7110114
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "150 Executive Park Blvd",
+    "address2": "Ste 2300",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94134",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "150 Executive Park Blvd",
+     "Ste 2300",
+     "San Francisco, CA 94134"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156579000",
+   "display_phone": "(415) 657-9000",
+   "distance": 7463.46415162909
+  },
+  {
+   "id": "hHdV3tl8IurzzM3XrJFMQw",
+   "alias": "somafm-san-francisco",
+   "name": "SomaFM",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QpieZO0Ln6IsflSjPk3mjw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/somafm-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 236,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.4099912,
+    "Latitude": 37.7592917
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2180 Bryant St",
+    "address2": "Ste 208",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2180 Bryant St",
+     "Ste 208",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155527662",
+   "display_phone": "(415) 552-7662",
+   "distance": 1902.1084444329142
+  },
+  {
+   "id": "tOHmvC_mFMxIbK87o5lWCw",
+   "alias": "ktvu-2-news-oakland",
+   "name": "KTVU 2 News",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LrgdQQZQvc3GXJ8INHNOVw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ktvu-2-news-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 174,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.270251093855,
+    "Latitude": 37.7914634716924
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2 Jack London Sq",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94607",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2 Jack London Sq",
+     "Oakland, CA 94607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15108341212",
+   "display_phone": "(510) 834-1212",
+   "distance": 13236.138312297493
+  },
+  {
+   "id": "GcHANH8r6T-3XdhBDVTIHg",
+   "alias": "kqed-san-francisco-4",
+   "name": "KQED",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gjVJAE_AoH-p4z54cywBvQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kqed-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 164,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    },
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.40971993654966,
+    "Latitude": 37.76261009155487
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2601 Mariposa St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2601 Mariposa St",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158642000",
+   "display_phone": "(415) 864-2000",
+   "distance": 1609.8101538847523
+  },
+  {
+   "id": "m4mOwD1NoBSNRU3Z1kY3FQ",
+   "alias": "kron-4-san-francisco",
+   "name": "KRON 4",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/s-fHZfL7jt-lDqiYtbWrUA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kron-4-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 159,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.39956,
+    "Latitude": 37.80022
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "900 Front St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "900 Front St",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154414444",
+   "display_phone": "(415) 441-4444",
+   "distance": 3307.704484062617
+  },
+  {
+   "id": "l_65KmuH2tSA0Vf6K2qAhw",
+   "alias": "99-7-now-daly-city",
+   "name": "99.7 NOW",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EruytochHPytL422anhZMA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/99-7-now-daly-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 147,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.469812,
+    "Latitude": 37.701125
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2001 Junipero Serra Blvd",
+    "address2": "Ste 350",
+    "address3": "",
+    "city": "Daly City",
+    "zip_code": "94014",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2001 Junipero Serra Blvd",
+     "Ste 350",
+     "Daly City, CA 94014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18884569970",
+   "display_phone": "(888) 456-9970",
+   "distance": 9324.533711068774
+  },
+  {
+   "id": "r1Q7_mfksXN6II-4Ovavag",
+   "alias": "nbc-kntv-san-francisco-san-francisco",
+   "name": "NBC Kntv- San Francisco",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rvU9RmHXq5p6qU1LcHvS1Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nbc-kntv-san-francisco-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 137,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.40107215941,
+    "Latitude": 37.7990654110909
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "848 Battery St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "848 Battery St",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152761200",
+   "display_phone": "(415) 276-1200",
+   "distance": 3160.860353854946
+  },
+  {
+   "id": "B3FVq8jRn8Q4UNCGFiZ03w",
+   "alias": "knbr-680-1050-san-francisco",
+   "name": "KNBR 680/1050",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MQxd8XoQofvB7iFj7pJcqQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/knbr-680-1050-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 117,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.398391723633,
+    "Latitude": 37.7856559753418
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "55 Hawthorne St",
+    "address2": "Ste 1100",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "55 Hawthorne St",
+     "Ste 1100",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159956800",
+   "display_phone": "(415) 995-6800",
+   "distance": 2194.799586436351
+  },
+  {
+   "id": "1i7-DMmviFJTxszbpNh2RQ",
+   "alias": "alice-97-3-san-francisco",
+   "name": "Alice @ 97.3",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Lt5I3Wky4nyGHuCm11DTtg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alice-97-3-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 116,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.40149,
+    "Latitude": 37.79902
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "865 Battery St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "865 Battery St",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18666239797",
+   "display_phone": "(866) 623-9797",
+   "distance": 3104.33419767724
+  },
+  {
+   "id": "rh_-764cfkrJsVUOlstsrQ",
+   "alias": "xm-satellite-san-francisco",
+   "name": "Xm Satellite",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HJfu6k28j0jx3ZlWJqW_Sw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/xm-satellite-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 104,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -122.397346496582,
+    "Latitude": 37.7940521240234
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "50 California St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "50 California St",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154395225",
+   "display_phone": "(415) 439-5225",
+   "distance": 2881.715941422912
+  },
+  {
+   "id": "KC9VUTayI4O7h7Dx6bmTEg",
+   "alias": "the-breeze-98-1fm-san-francisco",
+   "name": "The Breeze 98.1FM",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-2_9pUroOcjgOzvBc_GBFQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-breeze-98-1fm-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 96,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.39606,
+    "Latitude": 37.7764
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "340 Townsend St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94107",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "340 Townsend St",
+     "San Francisco, CA 94107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159755555",
+   "display_phone": "(415) 975-5555",
+   "distance": 2046.8647534870518
+  },
+  {
+   "id": "aWvjL8NS7F-LFqUP5ZIj2w",
+   "alias": "106-kmel-san-francisco",
+   "name": "106 KMEL",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/b1RuhkzLvvRFBWJkHrwEOA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/106-kmel-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 91,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.39606,
+    "Latitude": 37.7764
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "340 Townsend St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94107",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "340 Townsend St",
+     "San Francisco, CA 94107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158965635",
+   "display_phone": "(415) 896-5635",
+   "distance": 2046.8647534870518
+  },
+  {
+   "id": "_Qz8ab9pySVCam0akkhJag",
+   "alias": "kpix-cbs-5-news-san-francisco-2",
+   "name": "KPIX CBS 5 News",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZDX1yuRnaMOpv6qKFTQGLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kpix-cbs-5-news-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 85,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.40149,
+    "Latitude": 37.79902
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "855 Battery St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "855 Battery St",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153625550",
+   "display_phone": "(415) 362-5550",
+   "distance": 3127.0328565435616
+  },
+  {
+   "id": "AEvz3VMFRud-kkuPRSuwKA",
+   "alias": "kyld-94-9fm-san-francisco",
+   "name": "KYLD 94.9FM",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oIYb_LopcfZAEgzXZd1Rug/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kyld-94-9fm-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 78,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.39606,
+    "Latitude": 37.7764
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "340 Townsend St",
+    "address2": "Fl 4",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94107",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "340 Townsend St",
+     "Fl 4",
+     "San Francisco, CA 94107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153560949",
+   "display_phone": "(415) 356-0949",
+   "distance": 2046.8647534870518
+  },
+  {
+   "id": "ADoldXeno0UeyKv_4wlyVg",
+   "alias": "kgo-tv-dt-abc-7-san-francisco",
+   "name": "KGO-TV/DT ABC 7",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dBSbqrfu5H6Bm9gz_EanfA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kgo-tv-dt-abc-7-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 74,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.39956,
+    "Latitude": 37.80022
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "900 Front St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "900 Front St",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159547777",
+   "display_phone": "(415) 954-7777",
+   "distance": 3307.704484062617
+  },
+  {
+   "id": "zRIBDZrpy2q5fE1OxvUkpw",
+   "alias": "kblx-102-9-fm-san-francisco-3",
+   "name": "KBLX 102.9 FM",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Hcw71n7cenrNhgmWFM_IFw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kblx-102-9-fm-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 74,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.3984003,
+    "Latitude": 37.7021372743641
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "201 3rd St",
+    "address2": "Ste 1200",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "201 3rd St",
+     "Ste 1200",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152841029",
+   "display_phone": "(415) 284-1029",
+   "distance": 8298.888102733565
+  },
+  {
+   "id": "xZ-SUM_bsdjFV2uRa7fyuA",
+   "alias": "the-new-york-times-san-francisco-2",
+   "name": "The New York Times",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nW9DKyV4V5sFDf0W0WV66Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-new-york-times-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 73,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.391792297363,
+    "Latitude": 37.7911834716797
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "201 Spear St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "201 Spear St",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158366700",
+   "display_phone": "(415) 836-6700",
+   "distance": 3016.9923784453927
+  },
+  {
+   "id": "JHbowSPSlzbsUGBbq4VI-w",
+   "alias": "910am-san-francisco",
+   "name": "910AM",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rOaeUa9iOXytwGP8h3V1xA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/910am-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 72,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.39606,
+    "Latitude": 37.7764
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "340 Townsend St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94107",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "340 Townsend St",
+     "San Francisco, CA 94107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159755555",
+   "display_phone": "(415) 975-5555",
+   "distance": 2046.8647534870518
+  },
+  {
+   "id": "aNLJKiWjOsugOR3krrIWAA",
+   "alias": "107-7-the-bone-san-francisco",
+   "name": "107.7 The Bone",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qg-xoLOkfWRfsNeY-INQrA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/107-7-the-bone-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 64,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.398391723633,
+    "Latitude": 37.7856559753418
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "55 Hawthorne St",
+    "address2": "Ste 1000",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "55 Hawthorne St",
+     "Ste 1000",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159815726",
+   "display_phone": "(415) 981-5726",
+   "distance": 2195.1742926542724
+  },
+  {
+   "id": "H7XSJg0AlMymBfs9CW2tlQ",
+   "alias": "96-5-koit-daly-city",
+   "name": "96.5 Koit",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_0bZ6L3W8FWm0hokfKO8vA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/96-5-koit-daly-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 60,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.469811,
+    "Latitude": 37.701125
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2001 Junipero Serra Blvd",
+    "address2": "Ste 350",
+    "address3": "",
+    "city": "Daly City",
+    "zip_code": "94014",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2001 Junipero Serra Blvd",
+     "Ste 350",
+     "Daly City, CA 94014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155468300",
+   "display_phone": "(415) 546-8300",
+   "distance": 9324.491906382624
+  },
+  {
+   "id": "V18yXwB2nw6D74XWSt1wZg",
+   "alias": "the-economist-san-francisco",
+   "name": "The Economist",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tdqSLGQ0kZgN6xq5Lxi3ZA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-economist-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 52,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.400964,
+    "Latitude": 37.787672
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "90 New Montgomery St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "90 New Montgomery St",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152780880",
+   "display_phone": "(415) 278-0880",
+   "distance": 2154.534288950445
+  },
+  {
+   "id": "jE1Zf-r_20IueTXyazq1eg",
+   "alias": "pandora-media-oakland",
+   "name": "Pandora Media",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/v0xdAY2g1DEivH1mr-0Y4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pandora-media-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 52,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.266,
+    "Latitude": 37.81028
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2101 Webster St",
+    "address2": "Ste 1650",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94612",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2101 Webster St",
+     "Ste 1650",
+     "Oakland, CA 94612"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104514100",
+   "display_phone": "(510) 451-4100",
+   "distance": 14040.853420545584
+  },
+  {
+   "id": "PaJ9e4Q0Wao-CdRwzEOgDQ",
+   "alias": "kcsm-jazz-91-1fm-san-mateo",
+   "name": "KCSM Jazz 91.1FM",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/X9u42qCMSvn6ur22WqA78g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kcsm-jazz-91-1fm-san-mateo?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 51,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    },
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3353271,
+    "Latitude": 37.5319138
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1700 W Hillsdale Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Mateo",
+    "zip_code": "94402",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1700 W Hillsdale Blvd",
+     "San Mateo, CA 94402"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16505749136",
+   "display_phone": "(650) 574-9136",
+   "distance": 27682.673402578846
+  },
+  {
+   "id": "nNaTeVYWvXL4JQBogMj7MA",
+   "alias": "95-7-fm-the-game-san-francisco",
+   "name": "95.7 FM The Game",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ugqnbL-Z2n5-IeYlK4kY8Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/95-7-fm-the-game-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 48,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.39981842041,
+    "Latitude": 37.7850494384766
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "201 3rd St",
+    "address2": "Ste 1200",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "201 3rd St",
+     "Ste 1200",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157770957",
+   "display_phone": "(415) 777-0957",
+   "distance": 2020.687382047006
+  },
+  {
+   "id": "kaF2ZTOF5hw6tRYka3WKAw",
+   "alias": "ksfo-560-am-san-francisco",
+   "name": "KSFO 560 AM",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RVrnrVUjDinL3wC-aJxQTw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ksfo-560-am-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 47,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.39956,
+    "Latitude": 37.80022
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "900 Front St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "900 Front St",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153985600",
+   "display_phone": "(415) 398-5600",
+   "distance": 3307.704484062617
+  },
+  {
+   "id": "7WQJigaa9FUDjskCmmCD9Q",
+   "alias": "kcbs-740am-san-francisco-2",
+   "name": "KCBS 740AM",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AY2bfS9v9dNsHxist6eRbg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kcbs-740am-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.40149,
+    "Latitude": 37.79902
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "855 Battery St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "855 Battery St",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104655291",
+   "display_phone": "(510) 465-5291",
+   "distance": 3127.0328565435616
+  },
+  {
+   "id": "-D3AdcXNT6o8YDmxoRxeCg",
+   "alias": "kpoo-fm-san-francisco-2",
+   "name": "Kpoo FM",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5bC3lttC9Xl9ASa3g2B62g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kpoo-fm-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.43938,
+    "Latitude": 37.78174
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1329 Divisadero St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94115",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1329 Divisadero St",
+     "San Francisco, CA 94115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153465375",
+   "display_phone": "(415) 346-5375",
+   "distance": 1930.2645639645025
+  },
+  {
+   "id": "o1jomugO-Y_eUaDKk5Kb5A",
+   "alias": "fox-news-new-york-3",
+   "name": "Fox News",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1GGF4C_IHS9C7UhmS13F6w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fox-news-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 91,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.98188171165674,
+    "Latitude": 40.758614500000036
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1211 Avenue of the Americas",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1211 Avenue of the Americas",
+     "Fl 2",
+     "New York, NY 10036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18883694762",
+   "display_phone": "(888) 369-4762",
+   "distance": 3.5518877598013003
+  },
+  {
+   "id": "V7ONpX2AHDjUVBONtodGXw",
+   "alias": "kpfa-94-1-fm-berkeley",
+   "name": "KPFA 94.1 FM",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4x41zKQi6bLuKUFpWZKnKA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kpfa-94-1-fm-berkeley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 41,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.27272,
+    "Latitude": 37.87222
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1929 Martin Luther King Jr Way",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1929 Martin Luther King Jr Way",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15108486767",
+   "display_phone": "(510) 848-6767",
+   "distance": 16819.355244922324
+  },
+  {
+   "id": "h19ygSVAQnE41CkJU3EChg",
+   "alias": "kksf-oldies-103-7-san-francisco",
+   "name": "KKSF Oldies 103.7",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fOa0Ht09_A0TVGkSL_wRAQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kksf-oldies-103-7-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 41,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.40873,
+    "Latitude": 37.772
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 870.671469216299
+  },
+  {
+   "id": "jW3J7uuURCrVqtOc5Ep6pQ",
+   "alias": "inter-city-express-oakland",
+   "name": "Inter-City Express",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YBkgzOWagI9c6wY1aWu8KQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/inter-city-express-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 40,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    },
+    {
+     "alias": "employmentagencies",
+     "title": "Employment Agencies"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.2642559,
+    "Latitude": 37.7993144
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1109 Oak St",
+    "address2": "Ste 103",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94607",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1109 Oak St",
+     "Ste 103",
+     "Oakland, CA 94607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15102724747",
+   "display_phone": "(510) 272-4747",
+   "distance": 13901.171635397293
+  },
+  {
+   "id": "eIfitwd5ZBhAyJmAi8ScrA",
+   "alias": "hayward-daily-review-hayward",
+   "name": "Hayward Daily Review",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/b6HA2AIVgpEjWhrApC_TKQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hayward-daily-review-hayward?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 38,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.0817,
+    "Latitude": 37.67446
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "22533 Foothill Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Hayward",
+    "zip_code": "94541",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "22533 Foothill Blvd",
+     "Hayward, CA 94541"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107836111",
+   "display_phone": "(510) 783-6111",
+   "distance": 31727.615053277903
+  },
+  {
+   "id": "ICaQOxibzIFggsAJUv3ZSA",
+   "alias": "oakland-tribune-alameda-timesstar-oakland-2",
+   "name": "Oakland Tribune/Alameda TimesStar",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ghFujmqQgtttrf7k25M5Cg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/oakland-tribune-alameda-timesstar-oakland-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 36,
+   "categories": [
+    {
+     "alias": "printmedia",
+     "title": "Print Media"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.20354,
+    "Latitude": 37.74675
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7677 Oakport St",
+    "address2": "Ste 950",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94621",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "7677 Oakport St",
+     "Ste 950",
+     "Oakland, CA 94621"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15102086450",
+   "display_phone": "(510) 208-6450",
+   "distance": 19235.543533454005
+  },
+  {
+   "id": "MZTzoZxSIo9bU_Czd7IxmA",
+   "alias": "kksf-103-7-fm-san-francisco",
+   "name": "KKSF 103.7 FM",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1qBQabMgN8N80s5QlFB5zw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kksf-103-7-fm-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 35,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.39606,
+    "Latitude": 37.7764
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "340 Townsend St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94107",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "340 Townsend St",
+     "San Francisco, CA 94107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159755555",
+   "display_phone": "(415) 975-5555",
+   "distance": 2046.8647534870518
+  },
+  {
+   "id": "K6srHeLZgj39s1TrcuMxfA",
+   "alias": "kalw-91-7-fm-san-francisco",
+   "name": "KALW 91.7 FM",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hpFj6K4gJIUKzGGnwyACIw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kalw-91-7-fm-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 33,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.407244,
+    "Latitude": 37.7201799
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "500 Mansell St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94134",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "500 Mansell St",
+     "San Francisco, CA 94134"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158414121",
+   "display_phone": "(415) 841-4121",
+   "distance": 6063.467433493354
+  },
+  {
+   "id": "96XrBLFuKdUCvMA_Lw-W5Q",
+   "alias": "kalx-90-7-fm-berkeley",
+   "name": "KALX 90.7 FM",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UBCMSXeaUlU3CL4SWA0ovg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kalx-90-7-fm-berkeley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 33,
+   "categories": [
+    {
+     "alias": "radiostations",
+     "title": "Radio Stations"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.25801695012917,
+    "Latitude": 37.869993532951916
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "26 Barrows Hall",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94720",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "26 Barrows Hall",
+     "Berkeley, CA 94720"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106421111",
+   "display_phone": "(510) 642-1111",
+   "distance": 17684.388272437474
+  },
+  {
+   "id": "xByzFUNV1C5UTuqbffGOAg",
+   "alias": "kgo-radio-listener-poll-san-francisco",
+   "name": "Kgo Radio Listener Poll",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kgo-radio-listener-poll-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 32,
+   "categories": [
+    {
+     "alias": "televisionstations",
+     "title": "Television Stations"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.39956,
+    "Latitude": 37.80022
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "900 Front St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "900 Front St",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154788181",
+   "display_phone": "(415) 478-8181",
+   "distance": 3307.704484062617
+  }
+ ],
+ "total": 407,
+ "region": {
+  "center": {
+   "longitude": -122.4194,
+   "Latitude": 37.7749
+  }
+ }
+}

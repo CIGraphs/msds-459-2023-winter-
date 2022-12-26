@@ -1,0 +1,1819 @@
+{
+ "businesses": [
+  {
+   "id": "HTxDHuQMcmcxyqBlxxiTIQ",
+   "alias": "cuba-libre-restaurant-and-rum-bar-orlando-orlando",
+   "name": "Cuba Libre Restaurant \u0026 Rum Bar - Orlando",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RCUevf9f0cHYjImMkW7nqg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cuba-libre-restaurant-and-rum-bar-orlando-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 897,
+   "categories": [
+    {
+     "alias": "cuban",
+     "title": "Cuban"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -81.47008182883553,
+    "Latitude": 28.43124648258969
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "9101 International Dr",
+    "address2": "",
+    "address3": "Pointe Orlando",
+    "city": "Orlando",
+    "zip_code": "32819",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "9101 International Dr",
+     "Pointe Orlando",
+     "Orlando, FL 32819"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14072261600",
+   "display_phone": "(407) 226-1600",
+   "distance": 14878.878883187419
+  },
+  {
+   "id": "Yt9F5q71-aGROQCWEMHAjg",
+   "alias": "mangos-tropical-cafe-orlando",
+   "name": "Mango's Tropical Cafe",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LEvysSdMBykz--payQVZ4A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mangos-tropical-cafe-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 570,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "latin",
+     "title": "Latin American"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.47175399,
+    "Latitude": 28.44813854
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "8126 International Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32819",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "8126 International Dr",
+     "Orlando, FL 32819"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076734422",
+   "display_phone": "(407) 673-4422",
+   "distance": 13530.544002234952
+  },
+  {
+   "id": "W9ArF139bSQmqPVYsSPJnw",
+   "alias": "icebar-orlando-orlando-3",
+   "name": "ICEBAR Orlando",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vhSngBoF2o4Cbo-BAkTRtA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/icebar-orlando-orlando-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 304,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.47178905,
+    "Latitude": 28.43467503
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "8967 International Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32819",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "8967 International Dr",
+     "Orlando, FL 32819"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14074267555",
+   "display_phone": "(407) 426-7555",
+   "distance": 14677.894542840286
+  },
+  {
+   "id": "83R7Rx6t_O3ruTMSlNlyIQ",
+   "alias": "the-beacham-orlando",
+   "name": "The Beacham",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fEkK-jp79fJ9i7PzthlePg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-beacham-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 129,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -81.37937,
+    "Latitude": 28.54297
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "46 N Orange Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "46 N Orange Ave",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14072461419",
+   "display_phone": "(407) 246-1419",
+   "distance": 510.4956224968761
+  },
+  {
+   "id": "AYQ8IWdau__yAmL7Jrl1YA",
+   "alias": "latitudes-rooftop-tiki-bar-orlando-4",
+   "name": "Latitudes Rooftop Tiki Bar",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ukZmzUcdtosqRb60hLBrWQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/latitudes-rooftop-tiki-bar-orlando-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 122,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "tikibars",
+     "title": "Tiki Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.37976,
+    "Latitude": 28.54062
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "33 W Church St",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "33 W Church St",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076494270",
+   "display_phone": "(407) 649-4270",
+   "distance": 261.076434833241
+  },
+  {
+   "id": "guUjxSCJtcFLyGvAikinHg",
+   "alias": "cowboys-orlando-orlando",
+   "name": "Cowboys Orlando",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6WzYFR39aA5HqKJ7Oo_ljA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cowboys-orlando-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 85,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "countrydancehalls",
+     "title": "Country Dance Halls"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -81.39760134356155,
+    "Latitude": 28.529017067249356
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1108 S Orange Blossom Trl",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32805",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1108 S Orange Blossom Trl",
+     "Orlando, FL 32805"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14074227115",
+   "display_phone": "(407) 422-7115",
+   "distance": 2103.839811926997
+  },
+  {
+   "id": "86XQfEQJrU-qitRIdA24kw",
+   "alias": "tier-nightclub-orlando",
+   "name": "Tier Nightclub",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DCTsufOXtzLVxKShxA58_g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tier-nightclub-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 79,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -81.37868,
+    "Latitude": 28.54199
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "20 E Central Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "20 E Central Blvd",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14077709806",
+   "display_phone": "(407) 770-9806",
+   "distance": 399.69745278397636
+  },
+  {
+   "id": "towZvgefGMm1Rjh3mILI-A",
+   "alias": "southern-nights-orlando-4",
+   "name": "Southern Nights",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Z4TzJpDXBOcj4v39Yznmug/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/southern-nights-orlando-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 75,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.3514440062949,
+    "Latitude": 28.5389583556818
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "375 S Bumby Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32803",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "375 S Bumby Ave",
+     "Orlando, FL 32803"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14074125039",
+   "display_phone": "(407) 412-5039",
+   "distance": 2682.731336796118
+  },
+  {
+   "id": "iEqC57gAJ3abHs8ERz_9Qg",
+   "alias": "chillers-frozen-drink-bar-orlando",
+   "name": "Chillers Frozen Drink Bar",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kxPb-ZF5jY682La8MQe3WA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chillers-frozen-drink-bar-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 70,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -81.3797939,
+    "Latitude": 28.5406211
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "33 W Church St",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "33 W Church St",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076494270",
+   "display_phone": "(407) 649-4270",
+   "distance": 261.9564161794579
+  },
+  {
+   "id": "qLN6jYH7YU0zSqb95hXu9g",
+   "alias": "red-coconut-club-orlando-3",
+   "name": "Red Coconut Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MAvKFjfMo2weP_27Cmy7QA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/red-coconut-club-orlando-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 60,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.465038,
+    "Latitude": 28.473128
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "6000 Universal Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32822",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "6000 Universal Blvd",
+     "Orlando, FL 32822"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14072242425",
+   "display_phone": "(407) 224-2425",
+   "distance": 11114.04611114895
+  },
+  {
+   "id": "BqcSBrLDvTTLFY4-MayQRQ",
+   "alias": "the-groove-orlando-2",
+   "name": "The Groove",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wDDnHYEGtEUajsp9RWhwHA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-groove-orlando-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -81.46578,
+    "Latitude": 28.472305
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "6000 Universal Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32824",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "6000 Universal Blvd",
+     "Orlando, FL 32824"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14072242690",
+   "display_phone": "(407) 224-2690",
+   "distance": 11228.763553838235
+  },
+  {
+   "id": "AyB2k-8fCjhG9Hd0NWks9w",
+   "alias": "wall-st-plaza-orlando-2",
+   "name": "Wall St Plaza",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/h9xpq54yx19Q30z2IvvM-w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wall-st-plaza-orlando-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.378464,
+    "Latitude": 28.54248
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "26 Wall St",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "26 Wall St",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14078490471",
+   "display_phone": "(407) 849-0471",
+   "distance": 457.6738937384052
+  },
+  {
+   "id": "ahyKR7YLBldFbnOAqdcdkg",
+   "alias": "eve-orlando-orlando",
+   "name": "Eve Orlando",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ONowsU9xoH0m31hDsUF3vw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/eve-orlando-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 49,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.3791456,
+    "Latitude": 28.5410943
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "110 S Orange Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "110 S Orange Ave",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076027462",
+   "display_phone": "(407) 602-7462",
+   "distance": 300.5512064302015
+  },
+  {
+   "id": "n-RL7knkiSSsf5Y0fit0nQ",
+   "alias": "sun-on-the-beach-kissimmee",
+   "name": "Sun On the Beach",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JXTtkVfLJEI-6q3U_cbYUA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sun-on-the-beach-kissimmee?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 47,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.5158988054087,
+    "Latitude": 28.3299458211392
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5770 W Irlo Bronson Memorial Hwy",
+    "address2": "",
+    "address3": "",
+    "city": "Kissimmee",
+    "zip_code": "34746",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "5770 W Irlo Bronson Memorial Hwy",
+     "Kissimmee, FL 34746"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14073970207",
+   "display_phone": "(407) 397-0207",
+   "distance": 26771.542266002823
+  },
+  {
+   "id": "I4evdlQHhD7wwllD8qgOiQ",
+   "alias": "mojitos-ultra-lounge-orlando",
+   "name": "Mojitos Ultra Lounge",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/n1nCOb5t0Y6Bn_-uFY2y_w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mojitos-ultra-lounge-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 45,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.427139,
+    "Latitude": 28.36918
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "13526 Village Park Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32837",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "13526 Village Park Dr",
+     "Orlando, FL 32837"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14074125944",
+   "display_phone": "(407) 412-5944",
+   "distance": 19398.368448849207
+  },
+  {
+   "id": "TyglL_s-AkgBjkL8NJi2FQ",
+   "alias": "atlantic-dance-hall-orlando",
+   "name": "Atlantic Dance Hall",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GzmVaDHgDCtxG-_bceJ1vQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/atlantic-dance-hall-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 39,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.55789883424654,
+    "Latitude": 28.367822091000253
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2101 Epcot Resorts Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32836",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "2101 Epcot Resorts Blvd",
+     "Orlando, FL 32836"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14079397529",
+   "display_phone": "(407) 939-7529",
+   "distance": 25806.857505746997
+  },
+  {
+   "id": "YxMv1keTkLehs50z5yPhQw",
+   "alias": "the-attic-orlando-orlando",
+   "name": "The Attic Orlando",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kfV-pANKyl_hor9kPzj9rw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-attic-orlando-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 36,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -81.37765900225429,
+    "Latitude": 28.5412332573702
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "68 E Pine St",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "68 E Pine St",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14074031161",
+   "display_phone": "(407) 403-1161",
+   "distance": 337.5614842950562
+  },
+  {
+   "id": "VOa1c8F5_DeU0f07OE8FWQ",
+   "alias": "the-patio-orlando-2",
+   "name": "The Patio",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6WzapI8fu4l8bdodeeBU-Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-patio-orlando-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 33,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -81.3794999,
+    "Latitude": 28.54341
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "14A West Washington St",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "14A West Washington St",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14073541577",
+   "display_phone": "(407) 354-1577",
+   "distance": 552.8744438747774
+  },
+  {
+   "id": "M_nVP-f4ocw1zoTOWhD9UA",
+   "alias": "soundbar-orlando",
+   "name": "Soundbar",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/761X6I_K7CCRIf-86f_9eA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/soundbar-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 23,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -81.3798933,
+    "Latitude": 28.5414449
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "37 W Pine St",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "37 W Pine St",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14079992570",
+   "display_phone": "(407) 999-2570",
+   "distance": 347.50262706895404
+  },
+  {
+   "id": "L5BqdbRk0_RvLsJNRQI2sg",
+   "alias": "the-barn-sanford-sanford",
+   "name": "The Barn -Sanford",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/W07czR1PCbkdiIWod2LBgg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-barn-sanford-sanford?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 23,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.273408,
+    "Latitude": 28.80148
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1200 S French Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Sanford",
+    "zip_code": "32771",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1200 S French Ave",
+     "Sanford, FL 32771"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14073242276",
+   "display_phone": "(407) 324-2276",
+   "distance": 31010.81873746508
+  },
+  {
+   "id": "JHoBIW7RCrwECFl0jxKPBA",
+   "alias": "3nine-orlando-orlando",
+   "name": "3NINE Orlando",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BhV_LKRHMvVVHjHxxOKLLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/3nine-orlando-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 22,
+   "categories": [
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "comedyclubs",
+     "title": "Comedy Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -81.472124,
+    "Latitude": 28.429968
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "9700 International Dr",
+    "address2": "",
+    "address3": "Rosen Plaza Hotel",
+    "city": "Orlando",
+    "zip_code": "32819",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "9700 International Dr",
+     "Rosen Plaza Hotel",
+     "Orlando, FL 32819"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14079969700",
+   "display_phone": "(407) 996-9700",
+   "distance": 15113.346166690626
+  },
+  {
+   "id": "lCr6egosJVcUCKA58sVIvg",
+   "alias": "room-22-orlando",
+   "name": "Room 22",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/87kHlGtgpMz6DdDG_T3w0w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/room-22-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 21,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.37916,
+    "Latitude": 28.54097
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "114 South Orange Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "114 South Orange Ave",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076490000",
+   "display_phone": "(407) 649-0000",
+   "distance": 290.0765969291257
+  },
+  {
+   "id": "kMuGjHdwWnGI_ToflHWJDA",
+   "alias": "vyce-lounge-orlando",
+   "name": "Vyce Lounge",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9WdplkCqYqD9rPPcFcu6nw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vyce-lounge-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 18,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.3791349,
+    "Latitude": 28.5410328
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "112 S Orange Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "112 S Orange Ave",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076490000",
+   "display_phone": "(407) 649-0000",
+   "distance": 296.1678228766547
+  },
+  {
+   "id": "_IxTZxIU4wFKzka8lk3riA",
+   "alias": "shine-orlando-2",
+   "name": "Shine",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wHBns55DcZ2-0zta7fx8MA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shine-orlando-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 17,
+   "categories": [
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.378527,
+    "Latitude": 28.542866
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "25 Wall St",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "25 Wall St",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14078490471",
+   "display_phone": "(407) 849-0471",
+   "distance": 497.93084146090996
+  },
+  {
+   "id": "K53BV91YeH8AguYg7a-S4w",
+   "alias": "salsa-latina-night-club-kissimmee",
+   "name": "Salsa Latina Night Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/U3Xu1OUW0Z1Cesg1X3hCEw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/salsa-latina-night-club-kissimmee?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -81.403183,
+    "Latitude": 28.329195
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2783 N Orange Blossom Trl",
+    "address2": "",
+    "address3": "",
+    "city": "Kissimmee",
+    "zip_code": "34744",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "2783 N Orange Blossom Trl",
+     "Kissimmee, FL 34744"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 23383.373844398237
+  },
+  {
+   "id": "RnTz5bOoR_3Z82ezPrYrzw",
+   "alias": "fuego-night-club-no-title",
+   "name": "Fuego Night Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zMd0J9_DCsShyhC0BFJRPw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fuego-night-club-no-title?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -81.40602,
+    "Latitude": 28.40117
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11370 S Orange Blossom Trl",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32837",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "11370 S Orange Blossom Trl",
+     "Orlando, FL 32837"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14079305070",
+   "display_phone": "(407) 930-5070",
+   "distance": 15631.285657043662
+  },
+  {
+   "id": "3pDjizuI6r0gh86I47ylEg",
+   "alias": "sky-lounge-orlando-orlando-2",
+   "name": "Sky Lounge Orlando",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wxgGAlNOlxDcX9o46mlnOA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sky-lounge-orlando-orlando-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -81.38321836701925,
+    "Latitude": 28.53986316059992
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "400 W Church St",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "400 W Church St",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18889130180",
+   "display_phone": "(888) 913-0180",
+   "distance": 452.1213223400072
+  },
+  {
+   "id": "vSGI6AyTnTkjkkgkk3ZGOw",
+   "alias": "parallel-nightclub-orlando",
+   "name": "Parallel Nightclub",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XBNU1WczUgqnOWB6kaQIQw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/parallel-nightclub-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -81.3789444,
+    "Latitude": 28.5470142
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "369 N Orange Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "369 N Orange Ave",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076489800",
+   "display_phone": "(407) 648-9800",
+   "distance": 947.9669483530945
+  },
+  {
+   "id": "6wWIt1MWuBHCfMsDOIL6Dw",
+   "alias": "orlando-swing-dance-orlando",
+   "name": "Orlando Swing Dance",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3z0MD1CG7cgM2k0yuuppzg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/orlando-swing-dance-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "dance_schools",
+     "title": "Dance Schools"
+    },
+    {
+     "alias": "jazzandblues",
+     "title": "Jazz \u0026 Blues"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.297081,
+    "Latitude": 28.5783691
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "6949 Venture Cir",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32807",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "6949 Venture Cir",
+     "Orlando, FL 32807"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076940119",
+   "display_phone": "(407) 694-0119",
+   "distance": 9144.97975160212
+  },
+  {
+   "id": "e_I5XJCBjG367FQ9ZLtlsQ",
+   "alias": "cotton-club-tampa",
+   "name": "Cotton Club",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pNReol8SNfvtgMV-FHiT2A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cotton-club-tampa?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "pubs",
+     "title": "Pubs"
+    },
+    {
+     "alias": "djs",
+     "title": "DJs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -82.4810180664062,
+    "Latitude": 27.9631767272949
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2502 N Albany Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Tampa",
+    "zip_code": "33607",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "2502 N Albany Ave",
+     "Tampa, FL 33607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18132541440",
+   "display_phone": "(813) 254-1440",
+   "distance": 125489.12333032684
+  },
+  {
+   "id": "XOSmWjDH5W9OVauZ2hgRdg",
+   "alias": "noches-azul-orlando",
+   "name": "Noches Azul",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hc8RAC1hXehoWdWoOwPeQQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/noches-azul-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.47042300262096,
+    "Latitude": 28.431729941197407
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9101 International Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32819",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "9101 International Dr",
+     "Orlando, FL 32819"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14074472583",
+   "display_phone": "(407) 447-2583",
+   "distance": 14855.90539409953
+  },
+  {
+   "id": "xQ13Xrnymist2qgTghgzVw",
+   "alias": "topsecret-resort-of-orlando-orlando-3",
+   "name": "TopSecret Resort of Orlando",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IcxFQlmbKzWVyP45zhQ7oA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/topsecret-resort-of-orlando-orlando-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "resorts",
+     "title": "Resorts"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -81.41836889999999,
+    "Latitude": 28.510627584669223
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3155 S John Young Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32805",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "3155 S John Young Pkwy",
+     "Orlando, FL 32805"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076270126",
+   "display_phone": "(407) 627-0126",
+   "distance": 4940.18205613444
+  },
+  {
+   "id": "FGqAT599n2MJg1rsDxIKrA",
+   "alias": "lvl-ii-lounge-orlando",
+   "name": "LVL II Lounge",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lvl-ii-lounge-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -81.37946,
+    "Latitude": 28.54064
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "23 W Church St",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "23 W Church St",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19047014606",
+   "display_phone": "(904) 701-4606",
+   "distance": 234.70985357050532
+  },
+  {
+   "id": "ZbjPso1EwoVig52AVzsHEw",
+   "alias": "gilt-nightclub-orlando-2",
+   "name": "Gilt Nightclub",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gilt-nightclub-orlando-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -81.3342350247805,
+    "Latitude": 28.55501313382294
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "740 Bennett Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32803",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "740 Bennett Rd",
+     "Orlando, FL 32803"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14075047699",
+   "display_phone": "(407) 504-7699",
+   "distance": 4737.705255749391
+  },
+  {
+   "id": "YnDNKeyyQw0EBXoYMVqZEg",
+   "alias": "the-incredibles-super-dance-party-orlando",
+   "name": "The Incredibles Super Dance Party",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Rqknba3J04NXmN0ZJUXR_Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-incredibles-super-dance-party-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.5785258550473,
+    "Latitude": 28.4185946787772
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "Tomorrowland",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32836",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "Tomorrowland",
+     "Orlando, FL 32836"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 23625.46321651398
+  },
+  {
+   "id": "K5yuu9jqhNqJHq7tKOfKPw",
+   "alias": "coco-bongos-orlando",
+   "name": "Coco Bongos",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/coco-bongos-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -81.40601263127319,
+    "Latitude": 28.399871878211336
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11350 S Orange Blossom Trl",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32837",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "11350 S Orange Blossom Trl",
+     "Orlando, FL 32837"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14078597225",
+   "display_phone": "(407) 859-7225",
+   "distance": 15629.931722419155
+  },
+  {
+   "id": "_dPZ-Ieq3dIXzxIfegWZjA",
+   "alias": "destiny-nightclub-orlando",
+   "name": "Destiny Nightclub",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/destiny-nightclub-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -81.46626,
+    "Latitude": 28.45533
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7430 Universal Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32819",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "7430 Universal Blvd",
+     "Orlando, FL 32819"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14073518900",
+   "display_phone": "(407) 351-8900",
+   "distance": 12580.265464852815
+  },
+  {
+   "id": "fidCoBMv0MM2z4RCVbs3SQ",
+   "alias": "red-coconuts-orlando-2",
+   "name": "Red Coconuts",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/n-paF5In3D_tfcRBYoK_ug/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/red-coconuts-orlando-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.4730606079102,
+    "Latitude": 28.4793739318848
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1000 Universal Studios Plz",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32819",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1000 Universal Studios Plz",
+     "Orlando, FL 32819"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14072243663",
+   "display_phone": "(407) 224-3663",
+   "distance": 11167.61819252996
+  },
+  {
+   "id": "GJW3-iK5elaW-sfeLS1hmA",
+   "alias": "5-star-entertainment-group-orlando",
+   "name": "5 Star Entertainment Group",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2KgaNL1EUFRVj6knnKnAtQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/5-star-entertainment-group-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.3724365,
+    "Latitude": 28.5421219
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "424 E Central Blvd",
+    "address2": "Ste 370",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "424 E Central Blvd",
+     "Ste 370",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13212478270",
+   "display_phone": "(321) 247-8270",
+   "distance": 799.958160082104
+  },
+  {
+   "id": "3rFJIc2sQhFpbr_3mYJRaA",
+   "alias": "rayn-pool-bar-and-cafe-altamonte-springs",
+   "name": "Rayn Pool Bar and Cafe",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bSXj8kL2cAX9v6oSj-nIHg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rayn-pool-bar-and-cafe-altamonte-springs?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "breakfast_brunch",
+     "title": "Breakfast \u0026 Brunch"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.39227,
+    "Latitude": 28.66167
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "230 W State Rd 436",
+    "address2": "",
+    "address3": "",
+    "city": "Altamonte Springs",
+    "zip_code": "32714",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "230 W State Rd 436",
+     "Altamonte Springs, FL 32714"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14072882223",
+   "display_phone": "(407) 288-2223",
+   "distance": 13593.868114007182
+  }
+ ],
+ "total": 44,
+ "region": {
+  "center": {
+   "longitude": -81.3789,
+   "Latitude": 28.5384
+  }
+ }
+}

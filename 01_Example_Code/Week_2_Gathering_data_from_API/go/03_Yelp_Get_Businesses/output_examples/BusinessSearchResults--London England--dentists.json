@@ -1,0 +1,1853 @@
+{
+ "businesses": [
+  {
+   "id": "cb68xEFl8p418CPBZvbewQ",
+   "alias": "dentistry-100-london-2",
+   "name": "Dentistry 100",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OX1Oiv4VX6mKH3W3qiCEow/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dentistry-100-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 56,
+   "categories": [
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.09956477,
+    "Latitude": 51.519317
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "64-65 Long Lane",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "EC1A 9EJ",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "64-65 Long Lane",
+     "London EC1A 9EJ",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442076387100",
+   "display_phone": "+44 20 7638 7100",
+   "distance": 15777.48805214244
+  },
+  {
+   "id": "yILrJFAQcv9QTicUfFb9bA",
+   "alias": "harley-street-dental-studio-london",
+   "name": "Harley Street Dental Studio",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JlUYlBiM24_f-y4NSfnGyQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/harley-street-dental-studio-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.146789997816086,
+    "Latitude": 51.5190505981445
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "52 Harley Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1G 9PY",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "52 Harley Street",
+     "London W1G 9PY",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442076365981",
+   "display_phone": "+44 20 7636 5981",
+   "distance": 19033.570509955072
+  },
+  {
+   "id": "D-OncDazE-VyEWLPeOPM9A",
+   "alias": "sparkle-dental-boutique-london",
+   "name": "Sparkle Dental Boutique",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QaQMTr6z4cjWCSkAyENZRw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sparkle-dental-boutique-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.327009,
+    "Latitude": 51.498729
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "311 Boston Rd",
+    "address2": "Hanwell",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W7 2AT",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "311 Boston Rd",
+     "Hanwell",
+     "London W7 2AT",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442085674344",
+   "display_phone": "+44 20 8567 4344",
+   "distance": 31480.210885078017
+  },
+  {
+   "id": "WQFQ_Ou3dG0qJ3CdtJLE4g",
+   "alias": "covent-garden-dental-spa-london",
+   "name": "Covent Garden Dental Spa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XoHddfRZKrn_4XLuCJsfkQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/covent-garden-dental-spa-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -0.1255713,
+    "Latitude": 51.516282
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15 Grape Street",
+    "address2": "",
+    "address3": "Covent Garden",
+    "city": "London",
+    "zip_code": "WC2H 8DR",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "15 Grape Street",
+     "Covent Garden",
+     "London WC2H 8DR",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442078369107",
+   "display_phone": "+44 20 7836 9107",
+   "distance": 17549.17363274476
+  },
+  {
+   "id": "lArCnwaFf8a2jeCJxkgRwA",
+   "alias": "b-dental-london",
+   "name": "B Dental",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WvnF1HvFqLmmEdPwjwmeqA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/b-dental-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "dentists",
+     "title": "Dentists"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.1035204,
+    "Latitude": 51.5432733
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "61 Islington Park Street",
+    "address2": "Islington",
+    "address3": "",
+    "city": "London",
+    "zip_code": "N1 1QB",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "61 Islington Park Street",
+     "Islington",
+     "London N1 1QB",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442072268074",
+   "display_phone": "+44 20 7226 8074",
+   "distance": 16491.189836178266
+  },
+  {
+   "id": "HqYn7-rWJnCaGnHE9Ts6uQ",
+   "alias": "tavistock-dental-and-facial-london",
+   "name": "Tavistock Dental and Facial",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JLr6tqCuFmXEAw9bFF1mDw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tavistock-dental-and-facial-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "endodontists",
+     "title": "Endodontists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -0.126739,
+    "Latitude": 51.525044
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "16 Tavistock Place",
+    "address2": "Bloomsbury",
+    "address3": "Holborn",
+    "city": "London",
+    "zip_code": "WC1H 9RU",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "16 Tavistock Place",
+     "Bloomsbury",
+     "Holborn",
+     "London WC1H 9RU",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442078375638",
+   "display_phone": "+44 20 7837 5638",
+   "distance": 17712.818921230013
+  },
+  {
+   "id": "C9mCLZJKp2wZ_hl67YBRUg",
+   "alias": "devonshire-square-dental-studio-london-2",
+   "name": "Devonshire Square Dental Studio",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/15vrzbXxZIUKjplbqYe7hQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/devonshire-square-dental-studio-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "dentists",
+     "title": "Dentists"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.0794949978590012,
+    "Latitude": 51.5169143676758
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15 Devonshire Square",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "EC2M 4YW",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "15 Devonshire Square",
+     "London EC2M 4YW",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442072478057",
+   "display_phone": "+44 20 7247 8057",
+   "distance": 14372.049712017395
+  },
+  {
+   "id": "b-ZDpy1GMkQ799JpNoRhGw",
+   "alias": "emergency-dentist-london-3",
+   "name": "Emergency Dentist",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yB7vxpguJGpB2NY9CoUh4g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/emergency-dentist-london-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -0.202515,
+    "Latitude": 51.568828
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "50 The Vale",
+    "address2": "Golders Green",
+    "address3": "",
+    "city": "London",
+    "zip_code": "NW11 8SG",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "50 The Vale",
+     "Golders Green",
+     "London NW11 8SG",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442084550465",
+   "display_phone": "+44 20 8455 0465",
+   "distance": 23837.81904159211
+  },
+  {
+   "id": "2A7TOPz3p5mtYjrWKgVpuQ",
+   "alias": "east-finchley-smiles-london",
+   "name": "East Finchley Smiles",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2aEAp1R8AWf85b_0s7Mj0w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/east-finchley-smiles-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "aestheticians",
+     "title": "Aestheticians"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -0.165646322128282,
+    "Latitude": 51.5920817858185
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "144 High Road",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "N2 9ED",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "144 High Road",
+     "London N2 9ED",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442084443436",
+   "display_phone": "+44 20 8444 3436",
+   "distance": 22365.586524966435
+  },
+  {
+   "id": "50fD2SI3oEt5Ob3Go1cZTQ",
+   "alias": "perfect-smile-hertford-3",
+   "name": "Perfect Smile",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8ZMF4IYMKQ2BcGhG3otW3A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/perfect-smile-hertford-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "periodontists",
+     "title": "Periodontists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -0.0748932,
+    "Latitude": 51.7971912
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7/9 South Street",
+    "address2": "",
+    "address3": "",
+    "city": "Hertford",
+    "zip_code": "SG14 1AZ",
+    "country": "GB",
+    "state": "HRT",
+    "display_address": [
+     "7/9 South Street",
+     "Hertford SG14 1AZ",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+441992552115",
+   "display_phone": "+44 1992 552115",
+   "distance": 35141.514177916186
+  },
+  {
+   "id": "hiUTZpFcZtOoJ-4Pqywy-w",
+   "alias": "hermes-london-dental-clinic-london-2",
+   "name": "Hermes London Dental Clinic",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vkY88VsrUF_nOqBGvkDmKQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hermes-london-dental-clinic-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.1394132,
+    "Latitude": 51.493248
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "205 Vauxhall Bridge Road",
+    "address2": "Victoria",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SW1V 1ER",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "205 Vauxhall Bridge Road",
+     "Victoria",
+     "London SW1V 1ER",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442072337660",
+   "display_phone": "+44 20 7233 7660",
+   "distance": 18548.095086446407
+  },
+  {
+   "id": "7bT1OLUnyVafeVBh1--laQ",
+   "alias": "westcombe-park-dental-practice-london",
+   "name": "Westcombe Park Dental Practice",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9h_xk4ogWG88lkPP7wfY_g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/westcombe-park-dental-practice-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "dentists",
+     "title": "Dentists"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 0.01738,
+    "Latitude": 51.484012
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13 Station Cr",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SE3 7EQ",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "13 Station Cr",
+     "London SE3 7EQ",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442088533304",
+   "display_phone": "+44 20 8853 3304",
+   "distance": 8050.919296834479
+  },
+  {
+   "id": "BdWbdmGBRW2moWgFlAZniw",
+   "alias": "pickering-dental-surgeries-london",
+   "name": "Pickering Dental Surgeries",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pickering-dental-surgeries-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.102928898139156,
+    "Latitude": 51.537756456827
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "103-104 Upper Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "N1 1QN",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "103-104 Upper Street",
+     "London N1 1QN",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442073596103",
+   "display_phone": "+44 20 7359 6103",
+   "distance": 16307.315675587719
+  },
+  {
+   "id": "tD3LyCFM4yj8VQmZAUOHNA",
+   "alias": "vital-dental-care-london",
+   "name": "Vital Dental Care",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PmZ2dVyQjlVSxLmK5Jk90g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vital-dental-care-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "dentists",
+     "title": "Dentists"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -0.0826318,
+    "Latitude": 51.5611463
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "169 Stoke Newington Church Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "N16 0UL",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "169 Stoke Newington Church Street",
+     "London N16 0UL",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442072546503",
+   "display_phone": "+44 20 7254 6503",
+   "distance": 15711.533090339854
+  },
+  {
+   "id": "XBrrcq14mhjXrfWsEJavtw",
+   "alias": "altmore-dental-practice-london",
+   "name": "Altmore Dental Practice",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/cmpuDWj9enkqYKUk5kz3qg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/altmore-dental-practice-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -0.00751979080735055,
+    "Latitude": 51.4953580600445
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "33-37 Amsterdam Road",
+    "address2": "London Yard",
+    "address3": "",
+    "city": "London",
+    "zip_code": "E14 3UU",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "33-37 Amsterdam Road",
+     "London Yard",
+     "London E14 3UU",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442075154600",
+   "display_phone": "+44 20 7515 4600",
+   "distance": 9445.018586457434
+  },
+  {
+   "id": "4Rgo9y7_c0iKuYZetFdh3Q",
+   "alias": "azamay-dental-and-skin-clinic-london",
+   "name": "Azamay Dental \u0026 Skin Clinic",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-NFCAyAM1ulAbsSFhb0BDw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/azamay-dental-and-skin-clinic-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.147577,
+    "Latitude": 51.647312
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "27 Heddan Court Parade",
+    "address2": "Cockfoster Road",
+    "address3": "",
+    "city": "London",
+    "zip_code": "EN4 0DB",
+    "country": "GB",
+    "state": "BNE",
+    "display_address": [
+     "27 Heddan Court Parade",
+     "Cockfoster Road",
+     "London EN4 0DB",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442084496858",
+   "display_phone": "+44 20 8449 6858",
+   "distance": 24513.640741510186
+  },
+  {
+   "id": "5S_9pntEoDRfUkdwUQTq0w",
+   "alias": "advance-dental-clinic-chelmsford-2",
+   "name": "Advance Dental Clinic",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-K1RH6cX7urWWH1cwH23Iw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/advance-dental-clinic-chelmsford-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "periodontists",
+     "title": "Periodontists"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 0.465682,
+    "Latitude": 51.725069
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "104 Moulsham Street",
+    "address2": "",
+    "address3": "",
+    "city": "Chelmsford",
+    "zip_code": "CM2 0JG",
+    "country": "GB",
+    "state": "ESS",
+    "display_address": [
+     "104 Moulsham Street",
+     "Chelmsford CM2 0JG",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+441245268494",
+   "display_phone": "+44 1245 268494",
+   "distance": 33641.658822606536
+  },
+  {
+   "id": "F_bPOZzB7VorqGDOzuaF4g",
+   "alias": "the-cullen-dental-practice-london",
+   "name": "The Cullen Dental Practice",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vfOswDOdemhTX2Ug__-30A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-cullen-dental-practice-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.2233769,
+    "Latitude": 51.4628482
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "336 Upper Richmond Road",
+    "address2": "Putney",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SW15 6TL",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "336 Upper Richmond Road",
+     "Putney",
+     "London SW15 6TL",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442087882785",
+   "display_phone": "+44 20 8788 2785",
+   "distance": 24798.054207228517
+  },
+  {
+   "id": "9C2Sl45XMpLoRe_bnMChUA",
+   "alias": "confident-dental-care-london",
+   "name": "Confident Dental Care",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/confident-dental-care-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "dentists",
+     "title": "Dentists"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -0.1391811,
+    "Latitude": 51.5561757
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "139 Fortess Road",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "NW5 2HR",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "139 Fortess Road",
+     "London NW5 2HR",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442074853833",
+   "display_phone": "+44 20 7485 3833",
+   "distance": 19240.615688672537
+  },
+  {
+   "id": "rugZW4HK41-3Q1FnNJQz1w",
+   "alias": "the-behrens-london",
+   "name": "The Behrens",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-behrens-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.173250052733612,
+    "Latitude": 51.4952283339311
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "21 Thurloe Place",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SW7 2",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "21 Thurloe Place",
+     "London SW7 2",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442075848810",
+   "display_phone": "+44 20 7584 8810",
+   "distance": 20866.89339093203
+  },
+  {
+   "id": "IVQwK_xm-Ycu3yxppjDX-g",
+   "alias": "harley-street-whitening-clinic-london",
+   "name": "Harley Street Whitening Clinic",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/U_HqLNpVZducfPr5h3g0zQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/harley-street-whitening-clinic-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -0.1459689,
+    "Latitude": 51.5170768
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2 Harley Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1G 9PB",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "2 Harley Street",
+     "London W1G 9PB",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442081333254",
+   "display_phone": "+44 20 8133 3254",
+   "distance": 18963.320460051724
+  },
+  {
+   "id": "qIK3hvt-p_ZVdZEaeLWgxA",
+   "alias": "n12-dental-care-london",
+   "name": "N12 Dental Care",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/n12-dental-care-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "dentists",
+     "title": "Dentists"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -0.1768767,
+    "Latitude": 51.6145819
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "753 High Road",
+    "address2": "North Finchley",
+    "address3": "",
+    "city": "London",
+    "zip_code": "N12 8LG",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "753 High Road",
+     "North Finchley",
+     "London N12 8LG",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442084929710",
+   "display_phone": "+44 20 8492 9710",
+   "distance": 24198.772302103287
+  },
+  {
+   "id": "i8mEJf0ed3IJOIwi5DcevQ",
+   "alias": "st-clements-london",
+   "name": "St Clements",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/il8eRm_15JcqupVeAG0SRQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/st-clements-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "endodontists",
+     "title": "Endodontists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -0.1014505,
+    "Latitude": 51.5203205
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10 St John Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "EC1M 4AY",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "10 St John Street",
+     "London EC1M 4AY",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442072530535",
+   "display_phone": "+44 20 7253 0535",
+   "distance": 15917.173569008835
+  },
+  {
+   "id": "Nu2dTQB09o2U_ls1xMvD9A",
+   "alias": "sensu-london-london-2",
+   "name": "Sensu London",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SJy0fpinzjxhDOq8gcMg9Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sensu-london-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "endodontists",
+     "title": "Endodontists"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -0.1484304,
+    "Latitude": 51.518095
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "69 Wimpole Street",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1G 8AS",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "69 Wimpole Street",
+     "London W1G 8AS",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442033936640",
+   "display_phone": "+44 20 3393 6640",
+   "distance": 19139.99679282135
+  },
+  {
+   "id": "yrCKw3HCaRi2DlG7pYXxtg",
+   "alias": "nhs-dentist-london",
+   "name": "NHS Dentist",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/An-q5bIEXjUBjNfgcAwwfQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nhs-dentist-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "dentists",
+     "title": "Dentists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -0.2014903,
+    "Latitude": 51.4843431
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "355 N End Road",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SW6 1NW",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "355 N End Road",
+     "London SW6 1NW",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442076101110",
+   "display_phone": "+44 20 7610 1110",
+   "distance": 22925.322180773397
+  },
+  {
+   "id": "7OTdqPgInQPyHCYZGQXhdg",
+   "alias": "bright-smile-london",
+   "name": "Bright Smile",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YX0ABvt6JXV3wAkYQ70Akw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bright-smile-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "endodontists",
+     "title": "Endodontists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.177215919667293,
+    "Latitude": 51.54544583344
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "14-15 New College Parade",
+    "address2": "Finchley Road",
+    "address3": "",
+    "city": "London",
+    "zip_code": "NW3 5EP",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "14-15 New College Parade",
+     "Finchley Road",
+     "London NW3 5EP",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442074311444",
+   "display_phone": "+44 20 7431 1444",
+   "distance": 21511.829222881068
+  },
+  {
+   "id": "euHyPyefnwxOvT6wmKmHIg",
+   "alias": "umbrella-smiles-london",
+   "name": "Umbrella Smiles",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iIf3JUhwnZH-0Y4ZwXMTtQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/umbrella-smiles-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.146020993590355,
+    "Latitude": 51.5174026489258
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11 Harley St",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1G 9PF",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "11 Harley St",
+     "London W1G 9PF",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442076129810",
+   "display_phone": "+44 20 7612 9810",
+   "distance": 18968.984259200715
+  },
+  {
+   "id": "KE8XIQ0-LQBFBWohyg3oIg",
+   "alias": "kings-college-dental-hospital-london",
+   "name": "Kings College Dental Hospital",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WoO_SFougJueTjRXmHJ_Lw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kings-college-dental-hospital-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "dentists",
+     "title": "Dentists"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.091685,
+    "Latitude": 51.4682528
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Bessemer Road",
+    "address2": "Denmark Hill",
+    "address3": "",
+    "city": "London",
+    "zip_code": "SE5 9RS",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Bessemer Road",
+     "Denmark Hill",
+     "London SE5 9RS",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442032999000",
+   "display_phone": "+44 20 3299 9000",
+   "distance": 15788.63267628345
+  },
+  {
+   "id": "zCtEPOzlpbcEj2fr-vFZPA",
+   "alias": "ealing-dental-practice-london-2",
+   "name": "Ealing Dental Practice",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ealing-dental-practice-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "dentists",
+     "title": "Dentists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.3194651,
+    "Latitude": 51.5117035
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6 Drayton Green Road",
+    "address2": "Ealing",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W13 8RY",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "6 Drayton Green Road",
+     "Ealing",
+     "London W13 8RY",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442085672235",
+   "display_phone": "+44 20 8567 2235",
+   "distance": 30936.117134790617
+  },
+  {
+   "id": "Meb8bhd423T7fvnlmMGQNA",
+   "alias": "belmont-park-dental-care-lewisham",
+   "name": "Belmont Park Dental Care",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/belmont-park-dental-care-lewisham?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -0.0036962,
+    "Latitude": 51.4597311
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4 Belmont Park",
+    "address2": "",
+    "address3": "",
+    "city": "Lewisham",
+    "zip_code": "SE13 5BJ",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "4 Belmont Park",
+     "Lewisham SE13 5BJ",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442082970053",
+   "display_phone": "+44 20 8297 0053",
+   "distance": 10512.793958147178
+  },
+  {
+   "id": "y7LBfQ-rN-dkBF7NQM3-eA",
+   "alias": "alexandra-germain-dds-london",
+   "name": "Alexandra Germain, DDS",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alexandra-germain-dds-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "endodontists",
+     "title": "Endodontists"
+    },
+    {
+     "alias": "periodontists",
+     "title": "Periodontists"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -0.1490548,
+    "Latitude": 51.5191637
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "57A Wimpole Street",
+    "address2": "Marylebone",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W1G 8YP",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "57A Wimpole Street",
+     "Marylebone",
+     "London W1G 8YP",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442070520070",
+   "display_phone": "+44 20 7052 0070",
+   "distance": 19190.766572347486
+  },
+  {
+   "id": "hHQHzdliRyn69NehHAxlwQ",
+   "alias": "smile-a-moment-studio-london",
+   "name": "Smile A Moment Studio",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ipk4uqaG7Xm22V3qZBsQAA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/smile-a-moment-studio-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "dentists",
+     "title": "Dentists"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -0.1027409,
+    "Latitude": 51.5309549
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "360-364 City Road",
+    "address2": "Angel",
+    "address3": "Islington",
+    "city": "London",
+    "zip_code": "EC1V 2PY",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "360-364 City Road",
+     "Angel",
+     "Islington",
+     "London EC1V 2PY",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442072788577",
+   "display_phone": "+44 20 7278 8577",
+   "distance": 16164.744763812898
+  },
+  {
+   "id": "GqhftXkVlt8pQ5mihCr7RQ",
+   "alias": "platinum-dental-care-london-3",
+   "name": "Platinum Dental Care",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5PbCsVR6rreva12CxNSZLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/platinum-dental-care-london-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -0.0233998,
+    "Latitude": 51.5078161
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Port East Building",
+    "address2": "Hertsmere Road",
+    "address3": "West India Quay Canary Wharf",
+    "city": "London",
+    "zip_code": "E14 4AE",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "Port East Building",
+     "Hertsmere Road",
+     "West India Quay Canary Wharf",
+     "London E14 4AE",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442075311717",
+   "display_phone": "+44 20 7531 1717",
+   "distance": 10450.766128211168
+  },
+  {
+   "id": "HnktrkSkGbmlEHpESYrbbQ",
+   "alias": "future-smile-dental-practice-london-3",
+   "name": "Future Smile Dental Practice",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZNobzFuua7HIR_3jFUNjEw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/future-smile-dental-practice-london-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -0.0872244387865067,
+    "Latitude": 51.5496997253414
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "95 Newington Green Road",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "N1 4QX",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "95 Newington Green Road",
+     "London N1 4QX",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442077041616",
+   "display_phone": "+44 20 7704 1616",
+   "distance": 15594.237557633438
+  },
+  {
+   "id": "07PAAG2bHn8R1RSHvxPgPw",
+   "alias": "park-avenue-dental-care-london",
+   "name": "Park Avenue Dental Care",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hKx_BXA5V80oBnrOR79KlA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/park-avenue-dental-care-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "dentists",
+     "title": "Dentists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -0.2285076,
+    "Latitude": 51.5513918
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "44 Park Avenue North",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "NW10 1JY",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "44 Park Avenue North",
+     "London NW10 1JY",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442084526889",
+   "display_phone": "+44 20 8452 6889",
+   "distance": 25109.204283875388
+  },
+  {
+   "id": "wbJ4fee-TGcr64pQtTljYw",
+   "alias": "bishopsgate-dental-care-london",
+   "name": "Bishopsgate Dental Care",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Va1bf9jX7WsMumzs7rnZpw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bishopsgate-dental-care-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -0.078346,
+    "Latitude": 51.520214
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "36 Spital Square",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "E1 6DY",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "36 Spital Square",
+     "London E1 6DY",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442073776762",
+   "display_phone": "+44 20 7377 6762",
+   "distance": 14324.983403097864
+  },
+  {
+   "id": "GBJrchVfzcJCsHTLGNuKWQ",
+   "alias": "phoenix-orthodontic-practice-london-2",
+   "name": "Phoenix Orthodontic Practice",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/phoenix-orthodontic-practice-london-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 0.0578010007739067,
+    "Latitude": 51.5145225524902
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13-14 Mary Rose Mall",
+    "address2": "Beckton District Centre",
+    "address3": "Frobisher Road Beckton",
+    "city": "London",
+    "zip_code": "E6 5LX",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "13-14 Mary Rose Mall",
+     "Beckton District Centre",
+     "Frobisher Road Beckton",
+     "London E6 5LX",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442074734411",
+   "display_phone": "+44 20 7473 4411",
+   "distance": 4897.528791974651
+  },
+  {
+   "id": "PKdhE6R6viVz50THBBQqjQ",
+   "alias": "garden-dental-practice-london",
+   "name": "Garden Dental Practice",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SLq2TDlbMZYZ_5UGecBTNw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/garden-dental-practice-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "dentists",
+     "title": "Dentists"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -0.194986,
+    "Latitude": 51.570428
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "610 Finchley Road",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "NW11 7RX",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "610 Finchley Road",
+     "London NW11 7RX",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442084553310",
+   "display_phone": "+44 20 8455 3310",
+   "distance": 23392.035764377844
+  },
+  {
+   "id": "OcDRhejG4S_wQ6lJGp_svA",
+   "alias": "malmin-dental-london",
+   "name": "Malmin Dental",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4Jlw-xM6026V2btm6iQFrQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/malmin-dental-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -0.105876924481718,
+    "Latitude": 51.5202606169033
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "49-51 Farringdon Road",
+    "address2": "",
+    "address3": "",
+    "city": "London",
+    "zip_code": "EC1M 3JP",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "49-51 Farringdon Road",
+     "London EC1M 3JP",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442078311702",
+   "display_phone": "+44 20 7831 1702",
+   "distance": 16221.627518173822
+  },
+  {
+   "id": "34CL2uEgn7lSgOb5Bt3kGA",
+   "alias": "kensington-dental-spa-london",
+   "name": "Kensington Dental Spa",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kDiOZi5gfeHNz1rj_I4zjA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kensington-dental-spa-london?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "endodontists",
+     "title": "Endodontists"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -0.188237564834594,
+    "Latitude": 51.502320569963
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "21 Kensington High St",
+    "address2": "Ground Floor Kensington",
+    "address3": "",
+    "city": "London",
+    "zip_code": "W8 5NP",
+    "country": "GB",
+    "state": "XGL",
+    "display_address": [
+     "21 Kensington High St",
+     "Ground Floor Kensington",
+     "London W8 5NP",
+     "United Kingdom"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+442079373951",
+   "display_phone": "+44 20 7937 3951",
+   "distance": 21866.831870950584
+  }
+ ],
+ "total": 394,
+ "region": {
+  "center": {
+   "longitude": 0.12760000000000002,
+   "Latitude": 51.5072
+  }
+ }
+}

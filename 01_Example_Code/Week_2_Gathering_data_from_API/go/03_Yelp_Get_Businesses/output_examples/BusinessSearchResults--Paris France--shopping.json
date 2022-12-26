@@ -1,0 +1,1820 @@
+{
+ "businesses": [
+  {
+   "id": "TfrdfpM95AZq4ncWyoMPkA",
+   "alias": "galeries-lafayette-haussmann-paris-6",
+   "name": "Galeries Lafayette Haussmann",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/khQRNB0d8vRP49hv5PeeYg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/galeries-lafayette-haussmann-paris-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 572,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.332167,
+    "Latitude": 48.873712
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "40 boulevard Haussmann",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "40 boulevard Haussmann",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142823456",
+   "display_phone": "+33 1 42 82 34 56",
+   "distance": 2401.627935959222
+  },
+  {
+   "id": "j2mUHWVXSKSkEuHJao_wKg",
+   "alias": "shakespeare-and-company-paris",
+   "name": "Shakespeare and Company",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/S8ThIH2lRIp4jaBClmFYTQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shakespeare-and-company-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 324,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3469621526521,
+    "Latitude": 48.852658704771
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "37 rue de la Bûcherie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "37 rue de la Bûcherie",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143254093",
+   "display_phone": "+33 1 43 25 40 93",
+   "distance": 582.1679860819904
+  },
+  {
+   "id": "YRGP0xz3PncHLpFSrS7ynQ",
+   "alias": "louis-vuitton-paris-7",
+   "name": "Louis Vuitton",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0W5OxojgOJ1wEeYjw2IjJw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/louis-vuitton-paris-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 300,
+   "categories": [
+    {
+     "alias": "luggage",
+     "title": "Luggage"
+    },
+    {
+     "alias": "leather",
+     "title": "Leather Goods"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.30052246356076,
+    "Latitude": 48.8716106946226
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "101 av des Champs-Elysées",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "101 av des Champs-Elysées",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153575200",
+   "display_phone": "+33 1 53 57 52 00",
+   "distance": 4132.265296350784
+  },
+  {
+   "id": "aPriihJmN7ecCsRO4CHT8A",
+   "alias": "printemps-paris-9",
+   "name": "Printemps",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/s0rcl7W6L9m0nfN7eTUeWQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/printemps-paris-9?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 172,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.328789,
+    "Latitude": 48.873928
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "64 boulevard Haussmann",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "64 boulevard Haussmann",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142825000",
+   "display_phone": "+33 1 42 82 50 00",
+   "distance": 2577.7898460665515
+  },
+  {
+   "id": "gYhORtnZ5WuCCGfaboob2Q",
+   "alias": "le-bon-marche-paris-7",
+   "name": "Le Bon Marché",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SJT2O9V0hRuM5MV2gRwXVw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-bon-marche-paris-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 150,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.324363,
+    "Latitude": 48.851136
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "24 rue de Sèvres",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "24 rue de Sèvres",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144398000",
+   "display_phone": "+33 1 44 39 80 00",
+   "distance": 2125.362598581844
+  },
+  {
+   "id": "AL0Eov8WHKwcPkQSwhidiQ",
+   "alias": "le-bhv-marais-paris-4",
+   "name": "Le BHV Marais",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/74z6yXCgRhMv099K8UpVjA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-bhv-marais-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 144,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.353342,
+    "Latitude": 48.857471
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "52 rue de Rivoli",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75189",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "52 rue de Rivoli",
+     "75189 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33977401400",
+   "display_phone": "+33 9 77 40 14 00",
+   "distance": 127.90758694653016
+  },
+  {
+   "id": "krOm6uv6ciJjIQ_XxWPuTQ",
+   "alias": "chanel-paris-4",
+   "name": "Chanel",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9mXP-GCLu3_Ho8wXSi-Vjg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chanel-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 138,
+   "categories": [
+    {
+     "alias": "cosmetics",
+     "title": "Cosmetics \u0026 Beauty Supply"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "watches",
+     "title": "Watches"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.326655,
+    "Latitude": 48.868122
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "31 rue Cambon",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "31 rue Cambon",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144506600",
+   "display_phone": "+33 1 44 50 66 00",
+   "distance": 2265.6861104971968
+  },
+  {
+   "id": "vRnixb9s9UDPRXJavbl58g",
+   "alias": "merci-paris-2",
+   "name": "Merci",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1HTkvmxKeJ66xD5NuVXW0w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/merci-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 136,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3670418,
+    "Latitude": 48.860735
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "111 boulevard Beaumarchais",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "111 boulevard Beaumarchais",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142770033",
+   "display_phone": "+33 1 42 77 00 33",
+   "distance": 1179.1239918142398
+  },
+  {
+   "id": "Z5CZrMz8cEa6K-LTL3Hu6w",
+   "alias": "bercy-village-paris-2",
+   "name": "Bercy Village",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ADFwKx23pQY7Ax6pmnCQeQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bercy-village-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 122,
+   "categories": [
+    {
+     "alias": "shoppingcenters",
+     "title": "Shopping Centers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.38600291005446,
+    "Latitude": 48.8331461278974
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "28 rue François Truffaut",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "28 rue François Truffaut",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33825166075",
+   "display_phone": "+33 825 16 60 75",
+   "distance": 3594.4569299688383
+  },
+  {
+   "id": "Q8i51Z6qEg4VepXH1W1YTg",
+   "alias": "citadium-paris-3",
+   "name": "Citadium",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8CfYVkMIQ_4OGb18iTzDOg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/citadium-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 112,
+   "categories": [
+    {
+     "alias": "shoppingcenters",
+     "title": "Shopping Centers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.32839,
+    "Latitude": 48.87417
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "50 rue de Caumartin",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "50 rue de Caumartin",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33155317400",
+   "display_phone": "+33 1 55 31 74 00",
+   "distance": 2617.291900396458
+  },
+  {
+   "id": "VmBZVA8Jz7hGYewz3Y4srw",
+   "alias": "sephora-paris-15",
+   "name": "Sephora",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dPaMZyz9TwUKU9cumF1NGg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sephora-paris-15?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 111,
+   "categories": [
+    {
+     "alias": "cosmetics",
+     "title": "Cosmetics \u0026 Beauty Supply"
+    },
+    {
+     "alias": "perfume",
+     "title": "Perfume"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3048,
+    "Latitude": 48.87066
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "70-72 avenue des Champs-Elysées",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "70-72 avenue des Champs-Elysées",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153932250",
+   "display_phone": "+33 1 53 93 22 50",
+   "distance": 3803.4742862011803
+  },
+  {
+   "id": "9XVBL2TrXvJPMD8aKfOb7Q",
+   "alias": "the-disney-store-paris",
+   "name": "The Disney Store",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gAWfqF4x7bMrwIfRTzPovA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-disney-store-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 102,
+   "categories": [
+    {
+     "alias": "concept_shops",
+     "title": "Concept Shops"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.307299,
+    "Latitude": 48.8702773021798
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "44 avenue Champs Elysées",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "44 avenue Champs Elysées",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145614525",
+   "display_phone": "+33 1 45 61 45 25",
+   "distance": 3619.5319206443205
+  },
+  {
+   "id": "cYxwk232vvbnOBR2kN0hkA",
+   "alias": "palais-de-tokyo-paris",
+   "name": "Palais de Tokyo",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GWpLRYKkKWwbhfPXyx2pzA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/palais-de-tokyo-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 93,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.296468,
+    "Latitude": 48.86421
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "13 avenue du Président Wilson",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75016",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "13 avenue du Président Wilson",
+     "75016 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33181973588",
+   "display_phone": "+33 1 81 97 35 88",
+   "distance": 4163.939834869697
+  },
+  {
+   "id": "eB6kLJJhwuv8j8g9kGRerw",
+   "alias": "les-4-temps-puteaux-2",
+   "name": "Les 4 Temps",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2Qe4ohHqg2IiI4nzNRckGQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/les-4-temps-puteaux-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 93,
+   "categories": [
+    {
+     "alias": "shoppingcenters",
+     "title": "Shopping Centers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.235639,
+    "Latitude": 48.890703
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "15 parvis de la Défense",
+    "address2": "",
+    "address3": "",
+    "city": "Puteaux",
+    "zip_code": "92800",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "15 parvis de la Défense",
+     "92800 Puteaux",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147731733",
+   "display_phone": "+33 1 47 73 17 33",
+   "distance": 9330.091487570187
+  },
+  {
+   "id": "PZxl56KNqdBhCd9JvhR7Sw",
+   "alias": "uniqlo-paris",
+   "name": "Uniqlo",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HcDZP-WedadcNiTfE5n_Eg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/uniqlo-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 90,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "childcloth",
+     "title": "Children's Clothing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.33085,
+    "Latitude": 48.87267
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "17 rue Scribe",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "17 rue Scribe",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33158183055",
+   "display_phone": "+33 1 58 18 30 55",
+   "distance": 2370.8827143298927
+  },
+  {
+   "id": "chEk0cD3XPqjB13FBdISmg",
+   "alias": "la-cuisine-paris-paris",
+   "name": "La Cuisine Paris",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4ZH-2PIlkhnBPPjMebkjYA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-cuisine-paris-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 87,
+   "categories": [
+    {
+     "alias": "foodtours",
+     "title": "Food Tours"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.35413,
+    "Latitude": 48.8547
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "80 quai de l'Hôtel de Ville",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "80 quai de l'Hôtel de Ville",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33961499795",
+   "display_phone": "+33 9 61 49 97 95",
+   "distance": 254.11220285516018
+  },
+  {
+   "id": "XxRDeCJk00ZlRj2ho8EiHw",
+   "alias": "fondation-louis-vuitton-paris",
+   "name": "Fondation Louis Vuitton",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BUW2amn9odAKZg4eWA3BTg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fondation-louis-vuitton-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 86,
+   "categories": [
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.26345677368024,
+    "Latitude": 48.8764441403425
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "8 avenue du Mahatma Gandhi",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75116",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "8 avenue du Mahatma Gandhi",
+     "75116 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140699600",
+   "display_phone": "+33 1 40 69 96 00",
+   "distance": 6855.9728525588325
+  },
+  {
+   "id": "UL_WfX4iSfnTGUqaObrYfQ",
+   "alias": "la-vallée-village-serris-5",
+   "name": "La Vallée Village",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8KeKEv6l_EODXb7Uhe1ohg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-vall%C3%A9e-village-serris-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 79,
+   "categories": [
+    {
+     "alias": "shoppingcenters",
+     "title": "Shopping Centers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.78354358,
+    "Latitude": 48.85282711
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "3 Cours de la Garonne",
+    "address2": "",
+    "address3": "",
+    "city": "Serris",
+    "zip_code": "77700",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "3 Cours de la Garonne",
+     "77700 Serris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33160423500",
+   "display_phone": "+33 1 60 42 35 00",
+   "distance": 31561.10089736348
+  },
+  {
+   "id": "TkHjot4ohPNaLGUKEPLY7w",
+   "alias": "apple-opéra-paris",
+   "name": "Apple Opéra",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7ZEzZg8Ie99Fcg2DkcwmqQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/apple-op%C3%A9ra-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 76,
+   "categories": [
+    {
+     "alias": "mobilephones",
+     "title": "Mobile Phones"
+    },
+    {
+     "alias": "itservices",
+     "title": "IT Services \u0026 Computer Repair"
+    },
+    {
+     "alias": "computers",
+     "title": "Computers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3333437,
+    "Latitude": 48.872272
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "12 rue Halévy",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "12 rue Halévy",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144834200",
+   "display_phone": "+33 1 44 83 42 00",
+   "distance": 2222.457745029247
+  },
+  {
+   "id": "pgU21OwkQRHgPg9SavlNDw",
+   "alias": "marché-dauphine-saint-ouen-3",
+   "name": "Marché Dauphine",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/17y5r4GFBZqm1egCQk_7zA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/march%C3%A9-dauphine-saint-ouen-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 74,
+   "categories": [
+    {
+     "alias": "fleamarkets",
+     "title": "Flea Markets"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.341987,
+    "Latitude": 48.902333
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "138/140 rue des Rosiers",
+    "address2": "",
+    "address3": "",
+    "city": "Saint-Ouen",
+    "zip_code": "93400",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "138/140 rue des Rosiers",
+     "93400 Saint-Ouen",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33609488453",
+   "display_phone": "+33 6 09 48 84 53",
+   "distance": 5139.821548525779
+  },
+  {
+   "id": "4s2RmQS8NL2LmDkrQ2PXmA",
+   "alias": "hermès-paris-8",
+   "name": "Hermès",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/N0BzOt1wkQMH_bqaVte7-Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/herm%C3%A8s-paris-8?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 73,
+   "categories": [
+    {
+     "alias": "leather",
+     "title": "Leather Goods"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.32178958417598,
+    "Latitude": 48.8688610045034
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "24 rue du faubourg Saint-Honoré",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "24 rue du faubourg Saint-Honoré",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140174600",
+   "display_phone": "+33 1 40 17 46 00",
+   "distance": 2609.101470157455
+  },
+  {
+   "id": "5Cjg82SfXnmh3K5z-iN6gw",
+   "alias": "abraxas-paris",
+   "name": "Abraxas",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uMmjNSJiFT7bHSCn_Bnjwg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/abraxas-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 72,
+   "categories": [
+    {
+     "alias": "tattoo",
+     "title": "Tattoo"
+    },
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "piercing",
+     "title": "Piercing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.35308,
+    "Latitude": 48.8593
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "9 rue Saint Merri",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "9 rue Saint Merri",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148043355",
+   "display_phone": "+33 1 48 04 33 55",
+   "distance": 307.05099654474367
+  },
+  {
+   "id": "vFTHT1DWkg8hwbOvT2hyDQ",
+   "alias": "e-dehillerin-paris-4",
+   "name": "E.Dehillerin",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/tJeU4atFY6OZvEeXxdE7Iw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/e-dehillerin-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 65,
+   "categories": [
+    {
+     "alias": "kitchensupplies",
+     "title": "Kitchen Supplies"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.342797,
+    "Latitude": 48.863875
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "18-20 rue Coquillière",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "18-20 rue Coquillière",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142365311",
+   "display_phone": "+33 1 42 36 53 11",
+   "distance": 1061.8660399289474
+  },
+  {
+   "id": "UeFlyGNOIJqs4Rh6MvFziw",
+   "alias": "publicis-drugstore-paris-2",
+   "name": "Publicis Drugstore",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MknU_E3RuAEqXT_lFk40wg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/publicis-drugstore-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 59,
+   "categories": [
+    {
+     "alias": "shoppingcenters",
+     "title": "Shopping Centers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.296934,
+    "Latitude": 48.87364
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "133 avenue des Champs-Elysées",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "133 avenue des Champs-Elysées",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144437900",
+   "display_phone": "+33 1 44 43 79 00",
+   "distance": 4464.591250446613
+  },
+  {
+   "id": "o-Bhfs4xONxS9Rc1BskRog",
+   "alias": "fleux-paris-4",
+   "name": "Fleux'",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pJKbWLEGuhwSkrqcIz658g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fleux-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 58,
+   "categories": [
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.35454,
+    "Latitude": 48.8587
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "39 rue Sainte-Croix de la Bretonnerie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "39 rue Sainte-Croix de la Bretonnerie",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142782720",
+   "display_phone": "+33 1 42 78 27 20",
+   "distance": 289.53914324792834
+  },
+  {
+   "id": "Fap2SwPxoSWEjqwHRp4KLg",
+   "alias": "aux-arts-etc-paris",
+   "name": "Aux Arts Etc...",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZVFtSHk1ZOpku_dkYeg-nQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aux-arts-etc-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 57,
+   "categories": [
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.34899917672232,
+    "Latitude": 48.8518973088041
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "15 quai de Montebello",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "15 quai de Montebello",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33156816877",
+   "display_phone": "+33 1 56 81 68 77",
+   "distance": 572.9589319102193
+  },
+  {
+   "id": "G3Yg2Jghh56mKjA-ACvj-A",
+   "alias": "fnac-paris-5",
+   "name": "Fnac",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WtKAotfZ5Aa26AUIDnwFVg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fnac-paris-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 55,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.327027,
+    "Latitude": 48.875437
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "109 rue Saint-Lazare",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "109 rue Saint-Lazare",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33825020020",
+   "display_phone": "+33 825 02 00 20",
+   "distance": 2788.8507539630937
+  },
+  {
+   "id": "aw31bEvult7sFhLB_JVXmw",
+   "alias": "monoprix-paris-29",
+   "name": "Monoprix",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lZrJMJEDKmThT3J-6aN-dQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/monoprix-paris-29?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 53,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.33255,
+    "Latitude": 48.85336
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "52 rue de Rennes",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "52 rue de Rennes",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145481808",
+   "display_phone": "+33 1 45 48 18 08",
+   "distance": 1484.1966879946108
+  },
+  {
+   "id": "XLF4z3nFWhGN1eLylaHVcw",
+   "alias": "wh-smith-paris",
+   "name": "WH Smith",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9nsn4d0z7z_7aa4K1MbcPQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wh-smith-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 52,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.32504,
+    "Latitude": 48.86602
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "248 rue de Rivoli",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "248 rue de Rivoli",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144778899",
+   "display_phone": "+33 1 44 77 88 99",
+   "distance": 2246.042538480787
+  },
+  {
+   "id": "qbYSEU7SYCGSle5S3VA-ZA",
+   "alias": "beaugrenelle-paris-2",
+   "name": "Beaugrenelle",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/K_C4rrafv7W0a6g4xQ608A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beaugrenelle-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 51,
+   "categories": [
+    {
+     "alias": "shoppingcenters",
+     "title": "Shopping Centers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.282441,
+    "Latitude": 48.848272
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "12 rue Linois",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "12 rue Linois",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153952400",
+   "display_phone": "+33 1 53 95 24 00",
+   "distance": 5187.329616056857
+  },
+  {
+   "id": "kJOiWoLUlF6YPOW1ZpwOdg",
+   "alias": "le-lucernaire-paris",
+   "name": "Le Lucernaire",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uS6dsjKRjQFzumR4v9hhDw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-lucernaire-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 50,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3304376,
+    "Latitude": 48.8441257
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "53 rue Notre Dame des Champs",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "53 rue Notre Dame des Champs",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142226687",
+   "display_phone": "+33 1 42 22 66 87",
+   "distance": 2111.7592431269177
+  },
+  {
+   "id": "vOe9RJg5JNCsmZFPSuafTA",
+   "alias": "kilo-shop-paris",
+   "name": "Kilo Shop",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5ZsUSz4LsHLvRJdAgQ_rww/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kilo-shop-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 50,
+   "categories": [
+    {
+     "alias": "thrift_stores",
+     "title": "Thrift Stores"
+    },
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3520879,
+    "Latitude": 48.8582565
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "69 rue de la Verrerie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "69 rue de la Verrerie",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33967137954",
+   "display_phone": "+33 9 67 13 79 54",
+   "distance": 184.37667584727245
+  },
+  {
+   "id": "JLtoSOtzs3hhtugCkzA6mA",
+   "alias": "kiliwatch-paris-3",
+   "name": "Kiliwatch",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hvz1VEJvBYpjY53canz-mg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kiliwatch-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 49,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3453999,
+    "Latitude": 48.8647548
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "64 rue Tiquetonne",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "64 rue Tiquetonne",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142211737",
+   "display_phone": "+33 1 42 21 17 37",
+   "distance": 1034.2614245813804
+  },
+  {
+   "id": "-FZ-t5hNduXD-YRd4ezBqg",
+   "alias": "au-vieux-campeur-paris",
+   "name": "Au Vieux Campeur",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yjMLyBvfI0NXlPHZlBJXJg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/au-vieux-campeur-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 46,
+   "categories": [
+    {
+     "alias": "outdoorgear",
+     "title": "Outdoor Gear"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.345375,
+    "Latitude": 48.849804
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "48 rue des Ecoles",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "48 rue des Ecoles",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153104848",
+   "display_phone": "+33 1 53 10 48 48",
+   "distance": 905.7618304490043
+  },
+  {
+   "id": "1GFkFpkn4fsgQdvYiG981A",
+   "alias": "musée-du-parfum-fragonard-paris-3",
+   "name": "Musée du Parfum Fragonard",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/F63BaRyk6ysrOuXW1voREA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mus%C3%A9e-du-parfum-fragonard-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 45,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "perfume",
+     "title": "Perfume"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.330198570256,
+    "Latitude": 48.871411209442
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "9 rue Scribe",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "9 rue Scribe",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147420456",
+   "display_phone": "+33 1 47 42 04 56",
+   "distance": 2302.718591676511
+  },
+  {
+   "id": "ZLTH_AyhUHqo62WXNWQ-sA",
+   "alias": "fnac-paris-12",
+   "name": "Fnac",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fkVefmYuuIkX_1-T2Eoh7Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fnac-paris-12?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 45,
+   "categories": [
+    {
+     "alias": "media",
+     "title": "Books, Mags, Music \u0026 Video"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "mobilephones",
+     "title": "Mobile Phones"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.349,
+    "Latitude": 48.86059
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "101 rue Berger",
+    "address2": "",
+    "address3": "-3 Zone Lescot",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "101 rue Berger",
+     "-3 Zone Lescot",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33825020020",
+   "display_phone": "+33 825 02 00 20",
+   "distance": 769.0377852048358
+  },
+  {
+   "id": "nxhyRguH8f27KXfG-n2WSw",
+   "alias": "louis-vuitton-paris-12",
+   "name": "Louis Vuitton",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3Kci6Dq_thVwTzy1spVHmg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/louis-vuitton-paris-12?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "leather",
+     "title": "Leather Goods"
+    },
+    {
+     "alias": "luggage",
+     "title": "Luggage"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.32855,
+    "Latitude": 48.86727
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "23 place Vendôme",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "23 place Vendôme",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33181692750",
+   "display_phone": "+33 1 81 69 27 50",
+   "distance": 2097.7952318867137
+  },
+  {
+   "id": "LS3BjNn7w85Vth3meC5JFw",
+   "alias": "gibert-joseph-paris-3",
+   "name": "Gibert Joseph",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VPxz1rOpqvC0utNqHmoFjQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gibert-joseph-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.342517,
+    "Latitude": 48.850589
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "26 boulevard Saint-Michel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "26 boulevard Saint-Michel",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144418888",
+   "display_phone": "+33 1 44 41 88 88",
+   "distance": 973.987971595329
+  },
+  {
+   "id": "Cgru36JH0s8XLh5yxFhXVw",
+   "alias": "la-droguerie-paris-2",
+   "name": "La Droguerie",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/I-ll9Mopk8DX-gYQMkd2SA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-droguerie-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 43,
+   "categories": [
+    {
+     "alias": "knittingsupplies",
+     "title": "Knitting Supplies"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.34472,
+    "Latitude": 48.86374
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "9 rue Jour",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "9 rue Jour",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140261351",
+   "display_phone": "+33 1 40 26 13 51",
+   "distance": 964.2369944331565
+  },
+  {
+   "id": "wWHVi-KZ37IiBNRWFyqEdg",
+   "alias": "italie-deux-paris",
+   "name": "Italie Deux",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Rc_4qFXBcJH_k1X6IbOxmg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/italie-deux-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 43,
+   "categories": [
+    {
+     "alias": "shoppingcenters",
+     "title": "Shopping Centers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.355217,
+    "Latitude": 48.830303
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "30 avenue d'Italie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "30 avenue d'Italie",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153801703",
+   "display_phone": "+33 1 53 80 17 03",
+   "distance": 2932.4129294184113
+  }
+ ],
+ "total": 9200,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

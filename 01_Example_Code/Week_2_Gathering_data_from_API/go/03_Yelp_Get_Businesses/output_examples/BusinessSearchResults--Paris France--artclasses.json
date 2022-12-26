@@ -1,0 +1,690 @@
+{
+ "businesses": [
+  {
+   "id": "xzMuTVI8vV_Lfww0p73d_Q",
+   "alias": "ateliers-d-arts-rrose-sélavy-paris",
+   "name": "Ateliers d'Arts Rrose Sélavy",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1GwHHEXWqNOwQjlErWYR7w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ateliers-d-arts-rrose-s%C3%A9lavy-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.33443,
+    "Latitude": 48.88232
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5 rue Fromentin",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "01",
+    "display_address": [
+     "5 rue Fromentin",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140230595",
+   "display_phone": "+33 1 40 23 05 95",
+   "distance": 3141.4910907767935
+  },
+  {
+   "id": "om2T2oN3gjGyWXXRMAGvFA",
+   "alias": "manekineko-de-montmartre-paris",
+   "name": "Manekineko de Montmartre",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AqottlayILeTW_K7F2XvfQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/manekineko-de-montmartre-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "cookingschools",
+     "title": "Cooking Schools"
+    },
+    {
+     "alias": "language_schools",
+     "title": "Language Schools"
+    },
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3462626,
+    "Latitude": 48.8846346
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7 rue Pierre Picard",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75018",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "7 rue Pierre Picard",
+     "75018 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33667745696",
+   "display_phone": "+33 6 67 74 56 96",
+   "distance": 3147.404010475206
+  },
+  {
+   "id": "YSFIbwL3_h9B2RJo8fdCVA",
+   "alias": "théâtre-montmartre-galabru-paris-5",
+   "name": "Théâtre Montmartre Galabru",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kWbCksFOXok0nWdgZoJK0g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/th%C3%A9%C3%A2tre-montmartre-galabru-paris-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.334222,
+    "Latitude": 48.8874
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4 Rue Armée D'orient",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75018",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "4 Rue Armée D'orient",
+     "75018 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142231585",
+   "display_phone": "+33 1 42 23 15 85",
+   "distance": 3668.532963737473
+  },
+  {
+   "id": "J3vpEZDxUw4keGwh3Gg4tw",
+   "alias": "atelier-du-passage-paris",
+   "name": "Atelier du Passage",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/b0HDjzqj1gPzngCOaP2SSQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/atelier-du-passage-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.3172,
+    "Latitude": 48.8823
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7 passage Geffroy Didelot",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "7 passage Geffroy Didelot",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143870438",
+   "display_phone": "+33 1 43 87 04 38",
+   "distance": 3827.6518393463753
+  },
+  {
+   "id": "RmKINfPCYP2iEz0l1JPEoA",
+   "alias": "marc-antoine-gilles-paris",
+   "name": "Marc Antoine Gilles",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/marc-antoine-gilles-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3016677,
+    "Latitude": 48.8360742
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "136 rue de l'Abbé Groult",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "136 rue de l'Abbé Groult",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33688438459",
+   "display_phone": "+33 6 88 43 84 59",
+   "distance": 4345.368652750557
+  },
+  {
+   "id": "98wsv8rraOxXQiEShAIJvQ",
+   "alias": "libellule-et-coccinelle-paris",
+   "name": "Libellule \u0026 Coccinelle",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/libellule-et-coccinelle-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.34555,
+    "Latitude": 48.87979
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2 rue Turgot",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 rue Turgot",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33953110161",
+   "display_phone": "+33 9 53 11 01 61",
+   "distance": 2624.0815210824817
+  },
+  {
+   "id": "gm_DhYrczpbOdPHPRH29tQ",
+   "alias": "magdalenart-paris",
+   "name": "Magdalenart",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4PDx3PhDxbWAeBtrSTuCHg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/magdalenart-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3858897,
+    "Latitude": 48.8562046
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "53 rue Leon Frot",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "53 rue Leon Frot",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33637230212",
+   "display_phone": "+33 6 37 23 02 12",
+   "distance": 2465.1456834939795
+  },
+  {
+   "id": "AiWuP8jsTwyRyAl_desYsQ",
+   "alias": "centre-d-animation-daviel-paris",
+   "name": "Centre d'Animation Daviel",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/centre-d-animation-daviel-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "dance_schools",
+     "title": "Dance Schools"
+    },
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    },
+    {
+     "alias": "culturalcenter",
+     "title": "Cultural Center"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.345052,
+    "Latitude": 48.828014
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "24 Rue Daviel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "24 Rue Daviel",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145890599",
+   "display_phone": "+33 1 45 89 05 99",
+   "distance": 3221.3696931509203
+  },
+  {
+   "id": "wtb51LGnKhWO3Z646NbokA",
+   "alias": "espace-ma-paris",
+   "name": "Espace MA",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-Mfhy3HawkpD3pHM-x_Maw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/espace-ma-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.40477962577762,
+    "Latitude": 48.872171031998
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "120 avenue Gambetta",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "120 avenue Gambetta",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142211435",
+   "display_phone": "+33 1 42 21 14 35",
+   "distance": 4217.886370194445
+  },
+  {
+   "id": "bdDvsvxB5HSO0NTvQVIxww",
+   "alias": "de-la-terre-à-l-objet-paris",
+   "name": "De la Terre à l'Objet",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xpQNPgKzTv2l7-Gdm04Dww/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/de-la-terre-%C3%A0-l-objet-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.3462166,
+    "Latitude": 48.8909452
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8 rue Eugène Süe",
+    "address2": "Montmartre",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75018",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "8 rue Eugène Süe",
+     "Montmartre",
+     "75018 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33663487981",
+   "display_phone": "+33 6 63 48 79 81",
+   "distance": 3843.9967183802523
+  },
+  {
+   "id": "u20js0ncr-Lb9tv5USC6Vw",
+   "alias": "l-article-paris-2",
+   "name": "L'Article",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rd1D0NvjmVTfXba3Cu6LUg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/l-article-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.35801,
+    "Latitude": 48.866509
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6 rue de Paradis",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "6 rue de Paradis",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142783864",
+   "display_phone": "+33 1 42 78 38 64",
+   "distance": 1180.9608419624915
+  },
+  {
+   "id": "Z0K58UeAtNaD5OwbonESiw",
+   "alias": "l-atelier-geneviève-paris-2",
+   "name": "L'Atelier Geneviève",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OXhge6EwKB2-CTsegBReOw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/l-atelier-genevi%C3%A8ve-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    },
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.38159,
+    "Latitude": 48.85082
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6 rue Saint-Bernard",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "6 rue Saint-Bernard",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33987792827",
+   "display_phone": "+33 9 87 79 28 27",
+   "distance": 2248.2775508068003
+  },
+  {
+   "id": "kWD6wjsmiM0Y7xogL1sN6w",
+   "alias": "cestouvertledimanche-paris",
+   "name": "Cestouvertledimanche",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cestouvertledimanche-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "language_schools",
+     "title": "Language Schools"
+    },
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.363189,
+    "Latitude": 48.865302
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7 Rue Charles François Dupuis",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "7 Rue Charles François Dupuis",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144860424",
+   "display_phone": "+33 1 44 86 04 24",
+   "distance": 1257.981520371055
+  },
+  {
+   "id": "dL6_as9hZWtYo_RqLpBbkQ",
+   "alias": "la-petite-académie-paris-4",
+   "name": "La Petite Académie",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SLG9FyZp_LHJdInuo8q7lw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-petite-acad%C3%A9mie-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.342024,
+    "Latitude": 48.854863
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "43 Quai Des grands augustins",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "43 Quai Des grands augustins",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33698899004",
+   "display_phone": "+33 6 98 89 90 04",
+   "distance": 769.1368879899226
+  },
+  {
+   "id": "HwA7sSblv6M0JgTiDfRRfg",
+   "alias": "le-studio-théâtre-d-asnières-asnières-sur-seine",
+   "name": "Le Studio-Théâtre d'Asnières",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-studio-th%C3%A9%C3%A2tre-d-asni%C3%A8res-asni%C3%A8res-sur-seine?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    },
+    {
+     "alias": "culturalcenter",
+     "title": "Cultural Center"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.2893046,
+    "Latitude": 48.9114063
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3 Rue Edmond Fantin",
+    "address2": "",
+    "address3": "",
+    "city": "Asnières-Sur-Seine",
+    "zip_code": "92600",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "3 Rue Edmond Fantin",
+     "92600 Asnières-Sur-Seine",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147909533",
+   "display_phone": "+33 1 47 90 95 33",
+   "distance": 7634.724408226569
+  }
+ ],
+ "total": 15,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

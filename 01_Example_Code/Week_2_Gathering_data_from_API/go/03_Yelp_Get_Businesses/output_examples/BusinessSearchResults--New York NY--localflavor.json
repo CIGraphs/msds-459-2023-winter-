@@ -1,0 +1,1667 @@
+{
+ "businesses": [
+  {
+   "id": "DCRJ8UBoRq8_8tDkTgqb3w",
+   "alias": "new-york-city-new-york-14",
+   "name": "New York City",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DZIYPwQE8zCCf_T3LlGrCg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/new-york-city-new-york-14?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 231,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.92118,
+    "Latitude": 40.79544
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10035",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "New York, NY 10035"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 11213.860736251634
+  },
+  {
+   "id": "lZaYRD5z1t9Fp_zAdbMl4A",
+   "alias": "macys-thanksgiving-day-parade-new-york-3",
+   "name": "Macy's Thanksgiving Day Parade",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Y1-PzossYqaG-ijjb-urag/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/macys-thanksgiving-day-parade-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 138,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    },
+    {
+     "alias": "festivals",
+     "title": "Festivals"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9809780718703,
+    "Latitude": 40.7642429872027
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Central Park West \u0026 77th Street",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10023",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Central Park West \u0026 77th Street",
+     "New York, NY 10023"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 6096.299940992556
+  },
+  {
+   "id": "shJoVEcpbABowY6EIkscHw",
+   "alias": "chinatown-new-york-4",
+   "name": "Chinatown",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Vkmp6lFBRKrkz6Zt2Xu4YA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chinatown-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 122,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.99774,
+    "Latitude": 40.71578
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7 Elizabeth St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10013",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "7 Elizabeth St",
+     "New York, NY 10013"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 772.4270782602805
+  },
+  {
+   "id": "5vVD0YxnyJjg-CXUbNGLQA",
+   "alias": "dumbo-brooklyn",
+   "name": "Dumbo",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ScAm65MW6xqzHovrdvdNXQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dumbo-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 112,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9895866404601,
+    "Latitude": 40.7032167814868
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Brooklyn, NY 11201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1746.2977233507572
+  },
+  {
+   "id": "VDr22XiNHjSWA_JpuIUl3Q",
+   "alias": "elite-week-7th-street-burger-turtle-bay-new-york",
+   "name": "Elite Week: 7th Street Burger - Turtle Bay",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YxyZoin1rMvW1K4iWvYHXA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/elite-week-7th-street-burger-turtle-bay-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 102,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.968605,
+    "Latitude": 40.753967
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "304 E 49th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10017",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "304 E 49th St",
+     "New York, NY 10017"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 5552.259772804341
+  },
+  {
+   "id": "Pdw-vrKn2OAtBldM-zA4vA",
+   "alias": "the-cube-astor-place-new-york",
+   "name": "The Cube @ Astor Place",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oupuYfeSV8iGySiY9MGOVQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-cube-astor-place-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 100,
+   "categories": [
+    {
+     "alias": "publicart",
+     "title": "Public Art"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.991378,
+    "Latitude": 40.729909
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Cooper Sq At Lafayette St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10079",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Cooper Sq At Lafayette St",
+     "New York, NY 10079"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2266.6456384969733
+  },
+  {
+   "id": "Ik4uE8RQJihiogbsM66kDQ",
+   "alias": "borough-of-manhattan-new-york",
+   "name": "Borough of Manhattan",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HkFcXcZLWW-gc9rv62MM9g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/borough-of-manhattan-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 97,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9646558091044,
+    "Latitude": 40.7832598885492
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 8574.015692059791
+  },
+  {
+   "id": "xq7dB3HhYFwkGIIT451A8w",
+   "alias": "borough-of-brooklyn-brooklyn-3",
+   "name": "Borough of Brooklyn",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/u4uwRMPBE-Z5HPJ-yN6ODQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/borough-of-brooklyn-brooklyn-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 90,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.93568,
+    "Latitude": 40.66979
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11213",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Brooklyn, NY 11213"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 7235.399358153868
+  },
+  {
+   "id": "0786OmL8aUi9AANE5Jb45Q",
+   "alias": "soho-new-york",
+   "name": "SoHo",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2pIKretSkRJf_NpLLzmDlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/soho-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 83,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9994112137695,
+    "Latitude": 40.7209000808398
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "New York, NY 10012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1058.1081505815098
+  },
+  {
+   "id": "4ccWWNAXWq-BESeZwZVV6A",
+   "alias": "arts-and-crafts-beer-parlor-morningside-heights-new-york-2",
+   "name": "Arts and Crafts Beer Parlor - Morningside Heights",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bbknMPNIqZ81smtukbmixQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/arts-and-crafts-beer-parlor-morningside-heights-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 76,
+   "categories": [
+    {
+     "alias": "beerbar",
+     "title": "Beer Bar"
+    },
+    {
+     "alias": "pubs",
+     "title": "Pubs"
+    },
+    {
+     "alias": "publicart",
+     "title": "Public Art"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9610353,
+    "Latitude": 40.8065912
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1135 Amsterdam Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10025",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1135 Amsterdam Ave",
+     "New York, NY 10025"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19176756835",
+   "display_phone": "(917) 675-6835",
+   "distance": 11093.863503054034
+  },
+  {
+   "id": "kuRhkjcobHkHIWQkFaS1bA",
+   "alias": "wall-street-new-york",
+   "name": "Wall Street",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/viG7lu8Z-Y62e1LcMjWtZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wall-street-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 59,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.00652,
+    "Latitude": 40.70478
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "110 Wall St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10005",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "110 Wall St",
+     "New York, NY 10005"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122699779",
+   "display_phone": "(212) 269-9779",
+   "distance": 892.813311914587
+  },
+  {
+   "id": "pWrkRWlLktbJUw0NZWBaKQ",
+   "alias": "borough-of-queens-queens",
+   "name": "Borough of Queens",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/foPky_Hnr6_6uMzYe9eJWg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/borough-of-queens-queens?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 57,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.82599,
+    "Latitude": 40.76634
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Queens",
+    "zip_code": "11354",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Queens, NY 11354"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 16346.83540120075
+  },
+  {
+   "id": "ejZIfjg-rh-uwzEYy5BzMA",
+   "alias": "queens-midtown-tunnel-long-island-city",
+   "name": "Queens Midtown Tunnel",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/d9xYNHABjWMiGPxWI_KUsw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/queens-midtown-tunnel-long-island-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 52,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9615564781403,
+    "Latitude": 40.7435166227966
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Long Island City",
+    "zip_code": "11101",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Long Island City, NY 11101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183617752",
+   "display_phone": "(718) 361-7752",
+   "distance": 5068.638381719987
+  },
+  {
+   "id": "rRSTTIyI5Dv1m6x8_O5E4w",
+   "alias": "the-new-york-city-waterfalls-new-york",
+   "name": "The New York City Waterfalls",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FBUPfuEON2WmV7uUidUZoQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-new-york-city-waterfalls-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 48,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.9994462572755,
+    "Latitude": 40.7078803474949
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "East River",
+    "address2": "",
+    "address3": "Between Brooklyn and Manhattan",
+    "city": "New York",
+    "zip_code": "10079",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "East River",
+     "Between Brooklyn and Manhattan",
+     "New York, NY 10079"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 777.429621839217
+  },
+  {
+   "id": "gDO2iCDhsz4I-hwNEef2bQ",
+   "alias": "staten-island-staten-island-6",
+   "name": "Staten Island",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a8UMOOeePuLMkR11aJS-8g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/staten-island-staten-island-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 46,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.1652603149414,
+    "Latitude": 40.5965347290039
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Staten Island",
+    "zip_code": "10314",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Staten Island, NY 10314"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 19828.68898733581
+  },
+  {
+   "id": "xoiOXTbqQqrveY8DTIpZDw",
+   "alias": "bushwick-collective-brooklyn-2",
+   "name": "Bushwick Collective",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/REj_172KwIVx3Yys0Vm6fw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bushwick-collective-brooklyn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 45,
+   "categories": [
+    {
+     "alias": "publicart",
+     "title": "Public Art"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.9218072,
+    "Latitude": 40.7076298
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Troutman St At Saint Nicholas Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11237",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Troutman St At Saint Nicholas Ave",
+     "Brooklyn, NY 11237"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 7119.663618014265
+  },
+  {
+   "id": "B2KgMK8qTeh5RktGGaP8Nw",
+   "alias": "williamsburg-brooklyn-2",
+   "name": "Williamsburg",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/z1HUd7o7szkoOhWdyBLSRg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/williamsburg-brooklyn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.95687,
+    "Latitude": 40.71031
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11211",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Brooklyn, NY 11211"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 4185.305938194785
+  },
+  {
+   "id": "kBmv6y4h-wlkoBMsNdR7tg",
+   "alias": "elite-event-holiday-bash-burlesque-and-cocktails-at-sleepwalk-brooklyn",
+   "name": "Elite Event: Holiday bash, burlesque, \u0026 cocktails at Sleepwalk",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5DBXRUCFxhBTdSGQwfVulw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/elite-event-holiday-bash-burlesque-and-cocktails-at-sleepwalk-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.939595,
+    "Latitude": 40.707337
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "251 Bushwick Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11206",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "251 Bushwick Ave",
+     "Brooklyn, NY 11206"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 5634.318071930008
+  },
+  {
+   "id": "6MPqSPIIOCUEce5dfGJ1ng",
+   "alias": "elite-week-jongro-rice-hot-dogs-and-croffles-at-afternoon-brooklyn",
+   "name": "Elite Week: Jongro rice hot dogs \u0026 croffles at Afternoon",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Z38C4dyKVh90RvvQrNqwBA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/elite-week-jongro-rice-hot-dogs-and-croffles-at-afternoon-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 43,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.958482,
+    "Latitude": 40.718162
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "148 N 7th St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11249",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "148 N 7th St",
+     "Brooklyn, NY 11249"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 4043.3856637548693
+  },
+  {
+   "id": "ZkfWSL28146-RqWi_RZC0A",
+   "alias": "the-nautical-mile-freeport-2",
+   "name": "The Nautical Mile",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PEufZjJfEiElEqJdV3G_Hg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-nautical-mile-freeport-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 39,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.5819243639708,
+    "Latitude": 40.6344810564957
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Woodcleft Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Freeport",
+    "zip_code": "11520",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Woodcleft Ave",
+     "Freeport, NY 11520"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 36808.957878983645
+  },
+  {
+   "id": "pSSMXoesviFrCyHmYVh0Rw",
+   "alias": "elite-event-fluffwich-party-at-the-social-brooklyn",
+   "name": "Elite Event: Fluffwich Party at the Social",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xbII9WVLOmjY1GiOBV6UAQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/elite-event-fluffwich-party-at-the-social-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 35,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.96323,
+    "Latitude": 40.67346
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "816 Washington Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11238",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "816 Washington Ave",
+     "Brooklyn, NY 11238"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 5672.671148500744
+  },
+  {
+   "id": "tQ25lEIe4VuNybmduImUhQ",
+   "alias": "the-christmas-house-of-the-garabedian-family-bronx",
+   "name": "The Christmas House of the Garabedian Family",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iZ3xDeKZr7wZFSEXzs2TLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-christmas-house-of-the-garabedian-family-bronx?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 34,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.839828,
+    "Latitude": 40.857971
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1605 Pelham Pkwy N",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10469",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1605 Pelham Pkwy N",
+     "Bronx, NY 10469"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 21362.346241545005
+  },
+  {
+   "id": "Bfognz-zWJNF-QXcpj7X-w",
+   "alias": "pulaski-bridge-brooklyn",
+   "name": "Pulaski Bridge",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0qMGrbvIXD3dQjLjv4X7lQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pulaski-bridge-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 34,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    },
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9526944211792,
+    "Latitude": 40.7392941715017
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11222",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Brooklyn, NY 11222"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 5371.822237929933
+  },
+  {
+   "id": "3pNeEGjtjlvq4w-5dDMSDg",
+   "alias": "times-square-42-street-new-york",
+   "name": "Times Square 42 Street",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2NA-Gcq1EeHMsJuXi1pEdQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/times-square-42-street-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 34,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.986342,
+    "Latitude": 40.755618
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "42nd Street",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10035",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "42nd Street",
+     "New York, NY 10035"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 5041.019089951133
+  },
+  {
+   "id": "9e0jNTPMR-uQxqS1lNxYrA",
+   "alias": "exchange-place-jersey-city",
+   "name": "Exchange Place",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/j_t2vQgB8M-X8uSuYILDEg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/exchange-place-jersey-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 34,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.0333,
+    "Latitude": 40.71666
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10 Exchange Pl",
+    "address2": "",
+    "address3": "",
+    "city": "Jersey City",
+    "zip_code": "07302",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "10 Exchange Pl",
+     "Jersey City, NJ 07302"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12014519808",
+   "display_phone": "(201) 451-9808",
+   "distance": 2354.787804898499
+  },
+  {
+   "id": "vaxpqCaeVVQ_9XZJfGMCew",
+   "alias": "elite-experience-tinys-cantina-brooklyn",
+   "name": "Elite Experience: Tiny's Cantina",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cft_iWGHsYUAGplBr8PZiQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/elite-experience-tinys-cantina-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 30,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.97521,
+    "Latitude": 40.68127
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "229 Flatbush Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11217",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "229 Flatbush Ave",
+     "Brooklyn, NY 11217"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 4363.319879331344
+  },
+  {
+   "id": "90a5lA9haccgZadTR33gmQ",
+   "alias": "elite-experience-monets-garden-the-immersive-experience-new-york",
+   "name": "Elite Experience: Monet's Garden - The Immersive Experience",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VedP7ZzEXgDZM3hKIz_9pw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/elite-experience-monets-garden-the-immersive-experience-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 30,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.01021,
+    "Latitude": 40.70696
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "30 Wall St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10005",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "30 Wall St",
+     "New York, NY 10005"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 741.7630550663046
+  },
+  {
+   "id": "QvRCsInShtwCAaHPXswiHw",
+   "alias": "citrovia-new-york",
+   "name": "Citrovia",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AZ8h509KnbXx44ivJgF3vw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/citrovia-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 29,
+   "categories": [
+    {
+     "alias": "publicart",
+     "title": "Public Art"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9978411206298,
+    "Latitude": 40.752230923093094
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "401-397 9th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "401-397 9th Ave",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 4438.081279232786
+  },
+  {
+   "id": "Ok_4U6YHQqnA2p8u37QYMg",
+   "alias": "lower-east-side-new-york-2",
+   "name": "Lower East Side",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/msERnxwTFgZhdZNFwoVEzg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lower-east-side-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 28,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9868927001953,
+    "Latitude": 40.7156791687012
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "New York, NY 10002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1692.4588007139814
+  },
+  {
+   "id": "hQj09jM3k9ZHF-Pfl6jRPg",
+   "alias": "the-naked-cowboy-new-york-2",
+   "name": "The Naked Cowboy",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Gi9UmBlhrZiRMNrwznxBWA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-naked-cowboy-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 27,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.006492,
+    "Latitude": 40.733817
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Times Square",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10079",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Times Square",
+     "New York, NY 10079"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2337.3489443689423
+  },
+  {
+   "id": "S-5OP0joLS9HH5SvY0RQjA",
+   "alias": "yelp-elite-experience-drive-thru-adventure-nassau-museum-of-a-roslyn",
+   "name": "Yelp Elite Experience: Drive-Thru Adventure @ Nassau Museum of A",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OB2gsXRl7DGQMJtHyDtoQw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/yelp-elite-experience-drive-thru-adventure-nassau-museum-of-a-roslyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 25,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.64283,
+    "Latitude": 40.809658
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 Museum Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Roslyn",
+    "zip_code": "11576",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1 Museum Dr",
+     "Roslyn, NY 11576"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 32459.985395909818
+  },
+  {
+   "id": "DljEWeF_gztISnZu6_dp6g",
+   "alias": "friends-apartment-new-york",
+   "name": "Friends Apartment",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iGH5yCHNzz7PerW35SZ13g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/friends-apartment-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.00523,
+    "Latitude": 40.73229
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "90 Bedford St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "90 Bedford St",
+     "New York, NY 10014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2174.3236863103566
+  },
+  {
+   "id": "GSIGQHgs5b8oYv2qPCz5GQ",
+   "alias": "national-grid-brooklyn",
+   "name": "National Grid",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/national-grid-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 23,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -73.92825,
+    "Latitude": 40.6196
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1686 E 49th St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11234",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1686 E 49th St",
+     "Brooklyn, NY 11234"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182521199",
+   "display_phone": "(718) 252-1199",
+   "distance": 12266.25210416848
+  },
+  {
+   "id": "PsKB0seSKxWfIcL3dWKR0Q",
+   "alias": "food-network-and-cooking-channel-nyc-wine-and-food-festival-manhattan",
+   "name": "Food Network \u0026 Cooking Channel NYC Wine \u0026 Food Festival",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/r-EE9bXeW78yjzbkzhpZDA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/food-network-and-cooking-channel-nyc-wine-and-food-festival-manhattan?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 23,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    },
+    {
+     "alias": "festivals",
+     "title": "Festivals"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.992067,
+    "Latitude": 40.739609
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9 W 19th St",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "Manhattan",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "9 W 19th St",
+     "Fl 2",
+     "Manhattan, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 3203.9031262427166
+  },
+  {
+   "id": "7lnh-XO8ov_T9AkeAjznXg",
+   "alias": "bushwick-brooklyn-3",
+   "name": "Bushwick",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8RlNTiiM6ipy4G8DWGZxrg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bushwick-brooklyn-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 22,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9197941724951,
+    "Latitude": 40.6953866108613
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11237",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Brooklyn, NY 11237"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 7520.300190784689
+  },
+  {
+   "id": "MFGQRrYZbY48jmPH14Arow",
+   "alias": "coney-art-walls-brooklyn",
+   "name": "Coney Art Walls",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Mza1DlkmAJTZQqzHiVQZPQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/coney-art-walls-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 21,
+   "categories": [
+    {
+     "alias": "publicart",
+     "title": "Public Art"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9810203,
+    "Latitude": 40.5741187
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3050 Stillwell Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11224",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "3050 Stillwell Ave",
+     "Brooklyn, NY 11224"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125295055",
+   "display_phone": "(212) 529-5055",
+   "distance": 15563.998939939334
+  },
+  {
+   "id": "7TXtitcYpj2KuGf9WCAEQQ",
+   "alias": "elite-event-say-yes-to-oceanside-brunch-club-oceanside",
+   "name": "Elite Event: Say YES to Oceanside Brunch Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zrC2Yd2Y9Cf1tYWUV46TKg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/elite-event-say-yes-to-oceanside-brunch-club-oceanside?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.65185,
+    "Latitude": 40.62561
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3468 Lawson Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Oceanside",
+    "zip_code": "11572",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "3468 Lawson Blvd",
+     "Oceanside, NY 11572"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 31411.835557200826
+  },
+  {
+   "id": "HUJ07vVTRN8mn4qyz5IMpQ",
+   "alias": "battery-park-city-new-york-4",
+   "name": "Battery Park City",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Wczs1HjewFvp_INYWyoU4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/battery-park-city-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.0152340252399,
+    "Latitude": 40.711275785431
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 World Financial Ctr",
+    "address2": "Fl 24",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10281",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1 World Financial Ctr",
+     "Fl 24",
+     "New York, NY 10281"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124172000",
+   "display_phone": "(212) 417-2000",
+   "distance": 782.4166759570884
+  },
+  {
+   "id": "jssCWK4cBYVhZ6_GPXLe7g",
+   "alias": "elite-experience-lokal-coffee-and-co-woodbridge-township",
+   "name": "Elite Experience @ Lokal Coffee \u0026 Co.",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/H9GpxGdPwyXq-MPFY1ww3g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/elite-experience-lokal-coffee-and-co-woodbridge-township?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 19,
+   "categories": [
+    {
+     "alias": "yelpevents",
+     "title": "Yelp Events"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.317454,
+    "Latitude": 40.556631
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3 Ronson Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Woodbridge Township",
+    "zip_code": "08830",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "3 Ronson Rd",
+     "Woodbridge Township, NJ 08830"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 31490.107107853884
+  },
+  {
+   "id": "n0j5g2MjpNr0kHX24k2vBA",
+   "alias": "the-bronx-bronx-2",
+   "name": "The Bronx",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RvOYkD5Can640jdn4G6XLw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-bronx-bronx-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 17,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.8241333539673,
+    "Latitude": 40.8261536522321
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10465",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "Bronx, NY 10465"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 19835.131787170558
+  }
+ ],
+ "total": 293,
+ "region": {
+  "center": {
+   "longitude": -74.006,
+   "Latitude": 40.7128
+  }
+ }
+}

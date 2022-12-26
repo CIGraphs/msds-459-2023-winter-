@@ -1,0 +1,1788 @@
+{
+ "businesses": [
+  {
+   "id": "McKVerkBb1q37_xd8j7RXg",
+   "alias": "zipcar-new-york",
+   "name": "Zipcar",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/v34157xNvjfoCo_2MSAThg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zipcar-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1188,
+   "categories": [
+    {
+     "alias": "carrental",
+     "title": "Car Rental"
+    },
+    {
+     "alias": "carshares",
+     "title": "Car Share Services"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.9925918579102,
+    "Latitude": 40.7492790222168
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 4582.589830470435
+  },
+  {
+   "id": "spQMbvAokpUrgrDCSfYSgw",
+   "alias": "citi-field-corona-3",
+   "name": "Citi Field",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lZYRRhokhTAvoj4LOyw-jg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/citi-field-corona-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1120,
+   "categories": [
+    {
+     "alias": "stadiumsarenas",
+     "title": "Stadiums \u0026 Arenas"
+    },
+    {
+     "alias": "baseballfields",
+     "title": "Baseball Fields"
+    },
+    {
+     "alias": "parking",
+     "title": "Parking"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.84582197651841,
+    "Latitude": 40.757087635052315
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "123-01 Roosevelt Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Corona",
+    "zip_code": "11368",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "123-01 Roosevelt Ave",
+     "Corona, NY 11368"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18668001275",
+   "display_phone": "(866) 800-1275",
+   "distance": 14366.406701722519
+  },
+  {
+   "id": "Oq2kU6KbWhvg39s0dMWyyg",
+   "alias": "vroom-new-york-4",
+   "name": "Vroom",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tXjseP2efOZnQ1oOKwnjcw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vroom-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 990,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.9905319213867,
+    "Latitude": 40.7533493041992
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "New York, NY 10018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18554581826",
+   "display_phone": "(855) 458-1826",
+   "distance": 4848.038216821918
+  },
+  {
+   "id": "enbm6JtcqAlpm-35qHzBVQ",
+   "alias": "paragon-honda-woodside-4",
+   "name": "Paragon Honda",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C0_1avPNR6K_lubaGExDFg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paragon-honda-woodside-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 903,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "usedcardealers",
+     "title": "Used Car Dealers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.9035592244265,
+    "Latitude": 40.7534407324039
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "57-02 Northern Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Woodside",
+    "zip_code": "11377",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "57-02 Northern Blvd",
+     "Woodside, NY 11377"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17185506021",
+   "display_phone": "(718) 550-6021",
+   "distance": 9742.940255730082
+  },
+  {
+   "id": "fesUBkFUXHhZXBdFNV5mLQ",
+   "alias": "ultimate-transport-123-baldwin-2",
+   "name": "Ultimate Transport 123",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n-NPdNFij64Bm_mfMUFsoQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ultimate-transport-123-baldwin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 732,
+   "categories": [
+    {
+     "alias": "vehicleshipping",
+     "title": "Vehicle Shipping"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.610667,
+    "Latitude": 40.670504
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1614 Grand Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Baldwin",
+    "zip_code": "11510",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1614 Grand Ave",
+     "Baldwin, NY 11510"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18888859123",
+   "display_phone": "(888) 885-9123",
+   "distance": 33660.66308266072
+  },
+  {
+   "id": "8tY2YtXPk1rGO7sl43LH8A",
+   "alias": "repairs-on-wheels-brooklyn-4",
+   "name": "Repairs On Wheels",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5D5-3yScRU3hGTkATmrk6g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/repairs-on-wheels-brooklyn-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 570,
+   "categories": [
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    },
+    {
+     "alias": "wheelrimrepair",
+     "title": "Wheel \u0026 Rim Repair"
+    },
+    {
+     "alias": "bodyshops",
+     "title": "Body Shops"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.97747991984407,
+    "Latitude": 40.63372181083262
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "833 McDonald Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11218",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "833 McDonald Ave",
+     "Brooklyn, NY 11218"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188710797",
+   "display_phone": "(718) 871-0797",
+   "distance": 9116.107912500645
+  },
+  {
+   "id": "kpiT5VGUa6UM5VOIQsetxw",
+   "alias": "planet-honda-union",
+   "name": "Planet Honda",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BBLbyi-wAWCUMSjdFMNtBw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/planet-honda-union?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 536,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    },
+    {
+     "alias": "autopartssupplies",
+     "title": "Auto Parts \u0026 Supplies"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.29083018634137,
+    "Latitude": 40.69156802140142
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2285 Route 22 W",
+    "address2": "",
+    "address3": "",
+    "city": "Union",
+    "zip_code": "07083",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "2285 Route 22 W",
+     "Union, NJ 07083"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19089641600",
+   "display_phone": "(908) 964-1600",
+   "distance": 24126.34711080253
+  },
+  {
+   "id": "PMKxevmFtymUloTrubirYA",
+   "alias": "chrysler-dodge-jeep-of-paramus-paramus",
+   "name": "Chrysler Dodge Jeep of Paramus",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GI409g30iB__5jHFeeH7LQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chrysler-dodge-jeep-of-paramus-paramus?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 520,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.044467,
+    "Latitude": 40.913436
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "315 Route 4 W",
+    "address2": "",
+    "address3": "",
+    "city": "Paramus",
+    "zip_code": "07652",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "315 Route 4 W",
+     "Paramus, NJ 07652"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12014883322",
+   "display_phone": "(201) 488-3322",
+   "distance": 22543.331186943215
+  },
+  {
+   "id": "PKH-U9wuj07PYWYJ05NTBQ",
+   "alias": "route-46-nissan-totowa",
+   "name": "Route 46 Nissan",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6xGZYjHC1UwTh7qcVXBy2w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/route-46-nissan-totowa?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 508,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.23278624624159,
+    "Latitude": 40.893786118932475
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "440 Rte 46",
+    "address2": "",
+    "address3": "",
+    "city": "Totowa",
+    "zip_code": "07512",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "440 Rte 46",
+     "Totowa, NJ 07512"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19733397048",
+   "display_phone": "(973) 339-7048",
+   "distance": 27737.61605377388
+  },
+  {
+   "id": "6WKAZJngj7R9jGjdnqpNvA",
+   "alias": "newark-airport-long-term-parking-newark-2",
+   "name": "Newark Airport Long Term Parking",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SMt8VH1zegtcfH0zbNob2g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/newark-airport-long-term-parking-newark-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 489,
+   "categories": [
+    {
+     "alias": "parking",
+     "title": "Parking"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.1931,
+    "Latitude": 40.70601
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "422 Frelinghuysen Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Newark",
+    "zip_code": "07114",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "422 Frelinghuysen Ave",
+     "Newark, NJ 07114"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19734669100",
+   "display_phone": "(973) 466-9100",
+   "distance": 15778.942874979439
+  },
+  {
+   "id": "gyWjTG1NySIO0TwZvhDsig",
+   "alias": "route-46-chrysler-jeep-dodge-sales-little-falls",
+   "name": "Route 46 Chrysler Jeep Dodge - Sales",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iINuc55LDB8ZYPF1IS3UzQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/route-46-chrysler-jeep-dodge-sales-little-falls?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 486,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -74.2162038,
+    "Latitude": 40.8850897574555
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1655 Rte 46",
+    "address2": "",
+    "address3": "",
+    "city": "Little Falls",
+    "zip_code": "07424",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "1655 Rte 46",
+     "Little Falls, NJ 07424"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19733397752",
+   "display_phone": "(973) 339-7752",
+   "distance": 26078.606208926096
+  },
+  {
+   "id": "lbgukrCF5ICgmr7LjxOWLA",
+   "alias": "e-z-way-parking-elizabeth",
+   "name": "E-Z Way Parking",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/haB1A-m6oEJx5RDu8XvMag/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/e-z-way-parking-elizabeth?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 472,
+   "categories": [
+    {
+     "alias": "parking",
+     "title": "Parking"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.1933244768907,
+    "Latitude": 40.6784200631366
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "901 Spring St",
+    "address2": "",
+    "address3": "",
+    "city": "Elizabeth",
+    "zip_code": "07201",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "901 Spring St",
+     "Elizabeth, NJ 07201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19732004104",
+   "display_phone": "(973) 200-4104",
+   "distance": 16248.711591044163
+  },
+  {
+   "id": "pA3nX_4j29z7WM5_dfY1bA",
+   "alias": "metro-honda-jersey-city",
+   "name": "Metro Honda",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hNGOi4RQOiM6tb6TMRIf3g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/metro-honda-jersey-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 466,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    },
+    {
+     "alias": "usedcardealers",
+     "title": "Used Car Dealers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.09559,
+    "Latitude": 40.71475
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "540 Rte 440 N",
+    "address2": "",
+    "address3": "",
+    "city": "Jersey City",
+    "zip_code": "07305",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "540 Rte 440 N",
+     "Jersey City, NJ 07305"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12014517111",
+   "display_phone": "(201) 451-7111",
+   "distance": 7562.492783915944
+  },
+  {
+   "id": "iwYpL8Uz-b8m4nVGv4MJvg",
+   "alias": "bayside-chrysler-jeep-dodge-bayside",
+   "name": "Bayside Chrysler Jeep Dodge",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-S7Pd71mbfeeWDwW7iKhNQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bayside-chrysler-jeep-dodge-bayside?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 453,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.7707481,
+    "Latitude": 40.7600812
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "21219 Northern Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Bayside",
+    "zip_code": "11361",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "21219 Northern Blvd",
+     "Bayside, NY 11361"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182298700",
+   "display_phone": "(718) 229-8700",
+   "distance": 20506.41713343887
+  },
+  {
+   "id": "13SnZKvfZFFIf2mf956rlA",
+   "alias": "major-world-long-island-city-3",
+   "name": "Major World",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/O5Rq33OT_i83dOhRafEdSg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/major-world-long-island-city-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 439,
+   "categories": [
+    {
+     "alias": "autopartssupplies",
+     "title": "Auto Parts \u0026 Supplies"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    },
+    {
+     "alias": "usedcardealers",
+     "title": "Used Car Dealers"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.9183501693115,
+    "Latitude": 40.753059989672
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "43-40 Northern Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Long Island City",
+    "zip_code": "11101",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "43-40 Northern Blvd",
+     "Long Island City, NY 11101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18666142884",
+   "display_phone": "(866) 614-2884",
+   "distance": 8636.156262049355
+  },
+  {
+   "id": "3AcEj2jtaBMuFCbkJEs_iw",
+   "alias": "toyota-universe-little-falls",
+   "name": "Toyota Universe",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/41nuqDiNa9302gDMjWG-1w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/toyota-universe-little-falls?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 427,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autopartssupplies",
+     "title": "Auto Parts \u0026 Supplies"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.2133942981476,
+    "Latitude": 40.8838591998377
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1485 Rt 46 E",
+    "address2": "",
+    "address3": "",
+    "city": "Little Falls",
+    "zip_code": "07424",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "1485 Rt 46 E",
+     "Little Falls, NJ 07424"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19737854710",
+   "display_phone": "(973) 785-4710",
+   "distance": 25817.8691723921
+  },
+  {
+   "id": "S5PYbAxiVQmG2Z3PqPK47A",
+   "alias": "21st-century-auto-group-springfield",
+   "name": "21st Century Auto Group",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UA5uZRzxwWULPvmuh81Tkw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/21st-century-auto-group-springfield?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 422,
+   "categories": [
+    {
+     "alias": "usedcardealers",
+     "title": "Used Car Dealers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.3302586056815,
+    "Latitude": 40.684421847073
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "305 US Hwy 22 E",
+    "address2": "",
+    "address3": "",
+    "city": "Springfield",
+    "zip_code": "07081",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "305 US Hwy 22 E",
+     "Springfield, NJ 07081"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19083609944",
+   "display_phone": "(908) 360-9944",
+   "distance": 27517.273197366965
+  },
+  {
+   "id": "m4Z7ZueI7L9A4TDw-0wclQ",
+   "alias": "westbury-jeep-chrysler-dodge-ram-jericho",
+   "name": "Westbury Jeep Chrysler Dodge Ram",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-5UQLLjqpAEEv9g5DSVy0A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/westbury-jeep-chrysler-dodge-ram-jericho?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 412,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.5589309190105,
+    "Latitude": 40.7809936246007
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "100 Jericho Tpke",
+    "address2": "",
+    "address3": "",
+    "city": "Jericho",
+    "zip_code": "11753",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "100 Jericho Tpke",
+     "Jericho, NY 11753"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18772155815",
+   "display_phone": "(877) 215-5815",
+   "distance": 38417.3710987154
+  },
+  {
+   "id": "YHpQlCadsdJgagUs6P7zeg",
+   "alias": "bay-ridge-nissan-brooklyn-5",
+   "name": "Bay Ridge Nissan",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8VzMhdMbL9g6q5M66lwqMQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bay-ridge-nissan-brooklyn-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 406,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "usedcardealers",
+     "title": "Used Car Dealers"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.01856635410864,
+    "Latitude": 40.63587883030192
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6501 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11220",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "6501 5th Ave",
+     "Brooklyn, NY 11220"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18334521832",
+   "display_phone": "(833) 452-1832",
+   "distance": 8618.637160897786
+  },
+  {
+   "id": "IxQG1vO5cRFZCuF8sApS4Q",
+   "alias": "via-transportation-new-york",
+   "name": "Via Transportation",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kIuIu_TrsQL6BZR1lOG1nA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/via-transportation-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 400,
+   "categories": [
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    },
+    {
+     "alias": "limos",
+     "title": "Limos"
+    },
+    {
+     "alias": "carshares",
+     "title": "Car Share Services"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.99751,
+    "Latitude": 40.75072
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19172596392",
+   "display_phone": "(917) 259-6392",
+   "distance": 4582.589830470435
+  },
+  {
+   "id": "7z6QTlvDju2doIho_1w6xA",
+   "alias": "paragon-honda-service-center-woodside-2",
+   "name": "Paragon Honda Service Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PsWI440rsKVjbv4KgEESkw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paragon-honda-service-center-woodside-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 386,
+   "categories": [
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.90427,
+    "Latitude": 40.75672
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "57-06 31st Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Woodside",
+    "zip_code": "11377",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "57-06 31st Ave",
+     "Woodside, NY 11377"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18887110548",
+   "display_phone": "(888) 711-0548",
+   "distance": 9875.788496658884
+  },
+  {
+   "id": "GecvuIotMMqs2d_A2-Hu0w",
+   "alias": "dch-paramus-honda-paramus-8",
+   "name": "DCH Paramus Honda",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MaoiWiGRpr98Z0UGLdQ85w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dch-paramus-honda-paramus-8?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 381,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.083131161259,
+    "Latitude": 40.92262909502333
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "120 New Jersey 4",
+    "address2": "",
+    "address3": "",
+    "city": "Paramus",
+    "zip_code": "07652",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "120 New Jersey 4",
+     "Paramus, NJ 07652"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12014264676",
+   "display_phone": "(201) 426-4676",
+   "distance": 24217.902597001306
+  },
+  {
+   "id": "fEe0A3WfX1P_sgjaI-TXMg",
+   "alias": "millennium-honda-hempstead-2",
+   "name": "Millennium Honda",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p5lSLhZj-5ibhHkix79sQw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/millennium-honda-hempstead-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 379,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.62997,
+    "Latitude": 40.71603
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "286 N Franklin St",
+    "address2": "",
+    "address3": "",
+    "city": "Hempstead",
+    "zip_code": "11550",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "286 N Franklin St",
+     "Hempstead, NY 11550"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15164812800",
+   "display_phone": "(516) 481-2800",
+   "distance": 31694.20347581115
+  },
+  {
+   "id": "oZsvCczbWe97trqPPKcRYw",
+   "alias": "wayne-mazda-wayne",
+   "name": "Wayne Mazda",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4p6uHAdE--8zVQcouSbFrw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wayne-mazda-wayne?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 375,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.266404,
+    "Latitude": 40.926531
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1244 State Rt 23",
+    "address2": "",
+    "address3": "",
+    "city": "Wayne",
+    "zip_code": "07470",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "1244 State Rt 23",
+     "Wayne, NJ 07470"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19736947700",
+   "display_phone": "(973) 694-7700",
+   "distance": 32358.90991074797
+  },
+  {
+   "id": "V3YsEBFpu_2KPAMK8ku34A",
+   "alias": "paragon-acura-woodside",
+   "name": "Paragon Acura",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3DN6yOjFs_Ix2SJ7NmDywg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paragon-acura-woodside?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 370,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.90466,
+    "Latitude": 40.7532
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "56-02 Northern Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Woodside",
+    "zip_code": "11377",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "56-02 Northern Blvd",
+     "Woodside, NY 11377"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18442967333",
+   "display_phone": "(844) 296-7333",
+   "distance": 9637.060556085078
+  },
+  {
+   "id": "axQgwAv9e2QTZ42moXq3gQ",
+   "alias": "white-plains-honda-white-plains",
+   "name": "White Plains Honda",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gBVp5qImtUY6g-ZAMQrqHw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/white-plains-honda-white-plains?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 369,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.7852753,
+    "Latitude": 41.0335104
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "344 Central Ave",
+    "address2": "",
+    "address3": "",
+    "city": "White Plains",
+    "zip_code": "10606",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "344 Central Ave",
+     "White Plains, NY 10606"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18442966316",
+   "display_phone": "(844) 296-6316",
+   "distance": 40200.41603490903
+  },
+  {
+   "id": "V89n9f-8Rj1_ypagdYYNHw",
+   "alias": "2-hour-auto-glass-and-tinting-brooklyn",
+   "name": "2 Hour Auto Glass",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dr6brZ9qluqF3tey7E5Cxw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/2-hour-auto-glass-and-tinting-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 362,
+   "categories": [
+    {
+     "alias": "carwindowtinting",
+     "title": "Car Window Tinting"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.99601,
+    "Latitude": 40.66461
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "132 19th St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11232",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "132 19th St",
+     "Brooklyn, NY 11232"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17189655555",
+   "display_phone": "(718) 965-5555",
+   "distance": 5426.618069134791
+  },
+  {
+   "id": "Ykh22rqIE06HOS5lkPBhow",
+   "alias": "pep-boys-brooklyn-4",
+   "name": "Pep Boys",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VK5Fm5Xs01vWJj_P2PL-hg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pep-boys-brooklyn-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 357,
+   "categories": [
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    },
+    {
+     "alias": "tires",
+     "title": "Tires"
+    },
+    {
+     "alias": "oilchange",
+     "title": "Oil Change Stations"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.98704186081886,
+    "Latitude": 40.67388255075749
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "354 4th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11215",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "354 4th Ave",
+     "Brooklyn, NY 11215"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17185962833",
+   "display_phone": "(718) 596-2833",
+   "distance": 4613.159988042011
+  },
+  {
+   "id": "bJu2MuvIKBBUxauHtxmJ8w",
+   "alias": "east-hills-chrysler-jeep-dodge-ram-greenvale-4",
+   "name": "East Hills Chrysler Jeep Dodge Ram SRT",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/I2VotORkSYtZR8Cvh-5Wfw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/east-hills-chrysler-jeep-dodge-ram-greenvale-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 356,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autopartssupplies",
+     "title": "Auto Parts \u0026 Supplies"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.6333501,
+    "Latitude": 40.8072565
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2300 Northern Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Greenvale",
+    "zip_code": "11548",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2300 Northern Blvd",
+     "Greenvale, NY 11548"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18663862702",
+   "display_phone": "(866) 386-2702",
+   "distance": 33096.994899654776
+  },
+  {
+   "id": "uvZiaM8h-cF26PGYZx5YNw",
+   "alias": "edison-nissan-edison",
+   "name": "Edison Nissan",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/q3eLByh28xFAVwX_h8XkuQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/edison-nissan-edison?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 348,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autopartssupplies",
+     "title": "Auto Parts \u0026 Supplies"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.4011985,
+    "Latitude": 40.5036169
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "401 US Highway 1",
+    "address2": "",
+    "address3": "",
+    "city": "Edison",
+    "zip_code": "08817",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "401 US Highway 1",
+     "Edison, NJ 08817"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17328679926",
+   "display_phone": "(732) 867-9926",
+   "distance": 40679.60345378863
+  },
+  {
+   "id": "toil7NTdAY7ublw6J24liA",
+   "alias": "garden-city-jeep-chrysler-dodge-ram-hempstead-2",
+   "name": "Garden City Jeep Chrysler Dodge RAM",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9U14iDCUBz0kFv9pHXn3ig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/garden-city-jeep-chrysler-dodge-ram-hempstead-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 338,
+   "categories": [
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    },
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "usedcardealers",
+     "title": "Used Car Dealers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.63078,
+    "Latitude": 40.71603
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "283 N Franklin St",
+    "address2": "",
+    "address3": "",
+    "city": "Hempstead",
+    "zip_code": "11550",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "283 N Franklin St",
+     "Hempstead, NY 11550"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18778295131",
+   "display_phone": "(877) 829-5131",
+   "distance": 31583.518563702088
+  },
+  {
+   "id": "NKTBQ63ok8f5lacM9c4rUA",
+   "alias": "empire-honda-of-manhasset-manhasset",
+   "name": "Empire Honda of Manhasset",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cUkdfiucqWKaWd1X6avaYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/empire-honda-of-manhasset-manhasset?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 337,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    },
+    {
+     "alias": "autopartssupplies",
+     "title": "Auto Parts \u0026 Supplies"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.6995468,
+    "Latitude": 40.7920189
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1260 Northern Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Manhasset",
+    "zip_code": "11030",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1260 Northern Blvd",
+     "Manhasset, NY 11030"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15165436181",
+   "display_phone": "(516) 543-6181",
+   "distance": 27269.359018406303
+  },
+  {
+   "id": "qho8o2Nk5G0Q8ngTKe7I4Q",
+   "alias": "tri-county-lexus-little-falls",
+   "name": "Tri-County Lexus",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TW9SkIBv7QnYcsfU-9AS2g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tri-county-lexus-little-falls?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 336,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.207368,
+    "Latitude": 40.881637
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "700 Rt 46 W",
+    "address2": "",
+    "address3": "",
+    "city": "Little Falls",
+    "zip_code": "07424",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "700 Rt 46 W",
+     "Little Falls, NJ 07424"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19738905900",
+   "display_phone": "(973) 890-5900",
+   "distance": 25293.85237769397
+  },
+  {
+   "id": "MRIjBE7R4wzAfCGfs6c34A",
+   "alias": "snap-indoor-parking-newark-3",
+   "name": "SNAP Indoor Parking",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VsSyVwqSdNEUi_jiPrQQ-g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/snap-indoor-parking-newark-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 332,
+   "categories": [
+    {
+     "alias": "parking",
+     "title": "Parking"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.1857449,
+    "Latitude": 40.7184481
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "98 Frelinghuysen Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Newark",
+    "zip_code": "07114",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "98 Frelinghuysen Ave",
+     "Newark, NJ 07114"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19737325856",
+   "display_phone": "(973) 732-5856",
+   "distance": 15130.248436678088
+  },
+  {
+   "id": "mEUIWEEi6BR8-nRs2LDFHw",
+   "alias": "salerno-auto-body-shop-brooklyn-11",
+   "name": "Salerno Auto Body Shop",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ueKOz3CTwjIt79De0Wg3uw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/salerno-auto-body-shop-brooklyn-11?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 328,
+   "categories": [
+    {
+     "alias": "bodyshops",
+     "title": "Body Shops"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9490068232788,
+    "Latitude": 40.7105401153704
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "451 Lorimer St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11206",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "451 Lorimer St",
+     "Brooklyn, NY 11206"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18005588093",
+   "display_phone": "(800) 558-8093",
+   "distance": 4810.285054274258
+  },
+  {
+   "id": "Uzs93Ux1it_Gs0rNZxqjLQ",
+   "alias": "bay-ridge-honda-brooklyn",
+   "name": "Bay Ridge Honda",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QsOZUgaeyWmw82YJTBpuhA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bay-ridge-honda-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 324,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.0287704467773,
+    "Latitude": 40.6208343505859
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8801 4th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11209",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "8801 4th Ave",
+     "Brooklyn, NY 11209"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188364600",
+   "display_phone": "(718) 836-4600",
+   "distance": 10419.769512719773
+  },
+  {
+   "id": "lfc8p-9i5iShZXOZN4H-Aw",
+   "alias": "eastchester-chrysler-jeep-dodge-bronx",
+   "name": "Eastchester Chrysler Jeep Dodge",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uN5Lel44fNOhzlde_QGNjA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/eastchester-chrysler-jeep-dodge-bronx?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 315,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.8319809,
+    "Latitude": 40.8847269
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4007 Boston Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10466",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "4007 Boston Rd",
+     "Bronx, NY 10466"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18884855713",
+   "display_phone": "(888) 485-5713",
+   "distance": 24139.73492442018
+  },
+  {
+   "id": "qtJ6Wbw3hb0LnjrlBL6pew",
+   "alias": "paramus-hyundai-paramus-5",
+   "name": "Paramus Hyundai",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jSniUjd08aZsYNT2_NTjLQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paramus-hyundai-paramus-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 305,
+   "categories": [
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    },
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "tires",
+     "title": "Tires"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.05208520978779,
+    "Latitude": 40.91490830888246
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "234 NJ-4",
+    "address2": "",
+    "address3": "",
+    "city": "Paramus",
+    "zip_code": "07652",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "234 NJ-4",
+     "Paramus, NJ 07652"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12018450700",
+   "display_phone": "(201) 845-0700",
+   "distance": 22805.5929497461
+  },
+  {
+   "id": "5D5oGBYu9UXeqGnJYR5BAQ",
+   "alias": "koeppel-hyundai-long-island-city-3",
+   "name": "Koeppel Hyundai",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/k6tCYQG0wRyNduEuOHgGeg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/koeppel-hyundai-long-island-city-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 304,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.9189286020629,
+    "Latitude": 40.7541002952377
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "34-54 44th St",
+    "address2": "",
+    "address3": "",
+    "city": "Long Island City",
+    "zip_code": "11101",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "34-54 44th St",
+     "Long Island City, NY 11101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18553536947",
+   "display_phone": "(855) 353-6947",
+   "distance": 8655.28275516413
+  },
+  {
+   "id": "CHNLU8i4BooJpYL59fM6mg",
+   "alias": "honda-of-new-rochelle-new-rochelle-3",
+   "name": "Honda Of New Rochelle",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3PsMe9gXf7_JBX606expDQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/honda-of-new-rochelle-new-rochelle-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 304,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.76593,
+    "Latitude": 40.92
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "25 E Main St",
+    "address2": "",
+    "address3": "",
+    "city": "New Rochelle",
+    "zip_code": "10801",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "25 E Main St",
+     "New Rochelle, NY 10801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19146362000",
+   "display_phone": "(914) 636-2000",
+   "distance": 30642.558376507986
+  }
+ ],
+ "total": 13300,
+ "region": {
+  "center": {
+   "longitude": -74.006,
+   "Latitude": 40.7128
+  }
+ }
+}

@@ -1,0 +1,1840 @@
+{
+ "businesses": [
+  {
+   "id": "chEk0cD3XPqjB13FBdISmg",
+   "alias": "la-cuisine-paris-paris",
+   "name": "La Cuisine Paris",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4ZH-2PIlkhnBPPjMebkjYA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-cuisine-paris-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 87,
+   "categories": [
+    {
+     "alias": "foodtours",
+     "title": "Food Tours"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.35413,
+    "Latitude": 48.8547
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "80 quai de l'Hôtel de Ville",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "80 quai de l'Hôtel de Ville",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33961499795",
+   "display_phone": "+33 9 61 49 97 95",
+   "distance": 254.11220285516018
+  },
+  {
+   "id": "LS3BjNn7w85Vth3meC5JFw",
+   "alias": "gibert-joseph-paris-3",
+   "name": "Gibert Joseph",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VPxz1rOpqvC0utNqHmoFjQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gibert-joseph-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.342517,
+    "Latitude": 48.850589
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "26 boulevard Saint-Michel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "26 boulevard Saint-Michel",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144418888",
+   "display_phone": "+33 1 44 41 88 88",
+   "distance": 973.987971595329
+  },
+  {
+   "id": "obDXCEgKlLTPphqKS4El_g",
+   "alias": "marché-saint-pierre-paris-2",
+   "name": "Marché Saint Pierre",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uNDiRNpDKxXBwPw4A3v6hA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/march%C3%A9-saint-pierre-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.34496,
+    "Latitude": 48.88462
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "2 rue Charles Nodier",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75018",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 rue Charles Nodier",
+     "75018 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146069225",
+   "display_phone": "+33 1 46 06 92 25",
+   "distance": 3154.886065496028
+  },
+  {
+   "id": "bEFtBdWpXTaE5p_5wzaofg",
+   "alias": "cook-et-go-paris-3",
+   "name": "Cook \u0026 Go",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ll6_F_-JgZTlfNGt2ZfShg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cook-et-go-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 18,
+   "categories": [
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.34485,
+    "Latitude": 48.87623
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "69 rue Lafayette",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "69 rue Lafayette",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142800059",
+   "display_phone": "+33 1 42 80 00 59",
+   "distance": 2255.2999092247856
+  },
+  {
+   "id": "DG5KJSdcuxS0Wp7s0MReYg",
+   "alias": "rougier-et-plé-paris-3",
+   "name": "Rougier et Plé",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/41M_TOEngCWVF_LcTlWjWg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rougier-et-pl%C3%A9-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 18,
+   "categories": [
+    {
+     "alias": "artsupplies",
+     "title": "Art Supplies"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.36592,
+    "Latitude": 48.8628
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "13 bd des Filles du Calvaire",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "13 bd des Filles du Calvaire",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144548100",
+   "display_phone": "+33 1 44 54 81 00",
+   "distance": 1217.6564455896387
+  },
+  {
+   "id": "NBKsgmKyhNUfBDFwbSQY1A",
+   "alias": "mélodies-graphiques-paris-2",
+   "name": "Mélodies Graphiques",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H7ECRvo7IN2FbmMEe_OwtQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/m%C3%A9lodies-graphiques-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 16,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3556499,
+    "Latitude": 48.85498
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "10 rue Pont Louis Philippe",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "10 rue Pont Louis Philippe",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142745768",
+   "display_phone": "+33 1 42 74 57 68",
+   "distance": 314.9722445521804
+  },
+  {
+   "id": "LzObaFT2DOA-Gc1HR-H82w",
+   "alias": "astier-de-villatte-paris-2",
+   "name": "Astier de Villatte",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1Lh8qxy4Fu7sV25uduOTHw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/astier-de-villatte-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 14,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.33373,
+    "Latitude": 48.86399
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "173 rue Saint-Honoré",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "173 rue Saint-Honoré",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142607413",
+   "display_phone": "+33 1 42 60 74 13",
+   "distance": 1580.8155102945434
+  },
+  {
+   "id": "dJeF57XbU9zF2EsJYl5i6Q",
+   "alias": "a-la-poupée-merveilleuse-paris-4",
+   "name": "A La Poupée Merveilleuse",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/L5X5sk-UtO0xPaGxRLbEHw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/a-la-poup%C3%A9e-merveilleuse-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 13,
+   "categories": [
+    {
+     "alias": "partysupplies",
+     "title": "Party Supplies"
+    },
+    {
+     "alias": "costumes",
+     "title": "Costumes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.353,
+    "Latitude": 48.85796
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "9 Rue Temple",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "9 Rue Temple",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142726346",
+   "display_phone": "+33 1 42 72 63 46",
+   "distance": 162.155570275211
+  },
+  {
+   "id": "N9-CbomVYklAvHFYFJNKFw",
+   "alias": "le-viaduc-des-arts-paris",
+   "name": "Le Viaduc des Arts",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0wBciwf7JGD-koTC9CREHQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-viaduc-des-arts-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.38158,
+    "Latitude": 48.84441
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "1 au 129 avenue Daumesnil",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "1 au 129 avenue Daumesnil",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33186959507",
+   "display_phone": "+33 1 86 95 95 07",
+   "distance": 2541.3629013500135
+  },
+  {
+   "id": "iIaK-9gg6xYrhi52f_mBDw",
+   "alias": "gibert-joseph-versailles-5",
+   "name": "Gibert Joseph",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NlSTNz0ApGFOieA4ecdabA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gibert-joseph-versailles-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "artsupplies",
+     "title": "Art Supplies"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.130408,
+    "Latitude": 48.8069056
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "62 Rue Paroisse",
+    "address2": "",
+    "address3": "",
+    "city": "Versailles",
+    "zip_code": "78000",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "62 Rue Paroisse",
+     "78000 Versailles",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33139201200",
+   "display_phone": "+33 1 39 20 12 00",
+   "distance": 17149.028949773616
+  },
+  {
+   "id": "JGmRmb-PsUoYKatFIw43FQ",
+   "alias": "foodi-jia-ba-buay-paris",
+   "name": "Foodi Jia-Ba-Buay",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bN-che_gjkodVA5xQk7x7A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/foodi-jia-ba-buay-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "taiwanese",
+     "title": "Taiwanese"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3482563,
+    "Latitude": 48.8679018
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "2 rue du Nil",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 rue du Nil",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145084828",
+   "display_phone": "+33 1 45 08 48 28",
+   "distance": 1289.389184920702
+  },
+  {
+   "id": "6veGzUvYW1oCXvXYWH5ASA",
+   "alias": "papier-tigre-paris",
+   "name": "Papier Tigre",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RCq0WGJhxisJ65tIQn2LiA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/papier-tigre-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "concept_shops",
+     "title": "Concept Shops"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3651314,
+    "Latitude": 48.8622782
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "5 rue des Filles du Calvaire",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "5 rue des Filles du Calvaire",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148040021",
+   "display_phone": "+33 1 48 04 00 21",
+   "distance": 1137.3578769070457
+  },
+  {
+   "id": "wjEmyhYsdmQWJaCyiTg8-Q",
+   "alias": "pâtisserie-à-la-carte-paris",
+   "name": "Pâtisserie à la Carte",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/o0yoqhBhU8jNgCoZzkKIxg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/p%C3%A2tisserie-%C3%A0-la-carte-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3464857,
+    "Latitude": 48.8801089
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "9 rue Thimonnier",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "9 rue Thimonnier",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33664777383",
+   "display_phone": "+33 6 64 77 73 83",
+   "distance": 2647.2703458011974
+  },
+  {
+   "id": "7Gc87ONuoDaSLiIj0YnDug",
+   "alias": "sennelier-paris",
+   "name": "Sennelier",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iJKT9rYAy4exIpZYYSF_6Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sennelier-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "artsupplies",
+     "title": "Art Supplies"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.33265,
+    "Latitude": 48.85832
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "3 Quai Voltaire",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 Quai Voltaire",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142607215",
+   "display_phone": "+33 1 42 60 72 15",
+   "distance": 1443.1046583953992
+  },
+  {
+   "id": "vOIT5vpAAWmOlQR0mZkHOA",
+   "alias": "1000-fêtes-paris",
+   "name": "1000 Fêtes",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TLi3wOgvcYYXf1mscZuuZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/1000-f%C3%AAtes-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "partysupplies",
+     "title": "Party Supplies"
+    },
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "costumes",
+     "title": "Costumes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.32523,
+    "Latitude": 48.8477
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "26 rue de l'Abbé Grégoire",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "26 rue de l'Abbé Grégoire",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142220943",
+   "display_phone": "+33 1 42 22 09 43",
+   "distance": 2210.151517939605
+  },
+  {
+   "id": "QArWlYhMSRymW6f8Zze9Ug",
+   "alias": "monnaie-de-paris-paris-4",
+   "name": "Monnaie de Paris",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/B3ND1SiUnbhwbKP_hFKPgQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/monnaie-de-paris-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "publicservicesgovt",
+     "title": "Public Services \u0026 Government"
+    },
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.339049,
+    "Latitude": 48.856674
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11 quai de Conti",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "11 quai de Conti",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140465757",
+   "display_phone": "+33 1 40 46 57 57",
+   "distance": 962.1637451215809
+  },
+  {
+   "id": "Euf3aa_ct1je8ZpvwLm7Vg",
+   "alias": "tours-de-cuisine-paris-11",
+   "name": "Tours de Cuisine",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QoUZgv-vP6tXBzSwZXlhDQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tours-de-cuisine-paris-11?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    },
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3695166,
+    "Latitude": 48.8669121
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "90 rue de la Folie Méricourt",
+    "address2": "",
+    "address3": "",
+    "city": "Paris 11",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "90 rue de la Folie Méricourt",
+     "75011 Paris 11",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33155285702",
+   "display_phone": "+33 1 55 28 57 02",
+   "distance": 1708.6480626648697
+  },
+  {
+   "id": "I93TX4-fzPHsTdAmgDfXkw",
+   "alias": "théâtre-daunou-paris",
+   "name": "Théâtre Daunou",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9QYuZQcRLGvmFJCjWXoVPg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/th%C3%A9%C3%A2tre-daunou-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3320034,
+    "Latitude": 48.8693682
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "7 Rue Daunou",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "7 Rue Daunou",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142616914",
+   "display_phone": "+33 1 42 61 69 14",
+   "distance": 2049.003725535266
+  },
+  {
+   "id": "adJCj9myvPX-G7YP4uuleA",
+   "alias": "au-fou-rire-paris",
+   "name": "Au Fou Rire",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/O0IhhG39vRukDOzoZdyrBA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/au-fou-rire-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "costumes",
+     "title": "Costumes"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.343,
+    "Latitude": 48.87316
+   },
+   "transactions": [],
+   "price": "€",
+   "location": {
+    "address1": "22 bis rue du Faubourg Montmartre",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "22 bis rue du Faubourg Montmartre",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148247582",
+   "display_phone": "+33 1 48 24 75 82",
+   "distance": 1960.5050923883632
+  },
+  {
+   "id": "wuygnMZxi3ASny1GF_3BwQ",
+   "alias": "le-cordon-bleu-paris-2",
+   "name": "Le Cordon Bleu",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WhYphNGrn0Df71NwSRva7w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-cordon-bleu-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "cookingschools",
+     "title": "Cooking Schools"
+    },
+    {
+     "alias": "winetasteclasses",
+     "title": "Wine Tasting Classes"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.2808059,
+    "Latitude": 48.8482602
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "13-15 quai André Citroën",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "13-15 quai André Citroën",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33185651500",
+   "display_phone": "+33 1 85 65 15 00",
+   "distance": 5305.314797764689
+  },
+  {
+   "id": "Zjrpgjsfj00q8JQzgo7Wyw",
+   "alias": "cire-trudon-paris",
+   "name": "Cire Trudon",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A0fCwecVuy0hu-rsneVSGQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cire-trudon-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "tableware",
+     "title": "Tableware"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3368421655192,
+    "Latitude": 48.851548744134
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "78 rue de Seine",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "78 rue de Seine",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143264650",
+   "display_phone": "+33 1 43 26 46 50",
+   "distance": 1256.2006555400387
+  },
+  {
+   "id": "Cf2aM0WFCfhoXYT3AXhHSQ",
+   "alias": "les-tricoteurs-volants-paris",
+   "name": "Les Tricoteurs Volants",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JVUHii7no_83wfvsl9Fq0Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/les-tricoteurs-volants-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "knittingsupplies",
+     "title": "Knitting Supplies"
+    },
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3558426,
+    "Latitude": 48.8744755
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "22 rue de la Fidélité",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "22 rue de la Fidélité",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147705257",
+   "display_phone": "+33 1 47 70 52 57",
+   "distance": 2005.4416719219241
+  },
+  {
+   "id": "rZTkf9siyugnjsVUppFXBQ",
+   "alias": "graphigro-rougier-et-plé-paris-4",
+   "name": "Graphigro - Rougier \u0026 Plé",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xhnmm5jW9MI_i6JPIwP6Eg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/graphigro-rougier-et-pl%C3%A9-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "framing",
+     "title": "Framing"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "artsupplies",
+     "title": "Art Supplies"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.38967066906391,
+    "Latitude": 48.8526459605377
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "207 boulevard Voltaire",
+    "address2": "Impasse Cité Voltaire",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "207 boulevard Voltaire",
+     "Impasse Cité Voltaire",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143482357",
+   "display_phone": "+33 1 43 48 23 57",
+   "distance": 2776.500947636317
+  },
+  {
+   "id": "B6JW5CcWeX2oGi--1Eahzw",
+   "alias": "la-banque-de-l-image-paris",
+   "name": "La Banque de l'Image",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dlxYa6ieaeLRGzh8jTHyVw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-banque-de-l-image-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.34816,
+    "Latitude": 48.86148
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "13 rue de la Cossonnerie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "13 rue de la Cossonnerie",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145080641",
+   "display_phone": "+33 1 45 08 06 41",
+   "distance": 614.0548423502194
+  },
+  {
+   "id": "0r4uf4FK54WyXkepLjleAA",
+   "alias": "sacrés-coupons-paris-7",
+   "name": "Sacrés Coupons",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tk_G6xMbcQaDTglcJ8AEOA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sacr%C3%A9s-coupons-paris-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "knittingsupplies",
+     "title": "Knitting Supplies"
+    },
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3461045,
+    "Latitude": 48.8841479
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "4 bis rue d'Orsel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75018",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "4 bis rue d'Orsel",
+     "75018 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142646996",
+   "display_phone": "+33 1 42 64 69 96",
+   "distance": 3095.4566730079723
+  },
+  {
+   "id": "0QsPsGfLDPdHCob1kSi48g",
+   "alias": "kimonoya-paris",
+   "name": "Kimonoya",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DUNSueixRS518d9hUetrhQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kimonoya-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.35576,
+    "Latitude": 48.85522
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "11 Rue Pont Louis Philippe",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "11 Rue Pont Louis Philippe",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148873024",
+   "display_phone": "+33 1 48 87 30 24",
+   "distance": 302.2957243566642
+  },
+  {
+   "id": "VqM1aJdxptqdru6UKplK4w",
+   "alias": "fnac-paris-6",
+   "name": "Fnac",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZyN_2zjVF1SAQjwbhOsOQQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fnac-paris-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "media",
+     "title": "Books, Mags, Music \u0026 Video"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.355443,
+    "Latitude": 48.829529
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "30 avenue d'Italie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "30 avenue d'Italie",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 3019.4953591972076
+  },
+  {
+   "id": "ZmPBQtA7oAq4p9s4TAWnZQ",
+   "alias": "périples-2-boulogne-billancourt-4",
+   "name": "Périples 2",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/687QfS5RAZkCJXodGAmzhA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/p%C3%A9riples-2-boulogne-billancourt-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.23594,
+    "Latitude": 48.8454
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "54 ave Jean Baptiste Clément",
+    "address2": "",
+    "address3": "",
+    "city": "Boulogne Billancourt",
+    "zip_code": "92100",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "54 ave Jean Baptiste Clément",
+     "92100 Boulogne Billancourt",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148250700",
+   "display_phone": "+33 1 48 25 07 00",
+   "distance": 8597.231130945574
+  },
+  {
+   "id": "EqL7FET9f77YHx2Sd4lEVg",
+   "alias": "papier-plus-paris",
+   "name": "Papier Plus",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ibTopw3mXVcOdpOCe_SfmA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/papier-plus-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.35564,
+    "Latitude": 48.85509
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "9 Rue Pont Louis Philippe",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "9 Rue Pont Louis Philippe",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142777049",
+   "display_phone": "+33 1 42 77 70 49",
+   "distance": 302.54253166819854
+  },
+  {
+   "id": "x5CBdvk6hkaJ44_9Bh6H4A",
+   "alias": "l-ecritoire-paris",
+   "name": "L'Ecritoire",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uLOZFogYueqEE0FlYXwt7Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/l-ecritoire-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.35027,
+    "Latitude": 48.85915
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "61 rue Saint-Martin",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "61 rue Saint-Martin",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142780118",
+   "display_phone": "+33 1 42 78 01 18",
+   "distance": 320.0348794489917
+  },
+  {
+   "id": "X-C2l86gpOokf4_-zasR_g",
+   "alias": "atelier-thai-paris",
+   "name": "Atelier Thai",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4L0kG2yCqqmqv1UHR-dWgA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/atelier-thai-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3696876,
+    "Latitude": 48.8669475
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "90 Rue Folie méricourt",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "90 Rue Folie méricourt",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33613354864",
+   "display_phone": "+33 6 13 35 48 64",
+   "distance": 1720.572015105322
+  },
+  {
+   "id": "LW_REnPRmi1Hj4jiVXwjEA",
+   "alias": "l-atelier-des-sens-paris-2",
+   "name": "L'Atelier des Sens",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TEO5BClTBf_XfZvlr97K7w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/l-atelier-des-sens-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.35187,
+    "Latitude": 48.86408
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "10 rue du Bourg l'Abbé",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "10 rue du Bourg l'Abbé",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33963404700",
+   "display_phone": "+33 9 63 40 47 00",
+   "distance": 836.1551535051572
+  },
+  {
+   "id": "2zFtOOvO7sGvjpPnIsnSNA",
+   "alias": "libellune-paris",
+   "name": "Libellune",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/K7hmBM2YPvBF6s2sQh0MjQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/libellune-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.31883,
+    "Latitude": 48.88684
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "80 Rue Legendre",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "80 Rue Legendre",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153111305",
+   "display_phone": "+33 1 53 11 13 05",
+   "distance": 4154.903689012775
+  },
+  {
+   "id": "GVk9t-BNKA96NT5eriRvWQ",
+   "alias": "la-tuile-à-loup-paris-2",
+   "name": "La Tuile à Loup",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zQason9yfLdvu8eW0L4UAA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-tuile-%C3%A0-loup-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "tableware",
+     "title": "Tableware"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.35119,
+    "Latitude": 48.8403
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "35 rue Daubenton",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "35 rue Daubenton",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147072890",
+   "display_phone": "+33 1 47 07 28 90",
+   "distance": 1817.0241031689
+  },
+  {
+   "id": "lonBoheJ_UbTrYs1-s1t7A",
+   "alias": "cook-et-go-paris-2",
+   "name": "Cook \u0026 Go",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/82XUPuoJ50GRz46IB09xPQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cook-et-go-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.28125,
+    "Latitude": 48.84153
+   },
+   "transactions": [],
+   "price": "€",
+   "location": {
+    "address1": "175 rue Saint-Charles",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "175 rue Saint-Charles",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145583791",
+   "display_phone": "+33 1 45 58 37 91",
+   "distance": 5458.51931394644
+  },
+  {
+   "id": "3aAfeEO-ToJ8_EoRKHPl2A",
+   "alias": "simrane-paris",
+   "name": "Simrane",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/BhOf11ho0zb9TWk2anAaAg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/simrane-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.33389,
+    "Latitude": 48.85535
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "23-25 rue Bonaparte",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "23-25 rue Bonaparte",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146339871",
+   "display_phone": "+33 1 46 33 98 71",
+   "distance": 1346.7708764983522
+  },
+  {
+   "id": "7e9bUUwgqEgOLyL1Oxnl9A",
+   "alias": "univers-du-livre-le-cercle-orgeval",
+   "name": "Univers du Livre Le Cercle",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qV5EF3_FYnMEvihhErEPQw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/univers-du-livre-le-cercle-orgeval?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "artsupplies",
+     "title": "Art Supplies"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 1.99507,
+    "Latitude": 48.9244
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "502 Route Quarante Sous",
+    "address2": "",
+    "address3": "",
+    "city": "Orgeval",
+    "zip_code": "78630",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "502 Route Quarante Sous",
+     "78630 Orgeval",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33139752960",
+   "display_phone": "+33 1 39 75 29 60",
+   "distance": 27176.58106807912
+  },
+  {
+   "id": "qkAHDO32Wlvz-rcflHBB4Q",
+   "alias": "tout-à-loisirs-paris-4",
+   "name": "Tout à Loisirs",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tout-%C3%A0-loisirs-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    },
+    {
+     "alias": "arts",
+     "title": "Arts \u0026 Entertainment"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3564698,
+    "Latitude": 48.8596757
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "77 rue du Temple",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "77 rue du Temple",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148040726",
+   "display_phone": "+33 1 48 04 07 26",
+   "distance": 463.18470658689284
+  },
+  {
+   "id": "S8VNn8EJAoPm7XS4V6JDsw",
+   "alias": "adeline-klam-paris",
+   "name": "Adeline Klam",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hTwBK8k1NPlyNhG4bH7vVA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/adeline-klam-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "artsupplies",
+     "title": "Art Supplies"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.372324,
+    "Latitude": 48.859215
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "54 boulevard Richard Lenoir",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "54 boulevard Richard Lenoir",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148072088",
+   "display_phone": "+33 1 48 07 20 88",
+   "distance": 1500.6766472186275
+  },
+  {
+   "id": "1hoWCe8enKG8FV_L2XK39A",
+   "alias": "lavrut-paris-3",
+   "name": "Lavrut",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dQRHijwPerHMIAXulUBlIg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lavrut-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "artsupplies",
+     "title": "Art Supplies"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "officeequipment",
+     "title": "Office Equipment"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.33587,
+    "Latitude": 48.86864
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "52 Passage Choiseul",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "52 Passage Choiseul",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142969554",
+   "display_phone": "+33 1 42 96 95 54",
+   "distance": 1794.2475186026993
+  }
+ ],
+ "total": 436,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

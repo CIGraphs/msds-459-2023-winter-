@@ -1,0 +1,1739 @@
+{
+ "businesses": [
+  {
+   "id": "OPL90jsXEt6XpbxI796A3g",
+   "alias": "amc-empire-25-new-york",
+   "name": "AMC Empire 25",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/j5Amk5ET-M8rMpgBNuSX_A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-empire-25-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1012,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.988874,
+    "Latitude": 40.756362
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "234 West 42nd Street",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "234 West 42nd Street",
+     "New York, NY 10036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123982597",
+   "display_phone": "(212) 398-2597",
+   "distance": 5054.231393336265
+  },
+  {
+   "id": "NMm7eeQoXwzGfAGFuCAteA",
+   "alias": "amc-lincoln-square-13-new-york",
+   "name": "AMC Lincoln Square 13",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-IqZqk1db5amokU6HRnIYw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-lincoln-square-13-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 821,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9818779132687,
+    "Latitude": 40.7750416132642
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1998 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10023",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1998 Broadway",
+     "New York, NY 10023"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123365020",
+   "display_phone": "(212) 336-5020",
+   "distance": 7213.1240237807615
+  },
+  {
+   "id": "nfaS-7o4ZrVdsdqhZHnksQ",
+   "alias": "alamo-drafthouse-cinema-downtown-brooklyn-brooklyn",
+   "name": "Alamo Drafthouse Cinema Downtown Brooklyn",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/naNiZaWBBNMyldawm0_OLQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alamo-drafthouse-cinema-downtown-brooklyn-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 774,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "dinnertheater",
+     "title": "Dinner Theater"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9832732500862,
+    "Latitude": 40.6907477441643
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "445 Albee Square West",
+    "address2": "Suite 4-400",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "445 Albee Square West",
+     "Suite 4-400",
+     "Brooklyn, NY 11201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17185132547",
+   "display_phone": "(718) 513-2547",
+   "distance": 3111.7794325885975
+  },
+  {
+   "id": "4lQ6gP64Ay-Rt8hBLV2a9g",
+   "alias": "alamo-drafthouse-cinema-yonkers-yonkers",
+   "name": "Alamo Drafthouse Cinema Yonkers",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FtxWfCJA69CyVMS5X90gQw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alamo-drafthouse-cinema-yonkers-yonkers?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 732,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "dinnertheater",
+     "title": "Dinner Theater"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.8279335,
+    "Latitude": 40.9827317
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "2548 Central Park Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Yonkers",
+    "zip_code": "10710",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2548 Central Park Ave",
+     "Yonkers, NY 10710"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19142263082",
+   "display_phone": "(914) 226-3082",
+   "distance": 33660.70625295506
+  },
+  {
+   "id": "c1onPljpeivCbdgYisVWNw",
+   "alias": "nitehawk-cinema-brooklyn",
+   "name": "Nitehawk Cinema",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_8iAKa9hzSwFpM7InmRDbw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nitehawk-cinema-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 719,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.962473,
+    "Latitude": 40.716025
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "136 Metropolitan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11249",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "136 Metropolitan Ave",
+     "Brooklyn, NY 11249"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16469639288",
+   "display_phone": "(646) 963-9288",
+   "distance": 3686.0432251337497
+  },
+  {
+   "id": "Ndem0ydCV03xpoMduv8tkQ",
+   "alias": "ipic-new-york-city-new-york",
+   "name": "IPIC New York City",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yv6iY5FS_JvgsgHmLwUVoA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ipic-new-york-city-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 688,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "dinnertheater",
+     "title": "Dinner Theater"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.00341904318263,
+    "Latitude": 40.70675228764969
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11 Fulton St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10038",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "11 Fulton St",
+     "New York, NY 10038"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127768272",
+   "display_phone": "(212) 776-8272",
+   "distance": 706.7864167000071
+  },
+  {
+   "id": "KkhpageuuLY53qdyicOL1g",
+   "alias": "regal-union-square-new-york",
+   "name": "Regal Union Square",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7TK2EbDGjAgIqm9D-byqMg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/regal-union-square-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 683,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.990753,
+    "Latitude": 40.734137
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "850 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "850 Broadway",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18444627342",
+   "display_phone": "(844) 462-7342",
+   "distance": 2698.141910194713
+  },
+  {
+   "id": "VDCVgrnkN4fYpoTSXHKGtA",
+   "alias": "amc-dine-in-menlo-park-12-edison",
+   "name": "AMC DINE-IN Menlo Park 12",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QoNztAGLvRP-IpCkcXh1Qg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-dine-in-menlo-park-12-edison?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 648,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.335602232666,
+    "Latitude": 40.5465164707694
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "55 Parsonage Rd unit 390",
+    "address2": "Unit 390",
+    "address3": "",
+    "city": "Edison",
+    "zip_code": "08837",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "55 Parsonage Rd unit 390",
+     "Unit 390",
+     "Edison, NJ 08837"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17323219093",
+   "display_phone": "(732) 321-9093",
+   "distance": 33399.78843331645
+  },
+  {
+   "id": "8hCw819wU7LkMG-tJHcpZA",
+   "alias": "amc-fresh-meadows-7-fresh-meadows-2",
+   "name": "AMC Fresh Meadows 7",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sqxKXTOQL4ZR6rHub1vVAw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-fresh-meadows-7-fresh-meadows-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 633,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.7835272418491,
+    "Latitude": 40.7410971992579
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "190-02 Horace Harding Blvd.",
+    "address2": "",
+    "address3": "",
+    "city": "Fresh Meadows",
+    "zip_code": "11365",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "190-02 Horace Harding Blvd.",
+     "Fresh Meadows, NY 11365"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184546767",
+   "display_phone": "(718) 454-6767",
+   "distance": 19009.212679950007
+  },
+  {
+   "id": "YTMCwlmMkVPYRsaNiRLtFA",
+   "alias": "museum-of-the-moving-image-astoria",
+   "name": "Museum of the Moving Image",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vblhmmfJeN1EAI7yIxuMFg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/museum-of-the-moving-image-astoria?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 580,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.923855,
+    "Latitude": 40.756377
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3601 35th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Astoria",
+    "zip_code": "11106",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "3601 35th Ave",
+     "Astoria, NY 11106"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187776888",
+   "display_phone": "(718) 777-6888",
+   "distance": 8440.318488871535
+  },
+  {
+   "id": "FdH5VcZX-DIH1spK6_zf4w",
+   "alias": "ipic-fort-lee-fort-lee",
+   "name": "IPIC Fort Lee",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YqRFYOV_k9LN1xsBNOdveg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ipic-fort-lee-fort-lee?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 578,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "dinnertheater",
+     "title": "Dinner Theater"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.96899826918735,
+    "Latitude": 40.8519987490595
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2023 Hudson St",
+    "address2": "",
+    "address3": "",
+    "city": "Fort Lee",
+    "zip_code": "07024",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "2023 Hudson St",
+     "Fort Lee, NJ 07024"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12015827100",
+   "display_phone": "(201) 582-7100",
+   "distance": 15788.594627708215
+  },
+  {
+   "id": "J7l6D0qtYcT_KVqD7cSm7Q",
+   "alias": "amc-dine-in-essex-green-9-west-orange",
+   "name": "AMC DINE-IN Essex Green 9",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/P2cMQuaPjWLtzFUBNaMxoQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-dine-in-essex-green-9-west-orange?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 557,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.256862,
+    "Latitude": 40.793386
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "495 Prospect Avenue",
+    "address2": "",
+    "address3": "",
+    "city": "West Orange",
+    "zip_code": "07052",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "495 Prospect Avenue",
+     "West Orange, NJ 07052"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19737316692",
+   "display_phone": "(973) 731-6692",
+   "distance": 22952.375220764945
+  },
+  {
+   "id": "woJb30ianG8DaYuWMd_CTQ",
+   "alias": "amc-34th-street-14-new-york",
+   "name": "AMC 34th Street 14",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/s_NAljA65vjQlgBKqRP8rg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-34th-street-14-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 539,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9954038,
+    "Latitude": 40.7524938
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "312 West 34th Street",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "312 West 34th Street",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122444556",
+   "display_phone": "(212) 244-4556",
+   "distance": 4503.141176243509
+  },
+  {
+   "id": "LKiCVg9QCXWJwZa1_Q63dw",
+   "alias": "regal-battery-park-new-york-4",
+   "name": "Regal Battery Park",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/e8cv9EEjnTVt-xDaJefg_Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/regal-battery-park-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 526,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.015023,
+    "Latitude": 40.714683
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "102 N End Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10282",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "102 N End Ave",
+     "New York, NY 10282"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18444627342",
+   "display_phone": "(844) 462-7342",
+   "distance": 788.7844680548543
+  },
+  {
+   "id": "CowisEVeVb4H3go-zKBZVg",
+   "alias": "angelika-film-center-and-café-new-york-new-york-3",
+   "name": "Angelika Film Center \u0026 Café - New York",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TvANzyjxs7joKDzCRsXoHA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/angelika-film-center-and-caf%C3%A9-new-york-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 484,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9972371878708,
+    "Latitude": 40.72583042190133
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "18 W. Houston St.",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "18 W. Houston St.",
+     "New York, NY 10012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129952570",
+   "display_phone": "(212) 995-2570",
+   "distance": 1626.2631054288722
+  },
+  {
+   "id": "Zy35lp_Sz8htqgPAFftlqw",
+   "alias": "regal-ua-kaufman-astoria-long-island-city",
+   "name": "Regal UA Kaufman Astoria",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SCXXm46OdWfiw4mVA0AOIw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/regal-ua-kaufman-astoria-long-island-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 396,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.92382197116432,
+    "Latitude": 40.75503101794157
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "35-30 38th Street",
+    "address2": "",
+    "address3": "",
+    "city": "Long Island City",
+    "zip_code": "11101",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "35-30 38th Street",
+     "Long Island City, NY 11101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18444627342",
+   "display_phone": "(844) 462-7342",
+   "distance": 8366.285851293122
+  },
+  {
+   "id": "RpBo2Vkb9IVLlNnsQqBUNg",
+   "alias": "amc-84th-street-6-new-york",
+   "name": "AMC 84th Street 6",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_foF94OFHZOsTPFAkJh4gA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-84th-street-6-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 382,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9775701598358,
+    "Latitude": 40.7868043318945
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2310 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10024",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2310 Broadway",
+     "New York, NY 10024"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127216023",
+   "display_phone": "(212) 721-6023",
+   "distance": 8570.303308989618
+  },
+  {
+   "id": "r5X4-movdt5wbvbF-Jz7-w",
+   "alias": "liberty-science-center-jersey-city",
+   "name": "Liberty Science Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LIKk7AMlVt8pWUPW9voVxA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/liberty-science-center-jersey-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 379,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.0545828124782,
+    "Latitude": 40.708260750342
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "222 Jersey City Blvd",
+    "address2": "",
+    "address3": "Liberty State Park",
+    "city": "Jersey City",
+    "zip_code": "07305",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "222 Jersey City Blvd",
+     "Liberty State Park",
+     "Jersey City, NJ 07305"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12012001000",
+   "display_phone": "(201) 200-1000",
+   "distance": 4125.902643138233
+  },
+  {
+   "id": "KZXAfGkFIJY1V2I4Gl2GtA",
+   "alias": "regal-e-walk-new-york",
+   "name": "Regal E-Walk",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GKx1XbO1nW1ScJdYX6RSlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/regal-e-walk-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 361,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.988978,
+    "Latitude": 40.757032
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "247 W 42nd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "247 W 42nd St",
+     "New York, NY 10036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18444627342",
+   "display_phone": "(844) 462-7342",
+   "distance": 5123.2132354871155
+  },
+  {
+   "id": "M2denMcXzZPJm9RkYhStkQ",
+   "alias": "regal-ua-sheepshead-bay-brooklyn",
+   "name": "Regal UA Sheepshead Bay",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KMHuGTY27VS9x1C3snl6Tw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/regal-ua-sheepshead-bay-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 359,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.92951,
+    "Latitude": 40.58596
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3907 Shore Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11235",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "3907 Shore Pkwy",
+     "Brooklyn, NY 11235"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18444627342",
+   "display_phone": "(844) 462-7342",
+   "distance": 15510.099110689893
+  },
+  {
+   "id": "4jDvCGK5CyYizKGs6bfsyw",
+   "alias": "cinépolis-luxury-cinemas-new-york",
+   "name": "Cinépolis Luxury Cinemas",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hAwZoowSUiC-L_IeefZC-A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cin%C3%A9polis-luxury-cinemas-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 342,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.997971,
+    "Latitude": 40.744947
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "260 W 23rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "260 W 23rd St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126915519",
+   "display_phone": "(212) 691-5519",
+   "distance": 3638.041437869663
+  },
+  {
+   "id": "_GH68RRjkwNbwT6LWIgm9Q",
+   "alias": "williamsburg-cinemas-new-york",
+   "name": "Williamsburg Cinemas",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NZkmUGo1wUhwtXwUbZdadA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/williamsburg-cinemas-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 342,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9598968,
+    "Latitude": 40.7140688
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "217 Grand St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "11211",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "217 Grand St",
+     "New York, NY 11211"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182102955",
+   "display_phone": "(718) 210-2955",
+   "distance": 3888.0140347900015
+  },
+  {
+   "id": "k98bfuLCdK167ubwSa3wuA",
+   "alias": "the-ifc-center-new-york",
+   "name": "The IFC Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eLKc4B6IjyMKcGkVG7Vcxw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-ifc-center-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 341,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.00169,
+    "Latitude": 40.7312299
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "323 6th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "323 6th Ave",
+     "New York, NY 10014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129247771",
+   "display_phone": "(212) 924-7771",
+   "distance": 2079.972839937491
+  },
+  {
+   "id": "cDGEgWAA2RRm1H_27e4-dg",
+   "alias": "kerasotes-showplace-14-secaucus",
+   "name": "Kerasotes ShowPlace 14",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/78pqZ6YKM84nDpGzPrpC4g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kerasotes-showplace-14-secaucus?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 341,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.0466398188913,
+    "Latitude": 40.7852930618663
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "650 Plz Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Secaucus",
+    "zip_code": "07094",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "650 Plz Dr",
+     "Secaucus, NJ 07094"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12012105364",
+   "display_phone": "(201) 210-5364",
+   "distance": 8757.696532139751
+  },
+  {
+   "id": "cASJUJfNKam_PGM0ZJ0S9Q",
+   "alias": "amc-ridgefield-park-12-ridgefield-park",
+   "name": "AMC Ridgefield Park 12",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Wb6uoS-9G6_7nUlubyy8CA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-ridgefield-park-12-ridgefield-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 328,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.0129972,
+    "Latitude": 40.850631
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "75 Challenger Road",
+    "address2": "",
+    "address3": "",
+    "city": "Ridgefield Park",
+    "zip_code": "07660",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "75 Challenger Road",
+     "Ridgefield Park, NJ 07660"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12014402242",
+   "display_phone": "(201) 440-2242",
+   "distance": 15337.410258016787
+  },
+  {
+   "id": "-KrKo3-o8wAN5OQn1z_Tow",
+   "alias": "cobble-hill-cinemas-brooklyn",
+   "name": "Cobble Hill Cinemas",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Qn_aKaU7vi-5tXIr95l2ew/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cobble-hill-cinemas-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 322,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.99451,
+    "Latitude": 40.68491
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "265 Court St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11231",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "265 Court St",
+     "Brooklyn, NY 11231"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17185969113",
+   "display_phone": "(718) 596-9113",
+   "distance": 3247.378841670112
+  },
+  {
+   "id": "-m6RCdKiS5fC0wkZJHe2xg",
+   "alias": "alpine-theatre-brooklyn",
+   "name": "Alpine Theatre",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1qoTFzEFfyrvzgNfAyhhtw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alpine-theatre-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 317,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.02076,
+    "Latitude": 40.63364
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6817 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11220",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "6817 5th Ave",
+     "Brooklyn, NY 11220"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187484283",
+   "display_phone": "(718) 748-4283",
+   "distance": 8889.852626268967
+  },
+  {
+   "id": "d4pZh6IUoaOBsUjMx4B6aA",
+   "alias": "amc-garden-state-plaza-16-paramus",
+   "name": "AMC Garden State Plaza 16",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/P9hslHXasc25CBxtEr9PUQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-garden-state-plaza-16-paramus?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 305,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.076801,
+    "Latitude": 40.918053
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4000 Garden State Plaza",
+    "address2": "",
+    "address3": "",
+    "city": "Paramus",
+    "zip_code": "07652",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "4000 Garden State Plaza",
+     "Paramus, NJ 07652"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12012918524",
+   "display_phone": "(201) 291-8524",
+   "distance": 23587.9747634437
+  },
+  {
+   "id": "Rad3Qv5CDq4NvN152Fk9tQ",
+   "alias": "amc-magic-johnson-harlem-9-new-york",
+   "name": "AMC Magic Johnson Harlem 9",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ls942NiQSJDHGIoy5XABpg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-magic-johnson-harlem-9-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 305,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.95175,
+    "Latitude": 40.80969
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2309 Frederick Douglass Blvd.",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10027",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2309 Frederick Douglass Blvd.",
+     "New York, NY 10027"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126656923",
+   "display_phone": "(212) 665-6923",
+   "distance": 11701.07904494554
+  },
+  {
+   "id": "9VWVKQG0ahbQJSQv8bes7w",
+   "alias": "college-point-multiplex-cinemas-whitestone",
+   "name": "College Point Multiplex Cinemas",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/F62tNamT2riCuTYB1zJCTQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/college-point-multiplex-cinemas-whitestone?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 290,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.83519,
+    "Latitude": 40.772089
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2855 Ulmer St",
+    "address2": "",
+    "address3": "",
+    "city": "Whitestone",
+    "zip_code": "11357",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2855 Ulmer St",
+     "Whitestone, NY 11357"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18003154000",
+   "display_phone": "(800) 315-4000",
+   "distance": 15799.209681152219
+  },
+  {
+   "id": "9bm1OLJZ_xkGUrOVQzNEig",
+   "alias": "bam-rose-cinemas-brooklyn-2",
+   "name": "BAM Rose Cinemas",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x24neyJRXkrhK14gwykclg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bam-rose-cinemas-brooklyn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 256,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.977698,
+    "Latitude": 40.686463
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "30 Lafayette Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11217",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "30 Lafayette Ave",
+     "Brooklyn, NY 11217"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17186364100",
+   "display_phone": "(718) 636-4100",
+   "distance": 3772.8257759337844
+  },
+  {
+   "id": "lUNzAYm7Fw0SLaPdUYbiIA",
+   "alias": "amc-19th-st-east-6-new-york",
+   "name": "AMC 19th St. East 6",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/F9Y2aEWY1MAvlJq_iXNFaQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-19th-st-east-6-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 251,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.9896280482408,
+    "Latitude": 40.7385648220992
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "890 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "890 Broadway",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122608173",
+   "display_phone": "(212) 260-8173",
+   "distance": 3179.798954713535
+  },
+  {
+   "id": "vr1XlygdTzkqS45PcCe2bg",
+   "alias": "amc-kips-bay-15-new-york",
+   "name": "AMC Kips Bay 15",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Q0UWkBPEjIGMOM3oErMx-w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-kips-bay-15-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 242,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9767793173149,
+    "Latitude": 40.7426999149858
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "570 Second Avenue",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "570 Second Avenue",
+     "New York, NY 10016"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124470638",
+   "display_phone": "(212) 447-0638",
+   "distance": 4137.224301827439
+  },
+  {
+   "id": "97ss3gK06QWQWBAy2bcjwg",
+   "alias": "kew-gardens-cinema-kew-gardens",
+   "name": "Kew Gardens Cinema",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/f5zTOT7EF-Uihp7-gtOcfg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kew-gardens-cinema-kew-gardens?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 241,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.8300601,
+    "Latitude": 40.7090274
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8105 Lefferts Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Kew Gardens",
+    "zip_code": "11415",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "8105 Lefferts Blvd",
+     "Kew Gardens, NY 11415"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184419835",
+   "display_phone": "(718) 441-9835",
+   "distance": 14835.338187654908
+  },
+  {
+   "id": "jCsNg4IjZz7AOFBkNR-jxw",
+   "alias": "syndicated-bar-theater-kitchen-brooklyn",
+   "name": "Syndicated Bar Theater Kitchen",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BGIXIs53T8dUTLiijYr7bQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/syndicated-bar-theater-kitchen-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 234,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "gastropubs",
+     "title": "Gastropubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.93308,
+    "Latitude": 40.705
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "40 Bogart St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11206",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "40 Bogart St",
+     "Brooklyn, NY 11206"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183863399",
+   "display_phone": "(718) 386-3399",
+   "distance": 6218.446521340976
+  },
+  {
+   "id": "Ge66v1fZzcL5KJ-VLOjXuQ",
+   "alias": "amc-raceway-10-westbury",
+   "name": "AMC Raceway 10",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iQbPvCQu33aO8JHVd_j-WA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-raceway-10-westbury?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 230,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.596364,
+    "Latitude": 40.742462
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1025 Corporate Drive",
+    "address2": "",
+    "address3": "",
+    "city": "Westbury",
+    "zip_code": "11590",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1025 Corporate Drive",
+     "Westbury, NY 11590"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15167456937",
+   "display_phone": "(516) 745-6937",
+   "distance": 34675.417752761765
+  },
+  {
+   "id": "vieBJCxpsKQauyTdkYQm5A",
+   "alias": "regal-ua-midway-forest-hills-4",
+   "name": "Regal UA Midway",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8yX_ivZj6Sr2eKpIjqrC0g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/regal-ua-midway-forest-hills-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 226,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.84338,
+    "Latitude": 40.72082
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "108-22 Queens Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Forest Hills",
+    "zip_code": "11375",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "108-22 Queens Blvd",
+     "Forest Hills, NY 11375"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18444627342",
+   "display_phone": "(844) 462-7342",
+   "distance": 13734.48356915771
+  },
+  {
+   "id": "uHK9_TnAdSrLwNTwrkXk3Q",
+   "alias": "amc-orpheum-7-new-york",
+   "name": "AMC Orpheum 7",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7lxgba7U22lDTfNjq2IPLw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-orpheum-7-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 223,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.9539592087264,
+    "Latitude": 40.7792309561122
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1538 Third Ave (86th St.)",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10028",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1538 Third Ave (86th St.)",
+     "New York, NY 10028"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12128762111",
+   "display_phone": "(212) 876-2111",
+   "distance": 8589.776275413014
+  },
+  {
+   "id": "gwoSdn_GJv5bN7zHrIoIpg",
+   "alias": "amc-clifton-commons-16-clifton",
+   "name": "AMC Clifton Commons 16",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UzQ-CnDVzPQzkbT1_YzyNQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-clifton-commons-16-clifton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 223,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.140175,
+    "Latitude": 40.828923
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "405 Route 3",
+    "address2": "",
+    "address3": "",
+    "city": "Clifton",
+    "zip_code": "07014",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "405 Route 3",
+     "Clifton, NJ 07014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19736140966",
+   "display_phone": "(973) 614-0966",
+   "distance": 17157.909809525114
+  },
+  {
+   "id": "H38pIONXN5yM4FMNtCMZqw",
+   "alias": "nitehawk-cinema-prospect-park-brooklyn-3",
+   "name": "Nitehawk Cinema - Prospect Park",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7lNDK1DpEkaqrFbfzpVnNQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nitehawk-cinema-prospect-park-brooklyn-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 217,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "dinnertheater",
+     "title": "Dinner Theater"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.97962,
+    "Latitude": 40.66154
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "188 Prospect Park W",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11215",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "188 Prospect Park W",
+     "Brooklyn, NY 11215"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16469639295",
+   "display_phone": "(646) 963-9295",
+   "distance": 6109.62360464634
+  }
+ ],
+ "total": 230,
+ "region": {
+  "center": {
+   "longitude": -74.006,
+   "Latitude": 40.7128
+  }
+ }
+}

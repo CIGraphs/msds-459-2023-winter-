@@ -1,0 +1,1885 @@
+{
+ "businesses": [
+  {
+   "id": "AUQ3kXbHGpe8GCQUIJnpmw",
+   "alias": "kong-paris",
+   "name": "Kong",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/D6ZTOh3VYELi8pE4x8FIQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kong-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 496,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "panasian",
+     "title": "Pan Asian"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.34307,
+    "Latitude": 48.85915
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "1 rue du Pont Neuf",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "1 rue du Pont Neuf",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140390900",
+   "display_phone": "+33 1 40 39 09 00",
+   "distance": 723.4387650113846
+  },
+  {
+   "id": "M4-FspvPRCBaF6-lAgkgug",
+   "alias": "la-bellevilloise-paris",
+   "name": "La Bellevilloise",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/eOz4pyIg_ftOiHNZyawlkA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-bellevilloise-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 143,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "modern_european",
+     "title": "Modern European"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.39221,
+    "Latitude": 48.86829
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "19 - 21 rue Boyer",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "19 - 21 rue Boyer",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146360707",
+   "display_phone": "+33 1 46 36 07 07",
+   "distance": 3197.9275754110117
+  },
+  {
+   "id": "yXDmZAK194ZWaRWoOH136Q",
+   "alias": "rex-club-paris",
+   "name": "Rex Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/txFzsW7EUw5zo5emdjtdAw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rex-club-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 135,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.347374,
+    "Latitude": 48.870591
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "5 boulevard Poissonnière",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "5 boulevard Poissonnière",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142361096",
+   "display_phone": "+33 1 42 36 10 96",
+   "distance": 1595.2771430880953
+  },
+  {
+   "id": "rTUTuF8AMYLCpZDprPzQxw",
+   "alias": "la-flèche-d-or-paris-4",
+   "name": "La Flèche d'Or",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9tQnaoSckPrARLQRrfjxWA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-fl%C3%A8che-d-or-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 120,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.40271,
+    "Latitude": 48.85936
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "102 bis rue de Bagnolet",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "102 bis rue de Bagnolet",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144640102",
+   "display_phone": "+33 1 44 64 01 02",
+   "distance": 3714.280902836662
+  },
+  {
+   "id": "z6wGZds9aK3ITxNdiR8LIQ",
+   "alias": "rosa-bonheur-paris-2",
+   "name": "Rosa Bonheur",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xay8dfu4a5DbCYPSxahByA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rosa-bonheur-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 114,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "tapas",
+     "title": "Tapas Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.386241,
+    "Latitude": 48.879938
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "2 allée de la Cascade",
+    "address2": "",
+    "address3": "Parc des Buttes Chaumont",
+    "city": "Paris",
+    "zip_code": "75019",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 allée de la Cascade",
+     "Parc des Buttes Chaumont",
+     "75019 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142000045",
+   "display_phone": "+33 1 42 00 00 45",
+   "distance": 3596.3569368177627
+  },
+  {
+   "id": "A8i_syzoOkABBMK-DmhMZw",
+   "alias": "la-baraque-paris",
+   "name": "La Baraque",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TtOdloTXpQQAG4Q6Uk_aeA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-baraque-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 113,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "modern_european",
+     "title": "Modern European"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.38444,
+    "Latitude": 48.85441
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "102 rue Charonne",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "102 rue Charonne",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143722454",
+   "display_phone": "+33 1 43 72 24 54",
+   "distance": 2365.81373955085
+  },
+  {
+   "id": "Vz9ht6SonfTZnI1Kdlrx3Q",
+   "alias": "café-oz-châtelet-paris-7",
+   "name": "Café Oz - Châtelet",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1QbzDkCF1Qy9OLbGw6mv-w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/caf%C3%A9-oz-ch%C3%A2telet-paris-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 111,
+   "categories": [
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "pubs",
+     "title": "Pubs"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.34796,
+    "Latitude": 48.85937
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "18 rue Saint-Denis",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "18 rue Saint-Denis",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140390018",
+   "display_phone": "+33 1 40 39 00 18",
+   "distance": 432.7353099094147
+  },
+  {
+   "id": "0SzjPYrLc_dZ0zyXFfEzUQ",
+   "alias": "djoon-paris-2",
+   "name": "Djoon",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KcRNssU3ZBz5xndTqZprdw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/djoon-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 108,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.371437,
+    "Latitude": 48.836581
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "22 boulevard Vincent Auriol",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "22 boulevard Vincent Auriol",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2633.7485025311794
+  },
+  {
+   "id": "sJ_kj90zYwfcMeS5kHNirA",
+   "alias": "la-pachanga-paris",
+   "name": "La Pachanga",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Z4S_45FzvOTt8xfZeIUvjw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-pachanga-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 104,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.32299,
+    "Latitude": 48.83963
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "8 rue Vandamme",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75014",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "8 rue Vandamme",
+     "75014 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140476369",
+   "display_phone": "+33 1 40 47 63 69",
+   "distance": 2844.296453297968
+  },
+  {
+   "id": "TbwzHNgBzEshKP6H0qaXtw",
+   "alias": "le-hobo-paris-2",
+   "name": "Le Hobo",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/al2MZzYAh7aPo5wj6TchQQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-hobo-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 101,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.30444,
+    "Latitude": 48.87021
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "67 rue Pierre Charron",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "67 rue Pierre Charron",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33158562050",
+   "display_phone": "+33 1 58 56 20 50",
+   "distance": 3804.7086521046044
+  },
+  {
+   "id": "g7lxn_3HsHKvHSRv3NguEw",
+   "alias": "barramundi-paris",
+   "name": "Barramundi",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jXuWiXZxaUt6RNEMpFQp7Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barramundi-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 88,
+   "categories": [
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3361582320179,
+    "Latitude": 48.8719645667941
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "3 rue Taitbout",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 rue Taitbout",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147702121",
+   "display_phone": "+33 1 47 70 21 21",
+   "distance": 2072.629412180887
+  },
+  {
+   "id": "0_lsGFHfml1dNlSCpBJ_BA",
+   "alias": "les-planches-paris",
+   "name": "Les Planches",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZkxzUOH1VhrXghcgpS_RzA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/les-planches-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 86,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.31085,
+    "Latitude": 48.87166
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "40 rue du Colisée",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "40 rue du Colisée",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145630503",
+   "display_phone": "+33 1 45 63 05 03",
+   "distance": 3457.3371275080303
+  },
+  {
+   "id": "8tbONggyT4SL9pKJqiFHwg",
+   "alias": "wanderlust-paris",
+   "name": "Wanderlust",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MtjUkgWyOrVFNa8PPVMp4w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wanderlust-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 80,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "french",
+     "title": "French"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.37084762972813,
+    "Latitude": 48.8401715113428
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "32 quai d'Austerlitz",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "32 quai d'Austerlitz",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33170744174",
+   "display_phone": "+33 1 70 74 41 74",
+   "distance": 2280.106875013377
+  },
+  {
+   "id": "va_0z6OCBaalotuxIfGkPg",
+   "alias": "o-sullivans-by-the-mill-paris-2",
+   "name": "O'Sullivans By The Mill",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bLrmxiqvUJxNx6dO8T2vLw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/o-sullivans-by-the-mill-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 78,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "irish_pubs",
+     "title": "Irish Pub"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.332,
+    "Latitude": 48.88417
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "92 boulevard de Clichy",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75018",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "92 boulevard de Clichy",
+     "75018 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153090849",
+   "display_phone": "+33 1 53 09 08 49",
+   "distance": 3408.282940935425
+  },
+  {
+   "id": "3PtQ8GLtv8d1LzU9A7vZ2A",
+   "alias": "l-international-paris",
+   "name": "L'International",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BNDRbkK2krq1Msr_PXnk9A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/l-international-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 77,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3798665,
+    "Latitude": 48.866812
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "5-7 rue Moret",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "5-7 rue Moret",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33980537641",
+   "display_phone": "+33 9 80 53 76 41",
+   "distance": 2320.6669907140367
+  },
+  {
+   "id": "Cs2dRSRaH6zzbqdYXXXN6A",
+   "alias": "mix-club-paris",
+   "name": "Mix Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H1hReAsY2l-vNhjitYPZag/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mix-club-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 76,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3213790047246,
+    "Latitude": 48.8421539943014
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "24 rue de l'Arrivée",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "24 rue de l'Arrivée",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33695818856",
+   "display_phone": "+33 6 95 81 88 56",
+   "distance": 2768.784486326331
+  },
+  {
+   "id": "SV883A3YqJw9xmt9faMNOA",
+   "alias": "banana-café-paris-2",
+   "name": "Banana Café",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yjY5Qv9e0TLaIBBiNoP2iA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/banana-caf%C3%A9-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 76,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.34756,
+    "Latitude": 48.86019
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "13 rue de la Ferronnerie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "13 rue de la Ferronnerie",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142333531",
+   "display_phone": "+33 1 42 33 35 31",
+   "distance": 521.6040294230783
+  },
+  {
+   "id": "E16sVrapM7N4PlNA5CeVXA",
+   "alias": "tribar-paris",
+   "name": "Tribar",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DDTNzy692oorzTShoGEdZA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tribar-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 75,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.37262,
+    "Latitude": 48.85378
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "20 rue de Lappe",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "20 rue de Lappe",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147001083",
+   "display_phone": "+33 1 47 00 10 83",
+   "distance": 1526.5253762555503
+  },
+  {
+   "id": "SckytRv3GIJz1Tu-XBFfpg",
+   "alias": "le-matignon-paris-2",
+   "name": "Le Matignon",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/foNFyV7ki5EcNwDskmVE3w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-matignon-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 72,
+   "categories": [
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.311205,
+    "Latitude": 48.869787
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "3 avenue Matignon",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 avenue Matignon",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142896472",
+   "display_phone": "+33 1 42 89 64 72",
+   "distance": 3338.1052886045395
+  },
+  {
+   "id": "BACGfuBj8cxTrSWUR2r-fA",
+   "alias": "le-new-players-paris",
+   "name": "Le New Players",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mPA8NuUaG0i8nBEG6H3Yog/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-new-players-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 70,
+   "categories": [
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "pubs",
+     "title": "Pubs"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.34274,
+    "Latitude": 48.87092
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "161 rue Montmartre",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "161 rue Montmartre",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33149295050",
+   "display_phone": "+33 1 49 29 50 50",
+   "distance": 1754.0688991880536
+  },
+  {
+   "id": "Rn64bdJrsXbUbXXU3O_zKg",
+   "alias": "péniche-concorde-atlantique-paris",
+   "name": "Péniche Concorde Atlantique",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/w7TByuxg8hqmZB1IN2C0mQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/p%C3%A9niche-concorde-atlantique-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 69,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.322798,
+    "Latitude": 48.861927
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "23 quai Anatole-France",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "23 quai Anatole-France",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140560282",
+   "display_phone": "+33 1 40 56 02 82",
+   "distance": 2231.0100302396045
+  },
+  {
+   "id": "0iQfQXXYmz7GwZOK7uW-bA",
+   "alias": "favela-chic-paris",
+   "name": "Favela Chic",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MUNg1awYz2DRAfixJYyx-Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/favela-chic-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 69,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3660899,
+    "Latitude": 48.86831
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "18 rue du Faubourg du Temple",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "18 rue du Faubourg du Temple",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140213814",
+   "display_phone": "+33 1 40 21 38 14",
+   "distance": 1662.1528898229053
+  },
+  {
+   "id": "myZA8glTI7G5f6BuuCYwMA",
+   "alias": "le-memphis-paris",
+   "name": "Le Memphis",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GAAqMLuIZhFWCJ44r1DjxA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-memphis-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 68,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.350505,
+    "Latitude": 48.870691
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "3 impasse Bonne Nouvelle",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 impasse Bonne Nouvelle",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145233447",
+   "display_phone": "+33 1 45 23 34 47",
+   "distance": 1571.744120736572
+  },
+  {
+   "id": "OIGrWTHMmo0VuNcrKACYwA",
+   "alias": "le-cavern-paris",
+   "name": "Le Cavern",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ylEeb-jeI-i8C3kxjS8DMQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-cavern-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 67,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.33982,
+    "Latitude": 48.85533
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "21 rue Dauphine",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "21 rue Dauphine",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143545382",
+   "display_phone": "+33 1 43 54 53 82",
+   "distance": 916.6771151710365
+  },
+  {
+   "id": "-SWSXQ51FzotLcPtCVfMrA",
+   "alias": "le-nouveau-casino-paris",
+   "name": "Le Nouveau Casino",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fblu7hi7OmAQs09b0sKzrA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-nouveau-casino-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 63,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3778067348022,
+    "Latitude": 48.865847155687
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "109 rue Oberkampf",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "109 rue Oberkampf",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143575740",
+   "display_phone": "+33 1 43 57 57 40",
+   "distance": 2136.8717529174955
+  },
+  {
+   "id": "uTS7vd_tHbPZP3GSEB_-7w",
+   "alias": "glazart-paris-2",
+   "name": "Glazart",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/67Btlzq9k1LtKtir7oshiA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/glazart-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 62,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.386629,
+    "Latitude": 48.89927
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "7-15 avenue de la Porte de la Villette",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75019",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "7-15 avenue de la Porte de la Villette",
+     "75019 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140365565",
+   "display_phone": "+33 1 40 36 55 65",
+   "distance": 5371.323008031983
+  },
+  {
+   "id": "MDXvhcOys99i8OZPo-YlqQ",
+   "alias": "the-financier-paris",
+   "name": "The Financier",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K1GbvrKNm5b1lsOwh_k6rQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-financier-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 62,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "pubs",
+     "title": "Pubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.32368,
+    "Latitude": 48.8426
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "15 rue du Départ",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75014",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "15 rue du Départ",
+     "75014 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140476033",
+   "display_phone": "+33 1 40 47 60 33",
+   "distance": 2601.779191437526
+  },
+  {
+   "id": "1GDD43qDTdhkSU9Td0HOWA",
+   "alias": "alimentation-générale-paris-9",
+   "name": "Alimentation Générale",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/quW56H6bPgMgQLKoUE9Kdw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alimentation-g%C3%A9n%C3%A9rale-paris-9?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 62,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3744,
+    "Latitude": 48.86684
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "64 rue Jean Pierre Timbaud",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "64 rue Jean Pierre Timbaud",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143554250",
+   "display_phone": "+33 1 43 55 42 50",
+   "distance": 1985.8903255332802
+  },
+  {
+   "id": "IUulg7WTFp3idh2XWssfdA",
+   "alias": "la-dame-de-canton-paris-3",
+   "name": "La Dame de Canton",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cUEnsh8kSGJluT1HMSdA1w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-dame-de-canton-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 60,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "pizza",
+     "title": "Pizza"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.377576,
+    "Latitude": 48.8345
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "Port de la gare",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "01",
+    "display_address": [
+     "Port de la gare",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153610849",
+   "display_phone": "+33 1 53 61 08 49",
+   "distance": 3080.0972697023362
+  },
+  {
+   "id": "CEZIyTnmOYr9iQjBC59K_g",
+   "alias": "le-cafe-bizz-art-paris",
+   "name": "Le Cafe Bizz'art",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AHoARGLaTAzulFG9LUDQlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-cafe-bizz-art-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 57,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.36664009094238,
+    "Latitude": 48.8791618347168
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "167 quai de Valmy",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "167 quai de Valmy",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140347000",
+   "display_phone": "+33 1 40 34 70 00",
+   "distance": 2722.161811054933
+  },
+  {
+   "id": "dWuo1aogDV-WoaGSpaaV_w",
+   "alias": "le-pousse-au-crime-paris",
+   "name": "Le Pousse au Crime",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WhlnwvxWGcwHTv-_DZBxeQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-pousse-au-crime-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 56,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.3343434,
+    "Latitude": 48.8518644
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "15 rue Guisarde",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "15 rue Guisarde",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146333663",
+   "display_phone": "+33 1 46 33 36 63",
+   "distance": 1408.581225862875
+  },
+  {
+   "id": "HH1YBRziUWx9vdhjB6EAkA",
+   "alias": "le-bus-palladium-paris",
+   "name": "Le Bus Palladium",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZFcHw-k5QHijO24nIQiZ8w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-bus-palladium-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 56,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.33482,
+    "Latitude": 48.88075
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "6 rue Pierre Fontaine",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "6 rue Pierre Fontaine",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145268035",
+   "display_phone": "+33 1 45 26 80 35",
+   "distance": 2971.0471130290894
+  },
+  {
+   "id": "bXCCm4lPhNrRnU2N3TDFzQ",
+   "alias": "l-arc-paris-2",
+   "name": "L'Arc",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3_lx4wMkrhcsrjWyMO90dA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/l-arc-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.2928799,
+    "Latitude": 48.87395
+   },
+   "transactions": [],
+   "price": "€€€€",
+   "location": {
+    "address1": "12 rue de Presbourg",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75116",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "12 rue de Presbourg",
+     "75116 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145007870",
+   "display_phone": "+33 1 45 00 78 70",
+   "distance": 4731.72373686878
+  },
+  {
+   "id": "geRMGrF0CKpOCD8c3KCazg",
+   "alias": "glass-paris",
+   "name": "Glass",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/flaR0ljZfu_5kMLgMCVHfQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/glass-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 51,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3373201,
+    "Latitude": 48.8815117
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "7 rue Frochot",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "7 rue Frochot",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33980729883",
+   "display_phone": "+33 9 80 72 98 83",
+   "distance": 2975.5281098831792
+  },
+  {
+   "id": "qRUd_zDdIH3ahXfJLY1HBw",
+   "alias": "panic-room-paris-11",
+   "name": "Panic Room",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4ss2aO6K0_CouvEPz4H6uQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/panic-room-paris-11?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 49,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3676,
+    "Latitude": 48.86126
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "101 Rue Amelot",
+    "address2": "",
+    "address3": "",
+    "city": "Paris 11",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "101 Rue Amelot",
+     "75011 Paris 11",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33158309343",
+   "display_phone": "+33 1 58 30 93 43",
+   "distance": 1239.4717727509073
+  },
+  {
+   "id": "MF45X0KqAd71omzoSO1yBA",
+   "alias": "rosa-bonheur-sur-seine-paris-2",
+   "name": "Rosa Bonheur sur Seine",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jqpNPuKehQS_CG9P2rVpZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rosa-bonheur-sur-seine-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 48,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "pizza",
+     "title": "Pizza"
+    },
+    {
+     "alias": "tapas",
+     "title": "Tapas Bars"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.31551,
+    "Latitude": 48.863326
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "Quai d'Orsay",
+    "address2": "Port des Invalides",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "Quai d'Orsay",
+     "Port des Invalides",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147536692",
+   "display_phone": "+33 1 47 53 66 92",
+   "distance": 2786.3163282218793
+  },
+  {
+   "id": "QXa0dnMICyPGtandxDAUbA",
+   "alias": "le-loft-métropolis-rungis",
+   "name": "Le Loft Métropolis",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Vf3M-8oDJFlE_AR_H8v8uA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-loft-m%C3%A9tropolis-rungis?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.347435,
+    "Latitude": 48.757487
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "Rue du Pont des Halles",
+    "address2": "",
+    "address3": "",
+    "city": "Rungis",
+    "zip_code": "94150",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "Rue du Pont des Halles",
+     "94150 Rungis",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33609750455",
+   "display_phone": "+33 6 09 75 04 55",
+   "distance": 11026.373601571218
+  },
+  {
+   "id": "GsI6Q5kLuEic225vGwnKUA",
+   "alias": "silencio-paris",
+   "name": "Silencio",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TwKiaJY64E2yXaFCqI-xNQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/silencio-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 43,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.34341,
+    "Latitude": 48.86889
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "142 rue Montmartre",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "142 rue Montmartre",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140131233",
+   "display_phone": "+33 1 40 13 12 33",
+   "distance": 1502.4249553093352
+  },
+  {
+   "id": "7VdkADUisd8Xxa3i8tZpDQ",
+   "alias": "american-dream-paris",
+   "name": "American Dream",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6j0hGc-lEzEX5E0Eal2voQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-dream-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 43,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "burgers",
+     "title": "Burgers"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": 2.33031,
+    "Latitude": 48.87003
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "21 rue Daunou",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "21 rue Daunou",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142604051",
+   "display_phone": "+33 1 42 60 40 51",
+   "distance": 2184.3094526132145
+  },
+  {
+   "id": "tolZ8OE4242376Y2Wc1pdg",
+   "alias": "la-pena-saint-germain-paris-2",
+   "name": "La Pena Saint Germain",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/L1LIxWaqaZA9gb13TPTDdw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-pena-saint-germain-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 43,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.33578,
+    "Latitude": 48.85377
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "3 passage de la Petite Boucherie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 passage de la Petite Boucherie",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146331989",
+   "display_phone": "+33 1 46 33 19 89",
+   "distance": 1241.415509485702
+  }
+ ],
+ "total": 240,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

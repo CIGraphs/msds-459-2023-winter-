@@ -1,0 +1,1891 @@
+{
+ "businesses": [
+  {
+   "id": "qMr-lz0G0vyz2r4mJJQxmA",
+   "alias": "butter-lane-new-york",
+   "name": "Butter Lane",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qwdSGuda8Q89zZljsllVWA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/butter-lane-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1259,
+   "categories": [
+    {
+     "alias": "bakeries",
+     "title": "Bakeries"
+    },
+    {
+     "alias": "cupcakes",
+     "title": "Cupcakes"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9841490983963,
+    "Latitude": 40.7264944895101
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "123 E 7th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10009",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "123 E 7th St",
+     "New York, NY 10009"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126772880",
+   "display_phone": "(212) 677-2880",
+   "distance": 2389.541937237829
+  },
+  {
+   "id": "rWGAO9OEUsiBL5a5qpgK6Q",
+   "alias": "kinokuniya-bookstore-new-york-new-york",
+   "name": "Kinokuniya Bookstore - New York",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jBlyCqU5O9_Pd6aPyG5qdg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kinokuniya-bookstore-new-york-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 703,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.98497,
+    "Latitude": 40.754044
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1073 Ave Of The Americas",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1073 Ave Of The Americas",
+     "New York, NY 10018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12128691700",
+   "display_phone": "(212) 869-1700",
+   "distance": 4916.53285009326
+  },
+  {
+   "id": "0JSRIoZ6C53TgQKE115Gnw",
+   "alias": "purl-soho-new-york",
+   "name": "Purl Soho",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7miAopnsSMIXIEANuX2l8A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/purl-soho-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 379,
+   "categories": [
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    },
+    {
+     "alias": "knittingsupplies",
+     "title": "Knitting Supplies"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.0010869,
+    "Latitude": 40.7222118
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "459 Broome St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10013",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "459 Broome St",
+     "New York, NY 10013"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124208796",
+   "display_phone": "(212) 420-8796",
+   "distance": 1125.4800823559278
+  },
+  {
+   "id": "kV00pT7Po2TCEGIVUxraNA",
+   "alias": "mood-fabrics-new-york",
+   "name": "Mood Fabrics",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DhmswLaJFdZLgixuHAIrNg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mood-fabrics-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 376,
+   "categories": [
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.990459,
+    "Latitude": 40.753715
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "225 W 37th St",
+    "address2": "Fl 3",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "225 W 37th St",
+     "Fl 3",
+     "New York, NY 10018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127305003",
+   "display_phone": "(212) 730-5003",
+   "distance": 4734.232858434632
+  },
+  {
+   "id": "uwStYTWVMr-0BihJD7CmSQ",
+   "alias": "choc-o-pain-hoboken-9",
+   "name": "Choc O Pain",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1wpmDn8-7br_qgWn0oyGsQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/choc-o-pain-hoboken-9?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 343,
+   "categories": [
+    {
+     "alias": "bakeries",
+     "title": "Bakeries"
+    },
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.03221,
+    "Latitude": 40.737588
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "157 1st St",
+    "address2": "",
+    "address3": "",
+    "city": "Hoboken",
+    "zip_code": "07030",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "157 1st St",
+     "Hoboken, NJ 07030"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12017105175",
+   "display_phone": "(201) 710-5175",
+   "distance": 3527.0664731749844
+  },
+  {
+   "id": "O5Ca_te7kWEx-3AC0NYwkQ",
+   "alias": "art-to-frames-brooklyn",
+   "name": "Art To Frames",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Wi0kkS-8a0phd5Tl7xLqig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/art-to-frames-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 304,
+   "categories": [
+    {
+     "alias": "framing",
+     "title": "Framing"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.997649,
+    "Latitude": 40.657891
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "770 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11232",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "770 5th Ave",
+     "Brooklyn, NY 11232"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187886200",
+   "display_phone": "(718) 788-6200",
+   "distance": 6146.065551919349
+  },
+  {
+   "id": "wPcc-1RV-TgCBVYDQW7aDA",
+   "alias": "muji-new-york-5",
+   "name": "MUJI",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zsiyVeda1pET5h88wg_0Sw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/muji-new-york-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 285,
+   "categories": [
+    {
+     "alias": "fashion",
+     "title": "Fashion"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.00112,
+    "Latitude": 40.72078
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "455 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10013",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "455 Broadway",
+     "New York, NY 10013"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123342002",
+   "display_phone": "(212) 334-2002",
+   "distance": 979.5575777108689
+  },
+  {
+   "id": "sxKwCbFw5-B9sWW0o3BfHQ",
+   "alias": "line-friends-new-york",
+   "name": "Line Friends",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fwJu4O5koFshcLlpAGqGow/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/line-friends-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 263,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.98588657258841,
+    "Latitude": 40.75783814274201
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1515 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1515 Broadway",
+     "New York, NY 10036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16468667788",
+   "display_phone": "(646) 866-7788",
+   "distance": 5286.970772174931
+  },
+  {
+   "id": "7YsZno_m9TQqKd-DHpttuw",
+   "alias": "abigails-kitchen-new-york",
+   "name": "Abigail's Kitchen",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YXNC_Qgr8xZm6FgxaFWxwA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/abigails-kitchen-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 259,
+   "categories": [
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.98785,
+    "Latitude": 40.71367
+   },
+   "transactions": [
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "193 Henry St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "193 Henry St",
+     "New York, NY 10002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126738184",
+   "display_phone": "(212) 673-8184",
+   "distance": 1533.7543439249253
+  },
+  {
+   "id": "ROlXo532eYL1c8rDSdyGEQ",
+   "alias": "michaels-new-york-12",
+   "name": "Michaels",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/66K-tDXz9THl7PbDaJdXaQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/michaels-new-york-12?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 240,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "knittingsupplies",
+     "title": "Knitting Supplies"
+    },
+    {
+     "alias": "hobbyshops",
+     "title": "Hobby Shops"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9941211,
+    "Latitude": 40.74210174795748
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "675 Avenue Of The Americas",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "675 Avenue Of The Americas",
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16462593911",
+   "display_phone": "(646) 259-3911",
+   "distance": 3408.4971774706446
+  },
+  {
+   "id": "5Yb8ag-sAQy7CFat52PV-Q",
+   "alias": "heirloom-kitchen-old-bridge",
+   "name": "Heirloom Kitchen",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fNt3MyGmDIL3_eW7K-4wbg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/heirloom-kitchen-old-bridge?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 217,
+   "categories": [
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.29830518929106,
+    "Latitude": 40.40229620877021
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "3853 Rt 516",
+    "address2": "",
+    "address3": "",
+    "city": "Old Bridge",
+    "zip_code": "08857",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "3853 Rt 516",
+     "Old Bridge, NJ 08857"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17327279444",
+   "display_phone": "(732) 727-9444",
+   "distance": 42448.40633006767
+  },
+  {
+   "id": "dkhKUSK6q0CTmvesJWItng",
+   "alias": "cocusocial-new-york",
+   "name": "CocuSocial",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/00KiMneKhOX-fO6fewj-ZA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cocusocial-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 216,
+   "categories": [
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.0062103271484,
+    "Latitude": 40.7345542907715
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "New York, NY 10014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13323334864",
+   "display_phone": "(332) 333-4864",
+   "distance": 2663.856377815468
+  },
+  {
+   "id": "urqCJYMlGL6b2owD5MIwjQ",
+   "alias": "m-and-j-trimming-new-york",
+   "name": "M\u0026J Trimming",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Engut_5XGqyBwwIJK3hKEw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/m-and-j-trimming-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 206,
+   "categories": [
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    },
+    {
+     "alias": "embroideryandcrochet",
+     "title": "Embroidery \u0026 Crochet"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9859,
+    "Latitude": 40.75186
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1008 6th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1008 6th Ave",
+     "New York, NY 10018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123916200",
+   "display_phone": "(212) 391-6200",
+   "distance": 4662.399021642642
+  },
+  {
+   "id": "Y0gWDMxU9xEpWO1-v9BlLQ",
+   "alias": "pizza-school-nyc-new-york-2",
+   "name": "Pizza School NYC",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9-Ycl40uQNP3pnrxNUR0yA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pizza-school-nyc-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 184,
+   "categories": [
+    {
+     "alias": "teambuilding",
+     "title": "Team Building Activities"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.98872,
+    "Latitude": 40.71637
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "371 Grand St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "371 Grand St",
+     "New York, NY 10002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122285483",
+   "display_phone": "(212) 228-5483",
+   "distance": 1505.720939514109
+  },
+  {
+   "id": "aKTBH65H1jbIUs_s-TyipQ",
+   "alias": "party-city-new-york",
+   "name": "Party City",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_5rQZ17cQVnF9Jiy3UHKzw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/party-city-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 173,
+   "categories": [
+    {
+     "alias": "partysupplies",
+     "title": "Party Supplies"
+    },
+    {
+     "alias": "costumes",
+     "title": "Costumes"
+    },
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.99556,
+    "Latitude": 40.73665
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "38 W 14th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "38 W 14th St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122717310",
+   "display_phone": "(212) 271-7310",
+   "distance": 2795.0367752341936
+  },
+  {
+   "id": "xoS-7RBU_f8PVQO0tl_ijg",
+   "alias": "taste-buds-kitchen-nyc-new-york",
+   "name": "Taste Buds Kitchen NYC",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/duoRqOdBj2IYQEOlStJ_LQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/taste-buds-kitchen-nyc-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 171,
+   "categories": [
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    },
+    {
+     "alias": "teambuilding",
+     "title": "Team Building Activities"
+    },
+    {
+     "alias": "summer_camps",
+     "title": "Summer Camps"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.991529,
+    "Latitude": 40.745881
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "109 W 27th St",
+    "address2": "Fl 10",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "109 W 27th St",
+     "Fl 10",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122422248",
+   "display_phone": "(212) 242-2248",
+   "distance": 3875.276120518323
+  },
+  {
+   "id": "drvEccLSP_m96wCgjnc6IQ",
+   "alias": "567-framing-new-york",
+   "name": "567 Framing",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IlmKT811CvALBcPBpQYw2A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/567-framing-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 162,
+   "categories": [
+    {
+     "alias": "framing",
+     "title": "Framing"
+    },
+    {
+     "alias": "copyshops",
+     "title": "Printing Services"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9987,
+    "Latitude": 40.73847
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "145 W 14th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "145 W 14th St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123379993",
+   "display_phone": "(212) 337-9993",
+   "distance": 2917.2256310720713
+  },
+  {
+   "id": "YnPNXJvUsn2jymwBeLpQ4g",
+   "alias": "mille-feuille-bakery-brooklyn",
+   "name": "Mille-Feuille Bakery",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kWnwkckASzYXgg2wRlZmbQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mille-feuille-bakery-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 142,
+   "categories": [
+    {
+     "alias": "bakeries",
+     "title": "Bakeries"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.96912,
+    "Latitude": 40.677621
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "",
+   "location": {
+    "address1": "622 Vanderbilt Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11238",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "622 Vanderbilt Ave",
+     "Brooklyn, NY 11238"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13473508838",
+   "display_phone": "(347) 350-8838",
+   "distance": 4996.886678007797
+  },
+  {
+   "id": "BuZNWFnY4AvOfqqK33A7dA",
+   "alias": "bcco-nyc-custom-printing-new-york",
+   "name": "BCCO NYC Custom Printing",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JjYlcEXO8Pw6Qcybj1vM1w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bcco-nyc-custom-printing-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 139,
+   "categories": [
+    {
+     "alias": "screenprinting",
+     "title": "Screen Printing"
+    },
+    {
+     "alias": "screen_printing_tshirt_printing",
+     "title": "Screen Printing/T-Shirt Printing"
+    },
+    {
+     "alias": "embroideryandcrochet",
+     "title": "Embroidery \u0026 Crochet"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9832819976227,
+    "Latitude": 40.7636227210815
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1697 Broadway",
+    "address2": "Ste 302",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1697 Broadway",
+     "Ste 302",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13478369116",
+   "display_phone": "(347) 836-9116",
+   "distance": 5966.562838679871
+  },
+  {
+   "id": "WHkR3YZP5NmsWMTgSN2oEQ",
+   "alias": "brooklyn-general-brooklyn",
+   "name": "Brooklyn General",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/902GNE8APvLOhNjhRE28lA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brooklyn-general-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 136,
+   "categories": [
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    },
+    {
+     "alias": "hobbyshops",
+     "title": "Hobby Shops"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.002395,
+    "Latitude": 40.683986
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "128 Union St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11231",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "128 Union St",
+     "Brooklyn, NY 11231"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182377753",
+   "display_phone": "(718) 237-7753",
+   "distance": 3213.4675995209823
+  },
+  {
+   "id": "Du0oXdBy5aHFA-Zds5LWmw",
+   "alias": "tache-artisan-chocolate-new-york",
+   "name": "Tache Artisan Chocolate",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_ljvNnzfx4u4UdIj6Lbsxw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tache-artisan-chocolate-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 131,
+   "categories": [
+    {
+     "alias": "chocolate",
+     "title": "Chocolatiers \u0026 Shops"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9928878,
+    "Latitude": 40.7206728
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "163 Chrystie St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "163 Chrystie St",
+     "New York, NY 10002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124733200",
+   "display_phone": "(212) 473-3200",
+   "distance": 1409.8124408384406
+  },
+  {
+   "id": "sBskAaiBqyqvJ8fRlDdysQ",
+   "alias": "little-shop-of-crafts-new-york-3",
+   "name": "Little Shop of Crafts",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nebGTm4CoBGMcoY8roGzUQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/little-shop-of-crafts-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 123,
+   "categories": [
+    {
+     "alias": "eventplanning",
+     "title": "Party \u0026 Event Planning"
+    },
+    {
+     "alias": "kids_activities",
+     "title": "Kids Activities"
+    },
+    {
+     "alias": "paintyourownpottery",
+     "title": "Paint-Your-Own Pottery"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.971069,
+    "Latitude": 40.793087
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "711 Amsterdam Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10025",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "711 Amsterdam Ave",
+     "New York, NY 10025"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125312723",
+   "display_phone": "(212) 531-2723",
+   "distance": 9399.877562236035
+  },
+  {
+   "id": "ruICeb71UNfkUu5ayE9TUg",
+   "alias": "michaels-woodside-3",
+   "name": "Michaels",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NkqSikYQ6t8dG-CXdMqRvA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/michaels-woodside-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 123,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "knittingsupplies",
+     "title": "Knitting Supplies"
+    },
+    {
+     "alias": "hobbyshops",
+     "title": "Hobby Shops"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.910224,
+    "Latitude": 40.752961
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5106 Northern Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Woodside",
+    "zip_code": "11377",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "5106 Northern Blvd",
+     "Woodside, NY 11377"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183710480",
+   "display_phone": "(718) 371-0480",
+   "distance": 9223.183230952036
+  },
+  {
+   "id": "7rlt6G_3m5TvJezI7lt1Dw",
+   "alias": "color-me-mine-new-york-4",
+   "name": "Color Me Mine",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nNeGcSKbqO3ZwY8z9oa6cQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/color-me-mine-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 123,
+   "categories": [
+    {
+     "alias": "paintyourownpottery",
+     "title": "Paint-Your-Own Pottery"
+    },
+    {
+     "alias": "kids_activities",
+     "title": "Kids Activities"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9986711,
+    "Latitude": 40.718148
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "123 Baxter St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10013",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "123 Baxter St",
+     "New York, NY 10013"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123741710",
+   "display_phone": "(212) 374-1710",
+   "distance": 857.4202864856677
+  },
+  {
+   "id": "EYZEgPgiK9e0c-ujRBvjTg",
+   "alias": "photo-mission-studios-new-york-3",
+   "name": "Photo Mission Studios",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mneGwaOye0rrbGK963kXJQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/photo-mission-studios-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 120,
+   "categories": [
+    {
+     "alias": "photographystores",
+     "title": "Photography Stores \u0026 Services"
+    },
+    {
+     "alias": "framing",
+     "title": "Framing"
+    },
+    {
+     "alias": "copyshops",
+     "title": "Printing Services"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.98292512540111,
+    "Latitude": 40.7495269713372
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1 East 36th St",
+    "address2": "street level",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1 East 36th St",
+     "street level",
+     "New York, NY 10016"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129728701",
+   "display_phone": "(212) 972-8701",
+   "distance": 4523.071893379397
+  },
+  {
+   "id": "vpX2m209QLsMG731tt1kug",
+   "alias": "baboo-digital-hauppauge",
+   "name": "Baboo Digital",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6M1kg65KcHJd7MJHrKs6ZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/baboo-digital-hauppauge?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 118,
+   "categories": [
+    {
+     "alias": "photographystores",
+     "title": "Photography Stores \u0026 Services"
+    },
+    {
+     "alias": "copyshops",
+     "title": "Printing Services"
+    },
+    {
+     "alias": "framing",
+     "title": "Framing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.2587519,
+    "Latitude": 40.8095562
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "175 Commerce Dr",
+    "address2": "Ste M",
+    "address3": "",
+    "city": "Hauppauge",
+    "zip_code": "11788",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "175 Commerce Dr",
+     "Ste M",
+     "Hauppauge, NY 11788"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127272727",
+   "display_phone": "(212) 727-2727",
+   "distance": 63848.34148476863
+  },
+  {
+   "id": "sF0MQUzCpHtczeUZlQoO7Q",
+   "alias": "brooklyn-superhero-supply-co-brooklyn-2",
+   "name": "Brooklyn Superhero Supply Co",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bbBfPfA5gBtYrPS3IshQSg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brooklyn-superhero-supply-co-brooklyn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 116,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "costumes",
+     "title": "Costumes"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.98477,
+    "Latitude": 40.671444
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "372 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11215",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "372 5th Ave",
+     "Brooklyn, NY 11215"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184999884",
+   "display_phone": "(718) 499-9884",
+   "distance": 4934.638426545357
+  },
+  {
+   "id": "Y4Qgb968DOVvPoHCxKmV9w",
+   "alias": "print-icon-new-york",
+   "name": "Print Icon",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RRIIJ3WuO0cN0ObnyyVZsw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/print-icon-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 112,
+   "categories": [
+    {
+     "alias": "copyshops",
+     "title": "Printing Services"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    },
+    {
+     "alias": "bookbinding",
+     "title": "Bookbinding"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.99432925981306,
+    "Latitude": 40.741290232359795
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "125 W 21st St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "125 W 21st St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122554489",
+   "display_phone": "(212) 255-4489",
+   "distance": 3317.104559824396
+  },
+  {
+   "id": "9hKqfAykMXia2nOZTPLXCA",
+   "alias": "michaels-rego-park-4",
+   "name": "Michaels",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/93M1Mk-fg2aXsCT19RBs9Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/michaels-rego-park-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 110,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "knittingsupplies",
+     "title": "Knitting Supplies"
+    },
+    {
+     "alias": "hobbyshops",
+     "title": "Hobby Shops"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.858324,
+    "Latitude": 40.711189
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "9030 Metropolitan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Rego Park",
+    "zip_code": "11374",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "9030 Metropolitan Ave",
+     "Rego Park, NY 11374"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184592375",
+   "display_phone": "(718) 459-2375",
+   "distance": 12448.22076092251
+  },
+  {
+   "id": "sTX8scZn_Porem4SWcrCxw",
+   "alias": "village-party-store-new-york",
+   "name": "Village Party Store",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/O1pw7uhZAcCt8DTymCxJjQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/village-party-store-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 107,
+   "categories": [
+    {
+     "alias": "costumes",
+     "title": "Costumes"
+    },
+    {
+     "alias": "partysupplies",
+     "title": "Party Supplies"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.99532,
+    "Latitude": 40.73193
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "13 E 8th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "13 E 8th St",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126759697",
+   "display_phone": "(212) 675-9697",
+   "distance": 2318.6883513810235
+  },
+  {
+   "id": "yWDcjM6iiJelOOl3mYOpjg",
+   "alias": "abracadabra-nyc-new-york",
+   "name": "Abracadabra NYC",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bRAJV02thUMKRNcEgG4eUQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/abracadabra-nyc-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 106,
+   "categories": [
+    {
+     "alias": "costumes",
+     "title": "Costumes"
+    },
+    {
+     "alias": "wigs",
+     "title": "Wigs"
+    },
+    {
+     "alias": "magicians",
+     "title": "Magicians"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.991782,
+    "Latitude": 40.741022
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "19 W 21st St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "19 W 21st St",
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126275194",
+   "display_phone": "(212) 627-5194",
+   "distance": 3359.072530166789
+  },
+  {
+   "id": "ynV5pdANi5-ZhZuVUaZyPA",
+   "alias": "league-of-kitchens-new-york",
+   "name": "League of Kitchens",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uFo7xhYvW_uMTzfnTPwHRg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/league-of-kitchens-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 105,
+   "categories": [
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    },
+    {
+     "alias": "foodtours",
+     "title": "Food Tours"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -74.0071411132812,
+    "Latitude": 40.7145500183105
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "11226",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "New York, NY 11226"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16179099358",
+   "display_phone": "(617) 909-9358",
+   "distance": 8537.880811556372
+  },
+  {
+   "id": "X7GEOdFaUjwEdekjh0WUiQ",
+   "alias": "gothic-renaissance-new-york",
+   "name": "Gothic Renaissance",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/x_tM6bttN3UiJBK_XCVdiw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gothic-renaissance-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 104,
+   "categories": [
+    {
+     "alias": "costumes",
+     "title": "Costumes"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.990138560791,
+    "Latitude": 40.7323255979964
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "110 4th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10004",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "110 4th Ave",
+     "New York, NY 10004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127809558",
+   "display_phone": "(212) 780-9558",
+   "distance": 2549.622105801085
+  },
+  {
+   "id": "bO4-VOi42a5cVmqegv1gyQ",
+   "alias": "rooq-fine-art-and-framing-manhattan",
+   "name": "ROOQ Fine Art and Framing",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_M_gH9MrEFKPcM74D6VCaw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rooq-fine-art-and-framing-manhattan?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 99,
+   "categories": [
+    {
+     "alias": "framing",
+     "title": "Framing"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.9934798,
+    "Latitude": 40.728181
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "13B E 4th St",
+    "address2": "",
+    "address3": "",
+    "city": "Manhattan",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "13B E 4th St",
+     "Manhattan, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122539800",
+   "display_phone": "(212) 253-9800",
+   "distance": 2023.9481820229068
+  },
+  {
+   "id": "01YsEz5wXTLHBtRInpfQsQ",
+   "alias": "daytona-trimmings-company-new-york",
+   "name": "Daytona Trimmings",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cTB3IZ-r4SdxvXPXZyicKg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/daytona-trimmings-company-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 98,
+   "categories": [
+    {
+     "alias": "knittingsupplies",
+     "title": "Knitting Supplies"
+    },
+    {
+     "alias": "embroideryandcrochet",
+     "title": "Embroidery \u0026 Crochet"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9900863,
+    "Latitude": 40.7550883
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "251 W 39th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "251 W 39th St",
+     "New York, NY 10018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123541713",
+   "display_phone": "(212) 354-1713",
+   "distance": 4889.676218645978
+  },
+  {
+   "id": "Fwaf55uwEPLxoarLI5L7Iw",
+   "alias": "86th-street-photo-and-portrait-studio-new-york",
+   "name": "86th Street Photo \u0026 Portrait Studio",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JFMJmTehxsEbSQq8nuRcxw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/86th-street-photo-and-portrait-studio-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 96,
+   "categories": [
+    {
+     "alias": "photographystores",
+     "title": "Photography Stores \u0026 Services"
+    },
+    {
+     "alias": "sessionphotography",
+     "title": "Session Photography"
+    },
+    {
+     "alias": "framing",
+     "title": "Framing"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.9526425457408,
+    "Latitude": 40.7784373866077
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "233 E 86th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10028",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "233 E 86th St",
+     "New York, NY 10028"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127372265",
+   "display_phone": "(212) 737-2265",
+   "distance": 8571.668481692483
+  },
+  {
+   "id": "_0Tykrg22MbYzh3BbiFTpQ",
+   "alias": "pacific-trimmings-new-york",
+   "name": "Pacific Trimmings",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FTNcl0U_uZiJwmKVRzQ-wA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pacific-trimmings-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 94,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9894522794633,
+    "Latitude": 40.7537544885083
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "220 W 38th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "220 W 38th St",
+     "New York, NY 10018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122799310",
+   "display_phone": "(212) 279-9310",
+   "distance": 4757.23890470167
+  },
+  {
+   "id": "o0jfh_JZsKX-6olAjXRLWA",
+   "alias": "decor-art-gallery-new-york-6",
+   "name": "Decor Art Gallery",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5gXVHbku_fPza10yO04DPg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/decor-art-gallery-new-york-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 88,
+   "categories": [
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    },
+    {
+     "alias": "framing",
+     "title": "Framing"
+    },
+    {
+     "alias": "copyshops",
+     "title": "Printing Services"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.97668,
+    "Latitude": 40.7474
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "555 3rd Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "555 3rd Ave",
+     "New York, NY 10016"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127256787",
+   "display_phone": "(212) 725-6787",
+   "distance": 4572.2910208998055
+  },
+  {
+   "id": "EB0MWktJSPAok54l_AYQ0w",
+   "alias": "michaels-fresh-meadows-4",
+   "name": "Michaels",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Isb63CSTjSw0Sq3oGUreCQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/michaels-fresh-meadows-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 84,
+   "categories": [
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "knittingsupplies",
+     "title": "Knitting Supplies"
+    },
+    {
+     "alias": "hobbyshops",
+     "title": "Hobby Shops"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.787473,
+    "Latitude": 40.74013
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "187-04 Horace Harding Expy",
+    "address2": "",
+    "address3": "",
+    "city": "Fresh Meadows",
+    "zip_code": "11365",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "187-04 Horace Harding Expy",
+     "Fresh Meadows, NY 11365"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184644057",
+   "display_phone": "(718) 464-4057",
+   "distance": 18663.704369718158
+  },
+  {
+   "id": "GuYgVQJJctygO-YHpv5bBA",
+   "alias": "jacks-art-gallery-new-york-2",
+   "name": "Jack's Art Gallery",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8hEZuvm2fiahApq1rK1qeA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jacks-art-gallery-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 83,
+   "categories": [
+    {
+     "alias": "framing",
+     "title": "Framing"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.96661,
+    "Latitude": 40.80475
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "2855 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10025",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2855 Broadway",
+     "New York, NY 10025"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127495554",
+   "display_phone": "(212) 749-5554",
+   "distance": 10749.617859242724
+  }
+ ],
+ "total": 1500,
+ "region": {
+  "center": {
+   "longitude": -74.006,
+   "Latitude": 40.7128
+  }
+ }
+}

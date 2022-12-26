@@ -1,0 +1,1819 @@
+{
+ "businesses": [
+  {
+   "id": "lYcRqG3Sm4ntLUeJ302zIA",
+   "alias": "brooklyn-winery-brooklyn",
+   "name": "Brooklyn Winery",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HVp3JE-k8z4EEup01Y-W7Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brooklyn-winery-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 288,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9551199,
+    "Latitude": 40.71726
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "213 N 8th St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11211",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "213 N 8th St",
+     "Brooklyn, NY 11211"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13477631506",
+   "display_phone": "(347) 763-1506",
+   "distance": 4317.763770415955
+  },
+  {
+   "id": "L8fIHKUi6ujViXYp98bEQg",
+   "alias": "old-york-cellars-ringoes",
+   "name": "Old York Cellars",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dkVpRLGMyYSg1M03nTNo5w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/old-york-cellars-ringoes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 208,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    },
+    {
+     "alias": "winetours",
+     "title": "Wine Tours"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.8395900330658,
+    "Latitude": 40.451196225895636
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "80 Old York Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Ringoes",
+    "zip_code": "08551",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "80 Old York Rd",
+     "Ringoes, NJ 08551"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19082849463",
+   "display_phone": "(908) 284-9463",
+   "distance": 76169.3364470389
+  },
+  {
+   "id": "BSl1XvnKNHv0mUfMILNemw",
+   "alias": "the-red-hook-winery-brooklyn",
+   "name": "The Red Hook Winery",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/39BkAyZPfWU5tvVu-xE8gg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-red-hook-winery-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 204,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.01816905833049,
+    "Latitude": 40.67689171760841
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "175 Van Dyke St",
+    "address2": "Pier 41, Ste 325A",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11231",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "175 Van Dyke St",
+     "Pier 41, Ste 325A",
+     "Brooklyn, NY 11231"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13476892432",
+   "display_phone": "(347) 689-2432",
+   "distance": 4122.513315963465
+  },
+  {
+   "id": "BKDIt5ExiVkCQjhKNRb75g",
+   "alias": "rooftop-reds-brooklyn-2",
+   "name": "Rooftop Reds",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZMiUCF7GvGPlRlHpSUz6iA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rooftop-reds-brooklyn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 169,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9698984748688,
+    "Latitude": 40.7025733903159
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "299 Sands St",
+    "address2": "Bldg 275",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11205",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "299 Sands St",
+     "Bldg 275",
+     "Brooklyn, NY 11205"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19174341288",
+   "display_phone": "(917) 434-1288",
+   "distance": 3248.5574809611435
+  },
+  {
+   "id": "VYqLG7CjQDY1eEH139aixA",
+   "alias": "fox-hollow-vineyards-holmdel",
+   "name": "Fox Hollow Vineyards",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6rRYvZMxrTAXM5114t51Ew/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fox-hollow-vineyards-holmdel?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 152,
+   "categories": [
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.184406,
+    "Latitude": 40.3551519
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "939 Holmdel Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Holmdel",
+    "zip_code": "07733",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "939 Holmdel Rd",
+     "Holmdel, NJ 07733"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17327720330",
+   "display_phone": "(732) 772-0330",
+   "distance": 42530.70062634934
+  },
+  {
+   "id": "PohykHMxdur-OWjkadE7Tw",
+   "alias": "tuthilltown-spirits-distillery-gardiner",
+   "name": "Tuthilltown Spirits Distillery",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4uOqMJW6NEFytqoTFs2QmA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tuthilltown-spirits-distillery-gardiner?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 135,
+   "categories": [
+    {
+     "alias": "tours",
+     "title": "Tours"
+    },
+    {
+     "alias": "distilleries",
+     "title": "Distilleries"
+    },
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.17538,
+    "Latitude": 41.68719
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "14 Grist Mill Ln",
+    "address2": "",
+    "address3": "",
+    "city": "Gardiner",
+    "zip_code": "12525",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "14 Grist Mill Ln",
+     "Gardiner, NY 12525"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18454192964",
+   "display_phone": "(845) 419-2964",
+   "distance": 109184.94636200235
+  },
+  {
+   "id": "pM31KoVJweY97-pnoerk8Q",
+   "alias": "aquilas-nest-vineyards-newtown",
+   "name": "Aquila's Nest Vineyards",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LREuWhfOE5_CEEPfopC-ZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aquilas-nest-vineyards-newtown?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 113,
+   "categories": [
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    },
+    {
+     "alias": "winetours",
+     "title": "Wine Tours"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.253465,
+    "Latitude": 41.425187
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "56 Pole Bridge Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Newtown",
+    "zip_code": "06482",
+    "country": "US",
+    "state": "CT",
+    "display_address": [
+     "56 Pole Bridge Rd",
+     "Newtown, CT 06482"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12035184352",
+   "display_phone": "(203) 518-4352",
+   "distance": 101264.60062640686
+  },
+  {
+   "id": "6TJp0yF_bAgv1pzmZJ7jbA",
+   "alias": "slyce-ardsley",
+   "name": "Slyce",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JdM88qkTK1Ahoy1pQqCnVA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/slyce-ardsley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 104,
+   "categories": [
+    {
+     "alias": "pizza",
+     "title": "Pizza"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.8459586724639,
+    "Latitude": 41.0127485418759
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "27 Center St",
+    "address2": "",
+    "address3": "",
+    "city": "Ardsley",
+    "zip_code": "10502",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "27 Center St",
+     "Ardsley, NY 10502"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19146932664",
+   "display_phone": "(914) 693-2664",
+   "distance": 35965.75097561191
+  },
+  {
+   "id": "lxHFVi4iZZRuNtbVW-ysQQ",
+   "alias": "the-winery-new-york",
+   "name": "The Winery",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/p6BSD_CQehkSbBAhkL0y9g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-winery-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 101,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.955036,
+    "Latitude": 40.80435
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "257 W 116th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10026",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "257 W 116th St",
+     "New York, NY 10026"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122224866",
+   "display_phone": "(212) 222-4866",
+   "distance": 11047.88304538516
+  },
+  {
+   "id": "jNX7Zzt3_2AoCXa4xDPnGg",
+   "alias": "september-wines-and-spirits-new-york",
+   "name": "September Wines \u0026 Spirits",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IQAn_Cp9PqNZJvdx4DcvJg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/september-wines-and-spirits-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 80,
+   "categories": [
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.98782197690565,
+    "Latitude": 40.721359220593875
+   },
+   "transactions": [
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "100 Stanton St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "100 Stanton St",
+     "New York, NY 10002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123880770",
+   "display_phone": "(212) 388-0770",
+   "distance": 1803.5830898567706
+  },
+  {
+   "id": "rwVYlc3axjEZKEk9nkj1Fg",
+   "alias": "honeys-brooklyn",
+   "name": "Honey's",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WAN-KrRv0VvI1D9Ur5emnw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/honeys-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 58,
+   "categories": [
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    },
+    {
+     "alias": "italian",
+     "title": "Italian"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9231562,
+    "Latitude": 40.7104296
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "93 Scott Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11237",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "93 Scott Ave",
+     "Brooklyn, NY 11237"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13476691473",
+   "display_phone": "(347) 669-1473",
+   "distance": 6989.650091570873
+  },
+  {
+   "id": "_cBRlm2FLQoglpqtw1A8fQ",
+   "alias": "addictive-boutique-winery-jackson-heights",
+   "name": "Addictive Boutique Winery",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GfyBHKvUCwugRNqDSErU4w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/addictive-boutique-winery-jackson-heights?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 57,
+   "categories": [
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.8808157,
+    "Latitude": 40.7564527
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3262 87th St",
+    "address2": "",
+    "address3": "",
+    "city": "Jackson Heights",
+    "zip_code": "11369",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "3262 87th St",
+     "Jackson Heights, NY 11369"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188998666",
+   "display_phone": "(718) 899-8666",
+   "distance": 11610.908436414922
+  },
+  {
+   "id": "wTuv6qavuUjcsKYkYH0OQw",
+   "alias": "squarewine-and-spirits-long-island-city-2",
+   "name": "SquareWine \u0026 Spirits",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RW-3aXUpS0KPHsQykkOPYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/squarewine-and-spirits-long-island-city-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 51,
+   "categories": [
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9443786,
+    "Latitude": 40.7462083
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "24-20 Jackson Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Long Island City",
+    "zip_code": "11101",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "24-20 Jackson Ave",
+     "Long Island City, NY 11101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187079911",
+   "display_phone": "(718) 707-9911",
+   "distance": 6384.447682026396
+  },
+  {
+   "id": "M84Awdp6mENrlEXw59-xAw",
+   "alias": "le-grand-triage-new-york-2",
+   "name": "Le Grand Triage",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/E3QSeBsJl2_42_Ae1q3IuA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-grand-triage-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 47,
+   "categories": [
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "winetasteclasses",
+     "title": "Wine Tasting Classes"
+    },
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.9493979,
+    "Latitude": 40.7772539
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1657 First Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10028",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1657 First Ave",
+     "New York, NY 10028"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19174751212",
+   "display_phone": "(917) 475-1212",
+   "distance": 8608.269166108972
+  },
+  {
+   "id": "NS-PQhZuLy-EwXr8uKoGrQ",
+   "alias": "nyc-wine-company-new-york",
+   "name": "NYC Wine Company",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cSLX_Sm9JmG8lEYcyuysTA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nyc-wine-company-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 46,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    },
+    {
+     "alias": "winetasteclasses",
+     "title": "Wine Tasting Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.007533,
+    "Latitude": 40.735404
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "330 West 11th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10014",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "330 West 11th St",
+     "New York, NY 10014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126471875",
+   "display_phone": "(212) 647-1875",
+   "distance": 2516.7650934691915
+  },
+  {
+   "id": "ejQ-AJF9mimXVWFclJY3YQ",
+   "alias": "your-own-winery-butler",
+   "name": "Your Own Winery",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yUM5NmEi5pbC10GYv_L-Wg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/your-own-winery-butler?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 38,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -74.3586099,
+    "Latitude": 41.0081215
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1572 Rt 23 N",
+    "address2": "",
+    "address3": "",
+    "city": "Butler",
+    "zip_code": "07405",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "1572 Rt 23 N",
+     "Butler, NJ 07405"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18622005808",
+   "display_phone": "(862) 200-5808",
+   "distance": 44245.57929160498
+  },
+  {
+   "id": "lHM05tDYQ-6V9rmZ2t5mjQ",
+   "alias": "make-wine-with-us-wallington",
+   "name": "Make Wine With Us",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8MFYX231srwj9eLjqjkhYg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/make-wine-with-us-wallington?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 28,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.1025676014328,
+    "Latitude": 40.8430890524582
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "21 Curie Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Wallington",
+    "zip_code": "07057",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "21 Curie Ave",
+     "Wallington, NJ 07057"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12018769463",
+   "display_phone": "(201) 876-9463",
+   "distance": 16613.32421787363
+  },
+  {
+   "id": "4hR_9GXDkehujrKY5qmMqw",
+   "alias": "amsterdam-wine-new-york",
+   "name": "Amsterdam Wine",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XULyHtZdKU9lDRQWOwiknw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amsterdam-wine-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 25,
+   "categories": [
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.981027,
+    "Latitude": 40.7790042
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "271 Amsterdam Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10023",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "271 Amsterdam Ave",
+     "New York, NY 10023"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122011224",
+   "display_phone": "(212) 201-1224",
+   "distance": 7656.273888489345
+  },
+  {
+   "id": "ok1MH4XNWdL7qP-yigOsHw",
+   "alias": "hana-makgeolli-brooklyn",
+   "name": "Hana Makgeolli",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fgQJBpXQlMZnaZr17na6eQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hana-makgeolli-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 23,
+   "categories": [
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.95149,
+    "Latitude": 40.73632
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "201 Dupont St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11222",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "201 Dupont St",
+     "Brooklyn, NY 11222"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13472929422",
+   "display_phone": "(347) 292-9422",
+   "distance": 5289.5099221483915
+  },
+  {
+   "id": "E1-mPRSS9iEBefNnAC-TCw",
+   "alias": "corrados-wine-and-beer-making-clifton",
+   "name": "Corrado's Wine and Beer Making",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SMvOl4XsPrPAwxxgJ1Jizw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/corrados-wine-and-beer-making-clifton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 22,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    },
+    {
+     "alias": "breweries",
+     "title": "Breweries"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.1515001,
+    "Latitude": 40.8894974
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "600 Getty Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Clifton",
+    "zip_code": "07011",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "600 Getty Ave",
+     "Clifton, NJ 07011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19733400848",
+   "display_phone": "(973) 340-0848",
+   "distance": 23056.73002363682
+  },
+  {
+   "id": "HO83Oi2aqQP1N4DMm95HCA",
+   "alias": "vin-de-table-bedford-stuyvesant",
+   "name": "Vin De Table",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0dp1C8rsqYTePfzip_17JA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vin-de-table-bedford-stuyvesant?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9429245,
+    "Latitude": 40.6920204
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "354 Throop Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Bedford-Stuyvesant",
+    "zip_code": "11221",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "354 Throop Ave",
+     "Bedford-Stuyvesant, NY 11221"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183871526",
+   "display_phone": "(718) 387-1526",
+   "distance": 5796.634241317441
+  },
+  {
+   "id": "rS3rmbWI9xKStPZKVSLnKQ",
+   "alias": "tomasello-winery-cranford-cranford",
+   "name": "Tomasello Winery - Cranford",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eEVh-qFHorynJfnQo5ywcw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tomasello-winery-cranford-cranford?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 17,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.3041442,
+    "Latitude": 40.654055
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "109 Walnut Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Cranford",
+    "zip_code": "07016",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "109 Walnut Ave",
+     "Cranford, NJ 07016"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18006669463",
+   "display_phone": "(800) 666-9463",
+   "distance": 25974.737149078548
+  },
+  {
+   "id": "PL-t7CMjGbAgk4kjtwdA7Q",
+   "alias": "insieme-wines-and-tasting-room-oceanside",
+   "name": "Insieme Wines \u0026 Tasting Room",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IVFHxouu5mjI-NvfPN_bBg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/insieme-wines-and-tasting-room-oceanside?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 15,
+   "categories": [
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.65208,
+    "Latitude": 40.62926
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "3333 Lawson Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Oceanside",
+    "zip_code": "11572",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "3333 Lawson Blvd",
+     "Oceanside, NY 11572"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15166963300",
+   "display_phone": "(516) 696-3300",
+   "distance": 31263.41586751659
+  },
+  {
+   "id": "an6OS5iRKoqsggZG9_7qkQ",
+   "alias": "wi-bar-east-elmhurst",
+   "name": "Wi-Bar",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-2Dk53Bzmfxcn8zvrJjnuQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wi-bar-east-elmhurst?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 15,
+   "categories": [
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    },
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.87493,
+    "Latitude": 40.77402
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "LaGuardia Aiport Queens",
+    "address2": "Terminal C",
+    "address3": "",
+    "city": "East Elmhurst",
+    "zip_code": "11371",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "LaGuardia Aiport Queens",
+     "Terminal C",
+     "East Elmhurst, NY 11371"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18665083558",
+   "display_phone": "(866) 508-3558",
+   "distance": 13515.4833376785
+  },
+  {
+   "id": "xDYm12GIT-wMqAwtb2LI4g",
+   "alias": "middle-village-wines-and-liquors-middle-village",
+   "name": "Middle Village Wines \u0026 Liquors",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7o7ZtvlvjwOnQw231x9HDg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/middle-village-wines-and-liquors-middle-village?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 13,
+   "categories": [
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.872646,
+    "Latitude": 40.718112
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "64-74 Dry Harbor Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Middle Village",
+    "zip_code": "11379",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "64-74 Dry Harbor Rd",
+     "Middle Village, NY 11379"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188943545",
+   "display_phone": "(718) 894-3545",
+   "distance": 11253.6769136992
+  },
+  {
+   "id": "ShOmjXvKl1rLUgUSuwqqFA",
+   "alias": "tomasello-winery-at-abmas-farm-wyckoff",
+   "name": "Tomasello Winery at Abma's Farm",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6s9KcqjWkKuCpQ7vi0VU8g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tomasello-winery-at-abmas-farm-wyckoff?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 13,
+   "categories": [
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.18501,
+    "Latitude": 41.01699
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "700 Lawlins Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Wyckoff",
+    "zip_code": "07481",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "700 Lawlins Rd",
+     "Wyckoff, NJ 07481"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18006669463",
+   "display_phone": "(800) 666-9463",
+   "distance": 36990.19466774507
+  },
+  {
+   "id": "FZCjHiHFv2vnuTG6R-1crQ",
+   "alias": "ship-to-shore-wine-shop-queens",
+   "name": "Ship To Shore Wine Shop",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UuhHIug8fQdRWUeRQ0gPoQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ship-to-shore-wine-shop-queens?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "winetasteclasses",
+     "title": "Wine Tasting Classes"
+    },
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.8134858384728,
+    "Latitude": 40.5874886022569
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "88-08 Rockaway Beach Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Queens",
+    "zip_code": "11693",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "88-08 Rockaway Beach Blvd",
+     "Queens, NY 11693"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13477277730",
+   "display_phone": "(347) 727-7730",
+   "distance": 21399.34131468883
+  },
+  {
+   "id": "jpfjD9Fij2Okb5CeM0GhpQ",
+   "alias": "the-village-wine-cellar-floral-park",
+   "name": "The Village Wine Cellar",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ujVuCqy-ARZYtWn0DBOy2A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-village-wine-cellar-floral-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.71616,
+    "Latitude": 40.72621
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "24970 Jericho Tpke",
+    "address2": "",
+    "address3": "",
+    "city": "Floral Park",
+    "zip_code": "11001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "24970 Jericho Tpke",
+     "Floral Park, NY 11001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15163266780",
+   "display_phone": "(516) 326-6780",
+   "distance": 24472.776957931073
+  },
+  {
+   "id": "_m0YfCnJ9icxmbF6vaDtDA",
+   "alias": "new-york-wine-expo-new-york-2",
+   "name": "New York Wine Expo",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5SaLQVKaZKj0SKgCMXbLJA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/new-york-wine-expo-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.0035433,
+    "Latitude": 40.756599
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "655 W 34th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "655 W 34th St",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18005441660",
+   "display_phone": "(800) 544-1660",
+   "distance": 4984.908368065217
+  },
+  {
+   "id": "-9-2MS2snU7dlNNtDL3eJQ",
+   "alias": "harrys-wine-cellar-bayonne",
+   "name": "Harry's Wine Cellar",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/harrys-wine-cellar-bayonne?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.124496,
+    "Latitude": 40.656994
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "295 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Bayonne",
+    "zip_code": "07002",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "295 Broadway",
+     "Bayonne, NJ 07002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12014372337",
+   "display_phone": "(201) 437-2337",
+   "distance": 11761.676606488376
+  },
+  {
+   "id": "VKzLYPX7qdzPegu1v30S3A",
+   "alias": "noho-wine-and-spirits-new-york-3",
+   "name": "Noho Wine \u0026 Spirits",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VDm9yrFhECgG-Z5M5f6U5Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/noho-wine-and-spirits-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9960852707054,
+    "Latitude": 40.7264210144185
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "639 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10012",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "639 Broadway",
+     "New York, NY 10012"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124775550",
+   "display_phone": "(212) 477-5550",
+   "distance": 1729.7833773393072
+  },
+  {
+   "id": "0Ngbe_Q0v-OsFPL-7l0a9Q",
+   "alias": "vino-divino-school-of-wine-staten-island",
+   "name": "Vino Divino School Of Wine",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KPw5IN03bbKJtDGFy0TKDA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vino-divino-school-of-wine-staten-island?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "specialtyschools",
+     "title": "Specialty Schools"
+    },
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -74.2295954,
+    "Latitude": 40.547523
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "42 Industrial Loop",
+    "address2": "",
+    "address3": "",
+    "city": "Staten Island",
+    "zip_code": "10309",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "42 Industrial Loop",
+     "Staten Island, NY 10309"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182279463",
+   "display_phone": "(718) 227-9463",
+   "distance": 26339.817906153636
+  },
+  {
+   "id": "ci4dUvK4LMu_yAPZ8jKgMQ",
+   "alias": "staten-island-winery-staten-island",
+   "name": "Staten Island Winery",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KEHgiNdikeHE6KHtca-W1w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/staten-island-winery-staten-island?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.1820774,
+    "Latitude": 40.598855
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "106 Wakefield Ave",
+    "address2": "Ste A",
+    "address3": "",
+    "city": "Staten Island",
+    "zip_code": "10314",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "106 Wakefield Ave",
+     "Ste A",
+     "Staten Island, NY 10314"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184949463",
+   "display_phone": "(718) 494-9463",
+   "distance": 19523.076496295627
+  },
+  {
+   "id": "Y_04ueXqlqQyUeXsKWVLMA",
+   "alias": "blue-dog-wine-and-spirits-pelham",
+   "name": "Blue Dog Wine \u0026 Spirits",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Wul1FRXYbL96DTfJZ9Qigg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blue-dog-wine-and-spirits-pelham?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.81166,
+    "Latitude": 40.90663
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "215 Wolfs Ln",
+    "address2": "",
+    "address3": "",
+    "city": "Pelham",
+    "zip_code": "10803",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "215 Wolfs Ln",
+     "Pelham, NY 10803"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19147387220",
+   "display_phone": "(914) 738-7220",
+   "distance": 27055.569010961553
+  },
+  {
+   "id": "x3SHUCtsVdw-XlyW7wYQKA",
+   "alias": "flea-mart-wine-and-liquor-brooklyn",
+   "name": "Flea Mart Wine \u0026 Liquor",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VaUIpHo0XtF3CX4lV5emlQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/flea-mart-wine-and-liquor-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.9607099443674,
+    "Latitude": 40.5911618471146
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2686 Coney Island Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11235",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2686 Coney Island Ave",
+     "Brooklyn, NY 11235"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17186483000",
+   "display_phone": "(718) 648-3000",
+   "distance": 14061.740350569149
+  },
+  {
+   "id": "jZxA6m5BwHbwNi0O4tp7cg",
+   "alias": "carpe-vino-tasting-room-brooklyn",
+   "name": "Carpe Vino Tasting Room",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4389irldLYSqghbvB3AIzw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/carpe-vino-tasting-room-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    },
+    {
+     "alias": "pizza",
+     "title": "Pizza"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.937433,
+    "Latitude": 40.68068
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "471 Marcus Garvey Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11233",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "471 Marcus Garvey Blvd",
+     "Brooklyn, NY 11233"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184967455",
+   "display_phone": "(718) 496-7455",
+   "distance": 6794.894627083918
+  },
+  {
+   "id": "W3ZvM_LoLIUfR_VRS4Bj5w",
+   "alias": "gladiator-wine-distribution-new-york",
+   "name": "Gladiator Wine Distribution",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l-DJC7jSHrTSI8IZjgSsgw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gladiator-wine-distribution-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.9921407,
+    "Latitude": 40.7507431
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "31 Penn Plz",
+    "address2": "Fl 15",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "31 Penn Plz",
+     "Fl 15",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16465603241",
+   "display_phone": "(646) 560-3241",
+   "distance": 4377.708463639973
+  },
+  {
+   "id": "1tyiTVIcTrXX2jPw6CtFyw",
+   "alias": "nb-liquors-teterboro",
+   "name": "NB Liquors",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UXSji_0JpzvU8WXJO-KGSw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nb-liquors-teterboro?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "discountstore",
+     "title": "Discount Store"
+    },
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.0577116981149,
+    "Latitude": 40.8600491121123
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "2 Teterboro Landing Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Teterboro",
+    "zip_code": "07608",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "2 Teterboro Landing Dr",
+     "Teterboro, NJ 07608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12012880157",
+   "display_phone": "(201) 288-0157",
+   "distance": 16942.26989695606
+  },
+  {
+   "id": "jjfGeWbm0kTbFPCPOzaFQg",
+   "alias": "craigie-on-park-fine-wine-and-spirits-west-new-york",
+   "name": "Craigie on Park Fine Wine \u0026 Spirits",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/S0nz61Ltw7C0InrnqilvyA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/craigie-on-park-fine-wine-and-spirits-west-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.01343,
+    "Latitude": 40.78072
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5102 Park Ave",
+    "address2": "",
+    "address3": "",
+    "city": "West New York",
+    "zip_code": "07093",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "5102 Park Ave",
+     "West New York, NJ 07093"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12017668862",
+   "display_phone": "(201) 766-8862",
+   "distance": 7581.647968280822
+  },
+  {
+   "id": "bLzah-8i11bcM9YCQG_1YA",
+   "alias": "zachys-wine-auctions-white-plains",
+   "name": "Zachys Wine Auctions",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KH17uJA-O1X4kIVrSWdrGQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zachys-wine-auctions-white-plains?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "wineries",
+     "title": "Wineries"
+    },
+    {
+     "alias": "auctionhouses",
+     "title": "Auction Houses"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.77624,
+    "Latitude": 41.02834
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "39 Westmoreland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "White Plains",
+    "zip_code": "10606",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "39 Westmoreland Ave",
+     "White Plains, NY 10606"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19144483026",
+   "display_phone": "(914) 448-3026",
+   "distance": 40065.965510167356
+  }
+ ],
+ "total": 57,
+ "region": {
+  "center": {
+   "longitude": -74.006,
+   "Latitude": 40.7128
+  }
+ }
+}

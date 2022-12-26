@@ -1,0 +1,1866 @@
+{
+ "businesses": [
+  {
+   "id": "2kyC2EM-YHkhrG-0JWmTHA",
+   "alias": "the-elliott-bay-book-company-seattle",
+   "name": "The Elliott Bay Book Company",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RnRmW8km1Nhf3XpAVPeTng/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-elliott-bay-book-company-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 634,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.31983,
+    "Latitude": 47.61466
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1521 10th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1521 10th Ave",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066246600",
+   "display_phone": "(206) 624-6600",
+   "distance": 1318.0219354847359
+  },
+  {
+   "id": "7a0RMXo2h7puzsB7btFfPA",
+   "alias": "easy-street-records-and-cafe-seattle-4",
+   "name": "Easy Street Records \u0026 Cafe",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NpF3Ui3mZQNIHhMIhYiRvQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/easy-street-records-and-cafe-seattle-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 630,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "breakfast_brunch",
+     "title": "Breakfast \u0026 Brunch"
+    },
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.38696,
+    "Latitude": 47.5612799
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "4559 California Ave SW",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98116",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4559 California Ave SW",
+     "Seattle, WA 98116"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12069383279",
+   "display_phone": "(206) 938-3279",
+   "distance": 6473.295196193477
+  },
+  {
+   "id": "PUaX4P59uKimpmWiRIOfbg",
+   "alias": "empire-roasters-and-records-seattle",
+   "name": "Empire Roasters \u0026 Records",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0SzVeuLmvcWwwrg-qMaaKw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/empire-roasters-and-records-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 338,
+   "categories": [
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    },
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    },
+    {
+     "alias": "waffles",
+     "title": "Waffles"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.2842578,
+    "Latitude": 47.5585206399951
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "3829 S Edmunds St",
+    "address2": "Ste A",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98118",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "3829 S Edmunds St",
+     "Ste A",
+     "Seattle, WA 98118"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19713280048",
+   "display_phone": "(971) 328-0048",
+   "distance": 6401.902624764434
+  },
+  {
+   "id": "vPZVBHt5GdYcFrF6_RPaCA",
+   "alias": "adas-technical-books-and-cafe-seattle",
+   "name": "Ada's Technical Books and Cafe",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PdDEcrs86jHr3it9w9344Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/adas-technical-books-and-cafe-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 283,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    },
+    {
+     "alias": "vegetarian",
+     "title": "Vegetarian"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3126743,
+    "Latitude": 47.6226405233527
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "425 15th Ave E",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98112",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "425 15th Ave E",
+     "Seattle, WA 98112"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063221058",
+   "display_phone": "(206) 322-1058",
+   "distance": 2337.1409177256464
+  },
+  {
+   "id": "SGXYDKGC4ZxcD0ulPm98uA",
+   "alias": "white-horse-tavern-seattle",
+   "name": "White Horse Tavern",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/c08QXBuLgpjiKfc6glUyMw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/white-horse-tavern-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 270,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.3420371,
+    "Latitude": 47.6101424
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1908 Post Aly",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1908 Post Aly",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064417767",
+   "display_phone": "(206) 441-7767",
+   "distance": 864.3682885342046
+  },
+  {
+   "id": "lRFBPXV_hsc8wid8FrBELA",
+   "alias": "kinokuniya-bookstore-seattle-seattle-2",
+   "name": "Kinokuniya Bookstore - Seattle",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MkeeFV_kqzwKYIWAywl_ig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kinokuniya-bookstore-seattle-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 241,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.32684,
+    "Latitude": 47.5973
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "525 S Weller St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "525 S Weller St",
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065872477",
+   "display_phone": "(206) 587-2477",
+   "distance": 1063.7448095983034
+  },
+  {
+   "id": "XPRRFq2oz2AJz2-qxz5vzQ",
+   "alias": "third-place-books-lake-forest-park",
+   "name": "Third Place Books",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SOw33dGtK9w5QcrPNPG1MA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/third-place-books-lake-forest-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 226,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "usedbooks",
+     "title": "Used Bookstore"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.279464079284,
+    "Latitude": 47.7544605821654
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "17171 Bothell Way NE",
+    "address2": "",
+    "address3": "",
+    "city": "Lake Forest Park",
+    "zip_code": "98155",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17171 Bothell Way NE",
+     "Lake Forest Park, WA 98155"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063663333",
+   "display_phone": "(206) 366-3333",
+   "distance": 16950.205718080317
+  },
+  {
+   "id": "NT8xAaz5zNtavS50cCwU8w",
+   "alias": "scarecrow-video-seattle",
+   "name": "Scarecrow Video",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5Q65KXpxHQPQY80gLVmSQA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/scarecrow-video-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 218,
+   "categories": [
+    {
+     "alias": "videoandgames",
+     "title": "Videos \u0026 Video Game Rental"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.31709,
+    "Latitude": 47.66593
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "5030 Roosevelt Way NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98105",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5030 Roosevelt Way NE",
+     "Seattle, WA 98105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065248554",
+   "display_phone": "(206) 524-8554",
+   "distance": 6737.817246503408
+  },
+  {
+   "id": "DBb5klG44ftEqLiK0bobJA",
+   "alias": "university-book-store-seattle-2",
+   "name": "University Book Store",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QgbbnYDRcbr9DP_CrNOD3w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/university-book-store-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 186,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "artsupplies",
+     "title": "Art Supplies"
+    },
+    {
+     "alias": "computers",
+     "title": "Computers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.31284597878144,
+    "Latitude": 47.66052
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4326 University Way NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98105",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4326 University Way NE",
+     "Seattle, WA 98105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18003357323",
+   "display_phone": "(800) 335-7323",
+   "distance": 6210.014764428695
+  },
+  {
+   "id": "IDGvYF293ROruCvoG6FL-Q",
+   "alias": "metsker-maps-seattle",
+   "name": "Metsker Maps",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2t9uGJYn8gYdiam2e5likw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/metsker-maps-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 136,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "souvenirs",
+     "title": "Souvenir Shops"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.34056,
+    "Latitude": 47.60913
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1511 1st Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1511 1st Ave",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066238747",
+   "display_phone": "(206) 623-8747",
+   "distance": 720.149981092201
+  },
+  {
+   "id": "rkJeIrIM1ViUlVYg7u_pJg",
+   "alias": "golden-age-collectables-seattle",
+   "name": "Golden Age Collectables",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ANdFngAKeHyAThZKXmzXSA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/golden-age-collectables-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 134,
+   "categories": [
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    },
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.340928,
+    "Latitude": 47.608595
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1501 Pike Place Market",
+    "address2": "Ste 401",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1501 Pike Place Market",
+     "Ste 401",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066229799",
+   "display_phone": "(206) 622-9799",
+   "distance": 713.3918844995915
+  },
+  {
+   "id": "Nfc9PluGl6PdzyF7JS_ggQ",
+   "alias": "sonic-boom-seattle",
+   "name": "Sonic Boom  ",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LR_wjJOqvM2hUL1koP8V9Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sonic-boom-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 130,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3851,
+    "Latitude": 47.66852
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2209 NW Market St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2209 NW Market St",
+     "Seattle, WA 98107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062972666",
+   "display_phone": "(206) 297-2666",
+   "distance": 7985.737963329085
+  },
+  {
+   "id": "2EeqsLoI0YbBoq9yzIwvlQ",
+   "alias": "third-place-books-seattle-5",
+   "name": "Third Place Books",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KK7SChcwU_RiOwbPyKAHWQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/third-place-books-seattle-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 122,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "usedbooks",
+     "title": "Used Bookstore"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.30621,
+    "Latitude": 47.67628
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "6504 20th Ave NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98115",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "6504 20th Ave NE",
+     "Seattle, WA 98115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065252347",
+   "display_phone": "(206) 525-2347",
+   "distance": 8020.370342782942
+  },
+  {
+   "id": "ux86ORavDbldn6cIULzPAQ",
+   "alias": "magus-books-seattle-2",
+   "name": "Magus Books",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SaEzuTqBuQwmYaGh3ifHVA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/magus-books-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 118,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "usedbooks",
+     "title": "Used Bookstore"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.31288,
+    "Latitude": 47.65844
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1408 NE 42nd St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98105",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1408 NE 42nd St",
+     "Seattle, WA 98105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066331800",
+   "display_phone": "(206) 633-1800",
+   "distance": 5988.356665356471
+  },
+  {
+   "id": "4KjfDL_ZsIIuXDZazcs-SA",
+   "alias": "half-price-books-redmond",
+   "name": "Half Price Books",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/e3-kg2CVfYUoAMrN70IeKQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/half-price-books-redmond?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 110,
+   "categories": [
+    {
+     "alias": "media",
+     "title": "Books, Mags, Music \u0026 Video"
+    },
+    {
+     "alias": "usedbooks",
+     "title": "Used Bookstore"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.123609,
+    "Latitude": 47.673205
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "7805 Leary Way",
+    "address2": "",
+    "address3": "",
+    "city": "Redmond",
+    "zip_code": "98052",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "7805 Leary Way",
+     "Redmond, WA 98052"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14257022499",
+   "display_phone": "(425) 702-2499",
+   "distance": 17306.4522518462
+  },
+  {
+   "id": "l2bHBNneHRF7Bb0ryFSLHQ",
+   "alias": "half-price-books-bellevue",
+   "name": "Half Price Books",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CGbCbj24dI0OaqNh7tlTlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/half-price-books-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 104,
+   "categories": [
+    {
+     "alias": "media",
+     "title": "Books, Mags, Music \u0026 Video"
+    },
+    {
+     "alias": "usedbooks",
+     "title": "Used Bookstore"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.131134,
+    "Latitude": 47.618735
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "15600 NE 8th St",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98008",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15600 NE 8th St",
+     "Bellevue, WA 98008"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14257476616",
+   "display_phone": "(425) 747-6616",
+   "distance": 15128.961687269211
+  },
+  {
+   "id": "eQKgH0P-AjoZHZ3JErcosQ",
+   "alias": "left-bank-books-collective-seattle",
+   "name": "Left Bank Books Collective",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Lp2piRcOdfQa_DY2SF6P_A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/left-bank-books-collective-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 99,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "usedbooks",
+     "title": "Used Bookstore"
+    },
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3404,
+    "Latitude": 47.60887
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "92 Pike St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "92 Pike St",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066220195",
+   "display_phone": "(206) 622-0195",
+   "distance": 688.6293064673873
+  },
+  {
+   "id": "O7bu0A8vlfbP7aiJxg-Zvw",
+   "alias": "half-price-books-tukwila",
+   "name": "Half Price Books",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PZj6uvGV1E7tsYZ-G7iviQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/half-price-books-tukwila?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 98,
+   "categories": [
+    {
+     "alias": "media",
+     "title": "Books, Mags, Music \u0026 Video"
+    },
+    {
+     "alias": "usedbooks",
+     "title": "Used Bookstore"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.2605199,
+    "Latitude": 47.452649
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "16828 Southcenter Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Tukwila",
+    "zip_code": "98188",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "16828 Southcenter Pkwy",
+     "Tukwila, WA 98188"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065753173",
+   "display_phone": "(206) 575-3173",
+   "distance": 17899.89643891226
+  },
+  {
+   "id": "Vvy1upRbUu1aIICfk7sFYA",
+   "alias": "half-price-books-lynnwood",
+   "name": "Half Price Books",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Hzr7mSardYriye2Si8cOqA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/half-price-books-lynnwood?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 94,
+   "categories": [
+    {
+     "alias": "media",
+     "title": "Books, Mags, Music \u0026 Video"
+    },
+    {
+     "alias": "usedbooks",
+     "title": "Used Bookstore"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.3165263,
+    "Latitude": 47.8218079
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "19500 Hwy 99",
+    "address2": "",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98036",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "19500 Hwy 99",
+     "Lynnwood, WA 98036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14257768885",
+   "display_phone": "(425) 776-8885",
+   "distance": 24002.7742109777
+  },
+  {
+   "id": "oyJjYfS9P5EI_bRL10L1fA",
+   "alias": "bulldog-news-seattle-3",
+   "name": "Bulldog News",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PVafcR1LTRQxB90Mzv6RDA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bulldog-news-seattle-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 94,
+   "categories": [
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    },
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.313115149736,
+    "Latitude": 47.658561989665
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "4208 University Way NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98105",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4208 University Way NE",
+     "Seattle, WA 98105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066326397",
+   "display_phone": "(206) 632-6397",
+   "distance": 5996.146707697791
+  },
+  {
+   "id": "0fsuMU-tYNaYv4H2-o5g6w",
+   "alias": "porchlight-coffee-and-records-seattle",
+   "name": "Porchlight Coffee \u0026 Records",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Rk43aBqeedEKsDjsVpxTmA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/porchlight-coffee-and-records-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 92,
+   "categories": [
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    },
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.3147812,
+    "Latitude": 47.6146317
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "1517 14th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1517 14th Ave",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16507816671",
+   "display_phone": "(650) 781-6671",
+   "distance": 1625.5512151609619
+  },
+  {
+   "id": "YsGmAF8YhLxbEEJQ6mjlgw",
+   "alias": "pink-gorilla-seattle",
+   "name": "Pink Gorilla",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dbedY9rwHMOZMf1u3brFXA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pink-gorilla-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 88,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "videogamestores",
+     "title": "Video Game Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.325988769531,
+    "Latitude": 47.5981826782227
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "601 S King St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "601 S King St",
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062642434",
+   "display_phone": "(206) 264-2434",
+   "distance": 999.4545288827746
+  },
+  {
+   "id": "41NojpleUSL_nnpLMOV4CA",
+   "alias": "jive-time-records-seattle",
+   "name": "Jive Time Records",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tVMbQ1rdh_la-WyuwLg-vQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jive-time-records-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 88,
+   "categories": [
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.34963,
+    "Latitude": 47.65078
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "3506 Fremont Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "3506 Fremont Ave N",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066325483",
+   "display_phone": "(206) 632-5483",
+   "distance": 5128.437113233575
+  },
+  {
+   "id": "wnseiC4fc13abNewXiaXRA",
+   "alias": "zions-gate-records-seattle",
+   "name": "Zion's Gate Records",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/M0IGH9EWB5nQmurWBOAEhw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zions-gate-records-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 87,
+   "categories": [
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.31785,
+    "Latitude": 47.61427
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1100 E Pike St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1100 E Pike St",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065685446",
+   "display_phone": "(206) 568-5446",
+   "distance": 1395.8104161341982
+  },
+  {
+   "id": "IlDtCsO5weGbtywksRez3A",
+   "alias": "barnes-and-noble-seattle-5",
+   "name": "Barnes \u0026 Noble",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/esbtHlLi2YADZva13EnS4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barnes-and-noble-seattle-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 84,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.326204,
+    "Latitude": 47.707117
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "401 NE Northgate Way",
+    "address2": "Ste 1100",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98125",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "401 NE Northgate Way",
+     "Ste 1100",
+     "Seattle, WA 98125"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064172967",
+   "display_phone": "(206) 417-2967",
+   "distance": 11230.131657251291
+  },
+  {
+   "id": "5DeONMFiyF_9QYmvLfarJQ",
+   "alias": "daybreak-records-seattle",
+   "name": "Daybreak Records",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EY1Xdh8P0k-eaaRGTUujVA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/daybreak-records-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 79,
+   "categories": [
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.3503138,
+    "Latitude": 47.6597122
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4323 Fremont Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4323 Fremont Ave N",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062680702",
+   "display_phone": "(206) 268-0702",
+   "distance": 6104.790548326064
+  },
+  {
+   "id": "K7B6fZXHRrG6PrToaMP4Og",
+   "alias": "barnes-and-noble-lynnwood",
+   "name": "Barnes \u0026 Noble",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/x7z5Ns-r39Vssv10XZW1UA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barnes-and-noble-lynnwood?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 77,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "hobbyshops",
+     "title": "Hobby Shops"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.269908081787,
+    "Latitude": 47.8214234656597
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "19401 Alderwood Mall Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Lynnwood",
+    "zip_code": "98036",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "19401 Alderwood Mall Pkwy",
+     "Lynnwood, WA 98036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14257712220",
+   "display_phone": "(425) 771-2220",
+   "distance": 24379.856075729625
+  },
+  {
+   "id": "WtmCZD9-CwamviqSn3X7RQ",
+   "alias": "lion-heart-book-store-seattle",
+   "name": "Lion Heart Book Store",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_26gaQkiGDg4M3kN02FtJg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lion-heart-book-store-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 76,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "usedbooks",
+     "title": "Used Bookstore"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.341041564941,
+    "Latitude": 47.6087112426758
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1501 Pike Pl",
+    "address2": "Ste 432",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1501 Pike Pl",
+     "Ste 432",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12069036511",
+   "display_phone": "(206) 903-6511",
+   "distance": 701.499657405603
+  },
+  {
+   "id": "1DPPvV3D3Fo-6Od2Ep_oHw",
+   "alias": "mercer-street-books-seattle",
+   "name": "Mercer Street Books",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tMX8y4PEhFbodY5xtmZAQQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mercer-street-books-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 76,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "usedbooks",
+     "title": "Used Bookstore"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.35621,
+    "Latitude": 47.62436
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "7 Mercer St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "7 Mercer St",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062827687",
+   "display_phone": "(206) 282-7687",
+   "distance": 2717.4050241903574
+  },
+  {
+   "id": "YVcJQvyb6KCRIWGTZt8wbA",
+   "alias": "pink-gorilla-seattle-3",
+   "name": "Pink Gorilla",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lgGoBuq097coN9lAOdZXJQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pink-gorilla-seattle-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "videogamestores",
+     "title": "Video Game Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.31346,
+    "Latitude": 47.6610299
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4341 University Way NE",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98105",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4341 University Way NE",
+     "Seattle, WA 98105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065475790",
+   "display_phone": "(206) 547-5790",
+   "distance": 6253.251766707081
+  },
+  {
+   "id": "ZjoECkloTf2rJYBRTbjvPQ",
+   "alias": "another-castle-video-games-edmonds",
+   "name": "Another Castle Video Games",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PxOtQN1QMikp_M-l2UJ9SQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/another-castle-video-games-edmonds?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "videogamestores",
+     "title": "Video Game Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.339630126953,
+    "Latitude": 47.7881617214945
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "23303 Hwy 99",
+    "address2": "Ste A",
+    "address3": "",
+    "city": "Edmonds",
+    "zip_code": "98026",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "23303 Hwy 99",
+     "Ste A",
+     "Edmonds, WA 98026"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14259673740",
+   "display_phone": "(425) 967-3740",
+   "distance": 20241.044521427386
+  },
+  {
+   "id": "AcMxEjbDjekew29eODVvFw",
+   "alias": "amazing-heroes-kirkland",
+   "name": "Amazing Heroes",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jRekJIx606yVQWFFa0EQLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amazing-heroes-kirkland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    },
+    {
+     "alias": "videogamestores",
+     "title": "Video Game Stores"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.1680045,
+    "Latitude": 47.6797039
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "12832 NE 85th St",
+    "address2": "",
+    "address3": "",
+    "city": "Kirkland",
+    "zip_code": "98033",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "12832 NE 85th St",
+     "Kirkland, WA 98033"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258895999",
+   "display_phone": "(425) 889-5999",
+   "distance": 14762.603781699967
+  },
+  {
+   "id": "L2e7Dh13AS031noDSRfk1Q",
+   "alias": "snapdoodle-toys-and-games-kenmore",
+   "name": "Snapdoodle Toys \u0026 Games Kenmore",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Kib11Nvo67Bm8RSl0LKArw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/snapdoodle-toys-and-games-kenmore?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 70,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.242377,
+    "Latitude": 47.757447
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "7330 NE Bothell Way",
+    "address2": "",
+    "address3": "",
+    "city": "Kenmore",
+    "zip_code": "98028",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "7330 NE Bothell Way",
+     "Kenmore, WA 98028"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254080021",
+   "display_phone": "(425) 408-0021",
+   "distance": 18109.568015555684
+  },
+  {
+   "id": "eR2yqn-UFW_BhczEFhaLmw",
+   "alias": "hi-voltage-records-tacoma",
+   "name": "Hi-Voltage Records",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/E1lLVKIYM6uR9ih40R6eig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hi-voltage-records-tacoma?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 70,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.4721963,
+    "Latitude": 47.2552257
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2714 6th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Tacoma",
+    "zip_code": "98406",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2714 6th Ave",
+     "Tacoma, WA 98406"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12536274278",
+   "display_phone": "(253) 627-4278",
+   "distance": 40424.26791762438
+  },
+  {
+   "id": "-TxsQ5GTFtBiQMlRG9alWw",
+   "alias": "ophelias-books-seattle",
+   "name": "Ophelia's Books",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uTlB2M9QxgiHGtdEDSiEEg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ophelias-books-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 69,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "usedbooks",
+     "title": "Used Bookstore"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.34963,
+    "Latitude": 47.65075
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "3504 Fremont Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98103",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "3504 Fremont Ave N",
+     "Seattle, WA 98103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066323759",
+   "display_phone": "(206) 632-3759",
+   "distance": 5119.03735325439
+  },
+  {
+   "id": "fsikZruhJA3Ua-cTKdMqTg",
+   "alias": "barnes-and-noble-bellevue",
+   "name": "Barnes \u0026 Noble",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x5F1KmmI1E31_lLpVd1wRQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barnes-and-noble-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 69,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.13124646624904,
+    "Latitude": 47.61872241905236
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "15600 NE 8th St",
+    "address2": "Ste F17",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98008",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15600 NE 8th St",
+     "Ste F17",
+     "Bellevue, WA 98008"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14255196192",
+   "display_phone": "(425) 519-6192",
+   "distance": 15120.439893854536
+  },
+  {
+   "id": "opzT9wblb-Fm-k7sBJRkSw",
+   "alias": "half-price-books-everett",
+   "name": "Half Price Books",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/WjP4HeXkztF8duALY7nsCQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/half-price-books-everett?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 69,
+   "categories": [
+    {
+     "alias": "media",
+     "title": "Books, Mags, Music \u0026 Video"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.2150283,
+    "Latitude": 47.9129832
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1321 Seeverett Mall Way",
+    "address2": "",
+    "address3": "",
+    "city": "Everett",
+    "zip_code": "98208",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1321 Seeverett Mall Way",
+     "Everett, WA 98208"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252909924",
+   "display_phone": "(425) 290-9924",
+   "distance": 35217.282943907296
+  },
+  {
+   "id": "1MkSA5pS-GmMaJrcCUYTMQ",
+   "alias": "bobakhan-toys-and-collectibles-everett-2",
+   "name": "BobaKhan Toys \u0026 Collectibles",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lVlQ3Hi-eFjJxsanIZ-Ovw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bobakhan-toys-and-collectibles-everett-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 66,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    },
+    {
+     "alias": "videogamestores",
+     "title": "Video Game Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.2252933,
+    "Latitude": 47.908745937730515
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "500 SE Everett Mall Way",
+    "address2": "Ste A-1",
+    "address3": "",
+    "city": "Everett",
+    "zip_code": "98208",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "500 SE Everett Mall Way",
+     "Ste A-1",
+     "Everett, WA 98208"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14252583582",
+   "display_phone": "(425) 258-3582",
+   "distance": 34575.979699131225
+  },
+  {
+   "id": "_WdB-u-ORI23EVjT9gtYlg",
+   "alias": "singles-going-steady-seattle",
+   "name": "Singles Going Steady",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cTYqnAkPWObBZcs9VSXaoA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/singles-going-steady-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 64,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.34524,
+    "Latitude": 47.61345
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2219 2nd Ave",
+    "address2": "Ste C",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2219 2nd Ave",
+     "Ste C",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064417396",
+   "display_phone": "(206) 441-7396",
+   "distance": 1275.631835035976
+  },
+  {
+   "id": "TOtbHpjumpHWQ4NhLfNPYw",
+   "alias": "arcane-comics-shoreline",
+   "name": "Arcane Comics",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kPuI5z_Cm6vaEHj39jgEGA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/arcane-comics-shoreline?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 63,
+   "categories": [
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3439916,
+    "Latitude": 47.7392871
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "15202 Aurora Ave N",
+    "address2": "Ste A",
+    "address3": "",
+    "city": "Shoreline",
+    "zip_code": "98133",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15202 Aurora Ave N",
+     "Ste A",
+     "Shoreline, WA 98133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067814875",
+   "display_phone": "(206) 781-4875",
+   "distance": 14825.35512667855
+  }
+ ],
+ "total": 255,
+ "region": {
+  "center": {
+   "longitude": -122.3321,
+   "Latitude": 47.6062
+  }
+ }
+}

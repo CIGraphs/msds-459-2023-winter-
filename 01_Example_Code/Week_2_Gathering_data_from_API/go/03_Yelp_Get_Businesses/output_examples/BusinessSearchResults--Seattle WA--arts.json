@@ -1,0 +1,1835 @@
+{
+ "businesses": [
+  {
+   "id": "uaWVJlV0DHkWiaVS2kQ92A",
+   "alias": "space-needle-seattle",
+   "name": "Space Needle",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MzxQrw4W2UfLwqstFfFXFQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/space-needle-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2904,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    },
+    {
+     "alias": "observatories",
+     "title": "Observatories"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.34927519983081,
+    "Latitude": 47.62050398689415
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "400 Broad St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "400 Broad St",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12069052100",
+   "display_phone": "(206) 905-2100",
+   "distance": 2046.2913067211557
+  },
+  {
+   "id": "mMIQ5RG2-m_hc7X8HI4CYA",
+   "alias": "chihuly-garden-and-glass-seattle-2",
+   "name": "Chihuly Garden and Glass",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/i3rDZi1hBNXSbjeGjMHs4g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chihuly-garden-and-glass-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2767,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.350357055664,
+    "Latitude": 47.6205673217773
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "305 Harrison St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "305 Harrison St",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067534940",
+   "display_phone": "(206) 753-4940",
+   "distance": 2103.603508906599
+  },
+  {
+   "id": "MUo0UetYF961VH6cv8j56A",
+   "alias": "museum-of-pop-culture-seattle-3",
+   "name": "Museum of Pop Culture",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0LI8KLU0r7f4ax_dorBgpg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/museum-of-pop-culture-seattle-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1722,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.348124,
+    "Latitude": 47.621486
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "325 5th Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "325 5th Ave N",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067702700",
+   "display_phone": "(206) 770-2700",
+   "distance": 2081.2997057315006
+  },
+  {
+   "id": "qE5J-4Bn0rmsia3BFtk5-A",
+   "alias": "regal-cinebarre-mountlake-mountlake-terrace-4",
+   "name": "Regal Cinebarre Mountlake",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wgz5c7nj5dWWnWjgs1Gs2A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/regal-cinebarre-mountlake-mountlake-terrace-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1048,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.31327388465574,
+    "Latitude": 47.77884078939016
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "24240 Van Ry Boulevard",
+    "address2": "",
+    "address3": "",
+    "city": "Mountlake Terrace",
+    "zip_code": "98043",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "24240 Van Ry Boulevard",
+     "Mountlake Terrace, WA 98043"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18444627342",
+   "display_phone": "(844) 462-7342",
+   "distance": 19248.40240807073
+  },
+  {
+   "id": "HuuudWNVc2cONi3fy06iWA",
+   "alias": "t-mobile-park-seattle",
+   "name": "T-Mobile Park",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6RemAbDLDQeyTIONbOZ1EQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/t-mobile-park-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 976,
+   "categories": [
+    {
+     "alias": "stadiumsarenas",
+     "title": "Stadiums \u0026 Arenas"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3340651,
+    "Latitude": 47.5912327
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1250 1st Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98134",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1250 1st Ave S",
+     "Seattle, WA 98134"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063464000",
+   "display_phone": "(206) 346-4000",
+   "distance": 1677.9980220259924
+  },
+  {
+   "id": "aDYakQMc-MSescBGZuI2xA",
+   "alias": "chateau-ste-michelle-winery-woodinville-2",
+   "name": "Chateau Ste Michelle Winery",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4N3Y8wuHMXkWjNrdZmUCwg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chateau-ste-michelle-winery-woodinville-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 917,
+   "categories": [
+    {
+     "alias": "winetastingroom",
+     "title": "Wine Tasting Room"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.1493133,
+    "Latitude": 47.729809
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "14111 NE 145th St",
+    "address2": "",
+    "address3": "",
+    "city": "Woodinville",
+    "zip_code": "98072",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "14111 NE 145th St",
+     "Woodinville, WA 98072"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254881133",
+   "display_phone": "(425) 488-1133",
+   "distance": 19397.38764440546
+  },
+  {
+   "id": "ep4Kk0YokANbw6BrKJjaRw",
+   "alias": "ipic-redmond-redmond",
+   "name": "IPIC Redmond",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/z2mdWAUHKeLNoRcmdmaA4g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ipic-redmond-redmond?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 836,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "dinnertheater",
+     "title": "Dinner Theater"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.12081858122343,
+    "Latitude": 47.67009099800331
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "7330 164th Ave NE",
+    "address2": "Ste E200",
+    "address3": "",
+    "city": "Redmond",
+    "zip_code": "98052",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "7330 164th Ave NE",
+     "Ste E200",
+     "Redmond, WA 98052"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14256365601",
+   "display_phone": "(425) 636-5601",
+   "distance": 17351.181800013357
+  },
+  {
+   "id": "2cMooP-Atg17P1D3d6e0CA",
+   "alias": "hard-rock-cafe-seattle-6",
+   "name": "Hard Rock Cafe",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HH_ndOhtRNG93xxYPNOD_Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hard-rock-cafe-seattle-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 727,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.3395,
+    "Latitude": 47.60931
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "116 Pike Street",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "116 Pike Street",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062042233",
+   "display_phone": "(206) 204-2233",
+   "distance": 656.8719352320696
+  },
+  {
+   "id": "pxWOX4knPZIDOyLg7VwRZw",
+   "alias": "the-museum-of-flight-seattle",
+   "name": "The Museum of Flight",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CvZtTUlnfhFJmDOGQ_EKbQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-museum-of-flight-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 715,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.29686,
+    "Latitude": 47.518548
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9404 E Marginal Way S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98108",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "9404 E Marginal Way S",
+     "Seattle, WA 98108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067645720",
+   "display_phone": "(206) 764-5720",
+   "distance": 10098.751721788687
+  },
+  {
+   "id": "JzGaXaaQZPXK_x9WXDDcsw",
+   "alias": "dave-and-busters-auburn-3",
+   "name": "Dave \u0026 Buster's",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FCkef2HSBmmNvSQIwcMcsg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dave-and-busters-auburn-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 702,
+   "categories": [
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    },
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.2435085,
+    "Latitude": 47.2996273
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1101 Outlet Collection Dr SW",
+    "address2": "",
+    "address3": "",
+    "city": "Auburn",
+    "zip_code": "98001",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1101 Outlet Collection Dr SW",
+     "Auburn, WA 98001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12532583600",
+   "display_phone": "(253) 258-3600",
+   "distance": 34733.99153932876
+  },
+  {
+   "id": "w9TR9_rj_rtQCBu82i4xBA",
+   "alias": "the-triple-door-seattle",
+   "name": "The Triple Door",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_vwNYOui8tnIONVWU66ENQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-triple-door-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 701,
+   "categories": [
+    {
+     "alias": "asianfusion",
+     "title": "Asian Fusion"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "dinnertheater",
+     "title": "Dinner Theater"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.33749575913,
+    "Latitude": 47.6085441559553
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "216 Union St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "216 Union St",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12068384333",
+   "display_phone": "(206) 838-4333",
+   "distance": 485.25245790802154
+  },
+  {
+   "id": "JTAkz5zl4d_XkkkKjvlQxw",
+   "alias": "shortys-seattle",
+   "name": "Shorty's",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yFKzdaaVtirF53GFdVNURg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shortys-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 666,
+   "categories": [
+    {
+     "alias": "divebars",
+     "title": "Dive Bars"
+    },
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    },
+    {
+     "alias": "hotdog",
+     "title": "Hot Dogs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.345904,
+    "Latitude": 47.6146179
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "2316 2nd Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2316 2nd Ave",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064415449",
+   "display_phone": "(206) 441-5449",
+   "distance": 1395.3363320040437
+  },
+  {
+   "id": "937YYexfSIXPBmNSNn7ERg",
+   "alias": "seattle-art-museum-seattle",
+   "name": "Seattle Art Museum",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fIl0RLyoIYfsXVMQgudGng/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-art-museum-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 637,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "cafes",
+     "title": "Cafes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.338175,
+    "Latitude": 47.607697
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1300 1st Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1300 1st Ave",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066543210",
+   "display_phone": "(206) 654-3210",
+   "distance": 484.90290855264493
+  },
+  {
+   "id": "hhhaoJ1G3wUu0HKylHPRyQ",
+   "alias": "can-can-culinary-cabaret-seattle",
+   "name": "Can Can Culinary Cabaret",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8BW3YQcyig5LLLnhnO0m9g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/can-can-culinary-cabaret-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 595,
+   "categories": [
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "cabaret",
+     "title": "Cabaret"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.34105,
+    "Latitude": 47.60956
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "95 Pine St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "95 Pine St",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066520832",
+   "display_phone": "(206) 652-0832",
+   "distance": 774.6801396678088
+  },
+  {
+   "id": "5wKkAR2xyN7J1zjRi90QLQ",
+   "alias": "gameworks-seattle",
+   "name": "GameWorks",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RuJXc6gICPtwoHvCgySmyw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gameworks-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 576,
+   "categories": [
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    },
+    {
+     "alias": "eatertainment",
+     "title": "Eatertainment"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.33421,
+    "Latitude": 47.61185
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1511 7th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1511 7th Ave",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065210952",
+   "display_phone": "(206) 521-0952",
+   "distance": 635.8373144558619
+  },
+  {
+   "id": "bnaLNLj1rMQF-tU4jb20KQ",
+   "alias": "pacific-science-center-seattle",
+   "name": "Pacific Science Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dGIVM7UwpSMiKST9jSsEHg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pacific-science-center-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 554,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "planetarium",
+     "title": "Planetarium"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.35150322334823,
+    "Latitude": 47.620012523674625
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "200 2nd Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "200 2nd Ave N",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064432001",
+   "display_phone": "(206) 443-2001",
+   "distance": 2115.2796227852136
+  },
+  {
+   "id": "pDFjiQ-IVU6GVFhxv-lVNg",
+   "alias": "snoqualmie-casino-snoqualmie",
+   "name": "Snoqualmie Casino",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EA9XiawaviV3xbVoWyoXVw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/snoqualmie-casino-snoqualmie?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 550,
+   "categories": [
+    {
+     "alias": "casinos",
+     "title": "Casinos"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -121.842086,
+    "Latitude": 47.518944
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "37500 SE N Bend Way",
+    "address2": "",
+    "address3": "",
+    "city": "Snoqualmie",
+    "zip_code": "98065",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "37500 SE N Bend Way",
+     "Snoqualmie, WA 98065"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14258881234",
+   "display_phone": "(425) 888-1234",
+   "distance": 38025.560321679186
+  },
+  {
+   "id": "M2GXK3Dli9Y16KPlWqE35A",
+   "alias": "paramount-theatre-seattle",
+   "name": "Paramount Theatre",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jHYmyT37djC6B6exkgbJbw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paramount-theatre-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 513,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "nonprofit",
+     "title": "Community Service/Non-Profit"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.33177416938777,
+    "Latitude": 47.613506210603774
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "911 Pine St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "911 Pine St",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066821414",
+   "display_phone": "(206) 682-1414",
+   "distance": 812.7797590023233
+  },
+  {
+   "id": "pLQvKO8sg3XmNy6JVe6-JQ",
+   "alias": "olympic-sculpture-park-seattle",
+   "name": "Olympic Sculpture Park",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/y-7AfU1oBHNQ58JttXMONg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/olympic-sculpture-park-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 510,
+   "categories": [
+    {
+     "alias": "parks",
+     "title": "Parks"
+    },
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.35493,
+    "Latitude": 47.61663
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2901 Western Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2901 Western Ave",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066543100",
+   "display_phone": "(206) 654-3100",
+   "distance": 2001.6841501060992
+  },
+  {
+   "id": "JquQ4ANKyEhMjmqDZ8wMJA",
+   "alias": "lumen-field-seattle",
+   "name": "Lumen Field",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SfEYD4HWXniSqWnociV9zQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lumen-field-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 492,
+   "categories": [
+    {
+     "alias": "stadiumsarenas",
+     "title": "Stadiums \u0026 Arenas"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.33164,
+    "Latitude": 47.595162
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "800 Occidental Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98134",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "800 Occidental Ave S",
+     "Seattle, WA 98134"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063817555",
+   "display_phone": "(206) 381-7555",
+   "distance": 1227.8527371977762
+  },
+  {
+   "id": "Ggxh_qmQ0QuDPfP8nal2fQ",
+   "alias": "sky-view-observatory-seattle",
+   "name": "Sky View Observatory",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/31E9qoTwPc1d-ofM5JrQdA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sky-view-observatory-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 473,
+   "categories": [
+    {
+     "alias": "observatories",
+     "title": "Observatories"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.330875246696,
+    "Latitude": 47.6041956539583
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "700 4th Ave",
+    "address2": "Fl 73",
+    "address3": "Columbia Center",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "700 4th Ave",
+     "Fl 73",
+     "Columbia Center",
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063865564",
+   "display_phone": "(206) 386-5564",
+   "distance": 241.04670076175285
+  },
+  {
+   "id": "RVDu0gQvlBSbGff9TEwSwA",
+   "alias": "point-defiance-zoo-and-aquarium-tacoma-2",
+   "name": "Point Defiance Zoo \u0026 Aquarium",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/I1Gn9pKnsvEYcx2LDHNXJg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/point-defiance-zoo-and-aquarium-tacoma-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 467,
+   "categories": [
+    {
+     "alias": "zoos",
+     "title": "Zoos"
+    },
+    {
+     "alias": "aquariums",
+     "title": "Aquariums"
+    },
+    {
+     "alias": "gardens",
+     "title": "Botanical Gardens"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.521548,
+    "Latitude": 47.304963
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5400 N Pearl St",
+    "address2": "",
+    "address3": "",
+    "city": "Tacoma",
+    "zip_code": "98407",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5400 N Pearl St",
+     "Tacoma, WA 98407"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12534043800",
+   "display_phone": "(253) 404-3800",
+   "distance": 36398.68235856861
+  },
+  {
+   "id": "BXc7ftILSJJXu8BF2-dYUw",
+   "alias": "cinemark-lincoln-square-bellevue",
+   "name": "Cinemark Lincoln Square",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j5Cz4sW35EQAwfiyaih7pQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cinemark-lincoln-square-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 451,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.20123,
+    "Latitude": 47.61697
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "700 Bellevue Way NE",
+    "address2": "Ste 310",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98004",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "700 Bellevue Way NE",
+     "Ste 310",
+     "Bellevue, WA 98004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254509100",
+   "display_phone": "(425) 450-9100",
+   "distance": 9878.002702298902
+  },
+  {
+   "id": "wevvbyzDI7mpnqtdSqs6mA",
+   "alias": "regal-thornton-place-seattle",
+   "name": "Regal Thornton Place",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6LgYMW0PH110X_7H6P5fUQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/regal-thornton-place-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 442,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.32571192397735,
+    "Latitude": 47.70305068142375
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "301 NE 103rd St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98125",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "301 NE 103rd St",
+     "Seattle, WA 98125"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18444627342",
+   "display_phone": "(844) 462-7342",
+   "distance": 10779.916249576687
+  },
+  {
+   "id": "zW9klskmCw9diumbk4V9Ww",
+   "alias": "dimitrious-jazz-alley-seattle",
+   "name": "Dimitriou's Jazz Alley",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uUNwPVfD5H1mYFkiQ1lEqQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dimitrious-jazz-alley-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 441,
+   "categories": [
+    {
+     "alias": "jazzandblues",
+     "title": "Jazz \u0026 Blues"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.339408,
+    "Latitude": 47.614681
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "2033 6th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2033 6th Ave",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064419729",
+   "display_phone": "(206) 441-9729",
+   "distance": 1074.0579573185353
+  },
+  {
+   "id": "Jh7UR5QyMLpXJeOiJnevzQ",
+   "alias": "trinity-nightclub-seattle",
+   "name": "Trinity Nightclub",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Tkj5Lj9VCIqT-CPkMHJoGQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/trinity-nightclub-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 425,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.33316,
+    "Latitude": 47.60143
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "107 Occidental Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "107 Occidental Ave S",
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066977702",
+   "display_phone": "(206) 697-7702",
+   "distance": 537.7407173290954
+  },
+  {
+   "id": "1vDi5z8TKMOY-vsu_AFb9g",
+   "alias": "the-crocodile-seattle",
+   "name": "The Crocodile",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RMv_nK2yvbYFldHDJrvDPw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-crocodile-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 398,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.3492707,
+    "Latitude": 47.6145833
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "2505 1st Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2505 1st Ave",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064414618",
+   "display_phone": "(206) 441-4618",
+   "distance": 1589.2775665591598
+  },
+  {
+   "id": "Aw1LwQ7F3BVVCBCn9gq56A",
+   "alias": "the-showbox-seattle-2",
+   "name": "The Showbox",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xdJgwg1csLKTjt0bn4XZQQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-showbox-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 388,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.33941,
+    "Latitude": 47.60851
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1426 1st Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1426 1st Ave",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066283151",
+   "display_phone": "(206) 628-3151",
+   "distance": 601.8264327028205
+  },
+  {
+   "id": "5ItRG9GgXWDWKe_D1oyncQ",
+   "alias": "regal-meridian-seattle",
+   "name": "Regal Meridian",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sgs1nrxZJhHA-_lD_equQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/regal-meridian-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 380,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.333672,
+    "Latitude": 47.611748
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1501 7th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1501 7th Ave",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18444627342",
+   "display_phone": "(844) 462-7342",
+   "distance": 628.0638987040238
+  },
+  {
+   "id": "xdMbP_-mT6dvHUTLDEAZpg",
+   "alias": "unexpected-productions-improv-seattle",
+   "name": "Unexpected Productions Improv",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NdlQYpRR1m2N-56HkAF6Mw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/unexpected-productions-improv-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 368,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "comedyclubs",
+     "title": "Comedy Clubs"
+    },
+    {
+     "alias": "dramaschools",
+     "title": "Drama Schools"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.34021,
+    "Latitude": 47.60848
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1428 Post Aly",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1428 Post Aly",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065872414",
+   "display_phone": "(206) 587-2414",
+   "distance": 659.9146942291152
+  },
+  {
+   "id": "baUk8JWCrUlE9Bm7bxYIIw",
+   "alias": "muckleshoot-casino-auburn-2",
+   "name": "Muckleshoot Casino",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/x3srREA1Ds_wNqnoif7h1w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/muckleshoot-casino-auburn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 358,
+   "categories": [
+    {
+     "alias": "casinos",
+     "title": "Casinos"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.1977054,
+    "Latitude": 47.2894298
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2402 Auburn Way S",
+    "address2": "",
+    "address3": "",
+    "city": "Auburn",
+    "zip_code": "98002",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2402 Auburn Way S",
+     "Auburn, WA 98002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18008044944",
+   "display_phone": "(800) 804-4944",
+   "distance": 36526.71893905934
+  },
+  {
+   "id": "IyIg8h-DvOv6utEsnqBndg",
+   "alias": "full-tilt-columbia-city-seattle-3",
+   "name": "Full Tilt Columbia City",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JfNyDz3h5D0P-ZZVAyQm8A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/full-tilt-columbia-city-seattle-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 351,
+   "categories": [
+    {
+     "alias": "icecream",
+     "title": "Ice Cream \u0026 Frozen Yogurt"
+    },
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.28423964107822,
+    "Latitude": 47.5559893
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "5041 Rainier Ave S",
+    "address2": "Ste 105",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98118",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5041 Rainier Ave S",
+     "Ste 105",
+     "Seattle, WA 98118"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062262740",
+   "display_phone": "(206) 226-2740",
+   "distance": 6637.6607217737655
+  },
+  {
+   "id": "SPON7iH40Ox5R8LsaGnnBA",
+   "alias": "showbox-sodo-seattle",
+   "name": "Showbox SoDo",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-FfPGgc8RmZqOF60HEh-WA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/showbox-sodo-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 350,
+   "categories": [
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.33368992128,
+    "Latitude": 47.5879566646314
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1700 1st Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98134",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1700 1st Ave S",
+     "Seattle, WA 98134"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2032.0642237739607
+  },
+  {
+   "id": "s9q-nNAAe2rfsRtstxI-kw",
+   "alias": "round1-tukwila-tukwila",
+   "name": "Round1 Tukwila",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2NKoIJsi4wE8zWyzcR1QWg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/round1-tukwila-tukwila?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 350,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    },
+    {
+     "alias": "karaoke",
+     "title": "Karaoke"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.256324430296,
+    "Latitude": 47.459530538683
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2351 Southcenter Mall",
+    "address2": "",
+    "address3": "",
+    "city": "Tukwila",
+    "zip_code": "98188",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2351 Southcenter Mall",
+     "Tukwila, WA 98188"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062432787",
+   "display_phone": "(206) 243-2787",
+   "distance": 17272.597989597463
+  },
+  {
+   "id": "C2Fb3mvxQ4r9ZJZaInF5OA",
+   "alias": "full-tilt-ice-cream-seattle-2",
+   "name": "Full Tilt Ice Cream",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JEpA0PKqL0rLYeSOo_6zYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/full-tilt-ice-cream-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 342,
+   "categories": [
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    },
+    {
+     "alias": "icecream",
+     "title": "Ice Cream \u0026 Frozen Yogurt"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.355567932129,
+    "Latitude": 47.516429901123
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "9629 16th Ave SW",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98106",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "9629 16th Ave SW",
+     "Seattle, WA 98106"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067674811",
+   "display_phone": "(206) 767-4811",
+   "distance": 10134.732137896006
+  },
+  {
+   "id": "ZMfEBfVpozX_34eNnd-XJA",
+   "alias": "q-nightclub-seattle-2",
+   "name": "Q Nightclub",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/z1DCZS08iMA5aw8P6bHExQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/q-nightclub-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 338,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.3203278,
+    "Latitude": 47.613739
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1426 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1426 Broadway",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1217.805540764697
+  },
+  {
+   "id": "6oBiiPSwBAjxzTWqwH_G4A",
+   "alias": "amc-seattle-10-seattle",
+   "name": "AMC Seattle 10",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xzIXikun5m3seIN57TrRng/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-seattle-10-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 334,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.31807,
+    "Latitude": 47.66174
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4500 9th Ave Ne",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98105",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "4500 9th Ave Ne",
+     "Seattle, WA 98105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066330059",
+   "display_phone": "(206) 633-0059",
+   "distance": 6254.1055067979
+  },
+  {
+   "id": "ZmByCablaCAsdxQ4mHJvfg",
+   "alias": "dorkys-bar-arcade-tacoma",
+   "name": "Dorky's Bar Arcade",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CvDjbQQ484ClEh7ODc4L5w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dorkys-bar-arcade-tacoma?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 330,
+   "categories": [
+    {
+     "alias": "arcades",
+     "title": "Arcades"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "pizza",
+     "title": "Pizza"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.4394423,
+    "Latitude": 47.2561441
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "754 Pacific Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Tacoma",
+    "zip_code": "98402",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "754 Pacific Ave",
+     "Tacoma, WA 98402"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12536274156",
+   "display_phone": "(253) 627-4156",
+   "distance": 39811.87697568647
+  },
+  {
+   "id": "zyNvT72oGzvxNky96aegYg",
+   "alias": "amc-pacific-place-11-seattle",
+   "name": "AMC Pacific Place 11",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cjTz85Vd8gMHdmtxOoUAfA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amc-pacific-place-11-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 326,
+   "categories": [
+    {
+     "alias": "movietheaters",
+     "title": "Cinema"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.335555336216,
+    "Latitude": 47.6131703800023
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "600 Pine Street - Ste 400",
+    "address2": "Ste 400",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "600 Pine Street - Ste 400",
+     "Ste 400",
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066528908",
+   "display_phone": "(206) 652-8908",
+   "distance": 817.2085387193825
+  },
+  {
+   "id": "fC0GJjaD6wr5DQEwmVS_yw",
+   "alias": "suquamish-clearwater-casino-resort-suquamish-3",
+   "name": "Suquamish Clearwater Casino Resort",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9i5f2JYLAjNxGHfdBHkIcg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/suquamish-clearwater-casino-resort-suquamish-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 318,
+   "categories": [
+    {
+     "alias": "casinos",
+     "title": "Casinos"
+    },
+    {
+     "alias": "resorts",
+     "title": "Resorts"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.570547091602,
+    "Latitude": 47.7123921921134
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "15347 Suquamish Way NE",
+    "address2": "",
+    "address3": "",
+    "city": "Suquamish",
+    "zip_code": "98392",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15347 Suquamish Way NE",
+     "Suquamish, WA 98392"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13605988700",
+   "display_phone": "(360) 598-8700",
+   "distance": 21408.996999489813
+  }
+ ],
+ "total": 1800,
+ "region": {
+  "center": {
+   "longitude": -122.3321,
+   "Latitude": 47.6062
+  }
+ }
+}

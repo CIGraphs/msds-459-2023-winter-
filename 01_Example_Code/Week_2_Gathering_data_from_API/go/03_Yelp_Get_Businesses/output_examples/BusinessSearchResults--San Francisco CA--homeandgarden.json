@@ -1,0 +1,1867 @@
+{
+ "businesses": [
+  {
+   "id": "kypo4-J4xuvri3rFiao84A",
+   "alias": "ikea-east-palo-alto",
+   "name": "IKEA",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-iSy5Jo63L6VItAFocpzwA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ikea-east-palo-alto?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2397,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "kitchenandbath",
+     "title": "Kitchen \u0026 Bath"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.139376,
+    "Latitude": 37.461065
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1700 E Bayshore Rd",
+    "address2": "",
+    "address3": "",
+    "city": "East Palo Alto",
+    "zip_code": "94303",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1700 E Bayshore Rd",
+     "East Palo Alto, CA 94303"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18888884532",
+   "display_phone": "(888) 888-4532",
+   "distance": 42732.69145977748
+  },
+  {
+   "id": "VfjlQX_8RXl_opJWYKO6IQ",
+   "alias": "ikea-emeryville",
+   "name": "IKEA",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iaCGf2rXFueXO_oD-FE5xg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ikea-emeryville?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1965,
+   "categories": [
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "kitchenandbath",
+     "title": "Kitchen \u0026 Bath"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.2919998,
+    "Latitude": 37.8309974
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4400 Shellmound St",
+    "address2": "",
+    "address3": "",
+    "city": "Emeryville",
+    "zip_code": "94608",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "4400 Shellmound St",
+     "Emeryville, CA 94608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18888884532",
+   "display_phone": "(888) 888-4532",
+   "distance": 12813.834650593408
+  },
+  {
+   "id": "orcyGlo40708zfMKRflZYg",
+   "alias": "airport-home-appliance-hayward-4",
+   "name": "Airport Home Appliance",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l5vMcweT6FIlZfukxj7-xw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/airport-home-appliance-hayward-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1555,
+   "categories": [
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.117947893143,
+    "Latitude": 37.6664076525091
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "20286 Hesperian Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Hayward",
+    "zip_code": "94541",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "20286 Hesperian Blvd",
+     "Hayward, CA 94541"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107833494",
+   "display_phone": "(510) 783-3494",
+   "distance": 29129.78576401958
+  },
+  {
+   "id": "XScfuhb5WwiCxyWXh6kCYA",
+   "alias": "lowes-home-improvement-san-francisco",
+   "name": "Lowe's Home Improvement",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-RmCQAQ31485GUhrYQIUfw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lowes-home-improvement-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1365,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.40601201379589,
+    "Latitude": 37.74034428244389
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "491 Bayshore Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94124",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "491 Bayshore Blvd",
+     "San Francisco, CA 94124"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154868611",
+   "display_phone": "(415) 486-8611",
+   "distance": 4018.630705010402
+  },
+  {
+   "id": "llSsp6F1OYJ56jmZPygY-w",
+   "alias": "best-buy-san-francisco",
+   "name": "Best Buy",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MXALijlqrC6027k_GNe5nw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/best-buy-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1237,
+   "categories": [
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    },
+    {
+     "alias": "computers",
+     "title": "Computers"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.412942991332,
+    "Latitude": 37.7684511278912
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1717 Harrison St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1717 Harrison St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156269682",
+   "display_phone": "(415) 626-9682",
+   "distance": 914.4966579224016
+  },
+  {
+   "id": "aK0XHwU3M4DmBwws5sIVLA",
+   "alias": "airport-home-appliance-redwood-city",
+   "name": "Airport Home Appliance",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xjVeWG2mQHUGxxOSB0wJ9A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/airport-home-appliance-redwood-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 918,
+   "categories": [
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.22236704938447,
+    "Latitude": 37.48737606093387
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1748 Broadway St",
+    "address2": "",
+    "address3": "",
+    "city": "Redwood City",
+    "zip_code": "94063",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1748 Broadway St",
+     "Redwood City, CA 94063"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16502610200",
+   "display_phone": "(650) 261-0200",
+   "distance": 36375.9842945738
+  },
+  {
+   "id": "37dbKnmupuMDM8eaV1xeEQ",
+   "alias": "the-home-depot-colma-3",
+   "name": "The Home Depot",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Kpm1w7neOWynPNUDBv852g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-home-depot-colma-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 909,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    },
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.46718336450645,
+    "Latitude": 37.67561856877419
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2 Colma Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Colma",
+    "zip_code": "94014",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2 Colma Blvd",
+     "Colma, CA 94014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16507559600",
+   "display_phone": "(650) 755-9600",
+   "distance": 11812.437537451478
+  },
+  {
+   "id": "a6dazfZTENUZhmJUgVdDVg",
+   "alias": "best-buy-oakland",
+   "name": "Best Buy",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uuV1jSTAqcmnVxr2dLZCWQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/best-buy-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 904,
+   "categories": [
+    {
+     "alias": "computers",
+     "title": "Computers"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.28675370213678,
+    "Latitude": 37.827414895517016
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3700 Mandela Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94608",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3700 Mandela Pkwy",
+     "Oakland, CA 94608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104200323",
+   "display_phone": "(510) 420-0323",
+   "distance": 13035.351398513947
+  },
+  {
+   "id": "iH8unhQplg_ETJlwNQUs7g",
+   "alias": "friedmans-appliance-pleasant-hill",
+   "name": "Friedmans Appliance",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dbEO6xe7tQJnYA3Kp5nAsg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/friedmans-appliance-pleasant-hill?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 870,
+   "categories": [
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.057618,
+    "Latitude": 37.943133
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2304 Monument Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Pleasant Hill",
+    "zip_code": "94523",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2304 Monument Blvd",
+     "Pleasant Hill, CA 94523"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19258082950",
+   "display_phone": "(925) 808-2950",
+   "distance": 36842.37212962065
+  },
+  {
+   "id": "Li2ELGw8JjOI9wC_MBkIUg",
+   "alias": "airport-home-appliance-concord-2",
+   "name": "Airport Home Appliance",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/auIEGvyunO8bDcdibcGV5g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/airport-home-appliance-concord-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 853,
+   "categories": [
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.048645,
+    "Latitude": 37.971375
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1505 Willow Pass Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Concord",
+    "zip_code": "94520",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1505 Willow Pass Rd",
+     "Concord, CA 94520"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19252657154",
+   "display_phone": "(925) 265-7154",
+   "distance": 39195.8241081225
+  },
+  {
+   "id": "mpf8gTaGE7Q9JupFONtvBQ",
+   "alias": "airport-home-appliance-emeryville",
+   "name": "Airport Home Appliance",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3XfjkStPSF_8VYGio9oRJQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/airport-home-appliance-emeryville?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 694,
+   "categories": [
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.29386044070944,
+    "Latitude": 37.839142225289656
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5815 Shellmound Way",
+    "address2": "",
+    "address3": "",
+    "city": "Emeryville",
+    "zip_code": "94608",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "5815 Shellmound Way",
+     "Emeryville, CA 94608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105490800",
+   "display_phone": "(510) 549-0800",
+   "distance": 13140.279870955272
+  },
+  {
+   "id": "asbofTXVTCXxIxa0NC_cvA",
+   "alias": "ashley-homestore-concord-2",
+   "name": "Ashley HomeStore",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/B6j_DFXIKJoeL5rvv6X46Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ashley-homestore-concord-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 659,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.055354,
+    "Latitude": 37.978783
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2201 John Glenn Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Concord",
+    "zip_code": "94520",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2201 John Glenn Dr",
+     "Concord, CA 94520"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19255211977",
+   "display_phone": "(925) 521-1977",
+   "distance": 39177.80165555817
+  },
+  {
+   "id": "MwLZrR60k9PfTkOdLNtr7g",
+   "alias": "the-home-depot-emeryville-2",
+   "name": "The Home Depot",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Cj5pmEf922WzeIA2nUvx0w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-home-depot-emeryville-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 649,
+   "categories": [
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    },
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.28338096441759,
+    "Latitude": 37.828623799999995
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3838 Hollis Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Emeryville",
+    "zip_code": "94608",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3838 Hollis Ave",
+     "Emeryville, CA 94608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106019400",
+   "display_phone": "(510) 601-9400",
+   "distance": 13360.4191717844
+  },
+  {
+   "id": "mWOvqpilHf8_nO0MhBETHQ",
+   "alias": "living-spaces-san-leandro",
+   "name": "Living Spaces",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PgsL3aXuY7c9jpt8uan-3g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/living-spaces-san-leandro?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 629,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.14187589363716,
+    "Latitude": 37.70045759586674
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "250 Floresta Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Leandro",
+    "zip_code": "94578",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "250 Floresta Blvd",
+     "San Leandro, CA 94578"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18772667300",
+   "display_phone": "(877) 266-7300",
+   "distance": 25769.75347401904
+  },
+  {
+   "id": "VaLpkBvsxmdPHj8DkgnitQ",
+   "alias": "best-buy-pleasant-hill-pleasant-hill",
+   "name": "Best Buy - Pleasant Hill",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/F3d5NbEyTvq7k5Lzsirhdw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/best-buy-pleasant-hill-pleasant-hill?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 624,
+   "categories": [
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    },
+    {
+     "alias": "mobilephones",
+     "title": "Mobile Phones"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.059322,
+    "Latitude": 37.935202
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3260 Buskirk Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Pleasant Hill",
+    "zip_code": "94523",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3260 Buskirk Ave",
+     "Pleasant Hill, CA 94523"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19259880256",
+   "display_phone": "(925) 988-0256",
+   "distance": 36292.11043440286
+  },
+  {
+   "id": "OZg2mteawIeITmNZI4VkHw",
+   "alias": "west-elm-emeryville",
+   "name": "west elm",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QcLuN21jym0jZUma2BNXxg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/west-elm-emeryville?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 620,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "rugs",
+     "title": "Rugs"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.293230842501,
+    "Latitude": 37.8333859007618
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "5602 Bay St",
+    "address2": "",
+    "address3": "",
+    "city": "Emeryville",
+    "zip_code": "94608",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "5602 Bay St",
+     "Emeryville, CA 94608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106551367",
+   "display_phone": "(510) 655-1367",
+   "distance": 12851.644230882723
+  },
+  {
+   "id": "QylsmdRrDpfQl844cFaDlA",
+   "alias": "balsam-hill-burlingame-4",
+   "name": "Balsam Hill",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GLlAtwgRPFYprN7gQ0rQMg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/balsam-hill-burlingame-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 596,
+   "categories": [
+    {
+     "alias": "christmastrees",
+     "title": "Christmas Trees"
+    },
+    {
+     "alias": "holidaydecorations",
+     "title": "Holiday Decorations"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.37129754751886,
+    "Latitude": 37.59550223896955
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "1561 Adrian Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Burlingame",
+    "zip_code": "94010",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1561 Adrian Rd",
+     "Burlingame, CA 94010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18885522572",
+   "display_phone": "(888) 552-2572",
+   "distance": 20392.253669627175
+  },
+  {
+   "id": "EGRthlgA_CFYo99Q8Rj8mQ",
+   "alias": "mattress-firm-van-ness-san-francisco",
+   "name": "Mattress Firm Van Ness",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/87CtHSyxUw7RkdRnWqHw2Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mattress-firm-van-ness-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 593,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.42215,
+    "Latitude": 37.79064
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1600 Van Ness Ave",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1600 Van Ness Ave",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154473286",
+   "display_phone": "(415) 447-3286",
+   "distance": 1766.813035114166
+  },
+  {
+   "id": "naSquvcFb3j3dgPYnHuk0w",
+   "alias": "cliffs-variety-san-francisco",
+   "name": "Cliff's Variety",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/_M8R4OzFTIfCRSYBHykuHA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cliffs-variety-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 590,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "fabricstores",
+     "title": "Fabric Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.43482,
+    "Latitude": 37.76136
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "479 Castro St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94114",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "479 Castro St",
+     "San Francisco, CA 94114"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154315365",
+   "display_phone": "(415) 431-5365",
+   "distance": 2029.0006539853541
+  },
+  {
+   "id": "cgI7z1cki0Im_3LuBSV19A",
+   "alias": "ana-furniture-san-mateo-san-mateo",
+   "name": "Ana Furniture - San Mateo",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lCU4VlAMFiegSOpB7cFwAA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ana-furniture-san-mateo-san-mateo?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 547,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.300208813492,
+    "Latitude": 37.5398587031408
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3011 S El Camino Real",
+    "address2": "",
+    "address3": "",
+    "city": "San Mateo",
+    "zip_code": "94403",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3011 S El Camino Real",
+     "San Mateo, CA 94403"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16502122288",
+   "display_phone": "(650) 212-2288",
+   "distance": 28162.898988888322
+  },
+  {
+   "id": "K4bU8h3XhVmKDte8WtskNQ",
+   "alias": "best-buy-colma-2",
+   "name": "Best Buy",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LYgJly8UfbuE7ADYUxUHnQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/best-buy-colma-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 537,
+   "categories": [
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    },
+    {
+     "alias": "computers",
+     "title": "Computers"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.4649294,
+    "Latitude": 37.6763685
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "200 Colma Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Colma",
+    "zip_code": "94014",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "200 Colma Blvd",
+     "Colma, CA 94014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16507568711",
+   "display_phone": "(650) 756-8711",
+   "distance": 11665.008861698108
+  },
+  {
+   "id": "qi0otZGitzXRGwEUeVtZxw",
+   "alias": "mancinis-sleepworld-union-city-union-city",
+   "name": "Mancini's Sleepworld - Union City",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7c6tfbMMe1RTUQXRMyn1Sg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mancinis-sleepworld-union-city-union-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 529,
+   "categories": [
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.067842,
+    "Latitude": 37.602075
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "30970 Courthouse Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Union City",
+    "zip_code": "94587",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "30970 Courthouse Dr",
+     "Union City, CA 94587"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15103244700",
+   "display_phone": "(510) 324-4700",
+   "distance": 36422.2943936696
+  },
+  {
+   "id": "TYs5hsPy-rlE4XsXOtQgkA",
+   "alias": "lowes-home-improvement-san-bruno-3",
+   "name": "Lowe's Home Improvement",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SzFxxwiz5Ntb7IAJLGFJ5A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lowes-home-improvement-san-bruno-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 520,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.4205800932528,
+    "Latitude": 37.641003752170825
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1340 El Camino Real",
+    "address2": "",
+    "address3": "",
+    "city": "San Bruno",
+    "zip_code": "94066",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1340 El Camino Real",
+     "San Bruno, CA 94066"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16506167800",
+   "display_phone": "(650) 616-7800",
+   "distance": 14888.928867027607
+  },
+  {
+   "id": "qQjl1Vy9iXyLJrCRLVU68g",
+   "alias": "urban-ore-berkeley",
+   "name": "Urban Ore",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Z7i8ZK038KwzRHXn1fTJaA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/urban-ore-berkeley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 518,
+   "categories": [
+    {
+     "alias": "homeandgarden",
+     "title": "Home \u0026 Garden"
+    },
+    {
+     "alias": "artsandcrafts",
+     "title": "Arts \u0026 Crafts"
+    },
+    {
+     "alias": "buildingsupplies",
+     "title": "Building Supplies"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.289860126583,
+    "Latitude": 37.8504724921482
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "900 Murray St",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94710",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "900 Murray St",
+     "Berkeley, CA 94710"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15108417283",
+   "display_phone": "(510) 841-7283",
+   "distance": 14146.00087903262
+  },
+  {
+   "id": "dFMTCSo7b2RR87r3l9dhJQ",
+   "alias": "the-home-depot-daly-city",
+   "name": "The Home Depot",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vNkNQqFxzjDHIKT68auJhg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-home-depot-daly-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 516,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    },
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.4830965,
+    "Latitude": 37.6988972
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "303 E Lake Merced Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Daly City",
+    "zip_code": "94015",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "303 E Lake Merced Blvd",
+     "Daly City, CA 94015"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16507550178",
+   "display_phone": "(650) 755-0178",
+   "distance": 10138.79012976738
+  },
+  {
+   "id": "NlyxPRxCQlEy9xW0QG0fsA",
+   "alias": "target-san-francisco-2",
+   "name": "Target",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DKZP0qfGqWI2EYPIKK_TmQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 514,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.404002,
+    "Latitude": 37.784642
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "789 Mission St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "789 Mission St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153436272",
+   "display_phone": "(415) 343-6272",
+   "distance": 1733.4225817427491
+  },
+  {
+   "id": "8Cy-xPP_QgXfxCHpklIvRw",
+   "alias": "lowes-home-improvement-union-city-3",
+   "name": "Lowe's Home Improvement",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7Z0Y1b5oV_APnF6DQncvmg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lowes-home-improvement-union-city-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 512,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.06407480000064,
+    "Latitude": 37.59919280000043
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "32040 Union Landing Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Union City",
+    "zip_code": "94587",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "32040 Union Landing Blvd",
+     "Union City, CA 94587"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104760600",
+   "display_phone": "(510) 476-0600",
+   "distance": 36869.25357752244
+  },
+  {
+   "id": "rqZt_3ABXLaPItjtK0kRAw",
+   "alias": "mancinis-sleepworld-san-mateo-san-mateo",
+   "name": "Mancini's Sleepworld - San Mateo",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wzfntALP_6H5pkMnQOtWlA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mancinis-sleepworld-san-mateo-san-mateo?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 497,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.29352684338758,
+    "Latitude": 37.5331213676105
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3806 S El Camino Real",
+    "address2": "",
+    "address3": "",
+    "city": "San Mateo",
+    "zip_code": "94403",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3806 S El Camino Real",
+     "San Mateo, CA 94403"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16502120200",
+   "display_phone": "(650) 212-0200",
+   "distance": 29078.68363588596
+  },
+  {
+   "id": "aNbFL6MU2b_KQIczO08bXA",
+   "alias": "target-colma",
+   "name": "Target",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/V6tAnvIhrRH59WL8f0jiSQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-colma?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 494,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.4647,
+    "Latitude": 37.67328
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5001 Junipero Serra Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Colma",
+    "zip_code": "94014",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "5001 Junipero Serra Blvd",
+     "Colma, CA 94014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16509928433",
+   "display_phone": "(650) 992-8433",
+   "distance": 11980.9541096775
+  },
+  {
+   "id": "zbeFaHf5kOrdO0xOJN3cLQ",
+   "alias": "paxton-gate-san-francisco",
+   "name": "Paxton Gate",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/iyPaemJO7W0zc5jP0plUgA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paxton-gate-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 492,
+   "categories": [
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "taxidermy",
+     "title": "Taxidermy"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.42169,
+    "Latitude": 37.75961
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "824 Valencia St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "824 Valencia St",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158241872",
+   "display_phone": "(415) 824-1872",
+   "distance": 1710.3251991745726
+  },
+  {
+   "id": "uBkgbOXueTIFCtSPkMIfHg",
+   "alias": "flora-grubb-gardens-san-francisco-2",
+   "name": "Flora Grubb Gardens",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IZh2yEm5FkyJZwe3cTBS3A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/flora-grubb-gardens-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 489,
+   "categories": [
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.39005,
+    "Latitude": 37.73964
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1634 Jerrold Ave",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94124",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1634 Jerrold Ave",
+     "San Francisco, CA 94124"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156267256",
+   "display_phone": "(415) 626-7256",
+   "distance": 4676.264614385623
+  },
+  {
+   "id": "yF-olZn6F6IrpYr2SvbvAg",
+   "alias": "target-walnut-creek",
+   "name": "Target",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VQT18I28PbQqlDjWY8YY6A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-walnut-creek?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 486,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.064,
+    "Latitude": 37.90513
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1871 N Main St",
+    "address2": "",
+    "address3": "",
+    "city": "Walnut Creek",
+    "zip_code": "94596",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1871 N Main St",
+     "Walnut Creek, CA 94596"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19259790083",
+   "display_phone": "(925) 979-0083",
+   "distance": 34404.809684475265
+  },
+  {
+   "id": "4wBSaqaSY1SUj0A7XGBDMA",
+   "alias": "living-spaces-millbrae",
+   "name": "Living Spaces",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GizwHwl1q9eNGSHvRmRoJQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/living-spaces-millbrae?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 484,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.39637882886932,
+    "Latitude": 37.60393973368046
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "855 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Millbrae",
+    "zip_code": "94030",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "855 Broadway",
+     "Millbrae, CA 94030"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18772667300",
+   "display_phone": "(877) 266-7300",
+   "distance": 19117.516892581232
+  },
+  {
+   "id": "MvE_JgUDtF95aXGVq_dKBA",
+   "alias": "target-daly-city",
+   "name": "Target",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/N0dYqPf83IQSaf5wLxICmw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-daly-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 476,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.470173,
+    "Latitude": 37.670553
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "133 Serramonte Ctr",
+    "address2": "",
+    "address3": "",
+    "city": "Daly City",
+    "zip_code": "94015",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "133 Serramonte Ctr",
+     "Daly City, CA 94015"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16507552393",
+   "display_phone": "(650) 755-2393",
+   "distance": 12432.533162623376
+  },
+  {
+   "id": "WJesCh_2ED-3S_C6AtrQHw",
+   "alias": "target-emeryville-2",
+   "name": "Target",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8wqsTzox7lKGLsu7IIuhug/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-emeryville-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 472,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.289127,
+    "Latitude": 37.828334
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1555 40th St",
+    "address2": "",
+    "address3": "",
+    "city": "Emeryville",
+    "zip_code": "94608",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1555 40th St",
+     "Emeryville, CA 94608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15102850559",
+   "display_phone": "(510) 285-0559",
+   "distance": 12895.968816760922
+  },
+  {
+   "id": "716vh4CBU0inr4WPtPtHEQ",
+   "alias": "dale-hardware-fremont",
+   "name": "Dale Hardware",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3XNGeWIGmOht1VhTNM41NQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dale-hardware-fremont?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 469,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.0085492,
+    "Latitude": 37.5613903
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3700 Thornton Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Fremont",
+    "zip_code": "94536",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3700 Thornton Ave",
+     "Fremont, CA 94536"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107973700",
+   "display_phone": "(510) 797-3700",
+   "distance": 43258.969490529926
+  },
+  {
+   "id": "E2EyJHycUCwnKJrIaEqytQ",
+   "alias": "urban-outfitters-san-francisco",
+   "name": "Urban Outfitters",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KOgOnPs-f5ClOUBSdTmoyg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/urban-outfitters-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 458,
+   "categories": [
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.40770799592018,
+    "Latitude": 37.78538912893292
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "80 Powell St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "80 Powell St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159891515",
+   "display_phone": "(415) 989-1515",
+   "distance": 1554.4123058795578
+  },
+  {
+   "id": "E0MjHz5Te-7FAG47xOzMRg",
+   "alias": "lowes-home-improvement-concord-6",
+   "name": "Lowe's Home Improvement",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/E4d_EazpAVO8MpkLf8Yh1Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lowes-home-improvement-concord-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 457,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.04353336644182,
+    "Latitude": 38.00568843350431
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1935 Arnold Industrial Way",
+    "address2": "",
+    "address3": "",
+    "city": "Concord",
+    "zip_code": "94520",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1935 Arnold Industrial Way",
+     "Concord, CA 94520"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19255669000",
+   "display_phone": "(925) 566-9000",
+   "distance": 41790.8917929302
+  },
+  {
+   "id": "O-_QaOe-WMMF7cAMj6MWyw",
+   "alias": "the-home-depot-san-rafael-2",
+   "name": "The Home Depot",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jK2GJmF6qVizecCHoiKD7A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-home-depot-san-rafael-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 457,
+   "categories": [
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    },
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.4930013,
+    "Latitude": 37.953179
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "111 Shoreline Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "San Rafael",
+    "zip_code": "94901",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "111 Shoreline Pkwy",
+     "San Rafael, CA 94901"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154588675",
+   "display_phone": "(415) 458-8675",
+   "distance": 20850.048250010394
+  },
+  {
+   "id": "In74Anw3aRAdNmjykzGBFg",
+   "alias": "the-home-depot-concord",
+   "name": "The Home Depot",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nGAEwQmLLBf5XDvLTC8AXA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-home-depot-concord?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 456,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    },
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.0546756,
+    "Latitude": 37.975362
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2090 Meridian Park Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Concord",
+    "zip_code": "94520",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2090 Meridian Park Blvd",
+     "Concord, CA 94520"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19257989600",
+   "display_phone": "(925) 798-9600",
+   "distance": 39008.37527655314
+  }
+ ],
+ "total": 2900,
+ "region": {
+  "center": {
+   "longitude": -122.4194,
+   "Latitude": 37.7749
+  }
+ }
+}

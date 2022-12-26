@@ -1,0 +1,1816 @@
+{
+ "businesses": [
+  {
+   "id": "8xrnR67LZvgkB_Qf-LiDFA",
+   "alias": "sixt-paris-11",
+   "name": "Sixt",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/g4fKrgg7EVAEHuxkCfwZFw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sixt-paris-11?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 23,
+   "categories": [
+    {
+     "alias": "carrental",
+     "title": "Car Rental"
+    },
+    {
+     "alias": "truck_rental",
+     "title": "Truck Rental"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": 2.309381,
+    "Latitude": 48.8485079
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "42 avenue de Saxe",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "42 avenue de Saxe",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144385555",
+   "display_phone": "+33 1 44 38 55 55",
+   "distance": 3259.5535431250582
+  },
+  {
+   "id": "SQuUu9GS8D8X9dJmI6v_DA",
+   "alias": "capitainerie-du-port-de-l-arsenal-de-la-bastille-paris",
+   "name": "Capitainerie du Port de l'Arsenal de la Bastille",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uIS0n7p4MUMzP4S-MTT1iQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/capitainerie-du-port-de-l-arsenal-de-la-bastille-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 13,
+   "categories": [
+    {
+     "alias": "marinas",
+     "title": "Marinas"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.367828,
+    "Latitude": 48.849914
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11 boulevard de la Bastille",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "11 boulevard de la Bastille",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33688935563",
+   "display_phone": "+33 6 88 93 55 63",
+   "distance": 1363.866757925513
+  },
+  {
+   "id": "0XvJTd1GKPJQE1lil7jAjQ",
+   "alias": "concession-citroën-c42-paris",
+   "name": "Concession Citroën - C42",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2TDWzKzQ2fZCkpzSWdHskw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/concession-citro%C3%ABn-c42-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.307705996935,
+    "Latitude": 48.8701117054584
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "42 avenue des Champs-Elysées",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "42 avenue des Champs-Elysées",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33156433670",
+   "display_phone": "+33 1 56 43 36 70",
+   "distance": 3584.786072575592
+  },
+  {
+   "id": "Cjn4hLsG8oue55us8JfrLw",
+   "alias": "conforama-france-bondy",
+   "name": "Conforama France",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Lje7sXBUhzUlMRcEZltTzw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/conforama-france-bondy?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "servicestations",
+     "title": "Gas Stations"
+    },
+    {
+     "alias": "televisionserviceproviders",
+     "title": "Television Service Providers"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "shoppingcenters",
+     "title": "Shopping Centers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.4763277,
+    "Latitude": 48.9055775
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "53 Avenue Galliéni",
+    "address2": "",
+    "address3": "",
+    "city": "Bondy",
+    "zip_code": "93140",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "53 Avenue Galliéni",
+     "93140 Bondy",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148025050",
+   "display_phone": "+33 1 48 02 50 50",
+   "distance": 10585.220949410748
+  },
+  {
+   "id": "BHT_fAvbXHKxSU8ZAa1hlA",
+   "alias": "mondial-de-l-automobile-paris",
+   "name": "Mondial De L Automobile",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tHni9eWuYA4O3u8gnfLXzg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mondial-de-l-automobile-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "auto",
+     "title": "Automotive"
+    },
+    {
+     "alias": "festivals",
+     "title": "Festivals"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.287771,
+    "Latitude": 48.832355
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Porte De Versailles",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "Porte De Versailles",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 5431.122950595865
+  },
+  {
+   "id": "PiEUlOshoCirw628RDZZUQ",
+   "alias": "garage-littlecar-paris",
+   "name": "Garage LittleCar",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ObD1HSfRE301QGOZuWsqdQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/garage-littlecar-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "lawyers",
+     "title": "Lawyers"
+    },
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "carrental",
+     "title": "Car Rental"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3991599,
+    "Latitude": 48.8524017
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8 rue planchat",
+    "address2": "nation",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "8 rue planchat",
+     "nation",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143702019",
+   "display_phone": "+33 1 43 70 20 19",
+   "distance": 4000.5122075486966
+  },
+  {
+   "id": "vPMP15KstK3kymxxRwv7bA",
+   "alias": "midas-antony",
+   "name": "Midas",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/midas-antony?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.308285,
+    "Latitude": 48.761187
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "128 bis avenue Aristide Briand",
+    "address2": "",
+    "address3": "",
+    "city": "Antony",
+    "zip_code": "92160",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "128 bis avenue Aristide Briand",
+     "92160 Antony",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146664120",
+   "display_phone": "+33 1 46 66 41 20",
+   "distance": 11086.11434661587
+  },
+  {
+   "id": "rB0k5AVS0v362pqPDQhqPA",
+   "alias": "l-atelier-automobile-la-garenne-colombes",
+   "name": "L'Atelier Automobile",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/u_ddboUFIB64QxWEZ-jKIg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/l-atelier-automobile-la-garenne-colombes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.2531077,
+    "Latitude": 48.9037569
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "26 rue Pierre Brossolette",
+    "address2": "",
+    "address3": "",
+    "city": "La Garenne Colombes",
+    "zip_code": "92250",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "26 rue Pierre Brossolette",
+     "92250 La Garenne Colombes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147820131",
+   "display_phone": "+33 1 47 82 01 31",
+   "distance": 8944.420574690821
+  },
+  {
+   "id": "_FiOHRzxFJE5vzUpUcQB6w",
+   "alias": "garage-auto-passion-courbevoie",
+   "name": "Garage Auto Passion",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/garage-auto-passion-courbevoie?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.2609928,
+    "Latitude": 48.8991756
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "56 rue Lambrechts",
+    "address2": "",
+    "address3": "",
+    "city": "Courbevoie",
+    "zip_code": "92400",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "56 rue Lambrechts",
+     "92400 Courbevoie",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147885571",
+   "display_phone": "+33 1 47 88 55 71",
+   "distance": 8179.242029735097
+  },
+  {
+   "id": "K_IPwoH5IsFDfpSK0V5oCg",
+   "alias": "garage-leclerc-bois-colombes",
+   "name": "Garage Leclerc",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/garage-leclerc-bois-colombes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.2644356,
+    "Latitude": 48.9180241
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "115 Rue Gén Leclerc",
+    "address2": "",
+    "address3": "",
+    "city": "Bois Colombes",
+    "zip_code": "92270",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "115 Rue Gén Leclerc",
+     "92270 Bois Colombes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142422322",
+   "display_phone": "+33 1 42 42 23 22",
+   "distance": 9371.566597723386
+  },
+  {
+   "id": "-53oGjofQiuNw-cKB29lLg",
+   "alias": "l-atelier-renault-paris-2",
+   "name": "L'Atelier Renault",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EKUYi0vd8xuVAcznOzChLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/l-atelier-renault-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    },
+    {
+     "alias": "usedcardealers",
+     "title": "Used Car Dealers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.30546,
+    "Latitude": 48.87046
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "53 avenue des Champs Elysées",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "53 avenue des Champs Elysées",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33176841919",
+   "display_phone": "+33 1 76 84 19 19",
+   "distance": 3750.32753454754
+  },
+  {
+   "id": "IKZ4uHbA0pnVZiCRZkg_5Q",
+   "alias": "gommes-motos-paris",
+   "name": "Gommes Motos",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Eb-c4PDEt2QHLTGYPGDPzQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gommes-motos-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "motorcyclerepair",
+     "title": "Motorcycle Repair"
+    },
+    {
+     "alias": "tires",
+     "title": "Tires"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.2885857,
+    "Latitude": 48.8798037
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "83 avenue Ternes",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "83 avenue Ternes",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140680890",
+   "display_phone": "+33 1 40 68 08 90",
+   "distance": 5320.437047263475
+  },
+  {
+   "id": "i9qoQhsdY3kCylYfGdaccw",
+   "alias": "versailles-chantiers-automobiles-versailles",
+   "name": "Versailles Chantiers Automobiles",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qMCg0WJkyrRTx7yZbOBMrg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/versailles-chantiers-automobiles-versailles?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    },
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    },
+    {
+     "alias": "autopartssupplies",
+     "title": "Auto Parts \u0026 Supplies"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.1432114,
+    "Latitude": 48.7932994
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "58 rue des Chantiers",
+    "address2": "",
+    "address3": "",
+    "city": "Versailles",
+    "zip_code": "78000",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "58 rue des Chantiers",
+     "78000 Versailles",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33139252600",
+   "display_phone": "+33 1 39 25 26 00",
+   "distance": 16840.77532216744
+  },
+  {
+   "id": "O-ficUsYtZu2HrSwd-x8AQ",
+   "alias": "alvergnas-automobiles-montigny-le-bretonneux",
+   "name": "Alvergnas Automobiles",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alvergnas-automobiles-montigny-le-bretonneux?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.0503118,
+    "Latitude": 48.7975764
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "21 Chemin Départemental 134",
+    "address2": "",
+    "address3": "",
+    "city": "Montigny le Bretonneux",
+    "zip_code": "78180",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "21 Chemin Départemental 134",
+     "78180 Montigny le Bretonneux",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33130585858",
+   "display_phone": "+33 1 30 58 58 58",
+   "distance": 23053.16921746051
+  },
+  {
+   "id": "2lOetZ7XBuCzuliVRgZ5Cg",
+   "alias": "grisy-apples-grisy-les-plâtres-2",
+   "name": "grisy apple's",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/66S2-FNVI51i_44fm_y37A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/grisy-apples-grisy-les-pl%C3%A2tres-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.05026,
+    "Latitude": 49.130277
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Grisy les Plâtres",
+    "zip_code": "",
+    "country": "FR",
+    "state": "95",
+    "display_address": [
+     "Grisy les Plâtres, Val-d'Oise",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33134666306",
+   "display_phone": "+33 1 34 66 63 06",
+   "distance": 37568.18885737685
+  },
+  {
+   "id": "2F3GO6gSM8aDJk-cbphjJQ",
+   "alias": "ecovisit-paris-montreuil",
+   "name": "Ecovisit Paris",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nK69UlqF5kY-bUMF3Wyf2A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ecovisit-paris-montreuil?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "auto",
+     "title": "Automotive"
+    },
+    {
+     "alias": "tours",
+     "title": "Tours"
+    },
+    {
+     "alias": "transport",
+     "title": "Transportation"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.43603,
+    "Latitude": 48.86809
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "27 rue Ernest Savart",
+    "address2": "",
+    "address3": "",
+    "city": "Montreuil",
+    "zip_code": "93100",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "27 rue Ernest Savart",
+     "93100 Montreuil",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33610193281",
+   "display_phone": "+33 6 10 19 32 81",
+   "distance": 6258.413443820278
+  },
+  {
+   "id": "cDK0JOVYKKFdegbs5tkehg",
+   "alias": "norauto-vélizy-villacoublay-4",
+   "name": "Norauto",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/norauto-v%C3%A9lizy-villacoublay-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "autopartssupplies",
+     "title": "Auto Parts \u0026 Supplies"
+    },
+    {
+     "alias": "tires",
+     "title": "Tires"
+    },
+    {
+     "alias": "windshieldinstallrepair",
+     "title": "Windshield Installation \u0026 Repair"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.213995,
+    "Latitude": 48.782061
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4 rue Dewoitine",
+    "address2": "",
+    "address3": "",
+    "city": "Vélizy-Villacoublay",
+    "zip_code": "78140",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "4 rue Dewoitine",
+     "78140 Vélizy-Villacoublay",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33139456040",
+   "display_phone": "+33 1 39 45 60 40",
+   "distance": 13079.878586484898
+  },
+  {
+   "id": "SM9ev4NaCF6aJUvN7IeqPA",
+   "alias": "universal-circuits-maurepas",
+   "name": "Universal Circuits",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BrQGhkzhpgQzFEx4Szrj_Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/universal-circuits-maurepas?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "motorcyclerepair",
+     "title": "Motorcycle Repair"
+    },
+    {
+     "alias": "active",
+     "title": "Active Life"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 1.945326,
+    "Latitude": 48.7623589
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "Situé À coté du Auchan de maurepas derière Tati",
+    "address3": "",
+    "city": "Maurepas",
+    "zip_code": "78310",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "Situé À coté du Auchan de maurepas derière Tati",
+     "78310 Maurepas",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33130053131",
+   "display_phone": "+33 1 30 05 31 31",
+   "distance": 31584.007341896555
+  },
+  {
+   "id": "zKxL1V1PzDorgmE79DI30A",
+   "alias": "sasie-center-moto-pontault-combault",
+   "name": "Sasie Center Moto",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sasie-center-moto-pontault-combault?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "autopartssupplies",
+     "title": "Auto Parts \u0026 Supplies"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.627135,
+    "Latitude": 48.79991
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3 rue du Pre des Aulnes",
+    "address2": "",
+    "address3": "",
+    "city": "Pontault Combault",
+    "zip_code": "77340",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "3 rue du Pre des Aulnes",
+     "77340 Pontault Combault",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33160295260",
+   "display_phone": "+33 1 60 29 52 60",
+   "distance": 21089.760863804422
+  },
+  {
+   "id": "-k20y-By6NiC-R9WZieG3A",
+   "alias": "sixt-paris-5",
+   "name": "Sixt",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sKh5j44AylFRmRsyxANQ6Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sixt-paris-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "carrental",
+     "title": "Car Rental"
+    },
+    {
+     "alias": "truck_rental",
+     "title": "Truck Rental"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.35359,
+    "Latitude": 48.8797
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2 rue de Compiègne",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 rue de Compiègne",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144385555",
+   "display_phone": "+33 1 44 38 55 55",
+   "distance": 2570.611280271311
+  },
+  {
+   "id": "hhO5HaNFY_g5gAhHgMl-oA",
+   "alias": "midas-paris-8",
+   "name": "Midas",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MBCZXsFAwhd0g8Qse8ueMg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/midas-paris-8?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "auto",
+     "title": "Automotive"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": 2.39428,
+    "Latitude": 48.87012
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "276 Rue Pyrénées",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "276 Rue Pyrénées",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143490101",
+   "display_phone": "+33 1 43 49 01 01",
+   "distance": 3425.6626222537748
+  },
+  {
+   "id": "a4Lftks4W9OulIGE1_UDpg",
+   "alias": "autobacs-france-lognes",
+   "name": "Autobacs France",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/autobacs-france-lognes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "autopartssupplies",
+     "title": "Auto Parts \u0026 Supplies"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.6361743,
+    "Latitude": 48.8325616
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Rue Campanules",
+    "address2": "",
+    "address3": "",
+    "city": "Lognes",
+    "zip_code": "77185",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "Rue Campanules",
+     "77185 Lognes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33164112450",
+   "display_phone": "+33 1 64 11 24 50",
+   "distance": 20951.781718628677
+  },
+  {
+   "id": "o4H1uscrQfNkF6iI9dCXHg",
+   "alias": "relais-pigalle-2-paris",
+   "name": "Relais Pigalle 2",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BIICPMJn8ThFAf5Vp95hyw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/relais-pigalle-2-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "servicestations",
+     "title": "Gas Stations"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    },
+    {
+     "alias": "autopartssupplies",
+     "title": "Auto Parts \u0026 Supplies"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.33802,
+    "Latitude": 48.88216
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13 bd de Clichy",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "13 bd de Clichy",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33629234811",
+   "display_phone": "+33 6 29 23 48 11",
+   "distance": 3025.463142735443
+  },
+  {
+   "id": "8bRzOmJbS0MSIdfFJBwXvw",
+   "alias": "sécuritest-châtenay-malabry-2",
+   "name": "Sécuritest",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/s%C3%A9curitest-ch%C3%A2tenay-malabry-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.2704019,
+    "Latitude": 48.75925
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "81 Rue Jean Baptiste Clément",
+    "address2": "",
+    "address3": "",
+    "city": "Châtenay Malabry",
+    "zip_code": "92290",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "81 Rue Jean Baptiste Clément",
+     "92290 Châtenay Malabry",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143506232",
+   "display_phone": "+33 1 43 50 62 32",
+   "distance": 12371.693410529835
+  },
+  {
+   "id": "8Tn6sjYS84EBt9ZPHqgRuQ",
+   "alias": "s-t-n-a-le-plessis-robinson",
+   "name": "S.T.N.A",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/s-t-n-a-le-plessis-robinson?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.2775775,
+    "Latitude": 48.7851323
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "49 Avenue Raymond Croland",
+    "address2": "",
+    "address3": "",
+    "city": "Le Plessis Robinson",
+    "zip_code": "92350",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "49 Avenue Raymond Croland",
+     "92350 Le Plessis Robinson",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33141870150",
+   "display_phone": "+33 1 41 87 01 50",
+   "distance": 9643.636950078362
+  },
+  {
+   "id": "CdK880whveLUB82RDePYoQ",
+   "alias": "feux-vert-rambouillet",
+   "name": "Feux vert",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/feux-vert-rambouillet?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "autopartssupplies",
+     "title": "Auto Parts \u0026 Supplies"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 1.82759,
+    "Latitude": 48.6268
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Centre commercial du Bel Air",
+    "address2": "",
+    "address3": "",
+    "city": "Rambouillet",
+    "zip_code": "78125",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "Centre commercial du Bel Air",
+     "78125 Rambouillet",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 46181.694477557474
+  },
+  {
+   "id": "6V9wQKVT1qCe7ipvgWUtWQ",
+   "alias": "oil-france-paris-6",
+   "name": "Oil France",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/oil-france-paris-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "servicestations",
+     "title": "Gas Stations"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": 2.3413267137373,
+    "Latitude": 48.861072306218
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8 rue Bailleul",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "8 rue Bailleul",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142603624",
+   "display_phone": "+33 1 42 60 36 24",
+   "distance": 938.1121979873784
+  },
+  {
+   "id": "xwOLr5Yj2TK_euRsLH1RLg",
+   "alias": "urgence-scooters-paris",
+   "name": "Urgence Scooters",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0Jk8lJTLjiRQoCragC2wWQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/urgence-scooters-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "motorcyclerepair",
+     "title": "Motorcycle Repair"
+    },
+    {
+     "alias": "motorcycledealers",
+     "title": "Motorcycle Dealers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.36851,
+    "Latitude": 48.85871
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "44 rue Amelot",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "44 rue Amelot",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147005002",
+   "display_phone": "+33 1 47 00 50 02",
+   "distance": 1221.9665268444292
+  },
+  {
+   "id": "D52PCjP00DrFP5UF2aX0ig",
+   "alias": "scooter-avenue-montrouge",
+   "name": "Scooter Avenue",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qxq90ju_ZUYy7ORLH2m-QQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/scooter-avenue-montrouge?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "motorcyclerepair",
+     "title": "Motorcycle Repair"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.32534,
+    "Latitude": 48.81712
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "64 ave Aristide Briand",
+    "address2": "Nationale 20 - Porte d'Orléans",
+    "address3": "",
+    "city": "Montrouge",
+    "zip_code": "92120",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "64 ave Aristide Briand",
+     "Nationale 20 - Porte d'Orléans",
+     "92120 Montrouge",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33149121992",
+   "display_phone": "+33 1 49 12 19 92",
+   "distance": 4811.464817772878
+  },
+  {
+   "id": "KIvE4s7QOEiFEjHPDBPScg",
+   "alias": "casque-d-or-boulogne-billancourt",
+   "name": "Casque d'Or",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/casque-d-or-boulogne-billancourt?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "motorcycledealers",
+     "title": "Motorcycle Dealers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.2309504,
+    "Latitude": 48.8398567
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "114 Avenue André Morizet",
+    "address2": "",
+    "address3": "",
+    "city": "Boulogne Billancourt",
+    "zip_code": "92100",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "114 Avenue André Morizet",
+     "92100 Boulogne Billancourt",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148258489",
+   "display_phone": "+33 1 48 25 84 89",
+   "distance": 9065.35922175809
+  },
+  {
+   "id": "DCp87ecs8mnLTp2PhhpxlA",
+   "alias": "espace-behra-viry-viry-châtillon-2",
+   "name": "Espace Behra Viry",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/espace-behra-viry-viry-ch%C3%A2tillon-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "car_dealers",
+     "title": "Car Dealers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.38274,
+    "Latitude": 48.6781
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "128 avenue du Général de Gaulle",
+    "address2": "",
+    "address3": "",
+    "city": "Viry Châtillon",
+    "zip_code": "91170",
+    "country": "FR",
+    "state": "91",
+    "display_address": [
+     "128 avenue du Général de Gaulle",
+     "91170 Viry Châtillon",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33169968940",
+   "display_phone": "+33 1 69 96 89 40",
+   "distance": 19974.07942281882
+  },
+  {
+   "id": "7oREBaYTbo8B3gD6thWodw",
+   "alias": "motori-italiani-paris-2",
+   "name": "Motori Italiani",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-frwwam6jsFGiEA5vDcmzg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/motori-italiani-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "motorcyclerepair",
+     "title": "Motorcycle Repair"
+    },
+    {
+     "alias": "motorcycledealers",
+     "title": "Motorcycle Dealers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3802251387986,
+    "Latitude": 48.848238808139
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3 impasse Crozatier",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 impasse Crozatier",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143408536",
+   "display_phone": "+33 1 43 40 85 36",
+   "distance": 2251.4240970576398
+  },
+  {
+   "id": "3J7xOskZPOzpQDePENRrDA",
+   "alias": "station-service-e-leclerc-paris",
+   "name": "Station Service E. Leclerc",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pV-fmxGZQfgL9W-gh3zrRQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/station-service-e-leclerc-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "servicestations",
+     "title": "Gas Stations"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.302,
+    "Latitude": 48.8918899
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Fort de Vaux",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "Fort de Vaux",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33141279160",
+   "display_phone": "+33 1 41 27 91 60",
+   "distance": 5386.379711699227
+  },
+  {
+   "id": "ZzTMxq-zdEZi8KSMi8iQ1g",
+   "alias": "carlili-paris",
+   "name": "Carlili",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hneheNJr04CvEBI5MQz_7A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/carlili-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "carrental",
+     "title": "Car Rental"
+    },
+    {
+     "alias": "truck_rental",
+     "title": "Truck Rental"
+    },
+    {
+     "alias": "scooterrentals",
+     "title": "Scooter Rentals"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.372301,
+    "Latitude": 48.843877
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "193 rue de Bercy",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "193 rue de Bercy",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33783645892",
+   "display_phone": "+33 7 83 64 58 92",
+   "distance": 2040.749066465715
+  },
+  {
+   "id": "hJ6NFVmrHiCT4L2bD2TK4g",
+   "alias": "moto-pasteur-paris-2",
+   "name": "Moto Pasteur",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/moto-pasteur-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "motorcycledealers",
+     "title": "Motorcycle Dealers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.312774,
+    "Latitude": 48.843252
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "33 boulevard Pasteur",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "33 boulevard Pasteur",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147342947",
+   "display_phone": "+33 1 47 34 29 47",
+   "distance": 3244.2236353512194
+  },
+  {
+   "id": "8kjwM46ZHJdslLKCR_a5Ag",
+   "alias": "courcelles-paris-3",
+   "name": "Courcelles",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/l20xDAsKgtyTB1c-3Q_qTg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/courcelles-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "auto",
+     "title": "Automotive"
+    },
+    {
+     "alias": "restaurants",
+     "title": "Restaurants"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.2994909,
+    "Latitude": 48.8827473
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "148 Rue Courcelles",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "148 Rue Courcelles",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147632548",
+   "display_phone": "+33 1 47 63 25 48",
+   "distance": 4828.642404217591
+  },
+  {
+   "id": "XTq4sj67IHqzRwQ1L562dg",
+   "alias": "norauto-plaisir-2",
+   "name": "Norauto",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/EPpirq2eWtc2U46f8VXeKQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/norauto-plaisir-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "stereo_installation",
+     "title": "Car Stereo Installation"
+    },
+    {
+     "alias": "autopartssupplies",
+     "title": "Auto Parts \u0026 Supplies"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": 1.9628654,
+    "Latitude": 48.8266009
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Centre Commercial Grand Plaisir",
+    "address2": "",
+    "address3": "",
+    "city": "Plaisir",
+    "zip_code": "78370",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "Centre Commercial Grand Plaisir",
+     "78370 Plaisir",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33130542729",
+   "display_phone": "+33 1 30 54 27 29",
+   "distance": 28686.885194098108
+  },
+  {
+   "id": "055h8VFa0PyUSJ1fXlKApA",
+   "alias": "vaysse-châtenay-malabry-4",
+   "name": "Vaysse",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vaysse-ch%C3%A2tenay-malabry-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "tires",
+     "title": "Tires"
+    },
+    {
+     "alias": "autorepair",
+     "title": "Auto Repair"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.2828043,
+    "Latitude": 48.7627918
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "31 rue de Saclay",
+    "address2": "",
+    "address3": "",
+    "city": "Châtenay Malabry",
+    "zip_code": "92290",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "31 rue de Saclay",
+     "92290 Châtenay Malabry",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140910117",
+   "display_phone": "+33 1 40 91 01 17",
+   "distance": 11603.001655834138
+  },
+  {
+   "id": "o-jOFLaJC9r5L7iT1Tp1vg",
+   "alias": "sixt-boulogne-billancourt",
+   "name": "Sixt",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/O5-5TgnnOmZEDEpHxzR1VQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sixt-boulogne-billancourt?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "carrental",
+     "title": "Car Rental"
+    },
+    {
+     "alias": "truck_rental",
+     "title": "Truck Rental"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.2527644,
+    "Latitude": 48.8363052
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "33 ter avenue Edouard Vaillant",
+    "address2": "",
+    "address3": "",
+    "city": "Boulogne Billancourt",
+    "zip_code": "92100",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "33 ter avenue Edouard Vaillant",
+     "92100 Boulogne Billancourt",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33130211002",
+   "display_phone": "+33 1 30 21 10 02",
+   "distance": 7618.113261228776
+  },
+  {
+   "id": "r8mOGPsWvC8al7f-YvmjGQ",
+   "alias": "garage-de-la-place-saint-georges-paris",
+   "name": "Garage de la Place Saint Georges",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/phJ5O2lgi07zkRWTQuMDTQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/garage-de-la-place-saint-georges-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "servicestations",
+     "title": "Gas Stations"
+    },
+    {
+     "alias": "parking",
+     "title": "Parking"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.33844,
+    "Latitude": 48.87916
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "20 Rue Clauzel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "20 Rue Clauzel",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148787567",
+   "display_phone": "+33 1 48 78 75 67",
+   "distance": 2702.924808717633
+  }
+ ],
+ "total": 595,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

@@ -1,0 +1,1862 @@
+{
+ "businesses": [
+  {
+   "id": "I2ke2-jIbXLkMFoxCGMIPA",
+   "alias": "el-hefe-chicago-3",
+   "name": "El Hefe",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fNQ-wut7wtvuKRuIvyMgoA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/el-hefe-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 760,
+   "categories": [
+    {
+     "alias": "mexican",
+     "title": "Mexican"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.628553,
+    "Latitude": 41.8900083
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$$$",
+   "location": {
+    "address1": "15 W Hubbard St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "15 W Hubbard St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125486841",
+   "display_phone": "(312) 548-6841",
+   "distance": 1328.1590359725744
+  },
+  {
+   "id": "kHym1xqOZjR1f2vACC24pA",
+   "alias": "sound-bar-chicago",
+   "name": "Sound-Bar",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Xuenkhn6KpEg5R2TgLCvrg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sound-bar-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 675,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6352126,
+    "Latitude": 41.8933049
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "226 W Ontario St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "226 W Ontario St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127874480",
+   "display_phone": "(312) 787-4480",
+   "distance": 1768.3071441505833
+  },
+  {
+   "id": "yNKWaa8N6WrD6GRYp8V7pw",
+   "alias": "the-underground-chicago",
+   "name": "The Underground",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AoxnrZKLgELZrcVNwYNb9g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-underground-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 609,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.63034,
+    "Latitude": 41.89109
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "56 W Illinois St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "56 W Illinois St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14302289203",
+   "display_phone": "(430) 228-9203",
+   "distance": 1448.8422122135578
+  },
+  {
+   "id": "NfigrGVZr3-LLZnyGlM3nQ",
+   "alias": "joy-district-chicago-6",
+   "name": "Joy District",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GaLYIQos1K-ksNx5c_hF6g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/joy-district-chicago-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 521,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6317760720849,
+    "Latitude": 41.8901589292573
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "112 Hubbard St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "112 Hubbard St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126513983",
+   "display_phone": "(312) 651-3983",
+   "distance": 1350.8321716014725
+  },
+  {
+   "id": "hO5ZAyr7yqBJFWN_CMMPNA",
+   "alias": "smartbar-chicago",
+   "name": "Smartbar",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/N50kQ0cFAYSLVcWViWcw7w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/smartbar-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 392,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.65876,
+    "Latitude": 41.94976
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3730 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60613",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3730 N Clark St",
+     "Chicago, IL 60613"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735494140",
+   "display_phone": "(773) 549-4140",
+   "distance": 8320.746590742561
+  },
+  {
+   "id": "ZJMgEycQB5e9ImszzSS5xg",
+   "alias": "the-hangge-uppe-chicago-3",
+   "name": "The Hangge-Uppe",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/azBS2ziHJ07-f4L4sE4siA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-hangge-uppe-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 342,
+   "categories": [
+    {
+     "alias": "divebars",
+     "title": "Dive Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.62934,
+    "Latitude": 41.90338
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "14 W Elm",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60610",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "14 W Elm",
+     "Chicago, IL 60610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123370561",
+   "display_phone": "(312) 337-0561",
+   "distance": 2813.707054354031
+  },
+  {
+   "id": "UaiuYT0UB4bRoSCEUIrDtQ",
+   "alias": "beauty-bar-chicago",
+   "name": "Beauty Bar",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VsnnHg6aj0ECJ4MgeA93Hw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beauty-bar-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 330,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.66413,
+    "Latitude": 41.89639
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1444 W Chicago Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1444 W Chicago Ave",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122268828",
+   "display_phone": "(312) 226-8828",
+   "distance": 3497.5804743962644
+  },
+  {
+   "id": "bjTtIFdCrQKSbR1Qndv_Vw",
+   "alias": "debonair-social-club-chicago",
+   "name": "Debonair Social Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KmsDQ6Z8o8rxURTRi-nTWA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/debonair-social-club-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 299,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6767021,
+    "Latitude": 41.910092
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1575 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1575 N Milwaukee Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732277990",
+   "display_phone": "(773) 227-7990",
+   "distance": 5283.311781685597
+  },
+  {
+   "id": "pCmGbfvMC4qPHRUD_oe8ew",
+   "alias": "berlin-chicago",
+   "name": "Berlin",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NF1bzJ4QF1qEFECsAqGiLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/berlin-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 284,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6536821666395,
+    "Latitude": 41.94001308338566
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "954 W Belmont Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "954 W Belmont Ave",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17733484975",
+   "display_phone": "(773) 348-4975",
+   "distance": 7162.46308744782
+  },
+  {
+   "id": "avGMiwuYUWQP61NQEW6wrw",
+   "alias": "big-city-tap-chicago-2",
+   "name": "Big City Tap",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zb-ztFO8FQviB7ioAvp_ow/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/big-city-tap-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 267,
+   "categories": [
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6545269042253,
+    "Latitude": 41.9399079680443
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1010 W Belmont Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1010 W Belmont Ave",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739359229",
+   "display_phone": "(773) 935-9229",
+   "distance": 7160.638497646103
+  },
+  {
+   "id": "p0UquNGFSGewziWPevA0Ng",
+   "alias": "dylans-tavern-and-grill-chicago",
+   "name": "Dylans Tavern \u0026 Grill",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ujbyrg28GGvoBcl8StVXng/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dylans-tavern-and-grill-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 256,
+   "categories": [
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.64144,
+    "Latitude": 41.8799
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "118 S Clinton St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60661",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "118 S Clinton St",
+     "Chicago, IL 60661"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128762008",
+   "display_phone": "(312) 876-2008",
+   "distance": 980.4278497173526
+  },
+  {
+   "id": "uMHy8pweWndSPdiBNyXtYA",
+   "alias": "cuvee-chicago",
+   "name": "Cuvee",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0P_GAHHtYwPYRlklAY9xvQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cuvee-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 218,
+   "categories": [
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6361846923828,
+    "Latitude": 41.8941993713379
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$$$",
+   "location": {
+    "address1": "308 W Erie St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "308 W Erie St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122029221",
+   "display_phone": "(312) 202-9221",
+   "distance": 1871.3906878311398
+  },
+  {
+   "id": "k64pzZO79-vVbPx6p8Ephg",
+   "alias": "prysm-nightclub-chicago-2",
+   "name": "PRYSM Nightclub",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9NnolysUppIqnQebYYwzCw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/prysm-nightclub-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 206,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6524699851871,
+    "Latitude": 41.9093583721087
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1543 N Kingsbury St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1543 N Kingsbury St",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125464141",
+   "display_phone": "(312) 546-4141",
+   "distance": 3949.93271681368
+  },
+  {
+   "id": "J2WY-fpukutRwMyxGPibGg",
+   "alias": "drink-schaumburg-2",
+   "name": "Drink",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ta8_LDm5TRDAnMtAVUwu3Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/drink-schaumburg-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 203,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "djs",
+     "title": "DJs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -88.05758,
+    "Latitude": 42.07182
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "871 E Algonquin Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Schaumburg",
+    "zip_code": "60173",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "871 E Algonquin Rd",
+     "Schaumburg, IL 60173"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18473973100",
+   "display_phone": "(847) 397-3100",
+   "distance": 41387.323242531034
+  },
+  {
+   "id": "mKRsc_b8pi4eQsIxlQ-0dw",
+   "alias": "the-original-mothers-chicago-2",
+   "name": "The Original Mother's",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8-2WwQMTnDQT9pzf4a_Skg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-original-mothers-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 196,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6292366,
+    "Latitude": 41.9040752
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "26 W Division St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60610",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "26 W Division St",
+     "Chicago, IL 60610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126427251",
+   "display_phone": "(312) 642-7251",
+   "distance": 2888.683726277131
+  },
+  {
+   "id": "zEC6jbgbfB8nX4dbgWhf9Q",
+   "alias": "house-of-music-and-entertainment-arlington-heights-2",
+   "name": "House of Music \u0026 Entertainment",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZJ10feNwHdCzQAJjLyp5gw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/house-of-music-and-entertainment-arlington-heights-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 185,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.959313,
+    "Latitude": 42.099964
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1227 N Rand Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Arlington Heights",
+    "zip_code": "60004",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1227 N Rand Rd",
+     "Arlington Heights, IL 60004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18475774663",
+   "display_phone": "(847) 577-4663",
+   "distance": 36746.16815708257
+  },
+  {
+   "id": "yCaZqH7OgisBoywmADC2Ow",
+   "alias": "scarlet-chicago-2",
+   "name": "Scarlet",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tcspHYAEmgdZlej4Mdy9lQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/scarlet-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 182,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6496887207031,
+    "Latitude": 41.9424438476562
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3320 N Halsted St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3320 N Halsted St",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17733481053",
+   "display_phone": "(773) 348-1053",
+   "distance": 7339.615268286767
+  },
+  {
+   "id": "E5PgIgCxWDSaNbyW8-H-0g",
+   "alias": "hydrate-chicago",
+   "name": "Hydrate",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZPwuKl4cSWXcqFChp6gmgw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hydrate-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 156,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.649598645819,
+    "Latitude": 41.945351310694
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3458 N Halsted St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3458 N Halsted St",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739759244",
+   "display_phone": "(773) 975-9244",
+   "distance": 7655.355837622279
+  },
+  {
+   "id": "idrHZmUFg6kpBkb5XzG1tw",
+   "alias": "late-bar-chicago",
+   "name": "Late Bar",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6wiCn6-00tOUx1vJ_j0zYA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/late-bar-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 146,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.7163467,
+    "Latitude": 41.9394798
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3534 W Belmont",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3534 W Belmont",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732675283",
+   "display_phone": "(773) 267-5283",
+   "distance": 9889.44991990841
+  },
+  {
+   "id": "Sg3uuMA9bEhAx-lLq6eQqQ",
+   "alias": "primary-night-club-chicago",
+   "name": "Primary Night Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gAXY4Lmhva7_472BCRTRWg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/primary-night-club-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 128,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6289475,
+    "Latitude": 41.9038151
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5 W Division St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60610",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5 W Division St",
+     "Chicago, IL 60610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126009532",
+   "display_phone": "(312) 600-9532",
+   "distance": 2853.530392255383
+  },
+  {
+   "id": "VK_sKeFkOm3uqQr3t0eI5Q",
+   "alias": "transit-nightclub-chicago",
+   "name": "Transit Nightclub",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/upNZYjI5x88Vj5yPiI2-Kg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/transit-nightclub-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 125,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.66377,
+    "Latitude": 41.88517
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1431 W Lake St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1431 W Lake St",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124918600",
+   "display_phone": "(312) 491-8600",
+   "distance": 2919.0551128229345
+  },
+  {
+   "id": "KnfeNNqN3Ba3o4hOcZ4MyA",
+   "alias": "tao-chicago-nightclub-chicago-3",
+   "name": "TAO Chicago Nightclub",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/h8MPvh1EmJNR__lLRIqg4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tao-chicago-nightclub-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 121,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.63008,
+    "Latitude": 41.89369
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$$$",
+   "location": {
+    "address1": "632 N Dearborn St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "632 N Dearborn St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12248880387",
+   "display_phone": "(224) 888-0387",
+   "distance": 1699.2395922024039
+  },
+  {
+   "id": "Su41TMNtKbNIYKpQD0e-lQ",
+   "alias": "lite-chicago",
+   "name": "Lite",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/r3ogqLSehR-PKGeC8O29xw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lite-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 117,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.634836,
+    "Latitude": 41.892943
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "215 W Ontario St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "215 W Ontario St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126007835",
+   "display_phone": "(312) 600-7835",
+   "distance": 1702.301903116838
+  },
+  {
+   "id": "yEXwUhkVcL-kaRL6x0jq_A",
+   "alias": "the-coach-house-schaumburg",
+   "name": "The Coach House",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rIQnwihrZol9-ZxAhus2rw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-coach-house-schaumburg?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 117,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -88.0393601,
+    "Latitude": 42.0675253
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1626 E Algonquin Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Schaumburg",
+    "zip_code": "60193",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1626 E Algonquin Rd",
+     "Schaumburg, IL 60193"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12248016619",
+   "display_phone": "(224) 801-6619",
+   "distance": 39874.950219476144
+  },
+  {
+   "id": "z2cMwcoyDyPuPnZCv1xfLA",
+   "alias": "the-sofo-tap-chicago",
+   "name": "The SoFo Tap",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yEofxiShK6va8t_g6Z5khg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-sofo-tap-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 100,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6675415039062,
+    "Latitude": 41.9724273681641
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "4923 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4923 N Clark St",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737847636",
+   "display_phone": "(773) 784-7636",
+   "distance": 10947.209929621404
+  },
+  {
+   "id": "CZBIdwYtOgymNojP9cXQew",
+   "alias": "liqrbox-chicago",
+   "name": "LiqrBox",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vmXvm8wbBPuURKQjQ9JJKQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/liqrbox-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 99,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "comfortfood",
+     "title": "Comfort Food"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.636957,
+    "Latitude": 41.8986853
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "873 N Orleans St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60610",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "873 N Orleans St",
+     "Chicago, IL 60610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127674444",
+   "display_phone": "(312) 767-4444",
+   "distance": 2364.4058391356575
+  },
+  {
+   "id": "nmWu71adu5nwwD6be0gbHQ",
+   "alias": "progress-bar-chicago",
+   "name": "Progress Bar",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VRGniy391M2931I0hBfOvQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/progress-bar-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 89,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6492312623984,
+    "Latitude": 41.943520812096
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3359 N Halsted",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3359 N Halsted",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736979268",
+   "display_phone": "(773) 697-9268",
+   "distance": 7450.041535747805
+  },
+  {
+   "id": "TWnje9Kf7v0xCBzvumsalQ",
+   "alias": "tunnel-chicago",
+   "name": "Tunnel",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/XZI-cWrnwdv6aKZiJd392A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tunnel-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 78,
+   "categories": [
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.632964,
+    "Latitude": 41.8890363
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "151 W Kinzie St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "151 W Kinzie St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17733488899",
+   "display_phone": "(773) 348-8899",
+   "distance": 1247.9252032497645
+  },
+  {
+   "id": "_2wNvKQKY8Bq97c-xa6lyA",
+   "alias": "latin-bliss-nightclub-chicago",
+   "name": "Latin Bliss Nightclub",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YZBKYB1I8THXBwW5m9Ysrw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/latin-bliss-nightclub-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6925811767578,
+    "Latitude": 41.981761932373
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5515 N Lincoln Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60625",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5515 N Lincoln Ave",
+     "Chicago, IL 60625"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732758888",
+   "display_phone": "(773) 275-8888",
+   "distance": 12645.05042440398
+  },
+  {
+   "id": "DLkYHjncIcHsACm0t6Gigg",
+   "alias": "jackhammer-chicago",
+   "name": "Jackhammer",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ca1SmLTqBWf_HfxI3fPnUA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jackhammer-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 67,
+   "categories": [
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6709466963669,
+    "Latitude": 41.9983961776355
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "6406 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60626",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "6406 N Clark St",
+     "Chicago, IL 60626"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737435772",
+   "display_phone": "(773) 743-5772",
+   "distance": 13802.493623321434
+  },
+  {
+   "id": "R7s4BwxKABHdlPCn4u7_JQ",
+   "alias": "the-call-chicago",
+   "name": "The Call",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tt0KmLWtsth-AziTrKYW1g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-call-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 61,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "gaybars",
+     "title": "Gay Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.669183,
+    "Latitude": 41.983351
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1547 W Bryn Mawr Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60660",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1547 W Bryn Mawr Ave",
+     "Chicago, IL 60660"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 12148.361866461262
+  },
+  {
+   "id": "UF9DACe58e4JNYMK_8wYjw",
+   "alias": "twisted-cantina-chicago",
+   "name": "Twisted Cantina",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/v4t3U7NfWfUomtvv3Hte_Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/twisted-cantina-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 56,
+   "categories": [
+    {
+     "alias": "mexican",
+     "title": "Mexican"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.66079,
+    "Latitude": 41.85873
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1640 S Blue Island Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60608",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1640 S Blue Island Ave",
+     "Chicago, IL 60608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122650923",
+   "display_phone": "(312) 265-0923",
+   "distance": 3345.461200546236
+  },
+  {
+   "id": "aUaeI_JjUoLMofDFLNzwIQ",
+   "alias": "the-hideout-schaumburg",
+   "name": "The Hideout",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DDUN1Wszn8rsqlOE1zXyLg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-hideout-schaumburg?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "karaoke",
+     "title": "Karaoke"
+    },
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -88.0867081,
+    "Latitude": 42.0500412
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1230 Valley Lake Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Schaumburg",
+    "zip_code": "60195",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1230 Valley Lake Dr",
+     "Schaumburg, IL 60195"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18478858858",
+   "display_phone": "(847) 885-8858",
+   "distance": 42389.37161800786
+  },
+  {
+   "id": "ocv5OY8gUizO8Im-2SSuXA",
+   "alias": "disco-chicago-2",
+   "name": "Disco",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/v-30knlSN5rskOnhdOhTeQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/disco-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 52,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6316,
+    "Latitude": 41.88978
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "111 W Hubbard St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "111 W Hubbard St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128289000",
+   "display_phone": "(312) 828-9000",
+   "distance": 1307.736888651173
+  },
+  {
+   "id": "BY7FxrhH4AZAc2pbqrx7Lg",
+   "alias": "martini-club-chicago-4",
+   "name": "Martini Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FmYrEF8wTAqEywJG0Pt77Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/martini-club-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 49,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "polish",
+     "title": "Polish"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.7668151855469,
+    "Latitude": 41.9375343322754
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "3124 N Central Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60641",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3124 N Central Ave",
+     "Chicago, IL 60641"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736229444",
+   "display_phone": "(773) 622-9444",
+   "distance": 13123.701638934166
+  },
+  {
+   "id": "ARxjMaBpMFfM1Pyi3rEP3w",
+   "alias": "stereo-nightclub-chicago",
+   "name": "Stereo Nightclub",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7c2dQSVaI_5IATCC_JyOsQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/stereo-nightclub-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 42,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.76698,
+    "Latitude": 41.93153
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5616 W Diversey Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60639",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5616 W Diversey Ave",
+     "Chicago, IL 60639"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738897171",
+   "display_phone": "(773) 889-7171",
+   "distance": 12814.878847619262
+  },
+  {
+   "id": "xXZ457b0M5tdsRRHWGGmsA",
+   "alias": "fantasy-night-club-chicago",
+   "name": "Fantasy Night Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t5Vlju6N8LiBHqEW-ueWXQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fantasy-night-club-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 32,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.64908,
+    "Latitude": 41.94856
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "3641 N Halsted St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60613",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3641 N Halsted St",
+     "Chicago, IL 60613"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738570004",
+   "display_phone": "(773) 857-0004",
+   "distance": 7997.877462613755
+  },
+  {
+   "id": "LshJpZcYv1knlZJ1DIHFag",
+   "alias": "club-volkan-chicago",
+   "name": "Club Volkan",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/djSQKioYt1A8T8KDV82pvg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/club-volkan-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 28,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.70473,
+    "Latitude": 41.84615
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2501 S Kedzie Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60623",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2501 S Kedzie Ave",
+     "Chicago, IL 60623"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732472400",
+   "display_phone": "(773) 247-2400",
+   "distance": 7147.856087518963
+  },
+  {
+   "id": "sp10QI-XDe404UTtNRAj8A",
+   "alias": "chicago-by-night-chicago",
+   "name": "Chicago by Night",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3p90weS9JR2aMlk54lPq6Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-by-night-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 25,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "jazzandblues",
+     "title": "Jazz \u0026 Blues"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.7667998,
+    "Latitude": 41.9386719
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "5600 W Belmont Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60634",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5600 W Belmont Ave",
+     "Chicago, IL 60634"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737940300",
+   "display_phone": "(773) 794-0300",
+   "distance": 13186.882391986639
+  },
+  {
+   "id": "C-pqjr3_p0rrSqzueh-UCQ",
+   "alias": "the-filthy-libertine-chicago",
+   "name": "The Filthy Libertine",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-filthy-libertine-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 22,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -87.6498413085938,
+    "Latitude": 41.9114646911621
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1615 N Clybourn Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1615 N Clybourn Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126541782",
+   "display_phone": "(312) 654-1782",
+   "distance": 4067.7312165824724
+  }
+ ],
+ "total": 93,
+ "region": {
+  "center": {
+   "longitude": -87.6298,
+   "Latitude": 41.8781
+  }
+ }
+}

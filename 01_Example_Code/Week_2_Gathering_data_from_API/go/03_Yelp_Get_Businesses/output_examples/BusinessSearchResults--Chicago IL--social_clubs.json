@@ -1,0 +1,1796 @@
+{
+ "businesses": [
+  {
+   "id": "yVk-6pUYgLmQ5xIML8oCNQ",
+   "alias": "soho-house-chicago-chicago",
+   "name": "Soho House Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7AV494joz9xYj9Xbhnn-Xw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/soho-house-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 239,
+   "categories": [
+    {
+     "alias": "resorts",
+     "title": "Resorts"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6483050658814,
+    "Latitude": 41.883746
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "113-125 N Green St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "113-125 N Green St",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125218000",
+   "display_phone": "(312) 521-8000",
+   "distance": 1655.6488195856896
+  },
+  {
+   "id": "FMwj-CNNLCgJr39nUjNqrw",
+   "alias": "the-metropolitan-chicago-3",
+   "name": "The Metropolitan",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CuyGQqj973VWARwgJJXaYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-metropolitan-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 193,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "sharedofficespaces",
+     "title": "Shared Office Spaces"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.63626800000232,
+    "Latitude": 41.87874079926512
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "233 S Wacker Dr",
+    "address2": "Fl 67",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60606",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "233 S Wacker Dr",
+     "Fl 67",
+     "Chicago, IL 60606"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13128763200",
+   "display_phone": "(312) 876-3200",
+   "distance": 540.2154055043909
+  },
+  {
+   "id": "LYioZA2Di7UQicjd6pxWLA",
+   "alias": "union-league-club-of-chicago-chicago",
+   "name": "Union League Club of Chicago",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0nkMR_IoTXucAlc5XCPmtQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/union-league-club-of-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 99,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.63002,
+    "Latitude": 41.87793
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "65 W Jackson Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60604",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "65 W Jackson Blvd",
+     "Chicago, IL 60604"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124277800",
+   "display_phone": "(312) 427-7800",
+   "distance": 20.204900381559327
+  },
+  {
+   "id": "anEQcEC3Z-t-lGZbC7wWQQ",
+   "alias": "events-and-adventures-chicago",
+   "name": "Events \u0026 Adventures",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/W49CtXAQXKEl1fXYTHQ34A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/events-and-adventures-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 94,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6333636367233,
+    "Latitude": 41.8764213204705
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "411 S Wells",
+    "address2": "Ste 200",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "411 S Wells",
+     "Ste 200",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18003860866",
+   "display_phone": "(800) 386-0866",
+   "distance": 349.1321699435145
+  },
+  {
+   "id": "LHmZaK8MIGmAvvhb16XUXA",
+   "alias": "columbia-yacht-club-chicago",
+   "name": "Columbia Yacht Club",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TgJug4ybxwrx8LzOPvWJ9Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/columbia-yacht-club-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "specialtyschools",
+     "title": "Specialty Schools"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.61221,
+    "Latitude": 41.883994
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "111 N Lake Shore Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "111 N Lake Shore Dr",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129383625",
+   "display_phone": "(312) 938-3625",
+   "distance": 1596.9252821998841
+  },
+  {
+   "id": "J0cU09u31F3Tr0ospHyk-g",
+   "alias": "lincoln-park-young-professionals-chicago-2",
+   "name": "Lincoln Park Young Professionals",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/T0WFq9_tZJ3oQ9ejlpZBNA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lincoln-park-young-professionals-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 26,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "eventplanning",
+     "title": "Party \u0026 Event Planning"
+    },
+    {
+     "alias": "scavengerhunts",
+     "title": "Scavenger Hunts"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6493225097656,
+    "Latitude": 41.9221038818359
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126425097",
+   "display_phone": "(312) 642-5097",
+   "distance": 4828.939543168914
+  },
+  {
+   "id": "M2IPK7T75f9NE47HIvAj1A",
+   "alias": "the-womans-club-of-evanston-evanston-2",
+   "name": "The Woman's Club of Evanston",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2kgsB9VTXY4xNxRpdFYLnw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-womans-club-of-evanston-evanston-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 25,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6789468,
+    "Latitude": 42.0479836
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1702 Chicago Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Evanston",
+    "zip_code": "60201",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1702 Chicago Ave",
+     "Evanston, IL 60201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18474753800",
+   "display_phone": "(847) 475-3800",
+   "distance": 19322.293481302164
+  },
+  {
+   "id": "vx1lylfLyDaAbNMCfjJbTg",
+   "alias": "bump-club-and-beyond-chicago",
+   "name": "Bump Club \u0026 Beyond",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2BbwtcL7vjtpg1pUSYA2zg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bump-club-and-beyond-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 25,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "parentingclasses",
+     "title": "Parenting Classes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.67972,
+    "Latitude": 41.91163
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1658 N Milwaukee Ave",
+    "address2": "Ste 100",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1658 N Milwaukee Ave",
+     "Ste 100",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129091059",
+   "display_phone": "(312) 909-1059",
+   "distance": 5563.444549428451
+  },
+  {
+   "id": "2v-uXX89tU8kBnBL9xhdLQ",
+   "alias": "chicago-stadium-club-chicago",
+   "name": "Chicago Stadium Club",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ay65bp6535nqFOYCsAuUaw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-stadium-club-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 18,
+   "categories": [
+    {
+     "alias": "buffets",
+     "title": "Buffets"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6744087,
+    "Latitude": 41.8811951
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1901 W Madison St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60612",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1901 W Madison St",
+     "Chicago, IL 60612"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124552582",
+   "display_phone": "(312) 455-2582",
+   "distance": 3674.0957926936603
+  },
+  {
+   "id": "_waBwxhzzsTNxu_ZcLo2nA",
+   "alias": "the-chicago-club-chicago",
+   "name": "The Chicago Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lh9UN9YfE857kUbbcNDnEg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-chicago-club-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 17,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6253861,
+    "Latitude": 41.8768467
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "81 E Van Buren St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "81 E Van Buren St",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124271825",
+   "display_phone": "(312) 427-1825",
+   "distance": 434.26333485800563
+  },
+  {
+   "id": "fm3jrFbzvrJz-OYwho5ofg",
+   "alias": "the-sky-line-club-chicago",
+   "name": "The Sky-Line Club",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Vc_BtJVQLoVc4qmkawCxoA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-sky-line-club-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.62421,
+    "Latitude": 41.8871
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "307 N Michigan Ave",
+    "address2": "24 Fl",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "307 N Michigan Ave",
+     "24 Fl",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127824833",
+   "display_phone": "(312) 782-4833",
+   "distance": 1099.844899682702
+  },
+  {
+   "id": "UTPWXFLzDiuNY1qLKRq7RA",
+   "alias": "vfw-post-9545-new-lenox",
+   "name": "VFW Post 9545",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mNPDF5dagfadzXx7Xbxo6A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vfw-post-9545-new-lenox?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "veteransorganizations",
+     "title": "Veterans Organizations"
+    },
+    {
+     "alias": "fishnchips",
+     "title": "Fish \u0026 Chips"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.9769211,
+    "Latitude": 41.5195084
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "323 Old Hickory Rd",
+    "address2": "",
+    "address3": "",
+    "city": "New Lenox",
+    "zip_code": "60451",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "323 Old Hickory Rd",
+     "New Lenox, IL 60451"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18154858369",
+   "display_phone": "(815) 485-8369",
+   "distance": 49192.817775245785
+  },
+  {
+   "id": "X9-u7wkgm-eic4EiIc0fvA",
+   "alias": "ballroom-dance-center-northfield",
+   "name": "Ballroom Dance Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XMmChC9RgOZR3f67W5ywKQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ballroom-dance-center-northfield?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "dancestudio",
+     "title": "Dance Studios"
+    },
+    {
+     "alias": "dance_schools",
+     "title": "Dance Schools"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.769794,
+    "Latitude": 42.099168
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "310 S Happ Rd",
+    "address2": "Ste 133",
+    "address3": "",
+    "city": "Northfield",
+    "zip_code": "60093",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "310 S Happ Rd",
+     "Ste 133",
+     "Northfield, IL 60093"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18475015220",
+   "display_phone": "(847) 501-5220",
+   "distance": 27168.49498833195
+  },
+  {
+   "id": "LoPwmChV0-5zI8KfQWxdjQ",
+   "alias": "better-off-bowling-chicago-2",
+   "name": "Better Off Bowling",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NP76NAipfw6E0y4V4AWVLQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/better-off-bowling-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6190833,
+    "Latitude": 41.8910981
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "322 E Illinois St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "322 E Illinois St",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18664832695",
+   "display_phone": "(866) 483-2695",
+   "distance": 1695.8824598748026
+  },
+  {
+   "id": "NZ4jON7LN40HQKfnx0w_Eg",
+   "alias": "culinary-fight-club-chicago",
+   "name": "Culinary Fight Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kaFYqjIzvv6uRzKOu-C5oQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/culinary-fight-club-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6359125,
+    "Latitude": 41.8929153
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122443788",
+   "display_phone": "(312) 244-3788",
+   "distance": 1723.3451471325557
+  },
+  {
+   "id": "Iv2UmReSZzBEbBNexGclbQ",
+   "alias": "mac-n-cheese-minglers-chicago",
+   "name": "Mac 'n Cheese Minglers",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hEWLNKLglTPNKPGTPoyYDA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mac-n-cheese-minglers-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.62231,
+    "Latitude": 41.88626
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739910575",
+   "display_phone": "(773) 991-0575",
+   "distance": 1061.944012662958
+  },
+  {
+   "id": "szrgcptd3Cgbmmd7WzTKng",
+   "alias": "vfw-post-2801-villa-park",
+   "name": "VFW  Post 2801",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/W9grQP2tqjA_Gtn_uiGOVQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vfw-post-2801-villa-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "nonprofit",
+     "title": "Community Service/Non-Profit"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.9772796630859,
+    "Latitude": 41.8891525268555
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "39 E St Charles Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Villa Park",
+    "zip_code": "60181",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "39 E St Charles Rd",
+     "Villa Park, IL 60181"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16308348191",
+   "display_phone": "(630) 834-8191",
+   "distance": 28786.528925086288
+  },
+  {
+   "id": "6Zp3JBPEfaebLge6iaPvaA",
+   "alias": "mr-gs-entertainment-center-chicago",
+   "name": "Mr G's Entertainment Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/evinVnJRoFwYlLl9VV4OmQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mr-gs-entertainment-center-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -87.6624952,
+    "Latitude": 41.7356644
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1547 W 87th St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60620",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1547 W 87th St",
+     "Chicago, IL 60620"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734452020",
+   "display_phone": "(773) 445-2020",
+   "distance": 16081.620580394941
+  },
+  {
+   "id": "hJD9hQWvBW3t8Zbv7E44AA",
+   "alias": "burnham-park-yacht-club-chicago",
+   "name": "Burnham Park Yacht Club",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1E1VaBCyaALg6EamFYAejg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/burnham-park-yacht-club-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.60963,
+    "Latitude": 41.86216
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1500 S Linn White Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1500 S Linn White Dr",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124274664",
+   "display_phone": "(312) 427-4664",
+   "distance": 2425.095354643456
+  },
+  {
+   "id": "TC9g6fdnbUP4gyAiE6HXUQ",
+   "alias": "the-chicago-clubhouse-skokie",
+   "name": "The Chicago Clubhouse",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wTDl5zhWDTlciGRSVumQ5g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-chicago-clubhouse-skokie?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "hobbyshops",
+     "title": "Hobby Shops"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.7488765759358,
+    "Latitude": 42.0334012111623
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4835 Main Street",
+    "address2": "",
+    "address3": "",
+    "city": "Skokie",
+    "zip_code": "60077",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4835 Main Street",
+     "Skokie, IL 60077"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18474402150",
+   "display_phone": "(847) 440-2150",
+   "distance": 19878.701577655687
+  },
+  {
+   "id": "tDjdToDN2asLNMR6sVJV_g",
+   "alias": "foodjoy-chicago",
+   "name": "foodjoy",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xoWOkddbsgYV6swOUnJvOQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/foodjoy-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 6,
+   "categories": [
+    {
+     "alias": "food",
+     "title": "Food"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.730003,
+    "Latitude": 41.949726
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4121 W Grace St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60641",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4121 W Grace St",
+     "Chicago, IL 60641"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17733929732",
+   "display_phone": "(773) 392-9732",
+   "distance": 11496.782806037185
+  },
+  {
+   "id": "ufDJb_Wf9slGm2zCQcPHtw",
+   "alias": "american-bocce-company-chicago",
+   "name": "American Bocce Company",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YrhHBSWL7QMJamv1_VD1XQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-bocce-company-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "eventservices",
+     "title": "Event Planning \u0026 Services"
+    },
+    {
+     "alias": "bocceball",
+     "title": "Bocce Ball"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6698708,
+    "Latitude": 41.8892907
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "410 N Paulina St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "410 N Paulina St",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14077010883",
+   "display_phone": "(407) 701-0883",
+   "distance": 3542.956963986623
+  },
+  {
+   "id": "-ecPrXzNgKxHjWpGFlDFQA",
+   "alias": "american-legion-tattler-post-973-chicago",
+   "name": "American Legion Tattler Post 973",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yXw78F-E6pvQjAq8TwXWQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-legion-tattler-post-973-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "nonprofit",
+     "title": "Community Service/Non-Profit"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6883,
+    "Latitude": 41.96112
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4355 N Western Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4355 N Western Ave",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735885809",
+   "display_phone": "(773) 588-5809",
+   "distance": 10427.288233320107
+  },
+  {
+   "id": "clqM_p1y4m4_TjleP1GQOg",
+   "alias": "joshua-w-harris-vfw-post-2868-brookfield",
+   "name": "Joshua W. Harris VFW Post 2868",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/joshua-w-harris-vfw-post-2868-brookfield?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "veteransorganizations",
+     "title": "Veterans Organizations"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.8427963256836,
+    "Latitude": 41.816822052002
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8844 Ogden Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brookfield",
+    "zip_code": "60513",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "8844 Ogden Ave",
+     "Brookfield, IL 60513"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17084859670",
+   "display_phone": "(708) 485-9670",
+   "distance": 18910.436996051572
+  },
+  {
+   "id": "mJG0TWLa-qrfRgB80LnhpQ",
+   "alias": "the-sweatshop-of-love-chicago-2",
+   "name": "The Sweatshop of Love",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BBVS1P5sTBEzWloeQ2aMYw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-sweatshop-of-love-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "adultedu",
+     "title": "Adult Education"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.71748,
+    "Latitude": 41.96082
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3547 W Montrose Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60618",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3547 W Montrose Ave",
+     "Chicago, IL 60618"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 11714.898578747201
+  },
+  {
+   "id": "0cLNAjGIpoTV8JUuMqR1pQ",
+   "alias": "lts-chicago-chicago-4",
+   "name": "LTS Chicago",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/I7rgplwID-J0zV5X-129Vw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lts-chicago-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "amateursportsteams",
+     "title": "Amateur Sports Teams"
+    },
+    {
+     "alias": "sports_clubs",
+     "title": "Sports Clubs"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6425685,
+    "Latitude": 41.935246
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "517 W Oakdale",
+    "address2": "Ste 311",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "517 W Oakdale",
+     "Ste 311",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125480610",
+   "display_phone": "(312) 548-0610",
+   "distance": 6441.594253494842
+  },
+  {
+   "id": "TV5EvURYDaxQb1fFZVQeZg",
+   "alias": "american-legion-franklin-delano-roosevelt-post-no-923-chicago",
+   "name": "American Legion - Franklin Delano Roosevelt Post No 923",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PH_K9BswWvKFisOL69shQw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-legion-franklin-delano-roosevelt-post-no-923-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "localflavor",
+     "title": "Local Flavor"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.67375,
+    "Latitude": 41.91626
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1824 W Cortland St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1824 W Cortland St",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732780093",
+   "display_phone": "(773) 278-0093",
+   "distance": 5583.85770955505
+  },
+  {
+   "id": "RP_agPbpsiw9jiNJwUTzxw",
+   "alias": "american-legion-post-208-arlington-heights",
+   "name": "American Legion Post 208",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MXu6GhLMmziqjVGU2wmj_w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-legion-post-208-arlington-heights?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "beerbar",
+     "title": "Beer Bar"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.97527,
+    "Latitude": 42.084455
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "121 North Douglas Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Arlington Heights",
+    "zip_code": "60004",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "121 North Douglas Ave",
+     "Arlington Heights, IL 60004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18472536632",
+   "display_phone": "(847) 253-6632",
+   "distance": 36633.008043380774
+  },
+  {
+   "id": "7wJnMSkFR0wYtqcJiEa3ww",
+   "alias": "xxx-racing-chicago",
+   "name": "xXx Racing",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fsreuB-aQH-N-PeQZlF4yg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/xxx-racing-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "races",
+     "title": "Races \u0026 Competitions"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6681516,
+    "Latitude": 41.9786063
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5315 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5315 N Clark St",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 11605.437603725706
+  },
+  {
+   "id": "ol9j657n5fcFN5qFBO8ZDg",
+   "alias": "jefferson-park-masonic-temple-chicago",
+   "name": "Jefferson Park Masonic Temple",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/taR38mQFzbfOwCR1RdV5Vw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jefferson-park-masonic-temple-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.764112,
+    "Latitude": 41.970524
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5418 W Gale St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60630",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5418 W Gale St",
+     "Chicago, IL 60630"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 15141.065281828707
+  },
+  {
+   "id": "94YAFh7lmRYRaQVsZQg90A",
+   "alias": "veterans-of-foreign-wars-post-450-alsip",
+   "name": "Veterans of Foreign Wars Post 450",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/veterans-of-foreign-wars-post-450-alsip?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "nonprofit",
+     "title": "Community Service/Non-Profit"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.7396392822266,
+    "Latitude": 41.6779251098633
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11800 S Cicero Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Alsip",
+    "zip_code": "60803",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "11800 S Cicero Ave",
+     "Alsip, IL 60803"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17083882387",
+   "display_phone": "(708) 388-2387",
+   "distance": 24045.853984985988
+  },
+  {
+   "id": "K7tYF8KA3_Qgg1yfjxWg3g",
+   "alias": "camp-boundless-chicago",
+   "name": "Camp Boundless",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ci8WZnKhdnz7vBaC4CZx5Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/camp-boundless-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.64048,
+    "Latitude": 41.88592
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "656 W Randolph St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60661",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "656 W Randolph St",
+     "Chicago, IL 60661"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122071710",
+   "display_phone": "(312) 207-1710",
+   "distance": 1468.8949643935518
+  },
+  {
+   "id": "sxjRtc-G5m2g0IbMKlcGBA",
+   "alias": "young-professionals-of-chicago-chicago-2",
+   "name": "Young Professionals of Chicago",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tlK4GtRNP1RdalLn_0zuNQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/young-professionals-of-chicago-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.63598,
+    "Latitude": 41.8787
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "233 S Wacker Dr",
+    "address2": "Fl 84",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "233 S Wacker Dr",
+     "Fl 84",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 546.7835774826397
+  },
+  {
+   "id": "8ZYN3u7UqZ83KSwmINRGJA",
+   "alias": "chaos-brew-club-chicago",
+   "name": "CHAOS Brew Club",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/G5WwwlMIS9DJX0XhwjqNEg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chaos-brew-club-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.687503,
+    "Latitude": 41.889295
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2417 W Hubbard St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60612",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2417 W Hubbard St",
+     "Chicago, IL 60612"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 4936.457120952386
+  },
+  {
+   "id": "Pa2iFlBM1ZlZOQ0ymPVs4Q",
+   "alias": "sigma-alpha-epsilon-evanston",
+   "name": "Sigma Alpha Epsilon",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ycNJyg1qZvbUFvDySHqViQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sigma-alpha-epsilon-evanston?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -87.6763087401614,
+    "Latitude": 42.0505186537344
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2325 Sheridan Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Evanston",
+    "zip_code": "60201",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2325 Sheridan Rd",
+     "Evanston, IL 60201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18474753622",
+   "display_phone": "(847) 475-3622",
+   "distance": 19553.88715401236
+  },
+  {
+   "id": "U0oAk78tLMCbJ8CfMmh7tQ",
+   "alias": "bricks-sports-bar-and-grill-chicago",
+   "name": "Brick's Sports Bar \u0026 Grill",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xL_P57PwsUW7dFiJIWPM3Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bricks-sports-bar-and-grill-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "sportsbars",
+     "title": "Sports Bars"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.73648392331337,
+    "Latitude": 41.88092160000006
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "4422 W Madison St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60624",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4422 W Madison St",
+     "Chicago, IL 60624"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734173205",
+   "display_phone": "(773) 417-3205",
+   "distance": 8837.945675348787
+  },
+  {
+   "id": "pU4MGvIuSz33hxGOY51TQg",
+   "alias": "american-legion-wood-dale",
+   "name": "American Legion",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HhrokKkNN06wxLZ2THLwNg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-legion-wood-dale?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "veteransorganizations",
+     "title": "Veterans Organizations"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.96449,
+    "Latitude": 41.9606
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "203 N Edgewood Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Wood Dale",
+    "zip_code": "60191",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "203 N Edgewood Ave",
+     "Wood Dale, IL 60191"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16302381205",
+   "display_phone": "(630) 238-1205",
+   "distance": 29177.14043525622
+  },
+  {
+   "id": "sHSyd90Jm-1AT0gL_HY1Ag",
+   "alias": "south-side-hackerspace-chicago",
+   "name": "South Side Hackerspace",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/f5W0imXcnSrpNWNJC9cZ9g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/south-side-hackerspace-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "adultedu",
+     "title": "Adult Education"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    },
+    {
+     "alias": "makerspaces",
+     "title": "Makerspaces"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.65292,
+    "Latitude": 41.82726
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1048 W 37th St",
+    "address2": "Ste 105",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60609",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1048 W 37th St",
+     "Ste 105",
+     "Chicago, IL 60609"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18725295334",
+   "display_phone": "(872) 529-5334",
+   "distance": 5971.282122858166
+  },
+  {
+   "id": "18SGZMi4VGbDPZqWrGW6mA",
+   "alias": "tavern-club-at-333-chicago-2",
+   "name": "Tavern Club at 333",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/db1WJY5kRDXtZmmPF7owpg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tavern-club-at-333-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.62421,
+    "Latitude": 41.88764
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "333 N Michigan Ave",
+    "address2": "Fl 4",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "333 N Michigan Ave",
+     "Fl 4",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129258984",
+   "display_phone": "(312) 925-8984",
+   "distance": 1177.480849007772
+  },
+  {
+   "id": "VXjfSNMsjwn3sVAf7EvJFA",
+   "alias": "village-newcomers-club-winnetka",
+   "name": "Village Newcomers Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-Ctt5tu0cihX8fdb41aTAw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/village-newcomers-club-winnetka?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "social_clubs",
+     "title": "Social Clubs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.7327778,
+    "Latitude": 42.1052778
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Winnetka",
+    "zip_code": "60093",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "Winnetka, IL 60093"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 26656.08744715218
+  }
+ ],
+ "total": 99,
+ "region": {
+  "center": {
+   "longitude": -87.6298,
+   "Latitude": 41.8781
+  }
+ }
+}

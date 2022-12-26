@@ -1,0 +1,1756 @@
+{
+ "businesses": [
+  {
+   "id": "WiFTqoz18zjhKxd0LauSlA",
+   "alias": "alaska-airlines-seattle-10",
+   "name": "Alaska Airlines",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/T-9bryRwwQ3EycRq1eTqnA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alaska-airlines-seattle-10?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1577,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.302243,
+    "Latitude": 47.443885
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17801 International Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98158",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17801 International Blvd",
+     "Seattle, WA 98158"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18002527522",
+   "display_phone": "(800) 252-7522",
+   "distance": 18187.283561811564
+  },
+  {
+   "id": "wzX8cVkVJvziHsaCeQI82A",
+   "alias": "seattle-yellow-cab-tukwila",
+   "name": "Seattle Yellow Cab",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UFPIx5L7TbDxqkiTc_dDiw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-yellow-cab-tukwila?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 680,
+   "categories": [
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    },
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.2956852,
+    "Latitude": 47.4884698
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2901 S 128th St",
+    "address2": "",
+    "address3": "",
+    "city": "Tukwila",
+    "zip_code": "98168",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2901 S 128th St",
+     "Tukwila, WA 98168"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066226500",
+   "display_phone": "(206) 622-6500",
+   "distance": 13373.245418195242
+  },
+  {
+   "id": "7bNxyR8b6LDbFoAmf5f45g",
+   "alias": "park-n-jet-lot-2-seatac-airport-parking-seattle-3",
+   "name": "Park N Jet Lot-2 - SeaTac Airport Parking",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2iCLz5VjGNLXLbZOhhJwYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/park-n-jet-lot-2-seatac-airport-parking-seattle-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 552,
+   "categories": [
+    {
+     "alias": "parking",
+     "title": "Parking"
+    },
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.31636,
+    "Latitude": 47.47814
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1244 S 140th St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98168",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1244 S 140th St",
+     "Seattle, WA 98168"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062444500",
+   "display_phone": "(206) 244-4500",
+   "distance": 14289.438970789492
+  },
+  {
+   "id": "2Auo6hRLAovQPQzLYQVy9Q",
+   "alias": "uber-seattle",
+   "name": "Uber",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pmF5RodA08ESL2LyIRtaWw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/uber-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 466,
+   "categories": [
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.313014327,
+    "Latitude": 47.6141486178
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1681.729111953724
+  },
+  {
+   "id": "lCf_hR8z1IhxGOQwyGgzLQ",
+   "alias": "delta-airlines-seattle-6",
+   "name": "Delta Airlines",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pb4CCkvguJxD5ZPtPgethA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/delta-airlines-seattle-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 441,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.302244,
+    "Latitude": 47.443882
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17801 International Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98158",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17801 International Blvd",
+     "Seattle, WA 98158"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18002211212",
+   "display_phone": "(800) 221-1212",
+   "distance": 18187.60535504462
+  },
+  {
+   "id": "tKwoYMgwdu5XBHy7q3pW4A",
+   "alias": "frs-clipper-seattle",
+   "name": "FRS Clipper",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uBEQHg_8kumlL1RpD0z2MQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/frs-clipper-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 370,
+   "categories": [
+    {
+     "alias": "travelservices",
+     "title": "Travel Services"
+    },
+    {
+     "alias": "whalewatchingtours",
+     "title": "Whale Watching Tours"
+    },
+    {
+     "alias": "ferries",
+     "title": "Ferries"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.354048,
+    "Latitude": 47.613617
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2701 Alaskan Way",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2701 Alaskan Way",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064485000",
+   "display_phone": "(206) 448-5000",
+   "distance": 1840.4562420130583
+  },
+  {
+   "id": "1hapAW5-1rh1vByBonPk_w",
+   "alias": "spirit-airlines-seattle",
+   "name": "Spirit Airlines",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5qQe9g9EElcDzh9n060rvg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/spirit-airlines-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 324,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.3088165,
+    "Latitude": 47.4502499
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17801 International Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98158",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17801 International Blvd",
+     "Seattle, WA 98158"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18014012222",
+   "display_phone": "(801) 401-2222",
+   "distance": 17428.735741081025
+  },
+  {
+   "id": "QZl-I1SBAzZsAzJ3eKEAvw",
+   "alias": "seattle-center-monorail-seattle",
+   "name": "Seattle Center Monorail",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hy9WDrdKN-DKfl069glWsw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-center-monorail-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 296,
+   "categories": [
+    {
+     "alias": "publictransport",
+     "title": "Public Transportation"
+    },
+    {
+     "alias": "trainstations",
+     "title": "Train Stations"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.34996,
+    "Latitude": 47.62125
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "370 Thomas St",
+    "address2": "Ste 200",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98109",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "370 Thomas St",
+     "Ste 200",
+     "Seattle, WA 98109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12069052620",
+   "display_phone": "(206) 905-2620",
+   "distance": 2150.9918977805955
+  },
+  {
+   "id": "eJo8b3RuuPVVRWzrEUR2Jg",
+   "alias": "sound-transit-link-light-rail-seattle",
+   "name": "Sound Transit - Link Light Rail",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZgZSgdRp1_i5SAYGudvr4g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sound-transit-link-light-rail-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 294,
+   "categories": [
+    {
+     "alias": "publictransport",
+     "title": "Public Transportation"
+    },
+    {
+     "alias": "trains",
+     "title": "Trains"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.3298259878,
+    "Latitude": 47.5985638530366
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "401 S Jackson St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "401 S Jackson St",
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063985000",
+   "display_phone": "(206) 398-5000",
+   "distance": 866.048030602927
+  },
+  {
+   "id": "kFOjg5cIT7uXZO0MxgZADQ",
+   "alias": "shuttle-express-tukwila",
+   "name": "Shuttle Express",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/r_s2KLRByADA3xw4E2RIMQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shuttle-express-tukwila?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 275,
+   "categories": [
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    },
+    {
+     "alias": "towncarservice",
+     "title": "Town Car Service"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.24371,
+    "Latitude": 47.46159
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15701 Nelson Pl S",
+    "address2": "",
+    "address3": "",
+    "city": "Tukwila",
+    "zip_code": "98188",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "15701 Nelson Pl S",
+     "Tukwila, WA 98188"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14259817000",
+   "display_phone": "(425) 981-7000",
+   "distance": 17389.89932557076
+  },
+  {
+   "id": "kjbLzr70cEhDm9shQpeZuQ",
+   "alias": "united-airlines-seattle",
+   "name": "United Airlines",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MXZ1ZqAJS2fywTVdtAGsAA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/united-airlines-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 269,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.301029,
+    "Latitude": 47.442504
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17801 International Blvd",
+    "address2": "",
+    "address3": "Concourse A",
+    "city": "Seattle",
+    "zip_code": "98158",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17801 International Blvd",
+     "Concourse A",
+     "Seattle, WA 98158"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18008648331",
+   "display_phone": "(800) 864-8331",
+   "distance": 18351.051953391456
+  },
+  {
+   "id": "DXUfodR9mjY-lmU9arA9Ng",
+   "alias": "washington-state-ferries-seattle",
+   "name": "Washington State Ferries",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0geX6mYWoF8KqOM4Qw4WJQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/washington-state-ferries-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 267,
+   "categories": [
+    {
+     "alias": "publicservicesgovt",
+     "title": "Public Services \u0026 Government"
+    },
+    {
+     "alias": "ferries",
+     "title": "Ferries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.35183,
+    "Latitude": 47.61822
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2901 3rd Ave",
+    "address2": "Ste 500",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98121",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2901 3rd Ave",
+     "Ste 500",
+     "Seattle, WA 98121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065153400",
+   "display_phone": "(206) 515-3400",
+   "distance": 1966.520213011384
+  },
+  {
+   "id": "zaF0ryQ1xDpV5XrA7kxbDQ",
+   "alias": "aces-town-car-service-seattle",
+   "name": "Aces Town Car Service",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/i9D_3apzJkqwWRnBb-FXvA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aces-town-car-service-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 266,
+   "categories": [
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    },
+    {
+     "alias": "limos",
+     "title": "Limos"
+    },
+    {
+     "alias": "towncarservice",
+     "title": "Town Car Service"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3767,
+    "Latitude": 47.63485
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1631 15th Ave W",
+    "address2": "Ste 113",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98119",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1631 15th Ave W",
+     "Ste 113",
+     "Seattle, WA 98119"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065188411",
+   "display_phone": "(206) 518-8411",
+   "distance": 4617.666510144043
+  },
+  {
+   "id": "K1EFQy90kuP-s1bIcm-TzQ",
+   "alias": "eastside-for-hire-bellevue",
+   "name": "Eastside For Hire",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NRUMiztiS8JrW6MHTvOWtA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/eastside-for-hire-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 250,
+   "categories": [
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    },
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.20126,
+    "Latitude": 47.61767
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "800 Bellevue Way NE",
+    "address2": "Ste 400",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98004",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "800 Bellevue Way NE",
+     "Ste 400",
+     "Bellevue, WA 98004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14254539000",
+   "display_phone": "(425) 453-9000",
+   "distance": 9878.538497059964
+  },
+  {
+   "id": "9mGrD59rj5b-ktHjgaS-cw",
+   "alias": "seattle-ferry-terminal-seattle",
+   "name": "Seattle Ferry Terminal",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oTH13k37iau_TNSD156zvQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-ferry-terminal-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 241,
+   "categories": [
+    {
+     "alias": "ferries",
+     "title": "Ferries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.3384237,
+    "Latitude": 47.6028087
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "801 Alaskan Way",
+    "address2": "",
+    "address3": "Pier 52",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "801 Alaskan Way",
+     "Pier 52",
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064646400",
+   "display_phone": "(206) 464-6400",
+   "distance": 605.7842912664665
+  },
+  {
+   "id": "jilEV38J-aPl0Dmp-CBPxA",
+   "alias": "southwest-airlines-seattle-3",
+   "name": "Southwest Airlines",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OuQmAPvSgUrXEzutjmL1Sg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/southwest-airlines-seattle-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 230,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.302135,
+    "Latitude": 47.443655
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17801 International Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98158",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17801 International Blvd",
+     "Seattle, WA 98158"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18004359792",
+   "display_phone": "(800) 435-9792",
+   "distance": 18213.664185103316
+  },
+  {
+   "id": "rOZaDXd5f9dIRZ6lsACF1g",
+   "alias": "bremerton-kitsap-airporter-port-orchard-3",
+   "name": "Bremerton Kitsap Airporter",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ipd6nnT3AuHClHJxoHlHQQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bremerton-kitsap-airporter-port-orchard-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 229,
+   "categories": [
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.632594,
+    "Latitude": 47.496032
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5748 Bethel Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Port Orchard",
+    "zip_code": "98366",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "5748 Bethel Rd",
+     "Port Orchard, WA 98366"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13608761737",
+   "display_phone": "(360) 876-1737",
+   "distance": 25656.787577366693
+  },
+  {
+   "id": "t6F-EaYuF1-_cFV22OeNVQ",
+   "alias": "american-airlines-seattle",
+   "name": "American Airlines",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ogB1PjeTBMFjXS_jqEbImg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-airlines-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 218,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.302138,
+    "Latitude": 47.443769
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17801 International Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98158",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17801 International Blvd",
+     "Seattle, WA 98158"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18004337300",
+   "display_phone": "(800) 433-7300",
+   "distance": 18201.056990415575
+  },
+  {
+   "id": "q4D8eNnMS9FKDsugfLEuNg",
+   "alias": "lyft-seattle",
+   "name": "Lyft",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/T1FAOPh7-wBaJQnmRbEEvQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lyft-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 213,
+   "categories": [
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    },
+    {
+     "alias": "carshares",
+     "title": "Car Share Services"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.330833,
+    "Latitude": 47.606389
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 97.28395969229716
+  },
+  {
+   "id": "2lhyb1gAdXUGVOAVNriRNw",
+   "alias": "century-car-service-bellevue",
+   "name": "Century Car Service",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jxbmEOBmVvlpVvvAvkTzbA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/century-car-service-bellevue?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 208,
+   "categories": [
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    },
+    {
+     "alias": "limos",
+     "title": "Limos"
+    },
+    {
+     "alias": "towncarservice",
+     "title": "Town Car Service"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.206962585449,
+    "Latitude": 47.6200294494629
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Bellevue",
+    "zip_code": "98004",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "Bellevue, WA 98004"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067475040",
+   "display_phone": "(206) 747-5040",
+   "distance": 9779.230671750127
+  },
+  {
+   "id": "-Pgq1Uw9LzRgVTaPVtlnIQ",
+   "alias": "frontier-seattle",
+   "name": "Frontier",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wLYJupWTnx7Tjbc_FvWONQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/frontier-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 200,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.301155,
+    "Latitude": 47.442646
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17801 International Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98158",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "17801 International Blvd",
+     "Seattle, WA 98158"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18014019000",
+   "display_phone": "(801) 401-9000",
+   "distance": 18334.188693577726
+  },
+  {
+   "id": "wSCJ26Wp-eLQ-2U79bOr_Q",
+   "alias": "seattle-town-car-seattle-18",
+   "name": "Seattle Town Car",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sC0v26zwBtKFL7VkhRip6g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-town-car-seattle-18?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 193,
+   "categories": [
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    },
+    {
+     "alias": "towncarservice",
+     "title": "Town Car Service"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.317181,
+    "Latitude": 47.614326
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1122 E Pike St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1122 E Pike St",
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14259080055",
+   "display_phone": "(425) 908-0055",
+   "distance": 1437.7883975528096
+  },
+  {
+   "id": "Lg68CNK8KPxf-Lkahqnclg",
+   "alias": "orange-cab-seattle",
+   "name": "Orange Cab",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oVW-a3HlLI_HVXVTZkTIwQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/orange-cab-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 190,
+   "categories": [
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    },
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.307633,
+    "Latitude": 47.49883
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11621 Des Moines Memorial Dr S",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98168",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "11621 Des Moines Memorial Dr S",
+     "Seattle, WA 98168"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12065228800",
+   "display_phone": "(206) 522-8800",
+   "distance": 12079.359117313074
+  },
+  {
+   "id": "xNeFU3JZOyxQ_HGJEvTMiw",
+   "alias": "amtrak-seattle",
+   "name": "Amtrak",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FXmRji2c7iqEFpgZObHNtA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amtrak-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 168,
+   "categories": [
+    {
+     "alias": "trains",
+     "title": "Trains"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.3303047,
+    "Latitude": 47.599060532149615
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "303 S Jackson St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "303 S Jackson St",
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12063824125",
+   "display_phone": "(206) 382-4125",
+   "distance": 805.2019939901322
+  },
+  {
+   "id": "z1yZP46dCr35v45wD0LCYA",
+   "alias": "bainbridge-island-ferry-terminal-bainbridge-island",
+   "name": "Bainbridge Island Ferry Terminal",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/igE8OZIiREGEQIZ-8fM6CQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bainbridge-island-ferry-terminal-bainbridge-island?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 163,
+   "categories": [
+    {
+     "alias": "ferries",
+     "title": "Ferries"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.51090160209591,
+    "Latitude": 47.6232363143639
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "270 Olympic Dr SE",
+    "address2": "",
+    "address3": "",
+    "city": "Bainbridge Island",
+    "zip_code": "98110",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "270 Olympic Dr SE",
+     "Bainbridge Island, WA 98110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064646400",
+   "display_phone": "(206) 464-6400",
+   "distance": 13535.789894800886
+  },
+  {
+   "id": "CqjaU2db4rXrDP_7bSXjMw",
+   "alias": "seattle-town-car-and-airport-shuttle-seattle",
+   "name": "Seattle Town Car \u0026 Airport Shuttle",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8kMJNj9N_HKGjPYQC1ak6Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-town-car-and-airport-shuttle-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 152,
+   "categories": [
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    },
+    {
+     "alias": "limos",
+     "title": "Limos"
+    },
+    {
+     "alias": "towncarservice",
+     "title": "Town Car Service"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3171383,
+    "Latitude": 47.6142754
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98122",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "Seattle, WA 98122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064585315",
+   "display_phone": "(206) 458-5315",
+   "distance": 1436.7570042232362
+  },
+  {
+   "id": "Y1Kdkq79q6yT5NPI2PM9Yg",
+   "alias": "stita-taxi-tukwila-2",
+   "name": "Stita Taxi",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x_OkOGy8yKLMZYjMyGk1Sg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/stita-taxi-tukwila-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 140,
+   "categories": [
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.29551,
+    "Latitude": 47.48849
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2901 S 128th St",
+    "address2": "Ste 220",
+    "address3": "",
+    "city": "Tukwila",
+    "zip_code": "98168",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2901 S 128th St",
+     "Ste 220",
+     "Tukwila, WA 98168"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062469999",
+   "display_phone": "(206) 246-9999",
+   "distance": 13372.932442793428
+  },
+  {
+   "id": "TRt0nhdDmndfpD9ijNUOwg",
+   "alias": "greyhound-bus-seattle",
+   "name": "Greyhound Bus",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3wucOkTE1tFwdnOZlPDmSQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/greyhound-bus-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 130,
+   "categories": [
+    {
+     "alias": "buses",
+     "title": "Buses"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.326548,
+    "Latitude": 47.592101
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "503 S Royal Brougham Way",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98134",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "503 S Royal Brougham Way",
+     "Seattle, WA 98134"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066285526",
+   "display_phone": "(206) 628-5526",
+   "distance": 1632.989786104131
+  },
+  {
+   "id": "edfJJU-HCc5HMGCIChm9Ug",
+   "alias": "edmonds-ferry-terminal-edmonds",
+   "name": "Edmonds Ferry Terminal",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VJJQqvrhGXqbCIFFSRBBEQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/edmonds-ferry-terminal-edmonds?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 121,
+   "categories": [
+    {
+     "alias": "ferries",
+     "title": "Ferries"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.383169936955,
+    "Latitude": 47.8098464441458
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "199 Sunset Ave S",
+    "address2": "",
+    "address3": "",
+    "city": "Edmonds",
+    "zip_code": "98020",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "199 Sunset Ave S",
+     "Edmonds, WA 98020"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064646400",
+   "display_phone": "(206) 464-6400",
+   "distance": 22971.09776465564
+  },
+  {
+   "id": "ufMgBLhI8q_nSyFrAe35zw",
+   "alias": "creative-bus-seattle-2",
+   "name": "Creative Bus",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/u2b6jIlaylYjJye_2AtCXQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/creative-bus-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 115,
+   "categories": [
+    {
+     "alias": "partybusrentals",
+     "title": "Party Bus Rentals"
+    },
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.20796,
+    "Latitude": 47.4798
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98057",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "Seattle, WA 98057"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12068531892",
+   "display_phone": "(206) 853-1892",
+   "distance": 15538.353610561875
+  },
+  {
+   "id": "RtLa5ox-0p7M0tmHn3lCvA",
+   "alias": "seattle-sts-town-car-seatac",
+   "name": "Seattle STS Town Car",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/4cNkuwBwrMCqvwxdnfbX6A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/seattle-sts-town-car-seatac?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 113,
+   "categories": [
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    },
+    {
+     "alias": "limos",
+     "title": "Limos"
+    },
+    {
+     "alias": "towncarservice",
+     "title": "Town Car Service"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.29146,
+    "Latitude": 47.44575
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3200 S 176th St",
+    "address2": "Ste 210",
+    "address3": "",
+    "city": "Seatac",
+    "zip_code": "98188",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "3200 S 176th St",
+     "Ste 210",
+     "Seatac, WA 98188"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18773403434",
+   "display_phone": "(877) 340-3434",
+   "distance": 18109.197383962724
+  },
+  {
+   "id": "WYQhpQrL_XnS9OFJvLtHrQ",
+   "alias": "amtrak-cascades-seattle",
+   "name": "Amtrak Cascades",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OnTvz-gL1eipdMG5CAAOYg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amtrak-cascades-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 107,
+   "categories": [
+    {
+     "alias": "publictransport",
+     "title": "Public Transportation"
+    },
+    {
+     "alias": "trains",
+     "title": "Trains"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.32989,
+    "Latitude": 47.5987
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "303 S Jackson St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98104",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "303 S Jackson St",
+     "Seattle, WA 98104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18008727245",
+   "display_phone": "(800) 872-7245",
+   "distance": 804.9247679312939
+  },
+  {
+   "id": "XkPTWqYpzuBG5Yj5-5-y9A",
+   "alias": "limebike-seattle",
+   "name": "LimeBike",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TF4ZoZwY6mv68L8TqZ3L_Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/limebike-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 104,
+   "categories": [
+    {
+     "alias": "bikesharing",
+     "title": "Bike Sharing"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.33493,
+    "Latitude": 47.61125
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18885463345",
+   "display_phone": "(888) 546-3345",
+   "distance": 411.3584064257451
+  },
+  {
+   "id": "UiUEbRm8iwiuGh8aWTTbMg",
+   "alias": "airman-transportation-systems-seattle",
+   "name": "Airman Transportation Systems",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ew4MRX41rjvcZs0MgOtSdQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/airman-transportation-systems-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 102,
+   "categories": [
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    },
+    {
+     "alias": "towncarservice",
+     "title": "Town Car Service"
+    },
+    {
+     "alias": "tours",
+     "title": "Tours"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.32308,
+    "Latitude": 47.54781
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98108",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "Seattle, WA 98108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067623511",
+   "display_phone": "(206) 762-3511",
+   "distance": 7591.7047645153625
+  },
+  {
+   "id": "No5Q-zZq2NSm6leR8E4qJg",
+   "alias": "kenmore-air-kenmore-2",
+   "name": "Kenmore Air",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/360tjZuL_jMMizeyMKkEng/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kenmore-air-kenmore-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 99,
+   "categories": [
+    {
+     "alias": "airlines",
+     "title": "Airlines"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.25775770843,
+    "Latitude": 47.7580223232508
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6321 NE 175th St",
+    "address2": "",
+    "address3": "",
+    "city": "Kenmore",
+    "zip_code": "98028",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "6321 NE 175th St",
+     "Kenmore, WA 98028"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18664359524",
+   "display_phone": "(866) 435-9524",
+   "distance": 17716.05446796617
+  },
+  {
+   "id": "xVK1USzpfmfiNJ-ewO1aiw",
+   "alias": "a-abc-transportation-seattle",
+   "name": "A-ABC Transportation",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dEwareKNLtBHp9FA0nSjgA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/a-abc-transportation-seattle?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 99,
+   "categories": [
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.3346,
+    "Latitude": 47.61129
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98101",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "Seattle, WA 98101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12062420102",
+   "display_phone": "(206) 242-0102",
+   "distance": 411.3584064257451
+  },
+  {
+   "id": "9VrFHt8yVd9lK7tsoGNAGw",
+   "alias": "mukilteo-ferry-terminal-mukilteo",
+   "name": "Mukilteo Ferry Terminal",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NVUeMjqn807Yh6XfioBLLg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mukilteo-ferry-terminal-mukilteo?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 95,
+   "categories": [
+    {
+     "alias": "ferries",
+     "title": "Ferries"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.30433,
+    "Latitude": 47.94898
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "614 Front St",
+    "address2": "",
+    "address3": "",
+    "city": "Mukilteo",
+    "zip_code": "98275",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "614 Front St",
+     "Mukilteo, WA 98275"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12064646400",
+   "display_phone": "(206) 464-6400",
+   "distance": 38137.94524648766
+  },
+  {
+   "id": "7S9QrD9JytE-d_Jrd5I81g",
+   "alias": "abe-towncar-service-seattle-7",
+   "name": "Abe Towncar Service",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YywMQusgcW6v-9zC6f2bpg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/abe-towncar-service-seattle-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 94,
+   "categories": [
+    {
+     "alias": "towncarservice",
+     "title": "Town Car Service"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.3158857,
+    "Latitude": 47.6756767
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1037 NE 65th St",
+    "address2": "Ste 151",
+    "address3": "",
+    "city": "seattle",
+    "zip_code": "98115",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "1037 NE 65th St",
+     "Ste 151",
+     "seattle, WA 98115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12067014455",
+   "display_phone": "(206) 701-4455",
+   "distance": 7820.373018333183
+  },
+  {
+   "id": "L_GD2bMCiYIQq4Wq_KW2XA",
+   "alias": "farwest-taxi-kent",
+   "name": "Farwest Taxi",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/w0tUqJVDfHvW6Y2o3zoGtg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/farwest-taxi-kent?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 90,
+   "categories": [
+    {
+     "alias": "medicaltransportation",
+     "title": "Medical Transportation"
+    },
+    {
+     "alias": "taxis",
+     "title": "Taxis"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.2472996,
+    "Latitude": 47.38180399366695
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "114 Washington Ave N",
+    "address2": "",
+    "address3": "",
+    "city": "Kent",
+    "zip_code": "98032",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "114 Washington Ave N",
+     "Kent, WA 98032"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12066221717",
+   "display_phone": "(206) 622-1717",
+   "distance": 25752.21684482676
+  },
+  {
+   "id": "1l0Rg5fCqkql1rH6P9Iyqw",
+   "alias": "sabra-limo-seattle-2",
+   "name": "Sabra Limo",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5GpC7GHL1OdgqrXZwwJD0Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sabra-limo-seattle-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 87,
+   "categories": [
+    {
+     "alias": "limos",
+     "title": "Limos"
+    },
+    {
+     "alias": "airport_shuttles",
+     "title": "Airport Shuttles"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.295219,
+    "Latitude": 47.488453
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2901 S 128th St",
+    "address2": "",
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98168",
+    "country": "US",
+    "state": "WA",
+    "display_address": [
+     "2901 S 128th St",
+     "Seattle, WA 98168"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14259999080",
+   "display_phone": "(425) 999-9080",
+   "distance": 13382.267980366758
+  }
+ ],
+ "total": 630,
+ "region": {
+  "center": {
+   "longitude": -122.3321,
+   "Latitude": 47.6062
+  }
+ }
+}

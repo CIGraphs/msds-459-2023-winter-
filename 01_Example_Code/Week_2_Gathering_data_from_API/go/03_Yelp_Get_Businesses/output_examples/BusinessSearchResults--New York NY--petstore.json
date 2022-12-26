@@ -1,0 +1,1860 @@
+{
+ "businesses": [
+  {
+   "id": "dlYdp1GS2JYYSt5pRbtBJQ",
+   "alias": "petco-new-york-4",
+   "name": "Petco",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/67yYnv46xbto-41bXPwpMA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petco-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 336,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.9903,
+    "Latitude": 40.7372
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "860 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "860 Broadway",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123580692",
+   "display_phone": "(212) 358-0692",
+   "distance": 3018.540849129302
+  },
+  {
+   "id": "K28y3sJoJTPsNfSbuiCYpA",
+   "alias": "ny-puppy-club-flushing-4",
+   "name": "NY Puppy Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ofYlAx_GEOgHJTQLod9Vhw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ny-puppy-club-flushing-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 324,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.7896,
+    "Latitude": 40.758031
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "191-15 northern blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Flushing",
+    "zip_code": "11358",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "191-15 northern blvd",
+     "Flushing, NY 11358"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188861051",
+   "display_phone": "(718) 886-1051",
+   "distance": 18913.897607292332
+  },
+  {
+   "id": "CP40c76u1IEBOE9oirlMRw",
+   "alias": "unleashed-spa-new-york",
+   "name": "Unleashed Spa",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3uMF9iMfd3AU4YbldsIH2A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/unleashed-spa-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 318,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.978622,
+    "Latitude": 40.728973
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "218 Ave B",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10009",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "218 Ave B",
+     "New York, NY 10009"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125339300",
+   "display_phone": "(212) 533-9300",
+   "distance": 2926.0938239613342
+  },
+  {
+   "id": "hda580yEMbh2owQCmJnimA",
+   "alias": "puppy-boutique-brooklyn",
+   "name": "Puppy Boutique",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xDW9VF4rraQItndWrAEMIw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/puppy-boutique-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 293,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.001691,
+    "Latitude": 40.612037
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8002 17th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11214",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "8002 17th Ave",
+     "Brooklyn, NY 11214"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182346698",
+   "display_phone": "(718) 234-6698",
+   "distance": 11208.592242573495
+  },
+  {
+   "id": "rY7nJ0ulxctrIZAHlShPbQ",
+   "alias": "puppies-and-kittens-hartsdale",
+   "name": "Westchester Puppies \u0026 Kittens",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TCodG9GbSK8hQNboVjhCRw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/puppies-and-kittens-hartsdale?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 262,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.79864263709128,
+    "Latitude": 41.01837370468425
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "26 S Central Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Hartsdale",
+    "zip_code": "10523",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "26 S Central Ave",
+     "Hartsdale, NY 10523"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19144377600",
+   "display_phone": "(914) 437-7600",
+   "distance": 38191.084834507405
+  },
+  {
+   "id": "GZs1APmUGGQWURPWllhm7Q",
+   "alias": "whiskers-holistic-petcare-new-york",
+   "name": "Whiskers Holistic Petcare",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5u68t41NLplLRlYnhHNaiw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/whiskers-holistic-petcare-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 224,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9875531569123,
+    "Latitude": 40.7294344214766
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "235 E 9th St 2nd Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "235 E 9th St 2nd Ave",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129792532",
+   "display_phone": "(212) 979-2532",
+   "distance": 2416.1926172631943
+  },
+  {
+   "id": "fVTneUCf9qIA17tgi34pOQ",
+   "alias": "citipups-chelsea-new-york-3",
+   "name": "Citipups Chelsea",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BUPWefQ-iwrEHldbOmNsuw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/citipups-chelsea-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 193,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "petbreeders",
+     "title": "Pet Breeders"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -74.0003306,
+    "Latitude": 40.7423739
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "166 8th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "166 8th Ave",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18884000859",
+   "display_phone": "(888) 400-0859",
+   "distance": 3322.9846435420804
+  },
+  {
+   "id": "wTsRnNCAjE9CR592XW5iXg",
+   "alias": "shake-a-paw-lynbrook",
+   "name": "Shake A Paw",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XgM01snKD8nY-Pb-EyQ0GQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shake-a-paw-lynbrook?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 190,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "petbreeders",
+     "title": "Pet Breeders"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.6717167,
+    "Latitude": 40.6569504
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 Atlantic Ave",
+    "address2": "",
+    "address3": "Five Corners Shopping Center",
+    "city": "Lynbrook",
+    "zip_code": "11563",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1 Atlantic Ave",
+     "Five Corners Shopping Center",
+     "Lynbrook, NY 11563"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15168257877",
+   "display_phone": "(516) 825-7877",
+   "distance": 28870.643646716893
+  },
+  {
+   "id": "yDvA1DPijKvJ1P81u2CNxw",
+   "alias": "pacific-aquarium-and-plant-new-york",
+   "name": "Pacific Aquarium \u0026 Plant",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nTiAi7j8fpQzmzK9VU1_aA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pacific-aquarium-and-plant-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 177,
+   "categories": [
+    {
+     "alias": "localfishstores",
+     "title": "Local Fish Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.99148,
+    "Latitude": 40.71978
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "46 Delancey St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "46 Delancey St",
+     "New York, NY 10002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129955895",
+   "display_phone": "(212) 995-5895",
+   "distance": 1453.571915231178
+  },
+  {
+   "id": "t36xFSGO7okM8bObiXO2aQ",
+   "alias": "vanity-pups-bayside-2",
+   "name": "Vanity Pups",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/J-X01scOMus62r5fnJ6hEg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vanity-pups-bayside-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 165,
+   "categories": [
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.77195300000001,
+    "Latitude": 40.76623659194566
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "38-13 Bell Blvd",
+    "address2": "Flr 1",
+    "address3": "",
+    "city": "Bayside",
+    "zip_code": "11361",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "38-13 Bell Blvd",
+     "Flr 1",
+     "Bayside, NY 11361"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182243643",
+   "display_phone": "(718) 224-3643",
+   "distance": 20594.377806637596
+  },
+  {
+   "id": "AQAYqSaBgCwQtfCc6V9Wcw",
+   "alias": "ny-puppy-club-fort-lee",
+   "name": "NY Puppy Club",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MfJ1btndmMDsjUzAbkXQCg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ny-puppy-club-fort-lee?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 160,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.97076,
+    "Latitude": 40.85029
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1625 Lemoine Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Fort Lee",
+    "zip_code": "07024",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "1625 Lemoine Ave",
+     "Fort Lee, NJ 07024"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12019691500",
+   "display_phone": "(201) 969-1500",
+   "distance": 15572.326431043275
+  },
+  {
+   "id": "n4ictN34WH-BlPtCWQGcEw",
+   "alias": "happy-dogs-at-mccarren-park-brooklyn",
+   "name": "Happy Dogs at McCarren Park",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yN68ofKTAkey8mdcrAww7Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/happy-dogs-at-mccarren-park-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 156,
+   "categories": [
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.952957,
+    "Latitude": 40.719208
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "234 N 12th St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11211",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "234 N 12th St",
+     "Brooklyn, NY 11211"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183887091",
+   "display_phone": "(718) 388-7091",
+   "distance": 4527.269133725652
+  },
+  {
+   "id": "7sCRkQQZKZszb2y8F1XqVw",
+   "alias": "wagging-tails-forest-hills",
+   "name": "Wagging Tails",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ygpxFasynCoHm-PjZjImjQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wagging-tails-forest-hills?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 155,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.847404,
+    "Latitude": 40.709673
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "105-22 Metropolitan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Forest Hills",
+    "zip_code": "11375",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "105-22 Metropolitan Ave",
+     "Forest Hills, NY 11375"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17185758245",
+   "display_phone": "(718) 575-8245",
+   "distance": 13372.001745352494
+  },
+  {
+   "id": "5FVL8RyBu7iYurjQ9vYITw",
+   "alias": "petsmart-brooklyn-2",
+   "name": "PetSmart",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3uJjTsyZ3Qh81ap80IrcUA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsmart-brooklyn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 150,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.990956,
+    "Latitude": 40.6890732
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "238 Atlantic Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "238 Atlantic Ave",
+     "Brooklyn, NY 11201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188522519",
+   "display_phone": "(718) 852-2519",
+   "distance": 2941.621450288191
+  },
+  {
+   "id": "L9SKVe8qIvL_ZUrWwitdfQ",
+   "alias": "château-le-woof-astoria-2",
+   "name": "Château le Woof",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2QiU7ljwmtq_1sNClxlXzw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ch%C3%A2teau-le-woof-astoria-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 146,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9353705,
+    "Latitude": 40.7691527
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "31-01 Vernon Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Astoria",
+    "zip_code": "11106",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "31-01 Vernon Blvd",
+     "Astoria, NY 11106"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17186269663",
+   "display_phone": "(718) 626-9663",
+   "distance": 8641.304097364442
+  },
+  {
+   "id": "YqmKFtAH_Fys-ePkKyLW_Q",
+   "alias": "petsmart-secaucus",
+   "name": "PetSmart",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Tevunr9aQ6uLVXQPiby2xA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsmart-secaucus?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 141,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.0481927644886,
+    "Latitude": 40.792257960351
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "400 Mill Creek Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Secaucus",
+    "zip_code": "07094",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "400 Mill Creek Dr",
+     "Secaucus, NJ 07094"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12015830861",
+   "display_phone": "(201) 583-0861",
+   "distance": 9523.347215451377
+  },
+  {
+   "id": "DGHJ0IsYThNwgvWCjps1Bw",
+   "alias": "wespaw-pets-sunnyside",
+   "name": "Wespaw Pets",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/u26jM3lWHHrMnDAth5JhBg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wespaw-pets-sunnyside?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 140,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.920177,
+    "Latitude": 40.743721
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "44-05 Queens Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Sunnyside",
+    "zip_code": "11104",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "44-05 Queens Blvd",
+     "Sunnyside, NY 11104"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187068100",
+   "display_phone": "(718) 706-8100",
+   "distance": 8007.58290943537
+  },
+  {
+   "id": "4BxJEdhnbU3T7_9J1DE_dg",
+   "alias": "astoria-pets-long-island-city-2",
+   "name": "Astoria Pets",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/D9wm8LSqM_cUC8g8IJgzhg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/astoria-pets-long-island-city-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 135,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.91842,
+    "Latitude": 40.76007
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3150 Steinway St",
+    "address2": "",
+    "address3": "",
+    "city": "Long Island City",
+    "zip_code": "11103",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "3150 Steinway St",
+     "Long Island City, NY 11103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17185457387",
+   "display_phone": "(718) 545-7387",
+   "distance": 9064.060370825791
+  },
+  {
+   "id": "pmN9DZjNX9eNg1nxFCVocw",
+   "alias": "corrados-family-affair-clifton-clifton",
+   "name": "Corrado's Family Affair - Clifton",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/X6-KMl3SPvPJ5jnZ-YUqMA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/corrados-family-affair-clifton-clifton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 134,
+   "categories": [
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.15156,
+    "Latitude": 40.88782
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1578 Main Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Clifton",
+    "zip_code": "07011",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "1578 Main Ave",
+     "Clifton, NJ 07011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19733400628",
+   "display_phone": "(973) 340-0628",
+   "distance": 23020.983162025314
+  },
+  {
+   "id": "mkcAr-P9REo-GhhLmZEOLw",
+   "alias": "bushwick-bark-brooklyn-7",
+   "name": "Bushwick Bark",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TXERlsRURqQIrjxckXmSzw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bushwick-bark-brooklyn-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 133,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petadoption",
+     "title": "Pet Adoption"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.927116,
+    "Latitude": 40.704075
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "175 Knickerbocker Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11237",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "175 Knickerbocker Ave",
+     "Brooklyn, NY 11237"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17189287772",
+   "display_phone": "(718) 928-7772",
+   "distance": 6714.511601041943
+  },
+  {
+   "id": "ukocbsD-cpYTQEPLk0o3cw",
+   "alias": "towne-house-grooming-and-pet-supplies-new-york",
+   "name": "Towne House Grooming \u0026 Pet Supplies",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CUaaZ7EMBKFCx32npjqLSQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/towne-house-grooming-and-pet-supplies-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 129,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9976155,
+    "Latitude": 40.7462735
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "288 8th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "288 8th Ave",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129292910",
+   "display_phone": "(212) 929-2910",
+   "distance": 3788.5383736570357
+  },
+  {
+   "id": "R1hK3cLoDBDUKnsAAvO8aQ",
+   "alias": "ps9-pet-supplies-brooklyn",
+   "name": "PS9 Pet Supplies",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/z0r3OAENtc3jcLu51YFb6w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ps9-pet-supplies-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 125,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9561300724745,
+    "Latitude": 40.7187411189079
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "169 N 9th St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11211",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "169 N 9th St",
+     "Brooklyn, NY 11211"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184866465",
+   "display_phone": "(718) 486-6465",
+   "distance": 4265.796347239074
+  },
+  {
+   "id": "FgBCqGWvpGQUWV1EKUq0HA",
+   "alias": "petco-new-york-6",
+   "name": "Petco",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HGFfrDQKCWjSqlrxzKr1Nw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petco-new-york-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 124,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9555,
+    "Latitude": 40.7796
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1280 Lexington Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10028",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1280 Lexington Ave",
+     "New York, NY 10028"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123697903",
+   "display_phone": "(212) 369-7903",
+   "distance": 8559.83863409212
+  },
+  {
+   "id": "LPDf_yU7_if1XeibhdTigQ",
+   "alias": "skillman-pets-woodside",
+   "name": "Skillman Pets",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/z6qcv5sWVde-IcS4hCn25g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/skillman-pets-woodside?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 123,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.914954,
+    "Latitude": 40.7460731
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4916 Skillman Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Woodside",
+    "zip_code": "11377",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "4916 Skillman Ave",
+     "Woodside, NY 11377"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188033635",
+   "display_phone": "(718) 803-3635",
+   "distance": 8542.019388952376
+  },
+  {
+   "id": "2ABowmcDEYPCm2ML9M3IGg",
+   "alias": "monster-aquarium-flushing-2",
+   "name": "Monster Aquarium",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ChqyaVqmTiWgyakeq8DcuQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/monster-aquarium-flushing-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 116,
+   "categories": [
+    {
+     "alias": "aquariumservices",
+     "title": "Aquarium Services"
+    },
+    {
+     "alias": "localfishstores",
+     "title": "Local Fish Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.8360704,
+    "Latitude": 40.7557131
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "131-08 40th Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Flushing",
+    "zip_code": "11354",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "131-08 40th Rd",
+     "Flushing, NY 11354"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13477320373",
+   "display_phone": "(347) 732-0373",
+   "distance": 15092.000560286973
+  },
+  {
+   "id": "nGJCCZJEF6UTmJMvhOmBaw",
+   "alias": "le-pitou-forest-hills-3",
+   "name": "Le Pitou",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/s17Pz3sTm3DbhoTlCw45_A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-pitou-forest-hills-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 116,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.8357179,
+    "Latitude": 40.7175658
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "113 - 24 Queens Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Forest Hills",
+    "zip_code": "11375",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "113 - 24 Queens Blvd",
+     "Forest Hills, NY 11375"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188963333",
+   "display_phone": "(718) 896-3333",
+   "distance": 14361.388795350378
+  },
+  {
+   "id": "eiP3RNyTWYAFX9iq1Iiy7w",
+   "alias": "worldwide-puppies-and-kittens-bellmore-3",
+   "name": "Worldwide Puppies \u0026 Kittens",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/vR954qxZdqvDhlAe2D8GXA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/worldwide-puppies-and-kittens-bellmore-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 114,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.53237,
+    "Latitude": 40.66716
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2560 W Sunrise Hwy",
+    "address2": "",
+    "address3": "",
+    "city": "Bellmore",
+    "zip_code": "11710",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2560 W Sunrise Hwy",
+     "Bellmore, NY 11710"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15166797880",
+   "display_phone": "(516) 679-7880",
+   "distance": 40245.56690723718
+  },
+  {
+   "id": "SK03eaDyFaDH7sgrC5GqKw",
+   "alias": "petco-new-york-5",
+   "name": "Petco",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FXvLR7xrioX0wQfUiDQXXw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petco-new-york-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 114,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.97415021717902,
+    "Latitude": 40.79216026095914
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2475 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10025",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2475 Broadway",
+     "New York, NY 10025"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12128771270",
+   "display_phone": "(212) 877-1270",
+   "distance": 9223.25952040167
+  },
+  {
+   "id": "Fome4nJbrDUBd7X6u8ALaw",
+   "alias": "absolutely-fish-clifton",
+   "name": "Absolutely Fish",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Hz9AHP2ApiEgRbgvpPMi9A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/absolutely-fish-clifton?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 109,
+   "categories": [
+    {
+     "alias": "aquariumservices",
+     "title": "Aquarium Services"
+    },
+    {
+     "alias": "localfishstores",
+     "title": "Local Fish Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.18131,
+    "Latitude": 40.87101
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1080 US Hwy 46",
+    "address2": "",
+    "address3": "",
+    "city": "Clifton",
+    "zip_code": "07013",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "1080 US Hwy 46",
+     "Clifton, NJ 07013"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19733650200",
+   "display_phone": "(973) 365-0200",
+   "distance": 22977.944633866588
+  },
+  {
+   "id": "yGmLLccHX-OwAbuCoIVcDA",
+   "alias": "head-to-tail-cliffside-park-3",
+   "name": "Head to Tail",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HX9SelxsadynjCLcql6bWw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/head-to-tail-cliffside-park-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 109,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.988708,
+    "Latitude": 40.819526
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "452 Palisade Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Cliffside Park",
+    "zip_code": "07010",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "452 Palisade Ave",
+     "Cliffside Park, NJ 07010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12016546711",
+   "display_phone": "(201) 654-6711",
+   "distance": 11961.43577433692
+  },
+  {
+   "id": "3r40y5hGN9wpxKRkNd9V9A",
+   "alias": "the-seaport-paw-new-york",
+   "name": "The Seaport Paw",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i3231Y-dJgGaa4PBPbbLcw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-seaport-paw-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 107,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.00163,
+    "Latitude": 40.7074799
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "38 Peck Slip",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10038",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "38 Peck Slip",
+     "New York, NY 10038"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127322275",
+   "display_phone": "(212) 732-2275",
+   "distance": 694.5361810680788
+  },
+  {
+   "id": "-aKJx-XM0hQVGp-JqaqyhA",
+   "alias": "love-my-dawg-resort-and-spa-merrick-2",
+   "name": "Love My Dawg Resort \u0026 Spa",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/377onGtL03TKn3hU5sDrJg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/love-my-dawg-resort-and-spa-merrick-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 105,
+   "categories": [
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.556511,
+    "Latitude": 40.661552
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11A Landsdowne Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Merrick",
+    "zip_code": "11566",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "11A Landsdowne Ave",
+     "Merrick, NY 11566"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15164423294",
+   "display_phone": "(516) 442-3294",
+   "distance": 38325.45629462497
+  },
+  {
+   "id": "tSUgy0QtJ3gXEy1BNXO6EA",
+   "alias": "puppy-paradise-brooklyn",
+   "name": "Puppy Paradise",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SOOWeazO3jf3oJKCmGboLQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/puppy-paradise-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 105,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.933273,
+    "Latitude": 40.618904
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2082 Flatbush Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11234",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2082 Flatbush Ave",
+     "Brooklyn, NY 11234"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182527877",
+   "display_phone": "(718) 252-7877",
+   "distance": 12107.676883786462
+  },
+  {
+   "id": "FULPpi6P6Pdu0eRh0qAclg",
+   "alias": "petco-college-point-2",
+   "name": "Petco",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_hl1aw4wm3hOmOzmJvVrFw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petco-college-point-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 103,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.8354,
+    "Latitude": 40.7827
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13311 20th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "College Point",
+    "zip_code": "11356",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "13311 20th Ave",
+     "College Point, NY 11356"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183211295",
+   "display_phone": "(718) 321-1295",
+   "distance": 16338.545910616804
+  },
+  {
+   "id": "UQdvTTVFrxvpuK5MhwU7IA",
+   "alias": "nj-exotic-pets-lodi",
+   "name": "NJ Exotic Pets",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/35YEwB9gULGc79ur8NG71g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nj-exotic-pets-lodi?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 101,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.06667797478015,
+    "Latitude": 40.88129554833555
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "25 Union St",
+    "address2": "",
+    "address3": "",
+    "city": "Lodi",
+    "zip_code": "07644",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "25 Union St",
+     "Lodi, NJ 07644"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19733968897",
+   "display_phone": "(973) 396-8897",
+   "distance": 19419.58147970997
+  },
+  {
+   "id": "8NzDLKKWD2HmrvzD72O7EA",
+   "alias": "k9-caterers-glendale",
+   "name": "K9 Caterers",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Na-Z5aF7hMp6z0UW1itBfA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/k9-caterers-glendale?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 99,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.859804,
+    "Latitude": 40.708579
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "75 - 16 Woodhaven Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Glendale",
+    "zip_code": "11385",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "75 - 16 Woodhaven Blvd",
+     "Glendale, NY 11385"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188942416",
+   "display_phone": "(718) 894-2416",
+   "distance": 12331.366342911366
+  },
+  {
+   "id": "zxfsP8mXh_3ojmIzb9mtdA",
+   "alias": "parrots-of-the-world-rockville-centre-3",
+   "name": "Parrots of the World",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wjvuKeyka8iAST6a8bu2MA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/parrots-of-the-world-rockville-centre-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 98,
+   "categories": [
+    {
+     "alias": "reptileshops",
+     "title": "Reptile Shops"
+    },
+    {
+     "alias": "aquariums",
+     "title": "Aquariums"
+    },
+    {
+     "alias": "birdshops",
+     "title": "Bird Shops"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.64255,
+    "Latitude": 40.65686
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "316 Sunrise Hwy",
+    "address2": "",
+    "address3": "",
+    "city": "Rockville Centre",
+    "zip_code": "11570",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "316 Sunrise Hwy",
+     "Rockville Centre, NY 11570"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15167640717",
+   "display_phone": "(516) 764-0717",
+   "distance": 31267.33441700716
+  },
+  {
+   "id": "YTGxwkLHaNCwbQAuHSh3Xg",
+   "alias": "q-puppies-flushing",
+   "name": "Q Puppies",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aq8hOI-YKiNNH1s5IeU2vQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/q-puppies-flushing?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 94,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.8331516,
+    "Latitude": 40.7638691
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "35-15 Prince St",
+    "address2": "",
+    "address3": "",
+    "city": "Flushing",
+    "zip_code": "11354",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "35-15 Prince St",
+     "Flushing, NY 11354"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17185391255",
+   "display_phone": "(718) 539-1255",
+   "distance": 15630.826939466102
+  },
+  {
+   "id": "ymyU-LwOrIs3M0K3_YJr1g",
+   "alias": "petco-new-york-13",
+   "name": "Petco",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HLbjRQ-Fcp5pHGWYEBsI8A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petco-new-york-13?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 93,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.96762390013691,
+    "Latitude": 40.756443163341956
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "991 Second Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "991 Second Ave",
+     "New York, NY 10022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125937213",
+   "display_phone": "(212) 593-7213",
+   "distance": 5831.444272982014
+  },
+  {
+   "id": "1QJXPhB5STWwrED8s-nP4A",
+   "alias": "happy-dogs-southside-williamsburg-3",
+   "name": "Happy Dogs Southside",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Cb4LnVPt_nlZxC1b13PYYw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/happy-dogs-southside-williamsburg-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 91,
+   "categories": [
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.9594916,
+    "Latitude": 40.711188
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "208 S 3rd St",
+    "address2": "",
+    "address3": "",
+    "city": "Williamsburg",
+    "zip_code": "11211",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "208 S 3rd St",
+     "Williamsburg, NY 11211"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19179090688",
+   "display_phone": "(917) 909-0688",
+   "distance": 3924.0758595940874
+  }
+ ],
+ "total": 638,
+ "region": {
+  "center": {
+   "longitude": -74.006,
+   "Latitude": 40.7128
+  }
+ }
+}

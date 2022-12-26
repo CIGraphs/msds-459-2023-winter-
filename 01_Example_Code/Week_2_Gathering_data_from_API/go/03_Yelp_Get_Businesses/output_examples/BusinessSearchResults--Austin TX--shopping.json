@@ -1,0 +1,1855 @@
+{
+ "businesses": [
+  {
+   "id": "kmtmY04UpdCfWz7sZI6V2w",
+   "alias": "avas-flowers-austin-3",
+   "name": "Avas Flowers",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1zTfcVJ7j5XA0hWqEOMDlw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/avas-flowers-austin-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2102,
+   "categories": [
+    {
+     "alias": "flowers",
+     "title": "Flowers \u0026 Gifts"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": -97.7475433349609,
+    "Latitude": 30.2193908691406
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "73301",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "Austin, TX 73301"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18776383303",
+   "display_phone": "(877) 638-3303",
+   "distance": 4949.003468087671
+  },
+  {
+   "id": "iyeJrTWE3_Xtup77dC_Mtg",
+   "alias": "waltons-fancy-and-staple-austin",
+   "name": "Waltons Fancy and Staple",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pGO7DA5JgBrQN9urCOKQUw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/waltons-fancy-and-staple-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 884,
+   "categories": [
+    {
+     "alias": "delis",
+     "title": "Delis"
+    },
+    {
+     "alias": "florists",
+     "title": "Florists"
+    },
+    {
+     "alias": "breakfast_brunch",
+     "title": "Breakfast \u0026 Brunch"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.749035,
+    "Latitude": 30.269513
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "609 W 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "609 W 6th St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15125423380",
+   "display_phone": "(512) 542-3380",
+   "distance": 626.1152528406925
+  },
+  {
+   "id": "jLgcCKiNX88XBPlk3bB3yw",
+   "alias": "ashley-homestore-austin-5",
+   "name": "Ashley HomeStore",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/__vjNGG7RmhYNyKc5fQpKg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ashley-homestore-austin-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 843,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -97.79128,
+    "Latitude": 30.1575
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "9900 S. IH-35, Building C",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78748",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "9900 S. IH-35, Building C",
+     "Austin, TX 78748"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15125193000",
+   "display_phone": "(512) 519-3000",
+   "distance": 13236.684303976303
+  },
+  {
+   "id": "xdIY9G8f_PeXxaMcMTAYUw",
+   "alias": "central-market-north-lamar-austin",
+   "name": "Central Market - North Lamar",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ba5-Uw1r5MEGRtVJrongEw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/central-market-north-lamar-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 721,
+   "categories": [
+    {
+     "alias": "bakeries",
+     "title": "Bakeries"
+    },
+    {
+     "alias": "grocery",
+     "title": "Grocery"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.739877,
+    "Latitude": 30.307620202110332
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4001 N Lamar Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78756",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "4001 N Lamar Blvd",
+     "Austin, TX 78756"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15122061000",
+   "display_phone": "(512) 206-1000",
+   "distance": 4505.157704115402
+  },
+  {
+   "id": "Z9g9nrBwXNw3qjs6-TApgQ",
+   "alias": "ikea-round-rock",
+   "name": "IKEA",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/K-ZMi2zZfwf3w4A8AQBzwg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ikea-round-rock?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 676,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "kitchenandbath",
+     "title": "Kitchen \u0026 Bath"
+    },
+    {
+     "alias": "outdoorfurniture",
+     "title": "Outdoor Furniture Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -97.690107,
+    "Latitude": 30.55778
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1 Ikea Way",
+    "address2": "",
+    "address3": "",
+    "city": "Round Rock",
+    "zip_code": "78665",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1 Ikea Way",
+     "Round Rock, TX 78665"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18888884532",
+   "display_phone": "(888) 888-4532",
+   "distance": 32708.162565647624
+  },
+  {
+   "id": "_qu4k2yvv8cu9feks3Anxg",
+   "alias": "shaman-modifications-body-piercing-studio-austin-2",
+   "name": "Shaman Modifications Body Piercing Studio",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0ZP080UIJck3awUlXIPUnQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shaman-modifications-body-piercing-studio-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 511,
+   "categories": [
+    {
+     "alias": "piercing",
+     "title": "Piercing"
+    },
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -97.72200052228966,
+    "Latitude": 30.26226278597505
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1901 E 7th St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78702",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1901 E 7th St",
+     "Austin, TX 78702"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15129816637",
+   "display_phone": "(512) 981-6637",
+   "distance": 2099.4360481260296
+  },
+  {
+   "id": "gjYEmAL2UcfQYtb-gz5jEA",
+   "alias": "bookpeople-austin",
+   "name": "BookPeople",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-QgAzzqpaET2eJNQOx8yOQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bookpeople-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 510,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.75289888834725,
+    "Latitude": 30.271861
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "603 N Lamar Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78703",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "603 N Lamar Blvd",
+     "Austin, TX 78703"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124725050",
+   "display_phone": "(512) 472-5050",
+   "distance": 1074.3187663520894
+  },
+  {
+   "id": "eSYVT0iBktef85fMrcWmJg",
+   "alias": "apple-domain-northside-austin-2",
+   "name": "Apple Domain Northside",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n67xH50us0VxhBhyn60LTA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/apple-domain-northside-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 484,
+   "categories": [
+    {
+     "alias": "computers",
+     "title": "Computers"
+    },
+    {
+     "alias": "mobilephones",
+     "title": "Mobile Phones"
+    },
+    {
+     "alias": "itservices",
+     "title": "IT Services \u0026 Computer Repair"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -97.7219071449487,
+    "Latitude": 30.4027046583673
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "3121 Palm Way",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78758",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "3121 Palm Way",
+     "Austin, TX 78758"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15126914800",
+   "display_phone": "(512) 691-4800",
+   "distance": 15204.068225735486
+  },
+  {
+   "id": "Dio71FMSSwYt1T5FR1tQ8A",
+   "alias": "ashley-homestore-pflugerville-5",
+   "name": "Ashley HomeStore",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i-J3LE7TvNhUWdJMFhpglw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ashley-homestore-pflugerville-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 475,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -97.663891,
+    "Latitude": 30.449119
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "15424 FM 1825",
+    "address2": "",
+    "address3": "",
+    "city": "Pflugerville",
+    "zip_code": "78660",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "15424 FM 1825",
+     "Pflugerville, TX 78660"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15129905111",
+   "display_phone": "(512) 990-5111",
+   "distance": 21609.0090873198
+  },
+  {
+   "id": "V9Q0UhlmkNFOrtJ6FX3xuQ",
+   "alias": "rooms-to-go-south-austin-austin",
+   "name": "Rooms To Go - South Austin",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gRMmnmqZBYhnj-u1yVoCKg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rooms-to-go-south-austin-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 469,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -97.7897127809295,
+    "Latitude": 30.1619802703468
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "9500 S Interstate 35",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78748",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "9500 S Interstate 35",
+     "Austin, TX 78748"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15122914375",
+   "display_phone": "(512) 291-4375",
+   "distance": 12527.905275374029
+  },
+  {
+   "id": "lV_Q7Fc6IxVNERWElRPVjg",
+   "alias": "living-spaces-pflugerville-3",
+   "name": "Living Spaces",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pPLIjkKZxVK1rG57-V6Kng/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/living-spaces-pflugerville-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 440,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -97.618037,
+    "Latitude": 30.483064
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "19024 N Heatherwilde Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Pflugerville",
+    "zip_code": "78660",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "19024 N Heatherwilde Blvd",
+     "Pflugerville, TX 78660"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18772667300",
+   "display_phone": "(877) 266-7300",
+   "distance": 26834.323109239358
+  },
+  {
+   "id": "8P5obQS1kIJqo8etKeWDYA",
+   "alias": "precision-camera-and-video-austin-5",
+   "name": "Precision Camera \u0026 Video",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qKOvceXR9AtwrlpbeEKwMA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/precision-camera-and-video-austin-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 419,
+   "categories": [
+    {
+     "alias": "photographystores",
+     "title": "Photography Stores \u0026 Services"
+    },
+    {
+     "alias": "photoclasses",
+     "title": "Photography Classes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.7321061,
+    "Latitude": 30.3575044
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2438 W Anderson Ln",
+    "address2": "Ste B-4",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78757",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "2438 W Anderson Ln",
+     "Ste B-4",
+     "Austin, TX 78757"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124677676",
+   "display_phone": "(512) 467-7676",
+   "distance": 10096.685046447536
+  },
+  {
+   "id": "Tmemdnv3ChxfAdVkdSxhCA",
+   "alias": "davids-bridal-austin-7",
+   "name": "David's Bridal",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hvhZomFan7u_OIstWBOEpw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/davids-bridal-austin-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 404,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.74095483729197,
+    "Latitude": 30.38777636608821
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "9607 Research Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78759",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "9607 Research Blvd",
+     "Austin, TX 78759"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123465552",
+   "display_phone": "(512) 346-5552",
+   "distance": 13409.046060678347
+  },
+  {
+   "id": "1490M-kTpkPHw_wXWGZeFQ",
+   "alias": "uncommon-objects-austin",
+   "name": "Uncommon Objects",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YtpFbwbNMVt4qIivh3zZeQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/uncommon-objects-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 384,
+   "categories": [
+    {
+     "alias": "antiques",
+     "title": "Antiques"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.7831102731537,
+    "Latitude": 30.2289829778936
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1602 Fortview",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1602 Fortview",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124424000",
+   "display_phone": "(512) 442-4000",
+   "distance": 5729.650685883597
+  },
+  {
+   "id": "z0upGkm6F_fQYtpA1h-x1g",
+   "alias": "discount-electronics-austin",
+   "name": "Discount Electronics",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZgCyRF4sYZtphI30ca5Pjg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/discount-electronics-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 383,
+   "categories": [
+    {
+     "alias": "computers",
+     "title": "Computers"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.71594,
+    "Latitude": 30.42536
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "4005 West Parmer Ln",
+    "address2": "Ste D",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78727",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "4005 West Parmer Ln",
+     "Ste D",
+     "Austin, TX 78727"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15129839989",
+   "display_phone": "(512) 983-9989",
+   "distance": 17741.01253134063
+  },
+  {
+   "id": "1QasX9aZjmvRBxVB47K6vw",
+   "alias": "toy-joy-austin",
+   "name": "Toy Joy",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Bqhfje8946SOZnAgOidIhQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/toy-joy-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 382,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.7478779107332,
+    "Latitude": 30.2653250098228
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "403 W 2nd St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "403 W 2nd St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123200090",
+   "display_phone": "(512) 320-0090",
+   "distance": 504.0056028352822
+  },
+  {
+   "id": "35_dm2nHsY2ajDg23MzW5Q",
+   "alias": "buffalo-exchange-austin-2",
+   "name": "Buffalo Exchange",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TZkppXO2nwxmeOnO-H_gAQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/buffalo-exchange-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 368,
+   "categories": [
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    },
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "thrift_stores",
+     "title": "Thrift Stores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -97.7428894042969,
+    "Latitude": 30.2958297729492
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2904 Guadalupe St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78705",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "2904 Guadalupe St",
+     "Austin, TX 78705"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124809922",
+   "display_phone": "(512) 480-9922",
+   "distance": 3190.4918787455717
+  },
+  {
+   "id": "1rpv1IZgrTV0vyhrqaT9nw",
+   "alias": "krugers-diamond-jewelers-austin",
+   "name": "Kruger's Diamond Jewelers",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/N9aOMP35QS2DlrQzvyXnvw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/krugers-diamond-jewelers-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 366,
+   "categories": [
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "jewelryrepair",
+     "title": "Jewelry Repair"
+    },
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.7425,
+    "Latitude": 30.26987
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "722 Congress Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "722 Congress Ave",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124722485",
+   "display_phone": "(512) 472-2485",
+   "distance": 303.43098115009127
+  },
+  {
+   "id": "Ug2bD2dM783boFdBWPVLVQ",
+   "alias": "the-domain-austin",
+   "name": "The Domain",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XCjh8pWY9A82qG-4QN1bVA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-domain-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 358,
+   "categories": [
+    {
+     "alias": "shoppingcenters",
+     "title": "Shopping Centers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.725886,
+    "Latitude": 30.402067
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "11410 Century Oaks Ter",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78758",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "11410 Century Oaks Ter",
+     "Austin, TX 78758"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15127954230",
+   "display_phone": "(512) 795-4230",
+   "distance": 15087.231603248665
+  },
+  {
+   "id": "bUKDJu4OLYYvc1HV62dDbw",
+   "alias": "costco-austin-3",
+   "name": "Costco",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3VAk8ydZpY-3ow-pGrmR2w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/costco-austin-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 355,
+   "categories": [
+    {
+     "alias": "wholesale_stores",
+     "title": "Wholesale Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.74395,
+    "Latitude": 30.3965
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "10401 Research Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78759",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "10401 Research Blvd",
+     "Austin, TX 78759"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15126342253",
+   "display_phone": "(512) 634-2253",
+   "distance": 14421.358927647576
+  },
+  {
+   "id": "wA9Ts3JFgyzDaPEufArQIQ",
+   "alias": "waterloo-records-and-video-austin-2",
+   "name": "Waterloo Records \u0026 Video",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uVuBOv-UgSwExthqzDnoig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/waterloo-records-and-video-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 331,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.754319,
+    "Latitude": 30.271885
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "600A N Lamar Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78703",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "600A N Lamar Blvd",
+     "Austin, TX 78703"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124742500",
+   "display_phone": "(512) 474-2500",
+   "distance": 1195.2817048454137
+  },
+  {
+   "id": "L4DSa4z00nu49iR1CboDLQ",
+   "alias": "platos-closet-austin-3",
+   "name": "Plato's Closet",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/YFVjib6f0DOycxsDHFryOA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/platos-closet-austin-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 327,
+   "categories": [
+    {
+     "alias": "thrift_stores",
+     "title": "Thrift Stores"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -97.822658,
+    "Latitude": 30.229021
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "5400 Brodie Ln",
+    "address2": "Ste 240",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78745",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "5400 Brodie Ln",
+     "Ste 240",
+     "Austin, TX 78745"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123588888",
+   "display_phone": "(512) 358-8888",
+   "distance": 8742.02359249555
+  },
+  {
+   "id": "wfKxBxJ8RFZj8jOB6Lpn-Q",
+   "alias": "trek-bicycle-lamar-austin",
+   "name": "Trek Bicycle Lamar",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eIu4MCzvjv6A0cTh9qT1BQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/trek-bicycle-lamar-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 326,
+   "categories": [
+    {
+     "alias": "bikes",
+     "title": "Bikes"
+    },
+    {
+     "alias": "bikerentals",
+     "title": "Bike Rentals"
+    },
+    {
+     "alias": "bike_repair_maintenance",
+     "title": "Bike Repair/Maintenance"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.75817,
+    "Latitude": 30.259626
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "517 S Lamar Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "517 S Lamar Blvd",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124773472",
+   "display_phone": "(512) 477-3472",
+   "distance": 1674.5344770650313
+  },
+  {
+   "id": "epU0FHRFfkSI3y_btgTVUQ",
+   "alias": "allens-boots-austin",
+   "name": "Allens Boots",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5cbF8aUTAIMtE0xeVR_d3A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/allens-boots-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 313,
+   "categories": [
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.750602722168,
+    "Latitude": 30.2482604980469
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1522 S Congress Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1522 S Congress Ave",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124471413",
+   "display_phone": "(512) 447-1413",
+   "distance": 2225.879431242703
+  },
+  {
+   "id": "6XXTB2lGw8FICjmGbd6m5g",
+   "alias": "barton-springs-bike-rental-and-tours-austin-2",
+   "name": "Barton Springs Bike Rental \u0026 Tours",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/nyz9ePP1hWAgBdKQVSERxA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barton-springs-bike-rental-and-tours-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 306,
+   "categories": [
+    {
+     "alias": "bikerentals",
+     "title": "Bike Rentals"
+    },
+    {
+     "alias": "bikes",
+     "title": "Bikes"
+    },
+    {
+     "alias": "biketours",
+     "title": "Bike tours"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -97.762963,
+    "Latitude": 30.262926
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1707 Barton Springs Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "1707 Barton Springs Rd",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124800200",
+   "display_phone": "(512) 480-0200",
+   "distance": 1965.1830229343157
+  },
+  {
+   "id": "OsVI7hYQndjFqe7N_VhG_w",
+   "alias": "black-orchid-salon-austin",
+   "name": "Black Orchid Salon",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cYlCTuYmrrX4VlP_lq7nIA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/black-orchid-salon-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 299,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -97.7620221777668,
+    "Latitude": 30.2257954735755
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3801 S Congress Ave",
+    "address2": "Ste 105",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "3801 S Congress Ave",
+     "Ste 105",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123261010",
+   "display_phone": "(512) 326-1010",
+   "distance": 4949.772782922833
+  },
+  {
+   "id": "hMV5S3J27Se3TLmCxex3OQ",
+   "alias": "freytags-florist-austin-6",
+   "name": "Freytag's Florist",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/N0NXMDW8N-GSinWeXEZgEA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/freytags-florist-austin-6?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 283,
+   "categories": [
+    {
+     "alias": "florists",
+     "title": "Florists"
+    },
+    {
+     "alias": "floraldesigners",
+     "title": "Floral Designers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.72974,
+    "Latitude": 30.3552
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2211 W Anderson Ln",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78757",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "2211 W Anderson Ln",
+     "Austin, TX 78757"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123715640",
+   "display_phone": "(512) 371-5640",
+   "distance": 9850.483949070845
+  },
+  {
+   "id": "0z1kFK6da07k9mDwTkgf5Q",
+   "alias": "rooms-to-go-furniture-store-austin-cedar-park-cedar-park-3",
+   "name": "Rooms To Go Furniture Store - Austin, Cedar Park",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ubtYEmeUYcNVnwMfW1a_PQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rooms-to-go-furniture-store-austin-cedar-park-cedar-park-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 282,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -97.80123305774686,
+    "Latitude": 30.47164374419012
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "11027 Lakeline Mall Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Cedar Park",
+    "zip_code": "78613",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "11027 Lakeline Mall Dr",
+     "Cedar Park, TX 78613"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15122509228",
+   "display_phone": "(512) 250-9228",
+   "distance": 23407.20295117535
+  },
+  {
+   "id": "ij4E6roRKm_6pgRTOKElUg",
+   "alias": "the-great-outdoors-austin",
+   "name": "The Great Outdoors",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/w83zYq479xf4Jsh5XN7u6Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-great-outdoors-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 277,
+   "categories": [
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.75765,
+    "Latitude": 30.23477
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2730 S Congress Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "2730 S Congress Ave",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124482992",
+   "display_phone": "(512) 448-2992",
+   "distance": 3889.092399926483
+  },
+  {
+   "id": "z2QlerUU4DyNH1lckVdZTw",
+   "alias": "apple-barton-creek-austin",
+   "name": "Apple Barton Creek",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/h6bxV8shp3YU86m-XOueng/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/apple-barton-creek-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 276,
+   "categories": [
+    {
+     "alias": "computers",
+     "title": "Computers"
+    },
+    {
+     "alias": "mobilephones",
+     "title": "Mobile Phones"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -97.8075863624848,
+    "Latitude": 30.2578667053291
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "2901 S Capital Of Texas Hwy",
+    "address2": "",
+    "address3": "Barton Creek Mall",
+    "city": "Austin",
+    "zip_code": "78746",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "2901 S Capital Of Texas Hwy",
+     "Barton Creek Mall",
+     "Austin, TX 78746"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15126340520",
+   "display_phone": "(512) 634-0520",
+   "distance": 6279.7341674629915
+  },
+  {
+   "id": "pD-ikZ4T_k092ojrFybTfQ",
+   "alias": "longhorn-mac-repair-pflugerville-3",
+   "name": "Longhorn Mac Repair",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xxv38bpbE5HRpiPH4HrZOw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/longhorn-mac-repair-pflugerville-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 271,
+   "categories": [
+    {
+     "alias": "mobilephonerepair",
+     "title": "Mobile Phone Repair"
+    },
+    {
+     "alias": "cellphoneaccessories",
+     "title": "Mobile Phone Accessories"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.656566,
+    "Latitude": 30.450104
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "2700 Pecan St W",
+    "address2": "Ste 500",
+    "address3": "",
+    "city": "Pflugerville",
+    "zip_code": "78660",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "2700 Pecan St W",
+     "Ste 500",
+     "Pflugerville, TX 78660"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15129023789",
+   "display_phone": "(512) 902-3789",
+   "distance": 22028.56589627065
+  },
+  {
+   "id": "kOKCwfvGjFwRLUiP0xqdNA",
+   "alias": "uptown-cheapskate-austin-austin",
+   "name": "Uptown Cheapskate - Austin",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/snpywoXOVMZOUVFWVmFuOA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/uptown-cheapskate-austin-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 263,
+   "categories": [
+    {
+     "alias": "vintage",
+     "title": "Used, Vintage \u0026 Consignment"
+    },
+    {
+     "alias": "thrift_stores",
+     "title": "Thrift Stores"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.7836194202958,
+    "Latitude": 30.241472711097
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "3005 S Lamar Blvd",
+    "address2": "Ste 110-A",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78704",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "3005 S Lamar Blvd",
+     "Ste 110-A",
+     "Austin, TX 78704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124624646",
+   "display_phone": "(512) 462-4646",
+   "distance": 4830.173708441583
+  },
+  {
+   "id": "7jwpWaVvTz6uEhR9gN8C8A",
+   "alias": "best-buy-south-austin-austin",
+   "name": "Best Buy - South Austin",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0bhhVUdfmvLtmAANOdbCyQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/best-buy-south-austin-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 259,
+   "categories": [
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "computers",
+     "title": "Computers"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -97.8209075927734,
+    "Latitude": 30.2365036010742
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4970 W Hwy 290",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78735",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "4970 W Hwy 290",
+     "Austin, TX 78735"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15128927550",
+   "display_phone": "(512) 892-7550",
+   "distance": 8216.145090024173
+  },
+  {
+   "id": "7ZQaZ9emBV5oacmyr6BmOw",
+   "alias": "diamonds-direct-austin-austin",
+   "name": "Diamonds Direct - Austin",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kcEf-ptm_PTP0YkcHJcJqg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/diamonds-direct-austin-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 256,
+   "categories": [
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.7281951904297,
+    "Latitude": 30.4036754233214
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "11104 Domain Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78758",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "11104 Domain Dr",
+     "Austin, TX 78758"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15126919950",
+   "display_phone": "(512) 691-9950",
+   "distance": 15242.62399168212
+  },
+  {
+   "id": "dxcHl17pVjen-SiHDeBiYw",
+   "alias": "the-natural-gardener-austin",
+   "name": "The Natural Gardener",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7y-wmQ0pgR3MhZltxgjhUQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-natural-gardener-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 256,
+   "categories": [
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.8905028,
+    "Latitude": 30.257052
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "8648 Old Bee Caves Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78735",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "8648 Old Bee Caves Rd",
+     "Austin, TX 78735"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15122886113",
+   "display_phone": "(512) 288-6113",
+   "distance": 14201.78227614404
+  },
+  {
+   "id": "gdfPzPxxNNGCJKJzL5RsoA",
+   "alias": "petticoat-fair-austin",
+   "name": "Petticoat Fair",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bEpeYnPM0gHo2o9ysy6unA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petticoat-fair-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 252,
+   "categories": [
+    {
+     "alias": "lingerie",
+     "title": "Lingerie"
+    },
+    {
+     "alias": "swimwear",
+     "title": "Swimwear"
+    },
+    {
+     "alias": "plus_size_fashion",
+     "title": "Plus Size Fashion"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.736106,
+    "Latitude": 30.355981
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "7739 Northcross Dr",
+    "address2": "Ste M",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78757",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "7739 Northcross Dr",
+     "Ste M",
+     "Austin, TX 78757"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124542900",
+   "display_phone": "(512) 454-2900",
+   "distance": 9902.912567085135
+  },
+  {
+   "id": "5Kq_q-tngZqhJbVbiYmpsg",
+   "alias": "terra-toys-austin",
+   "name": "Terra Toys",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZzJ-0sDCFwN45_7zdJHjSA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/terra-toys-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 248,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -97.731603,
+    "Latitude": 30.357855
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2438 W Anderson Ln",
+    "address2": "Ste C1",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78757",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "2438 W Anderson Ln",
+     "Ste C1",
+     "Austin, TX 78757"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124454489",
+   "display_phone": "(512) 445-4489",
+   "distance": 10140.59929760664
+  },
+  {
+   "id": "8yZK5BB1dPvcl9AcTS92FQ",
+   "alias": "costco-austin",
+   "name": "Costco",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ujRuC0aRWWLGYjRyNS6mGA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/costco-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 248,
+   "categories": [
+    {
+     "alias": "wholesale_stores",
+     "title": "Wholesale Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.841182,
+    "Latitude": 30.221514
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4301 W William Cannon Dr",
+    "address2": "Bldg A, Ste 100",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78749",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "4301 W William Cannon Dr",
+     "Bldg A, Ste 100",
+     "Austin, TX 78749"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15123823011",
+   "display_phone": "(512) 382-3011",
+   "distance": 10703.994371186278
+  },
+  {
+   "id": "s3yqxWe3M9edECJ2Yj5Nyg",
+   "alias": "the-range-at-austin-austin",
+   "name": "The Range at Austin",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/O2yc0SKT91RHX58HgemCFg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-range-at-austin-austin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 247,
+   "categories": [
+    {
+     "alias": "guns_and_ammo",
+     "title": "Guns \u0026 Ammo"
+    },
+    {
+     "alias": "gun_ranges",
+     "title": "Gun/Rifle Ranges"
+    },
+    {
+     "alias": "gunsmith",
+     "title": "Gunsmith"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.7809106,
+    "Latitude": 30.172496
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "8301 S Ih35 Frontage Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78744",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "8301 S Ih35 Frontage Rd",
+     "Austin, TX 78744"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17378023700",
+   "display_phone": "(737) 802-3700",
+   "distance": 11139.653364396041
+  },
+  {
+   "id": "ZtuzXaoMnY1gd0kMZFdpcw",
+   "alias": "mellow-johnnys-bike-shop-austin-2",
+   "name": "Mellow Johnny's Bike Shop",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/3hlAfVkmn3V0L-bHoyYuQA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mellow-johnnys-bike-shop-austin-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 245,
+   "categories": [
+    {
+     "alias": "bikes",
+     "title": "Bikes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -97.749269,
+    "Latitude": 30.268109
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "400 Nueces St",
+    "address2": "",
+    "address3": "",
+    "city": "Austin",
+    "zip_code": "78701",
+    "country": "US",
+    "state": "TX",
+    "display_address": [
+     "400 Nueces St",
+     "Austin, TX 78701"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15124730222",
+   "display_phone": "(512) 473-0222",
+   "distance": 601.0110210214441
+  }
+ ],
+ "total": 5000,
+ "region": {
+  "center": {
+   "longitude": -97.7431,
+   "Latitude": 30.2672
+  }
+ }
+}

@@ -1,0 +1,961 @@
+{
+ "businesses": [
+  {
+   "id": "fl7nLkbDcfXRK5USdk8dgA",
+   "alias": "paris-attitude-paris-2",
+   "name": "Paris Attitude",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NaI210Y1_6eY5g5CsxjHAw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paris-attitude-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 106,
+   "categories": [
+    {
+     "alias": "realestateagents",
+     "title": "Real Estate Agents"
+    },
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    },
+    {
+     "alias": "apartments",
+     "title": "Apartments"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.333222,
+    "Latitude": 48.893339
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "21 rue Vauvenargues",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75018",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "21 rue Vauvenargues",
+     "75018 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142966210",
+   "display_phone": "+33 1 42 96 62 10",
+   "distance": 4314.519237060702
+  },
+  {
+   "id": "EjWgP2Ta8hmwPqtx89gkcA",
+   "alias": "ercole-salinaro-photography-paris",
+   "name": "Ercole Salinaro Photography",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ercole-salinaro-photography-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "estatephotography",
+     "title": "Real Estate Photography"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.33371090888977,
+    "Latitude": 48.8633766174316
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33634664550",
+   "display_phone": "+33 6 34 66 45 50",
+   "distance": 1754.8298778888018
+  },
+  {
+   "id": "iJWhBp3wEj6_z0avVHscgg",
+   "alias": "chez-robert-electron-libre-paris",
+   "name": "Chez Robert  Electron Libre",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chez-robert-electron-libre-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 5,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.3452441,
+    "Latitude": 48.859374
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "59 rue de Rivoli",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "59 rue de Rivoli",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 595.0660751728965
+  },
+  {
+   "id": "4Qmk8AuRryfccJoSwCotpQ",
+   "alias": "agence-immobiliere-de-rosny-rosny-sous-bois",
+   "name": "Agence immobiliere de Rosny",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3N4rvSJXIneQyX6gYYKoag/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/agence-immobiliere-de-rosny-rosny-sous-bois?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.48119,
+    "Latitude": 48.87581
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "24 ave du Général de Gaulle",
+    "address2": "",
+    "address3": "",
+    "city": "Rosny Sous Bois",
+    "zip_code": "93110",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "24 ave du Général de Gaulle",
+     "93110 Rosny Sous Bois",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148542000",
+   "display_phone": "+33 1 48 54 20 00",
+   "distance": 9673.890136137
+  },
+  {
+   "id": "N1r3wz_HGTtpzs9gUlJJsA",
+   "alias": "icf-la-sablière-paris-2",
+   "name": "ICF La Sablière",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/08YtFnrsBa5qaUihv0zynw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/icf-la-sabli%C3%A8re-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "publicservicesgovt",
+     "title": "Public Services \u0026 Government"
+    },
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.36712,
+    "Latitude": 48.83438
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "83/85 bd Vincent Auriol",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "83/85 bd Vincent Auriol",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33156771260",
+   "display_phone": "+33 1 56 77 12 60",
+   "distance": 2717.1165452269647
+  },
+  {
+   "id": "VnOR0uaIjoLi7pLrVuO2YQ",
+   "alias": "oralia-lescallier-paris",
+   "name": "Oralia Lescallier",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/v4unVzHfXk1lcQBOc8wCcg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/oralia-lescallier-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.32725,
+    "Latitude": 48.88299
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "106 rue d'Amsterdam",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "106 rue d'Amsterdam",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153212300",
+   "display_phone": "+33 1 53 21 23 00",
+   "distance": 3462.962524052871
+  },
+  {
+   "id": "d_S3qsSzVT1pWR9k1ayBxA",
+   "alias": "caractère-agence-immobilière-paris",
+   "name": "Caractère - Agence Immobilière",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/G3xKAySQuEaqihDdE6Mn5Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/caract%C3%A8re-agence-immobili%C3%A8re-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.36461,
+    "Latitude": 48.85827
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "50 rue Turenne",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "50 rue Turenne",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142727491",
+   "display_phone": "+33 1 42 72 74 91",
+   "distance": 930.5738280588328
+  },
+  {
+   "id": "Ks4P3EXrnuBQl_zJFR06tw",
+   "alias": "cattalan-johnson-immobilier-paris",
+   "name": "Cattalan Johnson Immobilier",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cattalan-johnson-immobilier-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.34468,
+    "Latitude": 48.86109
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "67 rue Saint Honoré",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "67 rue Saint Honoré",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145748777",
+   "display_phone": "+33 1 45 74 87 77",
+   "distance": 742.9124669123694
+  },
+  {
+   "id": "u2AzsMpUOPjaOYGf1Ai1CA",
+   "alias": "cook-book-paris",
+   "name": "Cook Book",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PaG_RgqszzMD-KBcjQlnXg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cook-book-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.3094267,
+    "Latitude": 48.8617168
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9 rue Surcouf",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "9 rue Surcouf",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145519282",
+   "display_phone": "+33 1 45 51 92 82",
+   "distance": 3180.447121986849
+  },
+  {
+   "id": "BIGngp5wU6uyP7IXwbHoiQ",
+   "alias": "investimmo-paris-2",
+   "name": "Investimmo",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ukbLtzl9IGEj8Qj4gDjAeQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/investimmo-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.34955,
+    "Latitude": 48.85887
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3 Rue Nicolas Flamel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 Rue Nicolas Flamel",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33183954606",
+   "display_phone": "+33 1 83 95 46 06",
+   "distance": 318.2726958377924
+  },
+  {
+   "id": "v-8pqVTjeLz8WoLJc2BJqw",
+   "alias": "armeco-international-paris",
+   "name": "Armeco International",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/armeco-international-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.2864029,
+    "Latitude": 48.8660776
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "42 Avenue Raymond Poincaré",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75116",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "42 Avenue Raymond Poincaré",
+     "75116 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147277566",
+   "display_phone": "+33 1 47 27 75 66",
+   "distance": 4927.290707748024
+  },
+  {
+   "id": "QO7gxb-FWa65wU3D-bKnuA",
+   "alias": "at-home-in-paris-paris",
+   "name": "At Home In Paris",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/at-home-in-paris-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.30284,
+    "Latitude": 48.87455
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15 ave de Friedland",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "15 ave de Friedland",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142124040",
+   "display_phone": "+33 1 42 12 40 40",
+   "distance": 4125.504482749081
+  },
+  {
+   "id": "cDMw8UclnuXdm8hxgXxRjg",
+   "alias": "lichelle-silvestry-interiors-paris",
+   "name": "Lichelle Silvestry Interiors",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5kvpl2XpRda9N4VVloRrqA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lichelle-silvestry-interiors-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "interiordesign",
+     "title": "Interior Design"
+    },
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.29665,
+    "Latitude": 48.84142
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153691450",
+   "display_phone": "+33 1 53 69 14 50",
+   "distance": 4635.68071136124
+  },
+  {
+   "id": "YBhHqN2WLT0e_J_Btr_u_A",
+   "alias": "century-21-wilson-immobilier-saint-ouen",
+   "name": "Century 21 Wilson Immobilier",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iSXIDwm2or1P82k80F84Jw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/century-21-wilson-immobilier-saint-ouen?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3314054,
+    "Latitude": 48.9053347
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "90 ave Gabriel Péri",
+    "address2": "",
+    "address3": "",
+    "city": "Saint-Ouen",
+    "zip_code": "93400",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "90 ave Gabriel Péri",
+     "93400 Saint-Ouen",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33149712030",
+   "display_phone": "+33 1 49 71 20 30",
+   "distance": 5628.344613652017
+  },
+  {
+   "id": "4WmyKWVMltuyKajy_eHEKQ",
+   "alias": "chateau-de-aim-paris",
+   "name": "Chateau de Aim",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chateau-de-aim-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    },
+    {
+     "alias": "fashion",
+     "title": "Fashion"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.3505899,
+    "Latitude": 48.8578511
+   },
+   "transactions": [],
+   "price": "€",
+   "location": {
+    "address1": "80 Rue de Rivoli",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "80 Rue de Rivoli",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 182.2870464493678
+  },
+  {
+   "id": "NXJtmpVCb8sJb-h8HdTZ7w",
+   "alias": "galerie-du-fleuve-paris",
+   "name": "Galerie du Fleuve",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/BJNvGTvDdFpqmAvY92gjwg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/galerie-du-fleuve-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3365833,
+    "Latitude": 48.8563205
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6 rue Seine",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "6 rue Seine",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143260896",
+   "display_phone": "+33 1 43 26 08 96",
+   "distance": 1142.946094667425
+  },
+  {
+   "id": "3qeUe-1siaR8kgCyQgFIGQ",
+   "alias": "immo-pantin",
+   "name": "Immo +",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/immo-pantin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.4109518,
+    "Latitude": 48.8927882
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "123 ave Jean Lolive",
+    "address2": "",
+    "address3": "",
+    "city": "Pantin",
+    "zip_code": "93500",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "123 ave Jean Lolive",
+     "93500 Pantin",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33157423336",
+   "display_phone": "+33 1 57 42 33 36",
+   "distance": 5886.7680873228155
+  },
+  {
+   "id": "0_NUXuyo04NjhjjCsMYiRQ",
+   "alias": "century-21-beaurepaire-colombes",
+   "name": "Century 21 Beaurepaire",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/century-21-beaurepaire-colombes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.2504369,
+    "Latitude": 48.9228949
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "25 ter rue Gabriel Péri",
+    "address2": "",
+    "address3": "",
+    "city": "Colombes",
+    "zip_code": "92700",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "25 ter rue Gabriel Péri",
+     "92700 Colombes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147808321",
+   "display_phone": "+33 1 47 80 83 21",
+   "distance": 10473.578972997297
+  },
+  {
+   "id": "979zl6QRsr0Xf9bF5pgZZA",
+   "alias": "dr-jonas-obeid-paris",
+   "name": "Dr Jonas Obeid",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dr-jonas-obeid-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    },
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3319664,
+    "Latitude": 48.8713107
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "33 rue de Caumartin",
+    "address2": "Centre medico-dentaire Opera",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "33 rue de Caumartin",
+     "Centre medico-dentaire Opera",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2205.9722988523713
+  },
+  {
+   "id": "7yjVIzw-lUU5bm7h-NtWqw",
+   "alias": "cabinet-wurtz-juvisy-sur-orge",
+   "name": "Cabinet Wurtz",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cabinet-wurtz-juvisy-sur-orge?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.38461,
+    "Latitude": 48.68792
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "51 Rue Monttessuy",
+    "address2": "",
+    "address3": "",
+    "city": "Juvisy Sur Orge",
+    "zip_code": "91260",
+    "country": "FR",
+    "state": "91",
+    "display_address": [
+     "51 Rue Monttessuy",
+     "91260 Juvisy Sur Orge",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33169214072",
+   "display_phone": "+33 1 69 21 40 72",
+   "distance": 18906.120991754677
+  },
+  {
+   "id": "JKRoep9HScNuNTCgiiiezA",
+   "alias": "sleuths-int-l-paris-3",
+   "name": "Sleuths Int'l",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sleuths-int-l-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    },
+    {
+     "alias": "realestateagents",
+     "title": "Real Estate Agents"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.34141,
+    "Latitude": 48.85718
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "90016",
+    "country": "FR",
+    "state": "01",
+    "display_address": [
+     "90016 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33638428229",
+   "display_phone": "+33 6 38 42 82 29",
+   "distance": 2.233935523430869
+  },
+  {
+   "id": "gBRI2dKc2zS4dQ51mVd4kA",
+   "alias": "fairplay-immobilier-paris",
+   "name": "Fairplay Immobilier",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fairplay-immobilier-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "realestatesvcs",
+     "title": "Real Estate Services"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.2608747,
+    "Latitude": 48.884961
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "39 rue Dupleix",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "39 rue Dupleix",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142220080",
+   "display_phone": "+33 1 42 22 00 80",
+   "distance": 7386.516063883417
+  }
+ ],
+ "total": 22,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

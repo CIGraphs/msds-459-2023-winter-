@@ -1,0 +1,1761 @@
+{
+ "businesses": [
+  {
+   "id": "4illty6ER3EHZHyPcKbbBw",
+   "alias": "myopic-books-chicago",
+   "name": "Myopic Books",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dCz7HPc8XuxGJzUv64BKKQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/myopic-books-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 510,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "usedbooks",
+     "title": "Used Bookstore"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.677,
+    "Latitude": 41.90974
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1564 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1564 N Milwaukee Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738624882",
+   "display_phone": "(773) 862-4882",
+   "distance": 5257.04036325471
+  },
+  {
+   "id": "Z5khNz2bKf8UC2d13z8diQ",
+   "alias": "reggies-music-joint-chicago",
+   "name": "Reggies Music Joint",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2KWzHAw7AbcYsi1l6tCvww/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/reggies-music-joint-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 399,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.626754,
+    "Latitude": 41.853969
+   },
+   "transactions": [
+    "pickup",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "2105 S State St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60616",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2105 S State St",
+     "Chicago, IL 60616"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129490120",
+   "display_phone": "(312) 949-0120",
+   "distance": 2693.6945397787986
+  },
+  {
+   "id": "9UdMTorJLPaUoRj1IZXYoA",
+   "alias": "the-book-cellar-chicago",
+   "name": "The Book Cellar",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/itTXEESb99w318j5NGzDGA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-book-cellar-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 296,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.68826,
+    "Latitude": 41.96748
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4736-38 N Lincoln Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60625",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4736-38 N Lincoln Ave",
+     "Chicago, IL 60625"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732932665",
+   "display_phone": "(773) 293-2665",
+   "distance": 11055.37542540689
+  },
+  {
+   "id": "AF9xtOT8GBmtmlQCReyy-Q",
+   "alias": "unabridged-bookstore-chicago",
+   "name": "Unabridged Bookstore",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rsToeMhHygsTpl5729_KAA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/unabridged-bookstore-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 232,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.64429281753246,
+    "Latitude": 41.94164487559991
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3251 N Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3251 N Broadway",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738839119",
+   "display_phone": "(773) 883-9119",
+   "distance": 7166.915474298721
+  },
+  {
+   "id": "XwTsH71v22mObbFFOgicEg",
+   "alias": "reckless-records-chicago-3",
+   "name": "Reckless Records",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aRMqWQYyXQTwBu02h1q8sA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/reckless-records-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 207,
+   "categories": [
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.65268925577402,
+    "Latitude": 41.93982540686333
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "929 W Belmont Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "929 W Belmont Ave",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734045080",
+   "display_phone": "(773) 404-5080",
+   "distance": 7120.1104524311295
+  },
+  {
+   "id": "4-RRCa3hkJcEsGbGOuMhoQ",
+   "alias": "half-price-books-niles",
+   "name": "Half Price Books",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HhB5HPWnQfl-s7f1D1tHTw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/half-price-books-niles?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 201,
+   "categories": [
+    {
+     "alias": "media",
+     "title": "Books, Mags, Music \u0026 Video"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.7687083,
+    "Latitude": 42.0089826
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "5605 W Touhy Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Niles",
+    "zip_code": "60714",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5605 W Touhy Ave",
+     "Niles, IL 60714"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18475882286",
+   "display_phone": "(847) 588-2286",
+   "distance": 18541.66842150459
+  },
+  {
+   "id": "VTokujt2sozF_agjGWZCNA",
+   "alias": "quimbys-bookstore-chicago",
+   "name": "Quimby's Bookstore",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eKS9tAszkYIW4YELxspkWg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/quimbys-bookstore-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 187,
+   "categories": [
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.67476,
+    "Latitude": 41.91071
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1854 W North Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1854 W North Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17733420910",
+   "display_phone": "(773) 342-0910",
+   "distance": 5196.659366876872
+  },
+  {
+   "id": "565HaE3L9GNGPiY8QptKjA",
+   "alias": "lauries-planet-of-sound-chicago",
+   "name": "Laurie's Planet Of Sound",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0nyMqR8Yuyh6mC2bQimCmg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lauries-planet-of-sound-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 179,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.686688985725,
+    "Latitude": 41.966025122275
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4639 N Lincoln Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60625",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4639 N Lincoln Ave",
+     "Chicago, IL 60625"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732713569",
+   "display_phone": "(773) 271-3569",
+   "distance": 10850.771244895806
+  },
+  {
+   "id": "ih_jOv5ttwaIY4tG7zn1Tg",
+   "alias": "women-and-children-first-chicago",
+   "name": "Women \u0026 Children First",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cF5XuSl5kR0_CKGOl9DZPA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/women-and-children-first-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 178,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.668198,
+    "Latitude": 41.9772401
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5233 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5233 N Clark St",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737699299",
+   "display_phone": "(773) 769-9299",
+   "distance": 11473.684823852436
+  },
+  {
+   "id": "clixnw17T0y88_ltucayAg",
+   "alias": "the-book-table-oak-park",
+   "name": "The Book Table",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aFI3QMbOvEbbBS9ZBSoPxw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-book-table-oak-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 165,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.8019043,
+    "Latitude": 41.8884951
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1045 Lake St",
+    "address2": "",
+    "address3": "",
+    "city": "Oak Park",
+    "zip_code": "60301",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1045 Lake St",
+     "Oak Park, IL 60301"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17083869800",
+   "display_phone": "(708) 386-9800",
+   "distance": 14287.75740672594
+  },
+  {
+   "id": "2EjIsOme7bDY9Lqqlr4n5A",
+   "alias": "chicago-comics-chicago",
+   "name": "Chicago Comics",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n5-nzFG_nzxYFo9T7xeg3Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-comics-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 156,
+   "categories": [
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.65194,
+    "Latitude": 41.94095
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3244 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "3244 N Clark St",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735281983",
+   "display_phone": "(773) 528-1983",
+   "distance": 7228.235133660459
+  },
+  {
+   "id": "9K-DIM1jfDG0SkjgDw4q4A",
+   "alias": "after-words-chicago",
+   "name": "After-Words",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KBhb1YesH-mUuB9NrXjpyQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/after-words-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 134,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6271385,
+    "Latitude": 41.8907451
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "23 E Illinois St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "23 E Illinois St",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124641110",
+   "display_phone": "(312) 464-1110",
+   "distance": 1415.4221446509862
+  },
+  {
+   "id": "VFjgWLcKtDB9VDiKWZo05w",
+   "alias": "dusty-groove-chicago",
+   "name": "Dusty Groove",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GxUNYBBiZ3OB6KduIhibmQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dusty-groove-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 125,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.667854309082,
+    "Latitude": 41.9021682739258
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1120 N Ashland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1120 N Ashland Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17733425800",
+   "display_phone": "(773) 342-5800",
+   "distance": 4141.797922636241
+  },
+  {
+   "id": "kHflFL0SxA2mdoJNXEMi2A",
+   "alias": "best-buy-bloomingdale",
+   "name": "Best Buy",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/S_J7NK4iMRbQ7X-aWv8Rcw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/best-buy-bloomingdale?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 109,
+   "categories": [
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -88.110239917715,
+    "Latitude": 41.936954973916
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "352 W Army Trail Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Bloomingdale",
+    "zip_code": "60117",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "352 W Army Trail Rd",
+     "Bloomingdale, IL 60117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16305821070",
+   "display_phone": "(630) 582-1070",
+   "distance": 40293.19580110062
+  },
+  {
+   "id": "t0BJ-yrP9RbXpnGSuGvzgg",
+   "alias": "challengers-comics-conversation-chicago",
+   "name": "Challengers Comics + Conversation",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sDR_fmXar0_zrsC0oSaE-A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/challengers-comics-conversation-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 106,
+   "categories": [
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.68704,
+    "Latitude": 41.9153
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1845 N Western Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60647",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1845 N Western Ave",
+     "Chicago, IL 60647"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732780155",
+   "display_phone": "(773) 278-0155",
+   "distance": 6285.533666223257
+  },
+  {
+   "id": "nlKnzXNiIFVEcbxprTwi2w",
+   "alias": "armadillos-pillow-chicago",
+   "name": "Armadillo's Pillow",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ey2Rx002RjO3v_ekrvwjNw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/armadillos-pillow-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 105,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.660642928269,
+    "Latitude": 42.005195620163
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "6753 N Sheridan Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60626",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "6753 N Sheridan Rd",
+     "Chicago, IL 60626"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737612558",
+   "display_phone": "(773) 761-2558",
+   "distance": 14360.765020934357
+  },
+  {
+   "id": "yMcDIh6SRcPQwAGMORi4Aw",
+   "alias": "barnes-and-noble-chicago-2",
+   "name": "Barnes \u0026 Noble",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7TLaNIujFL2lkeJhhwKJSw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barnes-and-noble-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 104,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6274976,
+    "Latitude": 41.8780751
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1 E Jackson Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60604",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1 E Jackson Blvd",
+     "Chicago, IL 60604"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123628792",
+   "display_phone": "(312) 362-8792",
+   "distance": 221.50021266626158
+  },
+  {
+   "id": "9eOL3a9QfKKyMmi0at73lQ",
+   "alias": "reckless-records-chicago",
+   "name": "Reckless Records",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/STjWLjGEkt7QrHp4CokHkg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/reckless-records-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 101,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    },
+    {
+     "alias": "videogamestores",
+     "title": "Video Game Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6269574334598,
+    "Latitude": 41.8822222834951
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "26 E Madison St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60602",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "26 E Madison St",
+     "Chicago, IL 60602"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127950878",
+   "display_phone": "(312) 795-0878",
+   "distance": 515.2583156610856
+  },
+  {
+   "id": "P81v73AYNZALWOkYczY7PA",
+   "alias": "barnes-and-noble-chicago",
+   "name": "Barnes \u0026 Noble",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/s1JaV3Emfm1Cfich86zSgg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barnes-and-noble-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 101,
+   "categories": [
+    {
+     "alias": "mags",
+     "title": "Newspapers \u0026 Magazines"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.663891,
+    "Latitude": 41.921086
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1441 W Webster Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1441 W Webster Ave",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738713610",
+   "display_phone": "(773) 871-3610",
+   "distance": 5550.459503960094
+  },
+  {
+   "id": "tEq9BWwl1E9HHQLSd3WZ2A",
+   "alias": "bookmans-corner-chicago-2",
+   "name": "Bookman's Corner",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kqT7H6JupwSMcvjMavndOg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bookmans-corner-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 100,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6472988,
+    "Latitude": 41.9360359
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "2959 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2959 N Clark St",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739298298",
+   "display_phone": "(773) 929-8298",
+   "distance": 6638.573896966461
+  },
+  {
+   "id": "iMwuhmLaSSVKjbn3UpUrgQ",
+   "alias": "daves-records-chicago",
+   "name": "Dave's Records",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lLxL7zNc2ieLmX38pYXc2g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/daves-records-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 95,
+   "categories": [
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6431322097778,
+    "Latitude": 41.9297712296247
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2604 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2604 N Clark St",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739296325",
+   "display_phone": "(773) 929-6325",
+   "distance": 5857.522213956709
+  },
+  {
+   "id": "v65Xfm65-Sk8UzauLUPTsw",
+   "alias": "the-exchange-chicago-7",
+   "name": "The Exchange",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vckOA-tLhQ21MwyvbwFdZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-exchange-chicago-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 93,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.67588,
+    "Latitude": 41.90903
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1524 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1524 N Milwaukee Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732529570",
+   "display_phone": "(773) 252-9570",
+   "distance": 5136.00949601919
+  },
+  {
+   "id": "PPtPC3m4WVJPs6gl1xHC8g",
+   "alias": "open-books-chicago-2",
+   "name": "Open Books",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jSUWfQXJqWPTLAQmDvQycQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/open-books-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 93,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "nonprofit",
+     "title": "Community Service/Non-Profit"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6447849,
+    "Latitude": 41.8855451
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "651 West Lake St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60661",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "651 West Lake St",
+     "Chicago, IL 60661"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124751355",
+   "display_phone": "(312) 475-1355",
+   "distance": 1482.7477337145724
+  },
+  {
+   "id": "w7WvtXeHMiXSARFueyGj5g",
+   "alias": "shuga-records-chicago-2",
+   "name": "Shuga Records",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A3brFNVj83jQnPna7ytv2A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shuga-records-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 91,
+   "categories": [
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.66912,
+    "Latitude": 41.90477
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1272 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1272 N Milwaukee Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732784085",
+   "display_phone": "(773) 278-4085",
+   "distance": 4408.288429055305
+  },
+  {
+   "id": "QA-c-Us1PWFXKNLeMUVqxw",
+   "alias": "rolling-stones-norridge",
+   "name": "Rolling Stones",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/1MzgwnoHVjyCOZuNv_LgIg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rolling-stones-norridge?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 89,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.80994732891237,
+    "Latitude": 41.95296245683596
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "7300 W Irving Park Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Norridge",
+    "zip_code": "60706",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "7300 W Irving Park Rd",
+     "Norridge, IL 60706"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17084560861",
+   "display_phone": "(708) 456-0861",
+   "distance": 17072.878873946876
+  },
+  {
+   "id": "l_jkd1qqQh62el8vRTfQ6w",
+   "alias": "alleycat-comics-chicago",
+   "name": "AlleyCat Comics",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/hHZp26XtCi8gOOHMs-5ljw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alleycat-comics-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 87,
+   "categories": [
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6686129,
+    "Latitude": 41.9782046
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5304 N Clark St",
+    "address2": "Rear Suite",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5304 N Clark St",
+     "Rear Suite",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739073404",
+   "display_phone": "(773) 907-3404",
+   "distance": 11584.962936326441
+  },
+  {
+   "id": "YCzOVCdwIZYNghVODpW9DA",
+   "alias": "graham-crackers-comics-chicago",
+   "name": "Graham Crackers Comics",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/r4XBif6EdpTGa5p5R3cT4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/graham-crackers-comics-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 83,
+   "categories": [
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6250359,
+    "Latitude": 41.8819551
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "77 E Madison St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60602",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "77 E Madison St",
+     "Chicago, IL 60602"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126291810",
+   "display_phone": "(312) 629-1810",
+   "distance": 587.521927292609
+  },
+  {
+   "id": "K1UJQICvFk6FaiuqgADGJg",
+   "alias": "gramaphone-records-chicago",
+   "name": "Gramaphone Records",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/z92YoR_8_aiYDH-SsC_rJQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gramaphone-records-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 78,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6454391479492,
+    "Latitude": 41.9340705871582
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2843 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2843 N Clark St",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17734723683",
+   "display_phone": "(773) 472-3683",
+   "distance": 6357.687711644338
+  },
+  {
+   "id": "Y5Z4cyTruZT_0dDa5-7tcA",
+   "alias": "geppettos-toy-box-oak-park",
+   "name": "Geppetto's Toy Box",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bZb_aJqjQhmNefNCLZwsOw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/geppettos-toy-box-oak-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 76,
+   "categories": [
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "tabletopgames",
+     "title": "Tabletop Games"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.79424,
+    "Latitude": 41.88881
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "730 Lake St",
+    "address2": "",
+    "address3": "",
+    "city": "Oak Park",
+    "zip_code": "60301",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "730 Lake St",
+     "Oak Park, IL 60301"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17084459906",
+   "display_phone": "(708) 445-9906",
+   "distance": 13661.428004554591
+  },
+  {
+   "id": "_oLnWNFgUvjy-z5XhwjnuQ",
+   "alias": "powells-books-chicago-chicago",
+   "name": "Powell's Books Chicago",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H6Wfv7_54RxotKFEbuHYuQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/powells-books-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 75,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.5888901438492,
+    "Latitude": 41.7914100142516
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1501 E 57th St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60637",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1501 E 57th St",
+     "Chicago, IL 60637"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739557780",
+   "display_phone": "(773) 955-7780",
+   "distance": 10217.967732017838
+  },
+  {
+   "id": "h5oWQLb4fCFXZf8dzsOoXA",
+   "alias": "half-price-books-orland-park",
+   "name": "Half Price Books",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2U4F5tFL3GAmlYggrDbLNA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/half-price-books-orland-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 73,
+   "categories": [
+    {
+     "alias": "media",
+     "title": "Books, Mags, Music \u0026 Video"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.852525,
+    "Latitude": 41.61842
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "31 Orland Square Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Orland Park",
+    "zip_code": "60462",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "31 Orland Square Dr",
+     "Orland Park, IL 60462"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17084034589",
+   "display_phone": "(708) 403-4589",
+   "distance": 34280.84386349904
+  },
+  {
+   "id": "-YGlkap3K_y4UoSfG0M0DQ",
+   "alias": "barnes-and-noble-oak-brook",
+   "name": "Barnes \u0026 Noble",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kx2iLJW9raPTlYEUYNZ1ag/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barnes-and-noble-oak-brook?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 73,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "toys",
+     "title": "Toy Stores"
+    },
+    {
+     "alias": "stationery",
+     "title": "Cards \u0026 Stationery"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.951495411437,
+    "Latitude": 41.8489578592316
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "297 Oakbrook Ctr",
+    "address2": "",
+    "address3": "",
+    "city": "Oak Brook",
+    "zip_code": "60523",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "297 Oakbrook Ctr",
+     "Oak Brook, IL 60523"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16306840586",
+   "display_phone": "(630) 684-0586",
+   "distance": 26836.206725645025
+  },
+  {
+   "id": "GiVDdOGm0ZIy5EDATsi5jg",
+   "alias": "graham-crackers-comics-chicago-2",
+   "name": "Graham Crackers Comics",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JXZZvlJ9gh07jiEnt5gsBw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/graham-crackers-comics-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "comicbooks",
+     "title": "Comic Books"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6681887358427,
+    "Latitude": 41.973324
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5028 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5028 N Clark St",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17735615010",
+   "display_phone": "(773) 561-5010",
+   "distance": 11054.451714240498
+  },
+  {
+   "id": "HoGqqdl5OWECzybEq6hI6Q",
+   "alias": "bollywood-groove-dance-and-fitness-chicago-3",
+   "name": "Bollywood Groove Dance \u0026 Fitness",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/DJeWn-tqcvsgVHzBre8Iyg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bollywood-groove-dance-and-fitness-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "dancestudio",
+     "title": "Dance Studios"
+    },
+    {
+     "alias": "cardioclasses",
+     "title": "Cardio Classes"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.6724832,
+    "Latitude": 41.9058101
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1304 N Wood St",
+    "address2": "Ste 1",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1304 N Wood St",
+     "Ste 1",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127726559",
+   "display_phone": "(312) 772-6559",
+   "distance": 4687.901243661304
+  },
+  {
+   "id": "EtfKeY_jaeDT7E7y9z0VYA",
+   "alias": "57th-street-books-chicago",
+   "name": "57th Street Books",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PZA6OAuiN2G_Ceiu46RFXQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/57th-street-books-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 71,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.594682,
+    "Latitude": 41.791195
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1301 E 57th St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60637",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1301 E 57th St",
+     "Chicago, IL 60637"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736841300",
+   "display_phone": "(773) 684-1300",
+   "distance": 10091.876554372666
+  },
+  {
+   "id": "SLNyXy6qdjmNMLL4fgDWCQ",
+   "alias": "barnes-and-noble-booksellers-skokie-3",
+   "name": "Barnes \u0026 Noble Booksellers",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nC0UlIouCMzTjULYRkx2yw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barnes-and-noble-booksellers-skokie-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 69,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.7631797790527,
+    "Latitude": 42.0119026184082
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5405 Touhy Ave",
+    "address2": "",
+    "address3": "Village Crossing Shopping Ctr",
+    "city": "Skokie",
+    "zip_code": "60077",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5405 Touhy Ave",
+     "Village Crossing Shopping Ctr",
+     "Skokie, IL 60077"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18473298460",
+   "display_phone": "(847) 329-8460",
+   "distance": 18521.52219610013
+  },
+  {
+   "id": "bItrN1buonbTalgOd7Oj8w",
+   "alias": "frugal-muse-darien",
+   "name": "Frugal Muse",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tKkoJ_-C2rt_8jf8r8jxTw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/frugal-muse-darien?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 68,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    },
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "videogamestores",
+     "title": "Video Game Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -88.009782761863,
+    "Latitude": 41.749286421245
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "7511 Lemont Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Darien",
+    "zip_code": "60561",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "7511 Lemont Rd",
+     "Darien, IL 60561"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16304271140",
+   "display_phone": "(630) 427-1140",
+   "distance": 34595.55647856005
+  },
+  {
+   "id": "p_tSVWmhhCs6RJCFhDLC-A",
+   "alias": "the-gallery-bookstore-chicago",
+   "name": "The Gallery Bookstore",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Stg-d6tVh2h4GQJrX8l-yQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-gallery-bookstore-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 66,
+   "categories": [
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.65227,
+    "Latitude": 41.93972
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "923 W Belmont Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "923 W Belmont Ave",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739758200",
+   "display_phone": "(773) 975-8200",
+   "distance": 7117.137680290861
+  },
+  {
+   "id": "YjvgIqk-1cDyYLub89iXhA",
+   "alias": "the-exchange-chicago-5",
+   "name": "The Exchange",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/akTYoF2LYAMTGAFj2NaGng/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-exchange-chicago-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 64,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "videogamestores",
+     "title": "Video Game Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6530712,
+    "Latitude": 41.9397485
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "935 W Belmont Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60657",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "935 W Belmont Ave",
+     "Chicago, IL 60657"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17738838908",
+   "display_phone": "(773) 883-8908",
+   "distance": 7110.070820746411
+  },
+  {
+   "id": "EuX_t8E2v0MPB8YhxNx2Lg",
+   "alias": "reckless-records-chicago-4",
+   "name": "Reckless Records",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/K25KOs1GupRyEqIxtzld2w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/reckless-records-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 63,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "vinyl_records",
+     "title": "Vinyl Records"
+    },
+    {
+     "alias": "videogamestores",
+     "title": "Video Game Stores"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6718298,
+    "Latitude": 41.9070686
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1379 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60622",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1379 N Milwaukee Ave",
+     "Chicago, IL 60622"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732353727",
+   "display_phone": "(773) 235-3727",
+   "distance": 4741.190057781118
+  }
+ ],
+ "total": 371,
+ "region": {
+  "center": {
+   "longitude": -87.6298,
+   "Latitude": 41.8781
+  }
+ }
+}

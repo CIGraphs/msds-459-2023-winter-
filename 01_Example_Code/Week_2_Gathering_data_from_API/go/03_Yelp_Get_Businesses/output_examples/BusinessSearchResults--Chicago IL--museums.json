@@ -1,0 +1,1761 @@
+{
+ "businesses": [
+  {
+   "id": "AkcZ1fUyB3RocKLYGFu20Q",
+   "alias": "art-institute-of-chicago-chicago-3",
+   "name": "Art Institute of Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LGtQrnCRJCBNsAS1-x2ilQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/art-institute-of-chicago-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2110,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6221473,
+    "Latitude": 41.87989615322072
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "111 S Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60603",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "111 S Michigan Ave",
+     "Chicago, IL 60603"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124433600",
+   "display_phone": "(312) 443-3600",
+   "distance": 664.3072244256148
+  },
+  {
+   "id": "X7inrhYbhtjgJ4MrwtPlJQ",
+   "alias": "museum-of-science-and-industry-chicago-3",
+   "name": "Museum of Science and Industry",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SZrWTWyP0_JzXT7qEIZFew/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/museum-of-science-and-industry-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1353,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.58414478805543,
+    "Latitude": 41.79174737602096
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5700 S DuSable Lake Shore Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60637",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5700 S DuSable Lake Shore Dr",
+     "Chicago, IL 60637"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17736841414",
+   "display_phone": "(773) 684-1414",
+   "distance": 10320.102397593222
+  },
+  {
+   "id": "UB6XDuHepJ-ufzsBBcGXKQ",
+   "alias": "field-museum-chicago-3",
+   "name": "Field Museum",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HL2okkzEwUGSN1SH6Mx98Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/field-museum-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1309,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6170827596939,
+    "Latitude": 41.8654462216207
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1400 S Lake Shore Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1400 S Lake Shore Dr",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126657669",
+   "display_phone": "(312) 665-7669",
+   "distance": 1757.4221087734145
+  },
+  {
+   "id": "AYzsKwkPoUFXrdAxC77JQg",
+   "alias": "chicago-botanic-garden-glencoe",
+   "name": "Chicago Botanic Garden",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/C62IPNMIyUaGeoAMEDoIXw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-botanic-garden-glencoe?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 976,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "gardens",
+     "title": "Botanical Gardens"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.78980732795314,
+    "Latitude": 42.14897024106948
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1000 Lake Cook Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Glencoe",
+    "zip_code": "60022",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1000 Lake Cook Rd",
+     "Glencoe, IL 60022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18478355440",
+   "display_phone": "(847) 835-5440",
+   "distance": 32892.58761032272
+  },
+  {
+   "id": "Jk3Df503X6Y53sFlB_y0Kw",
+   "alias": "museum-of-contemporary-art-chicago-chicago",
+   "name": "Museum of Contemporary Art - Chicago",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/WqNskRE1zMLLRsgy9YOjWA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/museum-of-contemporary-art-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 559,
+   "categories": [
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    },
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6214514115064,
+    "Latitude": 41.897133205545
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "220 E Chicago Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "220 E Chicago Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122802660",
+   "display_phone": "(312) 280-2660",
+   "distance": 2226.371753853326
+  },
+  {
+   "id": "0c0sRK0EJy-0cpKm8T3rbg",
+   "alias": "chicago-architecture-center-chicago",
+   "name": "Chicago Architecture Center",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/9kKmDWrdhJj1L-x7AK5njw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-architecture-center-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 469,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "tours",
+     "title": "Tours"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6235734860398,
+    "Latitude": 41.888041737312
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "111 E Wacker Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "111 E Wacker Dr",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129223432",
+   "display_phone": "(312) 922-3432",
+   "distance": 1219.7406268049424
+  },
+  {
+   "id": "w4eSvNabRvAgsODaqUEdBw",
+   "alias": "chicago-history-museum-chicago",
+   "name": "Chicago History Museum",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YczIouHtN_nYv4XdjVHs2w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-history-museum-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 376,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6315416,
+    "Latitude": 41.9113772
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1601 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1601 N Clark St",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126424600",
+   "display_phone": "(312) 642-4600",
+   "distance": 3752.365368556343
+  },
+  {
+   "id": "MbBQ7G_Bp25PFYzURixkeg",
+   "alias": "wndr-museum-chicago",
+   "name": "WNDR Museum",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_je8znsE3-xS1zfsvdZoFw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wndr-museum-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 261,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -87.6558485627174,
+    "Latitude": 41.880535824996
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1130 W Monroe St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60607",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1130 W Monroe St",
+     "Chicago, IL 60607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 2173.5123064781396
+  },
+  {
+   "id": "4Mc8iVCniUwmu5A838wRQw",
+   "alias": "kohl-childrens-museum-glenview",
+   "name": "Kohl Children's Museum",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/IKKV51Wm1k_3Oaywfwcq5Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kohl-childrens-museum-glenview?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 231,
+   "categories": [
+    {
+     "alias": "childrensmuseums",
+     "title": "Children's Museums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.825911,
+    "Latitude": 42.09376
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2100 Patriot Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Glenview",
+    "zip_code": "60026",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2100 Patriot Blvd",
+     "Glenview, IL 60026"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18478326600",
+   "display_phone": "(847) 832-6600",
+   "distance": 28944.4905169163
+  },
+  {
+   "id": "9dEzOkevVNAdMFEIkD5kSw",
+   "alias": "frank-lloyd-wright-home-and-studio-oak-park",
+   "name": "Frank Lloyd Wright Home and Studio",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pPzuYwi9ePufFsom9tzqrg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/frank-lloyd-wright-home-and-studio-oak-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 197,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.799768,
+    "Latitude": 41.894265
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "951 Chicago Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oak Park",
+    "zip_code": "60302",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "951 Chicago Ave",
+     "Oak Park, IL 60302"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129944000",
+   "display_phone": "(312) 994-4000",
+   "distance": 14184.548583755342
+  },
+  {
+   "id": "mL67OJF-5RYheEmVtshQeA",
+   "alias": "national-museum-of-mexican-art-chicago",
+   "name": "National Museum of Mexican Art",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YjuGXqYEYxXRGgc0fbSmwg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/national-museum-of-mexican-art-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 196,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6732899,
+    "Latitude": 41.8560049
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1852 W 19th St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60608",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1852 W 19th St",
+     "Chicago, IL 60608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127381503",
+   "display_phone": "(312) 738-1503",
+   "distance": 4335.125415388439
+  },
+  {
+   "id": "z0luJPSQb4w8953Dci5Kcg",
+   "alias": "peggy-notebaert-nature-museum-chicago-2",
+   "name": "Peggy Notebaert Nature Museum",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4ZeQzQf2GYNGqJIh93MxZg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/peggy-notebaert-nature-museum-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 193,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6339550316334,
+    "Latitude": 41.9262474775314
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2430 N Cannon Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60614",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "2430 N Cannon Dr",
+     "Chicago, IL 60614"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737555100",
+   "display_phone": "(773) 755-5100",
+   "distance": 5417.465978156545
+  },
+  {
+   "id": "eS79n-Oue8Ez1pNsOo7hVg",
+   "alias": "chicago-childrens-museum-chicago-3",
+   "name": "Chicago Children's Museum",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qMLwAINLnkO3EGHLB2Lc2A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chicago-childrens-museum-chicago-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 190,
+   "categories": [
+    {
+     "alias": "childrensmuseums",
+     "title": "Children's Museums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.609147,
+    "Latitude": 41.89142
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "700 E Grand Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "700 E Grand Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13125271000",
+   "display_phone": "(312) 527-1000",
+   "distance": 2262.0471132985226
+  },
+  {
+   "id": "8sZZM3Dr0G46JYBT9h599A",
+   "alias": "international-museum-of-surgical-science-chicago",
+   "name": "International Museum of Surgical Science",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Xc7pPZR1IsFj7tuLsR09rw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/international-museum-of-surgical-science-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 162,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6266419992433,
+    "Latitude": 41.9102601910586
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1524 N Lake Shore Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60610",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1524 N Lake Shore Dr",
+     "Chicago, IL 60610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126426502",
+   "display_phone": "(312) 642-6502",
+   "distance": 3585.5865950301436
+  },
+  {
+   "id": "1Sz1C_jyrjx_f7I7jyyOpw",
+   "alias": "driehaus-museum-chicago",
+   "name": "Driehaus Museum",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iG0EuBKmUViI_7ACnyS9qg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/driehaus-museum-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 127,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6274770509009,
+    "Latitude": 41.8939343632448
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "40 E Erie St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "40 E Erie St",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124828933",
+   "display_phone": "(312) 482-8933",
+   "distance": 1771.1688321036454
+  },
+  {
+   "id": "aaz7ULTGRrqlv0txM9ukBg",
+   "alias": "illinois-holocaust-museum-and-education-center-skokie",
+   "name": "Illinois Holocaust Museum \u0026 Education Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zpVcWlke6Nwg7m9sbzGjTw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/illinois-holocaust-museum-and-education-center-skokie?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 103,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "culturalcenter",
+     "title": "Cultural Center"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.7612404,
+    "Latitude": 42.0564416
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9603 Woods Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Skokie",
+    "zip_code": "60077",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "9603 Woods Dr",
+     "Skokie, IL 60077"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18479674800",
+   "display_phone": "(847) 967-4800",
+   "distance": 22612.97412729882
+  },
+  {
+   "id": "zy2KCUXnPrOqJrlmn8ccyw",
+   "alias": "bixbee-imagination-station-chicago",
+   "name": "Bixbee Imagination Station",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Pcq_6kMBgGSoMrBsHBIDpA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bixbee-imagination-station-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 96,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "popupshops",
+     "title": "Pop-up Shops"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.65178,
+    "Latitude": 41.91055
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "915 W North Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "915 W North Ave",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18775737833",
+   "display_phone": "(877) 573-7833",
+   "distance": 4062.9205769621653
+  },
+  {
+   "id": "hp4IMNjSyA5RQdCBZlEGHQ",
+   "alias": "wonder-works-childrens-museum-oak-park",
+   "name": "Wonder Works Children's Museum",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gfLE2a5nt2jXDTEAXDCj8w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wonder-works-childrens-museum-oak-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 92,
+   "categories": [
+    {
+     "alias": "childrensmuseums",
+     "title": "Children's Museums"
+    },
+    {
+     "alias": "kids_activities",
+     "title": "Kids Activities"
+    },
+    {
+     "alias": "eventplanning",
+     "title": "Party \u0026 Event Planning"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.786964,
+    "Latitude": 41.908805
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6445 W North Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oak Park",
+    "zip_code": "60302",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "6445 W North Ave",
+     "Oak Park, IL 60302"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17083834815",
+   "display_phone": "(708) 383-4815",
+   "distance": 13455.145757831704
+  },
+  {
+   "id": "NfnmLKxavg9pFBgUxgAkJA",
+   "alias": "oriental-institute-museum-chicago-2",
+   "name": "Oriental Institute Museum",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7K24R4TkO2atgsdpy_KFjg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/oriental-institute-museum-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 89,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.5978136,
+    "Latitude": 41.7892181
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1155 E 58th St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60637",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1155 E 58th St",
+     "Chicago, IL 60637"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737029514",
+   "display_phone": "(773) 702-9514",
+   "distance": 10232.328563987625
+  },
+  {
+   "id": "Sg3UNGXAhBP73RADiZV7MQ",
+   "alias": "museum-of-ice-cream-chicago",
+   "name": "Museum of Ice Cream",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i9NQRMFXrRELf0r799QCGQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/museum-of-ice-cream-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 87,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.62364998459816,
+    "Latitude": 41.89066218357445
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "435 N Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "435 N Michigan Ave",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 1486.739237889946
+  },
+  {
+   "id": "ZGFwjNuscJ7OFcTse9SOTA",
+   "alias": "newberry-library-chicago",
+   "name": "Newberry Library",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NGGONaYvD2iaLB3iQaV2sg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/newberry-library-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 86,
+   "categories": [
+    {
+     "alias": "libraries",
+     "title": "Libraries"
+    },
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.630619,
+    "Latitude": 41.900051
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "60 W Walton St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60610",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "60 W Walton St",
+     "Chicago, IL 60610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13129439090",
+   "display_phone": "(312) 943-9090",
+   "distance": 2441.7784585348304
+  },
+  {
+   "id": "k9ZdgaSp0AgWDEMphgtyrA",
+   "alias": "museum-of-broadcast-communications-chicago-4",
+   "name": "Museum of Broadcast Communications",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/x10cswZKIeFB4TlUelqJeg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/museum-of-broadcast-communications-chicago-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 84,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.628587,
+    "Latitude": 41.88901845318184
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "360 N State St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60654",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "360 N State St",
+     "Chicago, IL 60654"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13122458200",
+   "display_phone": "(312) 245-8200",
+   "distance": 1218.2210429187671
+  },
+  {
+   "id": "mM-JHEwNrkEQQ76Z3ycpCQ",
+   "alias": "the-dusable-black-history-museum-and-education-center-chicago-2",
+   "name": "The DuSable Black History Museum and Education Center",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/a6HS2T10uWUBhKYpUG_9SA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-dusable-black-history-museum-and-education-center-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 82,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "nonprofit",
+     "title": "Community Service/Non-Profit"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.60716868220885,
+    "Latitude": 41.79192939830836
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "740 E 56th Pl",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60637",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "740 E 56th Pl",
+     "Chicago, IL 60637"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17739470600",
+   "display_phone": "(773) 947-0600",
+   "distance": 9763.445441275579
+  },
+  {
+   "id": "yWZvBfOmZuX_JnkHwLDiew",
+   "alias": "money-museum-chicago",
+   "name": "Money Museum",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bsLdf9C-OrOjWiiAmBqiFg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/money-museum-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 77,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.63271,
+    "Latitude": 41.87844
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "230 S La Salle St",
+    "address2": "",
+    "address3": "Federal Reserve Bank of Chicago",
+    "city": "Chicago",
+    "zip_code": "60604",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "230 S La Salle St",
+     "Federal Reserve Bank of Chicago",
+     "Chicago, IL 60604"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123222400",
+   "display_phone": "(312) 322-2400",
+   "distance": 258.7418331806598
+  },
+  {
+   "id": "3TF92CS4gqJd43nVcJot7Q",
+   "alias": "swedish-american-museum-chicago",
+   "name": "Swedish American Museum",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UElJrStYrhWP4vxaI3B87g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/swedish-american-museum-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 70,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "culturalcenter",
+     "title": "Cultural Center"
+    },
+    {
+     "alias": "educationservices",
+     "title": "Educational Services"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.6682977,
+    "Latitude": 41.9766599
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5211 N Clark St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60640",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5211 N Clark St",
+     "Chicago, IL 60640"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737288111",
+   "display_phone": "(773) 728-8111",
+   "distance": 11412.735259110865
+  },
+  {
+   "id": "R_iDjxHFWoX0P6u6D-t8zw",
+   "alias": "american-writers-museum-chicago",
+   "name": "American Writers Museum",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Li8h5MGdP3X7p2EJzrpDKA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-writers-museum-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 69,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.625001,
+    "Latitude": 41.8855975
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "180 N Michigan Ave",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "180 N Michigan Ave",
+     "Fl 2",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123748790",
+   "display_phone": "(312) 374-8790",
+   "distance": 923.5101222228194
+  },
+  {
+   "id": "CcbHrKm2TVgsPAEwPp5g7g",
+   "alias": "exploritorium-skokie",
+   "name": "Exploritorium",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/b5bTwqAP7GQVY4RXrsu6Qg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/exploritorium-skokie?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 68,
+   "categories": [
+    {
+     "alias": "theater",
+     "title": "Performing Arts"
+    },
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "indoor_playcenter",
+     "title": "Indoor Playcentre"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.74367560185351,
+    "Latitude": 42.025812403769216
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4701 Oakton St",
+    "address2": "",
+    "address3": "",
+    "city": "Skokie",
+    "zip_code": "60076",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "4701 Oakton St",
+     "Skokie, IL 60076"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18476741500",
+   "display_phone": "(847) 674-1500",
+   "distance": 18932.959756245204
+  },
+  {
+   "id": "Ijq3NHioHaC_P2kObs04kg",
+   "alias": "lizzadro-museum-of-lapidary-art-oak-brook",
+   "name": "Lizzadro Museum of Lapidary Art",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Rz_087jNmq65l5-PtcMNIg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lizzadro-museum-of-lapidary-art-oak-brook?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 67,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.9499457,
+    "Latitude": 41.8419233
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1220 Kensington Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Oak Brook",
+    "zip_code": "60523",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1220 Kensington Rd",
+     "Oak Brook, IL 60523"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16308331616",
+   "display_phone": "(630) 833-1616",
+   "distance": 26816.40341084189
+  },
+  {
+   "id": "HLUkjUgyXLzY797XpcuQ0w",
+   "alias": "childrens-museum-in-oak-lawn-oak-lawn-2",
+   "name": "Children's Museum In Oak Lawn",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6By87hsi6dM0UsIJ6utKfQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/childrens-museum-in-oak-lawn-oak-lawn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 67,
+   "categories": [
+    {
+     "alias": "childrensmuseums",
+     "title": "Children's Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.747627,
+    "Latitude": 41.719742
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5100 Museum Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Oak Lawn",
+    "zip_code": "60453",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5100 Museum Dr",
+     "Oak Lawn, IL 60453"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17084236709",
+   "display_phone": "(708) 423-6709",
+   "distance": 20136.04704662772
+  },
+  {
+   "id": "GPdbhW48nofVP492dtmJdw",
+   "alias": "the-modern-wing-art-institute-of-chicago-chicago",
+   "name": "The Modern Wing - Art Institute of Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fbLsJqkT3h6o6CsGuAvsZA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-modern-wing-art-institute-of-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 66,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.6222864,
+    "Latitude": 41.880501156038285
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "159 E Monroe St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60603",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "159 E Monroe St",
+     "Chicago, IL 60603"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124433600",
+   "display_phone": "(312) 443-3600",
+   "distance": 676.9327922588901
+  },
+  {
+   "id": "ZR2i4lzgFiHTv0XQJ0t79g",
+   "alias": "museum-of-contemporary-photography-chicago",
+   "name": "Museum Of Contemporary Photography",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K9HTybCPyIiFUq2iXziZ2Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/museum-of-contemporary-photography-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 65,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.6243649,
+    "Latitude": 41.874423
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "600 S Michigan Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "600 S Michigan Ave",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126635554",
+   "display_phone": "(312) 663-5554",
+   "distance": 601.693980410673
+  },
+  {
+   "id": "V9yOPLQZW75F9lufvyVYug",
+   "alias": "smart-museum-of-art-chicago",
+   "name": "Smart Museum of Art",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gsLkhCmESwHW8MqEwh4pQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/smart-museum-of-art-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 59,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.5998949,
+    "Latitude": 41.7947272
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5550 S Greenwood Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60637",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "5550 S Greenwood Ave",
+     "Chicago, IL 60637"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17737020200",
+   "display_phone": "(773) 702-0200",
+   "distance": 9713.785189734774
+  },
+  {
+   "id": "KSyue-EXSk1RkjSMunAvCg",
+   "alias": "museum-of-illusions-chicago-chicago-2",
+   "name": "Museum of Illusions Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YcA0V5ukKixnSqsG8KNC-A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/museum-of-illusions-chicago-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 57,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.62684414,
+    "Latitude": 41.88303582
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "25 E Washington St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60602",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "25 E Washington St",
+     "Chicago, IL 60602"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13127226780",
+   "display_phone": "(312) 722-6780",
+   "distance": 600.9214499687841
+  },
+  {
+   "id": "iac-yzUqZKqCGVSZhWONvw",
+   "alias": "museum-campus-chicago",
+   "name": "Museum Campus",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GVrsfarjtO3_ecFEvnMmKQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/museum-campus-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 49,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -87.614015,
+    "Latitude": 41.867587
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1200 S Lakeshore Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60605",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1200 S Lakeshore Dr",
+     "Chicago, IL 60605"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13124099696",
+   "display_phone": "(312) 409-9696",
+   "distance": 1808.9721472131841
+  },
+  {
+   "id": "2TFyYhmC2lpGsUOoirQYpg",
+   "alias": "intuit-the-center-for-intuitive-and-outsider-art-chicago",
+   "name": "Intuit: The Center for Intuitive and Outsider Art",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6lYAvc8bHA-zfJ0IrGozYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/intuit-the-center-for-intuitive-and-outsider-art-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 47,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.654615,
+    "Latitude": 41.895355
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "756 N Milwaukee Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60642",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "756 N Milwaukee Ave",
+     "Chicago, IL 60642"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126249487",
+   "display_phone": "(312) 624-9487",
+   "distance": 2810.8785717492024
+  },
+  {
+   "id": "cRlr4k2uB_aCyRYndb9ogg",
+   "alias": "21c-museum-hotel-chicago-chicago",
+   "name": "21c Museum Hotel - Chicago",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xfPD-4nkZc2Yv0WT0TbdQQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/21c-museum-hotel-chicago-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 46,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.626312,
+    "Latitude": 41.8931674
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "55 E Ontario St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60611",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "55 E Ontario St",
+     "Chicago, IL 60611"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126606100",
+   "display_phone": "(312) 660-6100",
+   "distance": 1704.5224323769974
+  },
+  {
+   "id": "3sGyJAfJPANNbMMaILT2ng",
+   "alias": "michael-jacksons-house-gary",
+   "name": "Michael Jackson's House",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zN_IPbrQLI6O6rz671hQpg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/michael-jacksons-house-gary?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.34381,
+    "Latitude": 41.5767
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2300 Jackson St",
+    "address2": "",
+    "address3": "",
+    "city": "Gary",
+    "zip_code": "46407",
+    "country": "US",
+    "state": "IN",
+    "display_address": [
+     "2300 Jackson St",
+     "Gary, IN 46407"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 41064.82530605145
+  },
+  {
+   "id": "tl02re5YrNgT3xCvc2G7Ag",
+   "alias": "glessner-house-museum-chicago",
+   "name": "Glessner House Museum",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ofgwGFRCxCW2dXcmzeOinA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/glessner-house-museum-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 43,
+   "categories": [
+    {
+     "alias": "landmarks",
+     "title": "Landmarks \u0026 Historical Buildings"
+    },
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -87.621208190918,
+    "Latitude": 41.857723236084
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1800 S Prairie Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60616",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "1800 S Prairie Ave",
+     "Chicago, IL 60616"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13123261480",
+   "display_phone": "(312) 326-1480",
+   "distance": 2377.2700302670073
+  },
+  {
+   "id": "cC4FrpdClgmaH8MdMW4Zxg",
+   "alias": "medieval-torture-museum-chicago-2",
+   "name": "Medieval Torture Museum",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ASjOyE-N_qajUBRMY9yXBw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/medieval-torture-museum-chicago-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 40,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "historicaltours",
+     "title": "Historical Tours"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -87.62766660200316,
+    "Latitude": 41.88538676664654
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "177 N State St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60601",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "177 N State St",
+     "Chicago, IL 60601"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17732417777",
+   "display_phone": "(773) 241-7777",
+   "distance": 829.276774461667
+  },
+  {
+   "id": "7IkwHBuBoMIpHwYzAucOJw",
+   "alias": "national-hellenic-museum-chicago",
+   "name": "National Hellenic Museum",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_Av7FAlrQtx2pjzDYt4syg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/national-hellenic-museum-chicago?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 35,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -87.64699,
+    "Latitude": 41.87709
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "333 S Halsted St",
+    "address2": "",
+    "address3": "",
+    "city": "Chicago",
+    "zip_code": "60661",
+    "country": "US",
+    "state": "IL",
+    "display_address": [
+     "333 S Halsted St",
+     "Chicago, IL 60661"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13126551234",
+   "display_phone": "(312) 655-1234",
+   "distance": 1424.698898559126
+  }
+ ],
+ "total": 162,
+ "region": {
+  "center": {
+   "longitude": -87.6298,
+   "Latitude": 41.8781
+  }
+ }
+}

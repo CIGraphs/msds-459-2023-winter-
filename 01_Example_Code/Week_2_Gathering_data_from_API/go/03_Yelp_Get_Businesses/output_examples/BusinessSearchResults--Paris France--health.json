@@ -1,0 +1,1758 @@
+{
+ "businesses": [
+  {
+   "id": "nP_MXUmWWU-NZb_BeVKRUQ",
+   "alias": "city-pharma-paris",
+   "name": "City-Pharma",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bhIujl-8KIxoTLVcjMzBbA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/city-pharma-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 157,
+   "categories": [
+    {
+     "alias": "pharmacy",
+     "title": "Pharmacy"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.333353,
+    "Latitude": 48.852765
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "26 rue du Four",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "26 rue du Four",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146332081",
+   "display_phone": "+33 1 46 33 20 81",
+   "distance": 1443.3350353926078
+  },
+  {
+   "id": "auMw6eiz3U0isRIBl2i5uQ",
+   "alias": "o-kari-paris",
+   "name": "O'Kari",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/GGax1iCqI47Y_RLye0VyjA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/o-kari-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 47,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "saunas",
+     "title": "Saunas"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.34883,
+    "Latitude": 48.86566
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "22 rue Dussoubs",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "22 rue Dussoubs",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142369466",
+   "display_phone": "+33 1 42 36 94 66",
+   "distance": 1037.150296869119
+  },
+  {
+   "id": "aOlzqLs9g5cmP1qAYkanXQ",
+   "alias": "pharmacie-monge-paris",
+   "name": "Pharmacie Monge",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/js-JrdCwQBdG8_17yQEz4g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pharmacie-monge-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 30,
+   "categories": [
+    {
+     "alias": "pharmacy",
+     "title": "Pharmacy"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.343876,
+    "Latitude": 48.883243
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "70 boulevard de Rochechouart",
+    "address2": "2 rue de Steinkerque",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75018",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "70 boulevard de Rochechouart",
+     "2 rue de Steinkerque",
+     "75018 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143313944",
+   "display_phone": "+33 1 43 31 39 44",
+   "distance": 3024.4744865082603
+  },
+  {
+   "id": "WwI-wMj_KmfaQwwR6Yei9g",
+   "alias": "les-cent-ciels-boulogne-billancourt",
+   "name": "Les Cent Ciels",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bORiOsb1Vr6hUcldHL9mlQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/les-cent-ciels-boulogne-billancourt?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 30,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "saunas",
+     "title": "Saunas"
+    },
+    {
+     "alias": "massage",
+     "title": "Massage"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.25057,
+    "Latitude": 48.83567
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "45 bis avenue Edouard Vaillant",
+    "address2": "",
+    "address3": "",
+    "city": "Boulogne Billancourt",
+    "zip_code": "92100",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "45 bis avenue Edouard Vaillant",
+     "92100 Boulogne Billancourt",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146200701",
+   "display_phone": "+33 1 46 20 07 01",
+   "distance": 7792.474564533827
+  },
+  {
+   "id": "UZWEtnBr8kkdApjUYD-9-g",
+   "alias": "hammam-de-la-mosquée-de-paris-paris",
+   "name": "Hammam de la Mosquée de Paris",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8PATrr3l635pKWiNavXQ5w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hammam-de-la-mosqu%C3%A9e-de-paris-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "saunas",
+     "title": "Saunas"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.355753,
+    "Latitude": 48.841706
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "39 rue Geoffroy-Saint-Hilaire",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75005",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "39 rue Geoffroy-Saint-Hilaire",
+     "75005 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143311432",
+   "display_phone": "+33 1 43 31 14 32",
+   "distance": 1676.4165226118737
+  },
+  {
+   "id": "JqylFbOnRwcLY-qzotb36A",
+   "alias": "hammam-pacha-paris",
+   "name": "Hammam Pacha",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3w4DirWkT9JSzYQC3l5Clg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hammam-pacha-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 22,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "saunas",
+     "title": "Saunas"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.31905,
+    "Latitude": 48.8465
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "17 Rue Mayet",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "17 Rue Mayet",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143065555",
+   "display_phone": "+33 1 43 06 55 55",
+   "distance": 2672.8916963856445
+  },
+  {
+   "id": "YLOZcukZsV2DplRyIAQrtQ",
+   "alias": "massage-concept-paris-paris",
+   "name": "Massage Concept Paris",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mgABMkkOJJvXvu25SQx3aA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/massage-concept-paris-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 22,
+   "categories": [
+    {
+     "alias": "massage",
+     "title": "Massage"
+    },
+    {
+     "alias": "cosmetics",
+     "title": "Cosmetics \u0026 Beauty Supply"
+    },
+    {
+     "alias": "reflexology",
+     "title": "Reflexology"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.34893,
+    "Latitude": 48.8627899
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "15 rue de la Grande Truanderie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "15 rue de la Grande Truanderie",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142361083",
+   "display_phone": "+33 1 42 36 10 83",
+   "distance": 722.9529606402676
+  },
+  {
+   "id": "VVtb9NuwWNgk7dTVLol5Qw",
+   "alias": "point-vision-paris-paris-3",
+   "name": "Point Vision Paris",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gFG4B7ThZTXn3C_X0Xk0VQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/point-vision-paris-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 21,
+   "categories": [
+    {
+     "alias": "opthamalogists",
+     "title": "Ophthalmologists"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.32625793684008,
+    "Latitude": 48.869410792099
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13 boulevard de la Madeleine",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "13 boulevard de la Madeleine",
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33184163944",
+   "display_phone": "+33 1 84 16 39 44",
+   "distance": 2372.8423995336134
+  },
+  {
+   "id": "NCwzdXUKXQUR2A1ES4q9RQ",
+   "alias": "hôpital-américain-de-paris-neuilly-sur-seine-2",
+   "name": "Hôpital Américain de Paris",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qpe8i_DuFoZEGMJrTKXaDA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/h%C3%B4pital-am%C3%A9ricain-de-paris-neuilly-sur-seine-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.2734899,
+    "Latitude": 48.89316
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "63 boulevard Victor Hugo",
+    "address2": "",
+    "address3": "",
+    "city": "Neuilly sur Seine",
+    "zip_code": "92200",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "63 boulevard Victor Hugo",
+     "92200 Neuilly sur Seine",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146412525",
+   "display_phone": "+33 1 46 41 25 25",
+   "distance": 7060.843305297297
+  },
+  {
+   "id": "TS_L2v-DRNvujBjRtbppMw",
+   "alias": "herboristerie-de-la-place-de-clichy-paris",
+   "name": "Herboristerie de la Place de Clichy",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QFrjcKt3GWeSTnchJWL3Ww/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/herboristerie-de-la-place-de-clichy-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 19,
+   "categories": [
+    {
+     "alias": "herbalshops",
+     "title": "Herbal Shops"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.327039,
+    "Latitude": 48.882343
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "87 rue d'Amsterdam",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "87 rue d'Amsterdam",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148748332",
+   "display_phone": "+33 1 48 74 83 32",
+   "distance": 3403.0243970004776
+  },
+  {
+   "id": "hzZodi_FECXeC3bTEHqIsg",
+   "alias": "pharmacie-drugstore-de-champs-élysées-paris",
+   "name": "Pharmacie Drugstore de Champs-Élysées",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dytG1fnxFCIsPUE1L6U8Qg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pharmacie-drugstore-de-champs-%C3%A9lys%C3%A9es-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 17,
+   "categories": [
+    {
+     "alias": "pharmacy",
+     "title": "Pharmacy"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.29698,
+    "Latitude": 48.8728
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "133 avenue des Champs-Élysées",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "133 avenue des Champs-Élysées",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33963602647",
+   "display_phone": "+33 9 63 60 26 47",
+   "distance": 4404.459531096309
+  },
+  {
+   "id": "r1U-WwYwl6ah5UNEAjmerA",
+   "alias": "sos-médecins-paris-4",
+   "name": "SOS Médecins",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9sSczbHJbOAvC9tEtShBbg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sos-m%C3%A9decins-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 16,
+   "categories": [
+    {
+     "alias": "urgent_care",
+     "title": "Urgent Care"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.342904,
+    "Latitude": 48.83818
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "85 boulevard Port-Royal",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "85 boulevard Port-Royal",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147077777",
+   "display_phone": "+33 1 47 07 77 77",
+   "distance": 2158.2073709591887
+  },
+  {
+   "id": "Zu0Fj81xQ0JfowJ_uAEOpw",
+   "alias": "christian-moussally-paris",
+   "name": "Christian Moussally",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dFUdYdHSN2Hm325Q880mQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/christian-moussally-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 16,
+   "categories": [
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    },
+    {
+     "alias": "periodontists",
+     "title": "Periodontists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.30309529629517,
+    "Latitude": 48.8481751426347
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7 rue Alexandre Cabanel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "7 rue Alexandre Cabanel",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145670056",
+   "display_phone": "+33 1 45 67 00 56",
+   "distance": 3712.9341845202916
+  },
+  {
+   "id": "ujty29-MAs7EWYCtLyOMtA",
+   "alias": "acupuncteur-paris-paris",
+   "name": "Acupuncteur Paris",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/acupuncteur-paris-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 15,
+   "categories": [
+    {
+     "alias": "acupuncture",
+     "title": "Acupuncture"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.33345,
+    "Latitude": 48.86746
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "31B avenue de l'Opéra",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "31B avenue de l'Opéra",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33170707982",
+   "display_phone": "+33 1 70 70 79 82",
+   "distance": 1838.1054741451055
+  },
+  {
+   "id": "bCDLyb0L7a2H-Z2IJZzIUA",
+   "alias": "les-mille-et-une-nuits-paris",
+   "name": "Les Mille et Une Nuits",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3O1zK03IqyjGUj7o_gOGMw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/les-mille-et-une-nuits-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 14,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    },
+    {
+     "alias": "saunas",
+     "title": "Saunas"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.37655,
+    "Latitude": 48.85266
+   },
+   "transactions": [],
+   "price": "€€",
+   "location": {
+    "address1": "4 passage Saint Antoine",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "4 passage Saint Antoine",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143558105",
+   "display_phone": "+33 1 43 55 81 05",
+   "distance": 1834.598522645487
+  },
+  {
+   "id": "emsgiW_al3u6VBoGMwZRJA",
+   "alias": "alina-sauna-paris",
+   "name": "Alina Sauna",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/L6v0upYFShfeI9VAPHPPFw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alina-sauna-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 14,
+   "categories": [
+    {
+     "alias": "saunas",
+     "title": "Saunas"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.39539,
+    "Latitude": 48.87086
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11 rue Pixerecourt",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "11 rue Pixerecourt",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143150468",
+   "display_phone": "+33 1 43 15 04 68",
+   "distance": 3534.9199293454785
+  },
+  {
+   "id": "BSScZsZA--ZCFhMa7F4ORg",
+   "alias": "franck-provost-rive-droite-paris",
+   "name": "Franck Provost Rive Droite",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8AGwIDSweSjXMA2xxlvMWA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/franck-provost-rive-droite-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 14,
+   "categories": [
+    {
+     "alias": "health",
+     "title": "Health \u0026 Medical"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3100573,
+    "Latitude": 48.8720576
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "61 - 61 ave Franklin Roosevelt",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "61 - 61 ave Franklin Roosevelt",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143599705",
+   "display_phone": "+33 1 43 59 97 05",
+   "distance": 3529.485942498675
+  },
+  {
+   "id": "ACzMLpfBNbBxrq75JeYH3w",
+   "alias": "yves-lellouche-paris",
+   "name": "Yves Lellouche",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5U2wAyW9h9vLtp58GdjiGA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/yves-lellouche-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 13,
+   "categories": [
+    {
+     "alias": "familydr",
+     "title": "Family Practice"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3515511,
+    "Latitude": 48.8679398
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2 rue Alexandrie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 rue Alexandrie",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33760265757",
+   "display_phone": "+33 7 60 26 57 57",
+   "distance": 1261.8199979022145
+  },
+  {
+   "id": "Q-xO7GbPIpFf2vEFrA9fyw",
+   "alias": "hôpital-hôtel-dieu-paris-3",
+   "name": "Hôpital Hôtel-Dieu",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UUjomCuuFTkf4i69Fk7GIw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/h%C3%B4pital-h%C3%B4tel-dieu-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.348807,
+    "Latitude": 48.85461
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 place du Parvis de Notre-Dame",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "1 place du Parvis de Notre-Dame",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142348234",
+   "display_phone": "+33 1 42 34 82 34",
+   "distance": 332.54411515702077
+  },
+  {
+   "id": "r7VUEV6qbw62rto7FkKdiw",
+   "alias": "hôpital-saint-antoine-paris",
+   "name": "Hôpital Saint-Antoine",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xa7XTBWPc3hBAix_rLTk4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/h%C3%B4pital-saint-antoine-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.382726,
+    "Latitude": 48.848816
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "184 rue du Faubourg Saint-Antoine",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "184 rue du Faubourg Saint-Antoine",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33149282000",
+   "display_phone": "+33 1 49 28 20 00",
+   "distance": 2395.309302795578
+  },
+  {
+   "id": "eTA64KYox2qWhE9ztxty8w",
+   "alias": "pharmacie-citypharma-paris-2",
+   "name": "Pharmacie Citypharma",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sxhRNgfR6PtxTWmLMGR5sw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pharmacie-citypharma-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 12,
+   "categories": [
+    {
+     "alias": "pharmacy",
+     "title": "Pharmacy"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.397408,
+    "Latitude": 48.848972
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13 place de la Nation",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "13 place de la Nation",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143732403",
+   "display_phone": "+33 1 43 73 24 03",
+   "distance": 3414.697146548038
+  },
+  {
+   "id": "tKUAQ-lRpOfUPIzNdNzaJQ",
+   "alias": "spatitud-paris",
+   "name": "Spatitud'",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/spatitud-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "saunas",
+     "title": "Saunas"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": 2.2918799,
+    "Latitude": 48.8786201
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5 bis Passage Doisy",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "5 bis Passage Doisy",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 5041.613253918547
+  },
+  {
+   "id": "Ot8Au3yOvgUjhSKZ-o5dRg",
+   "alias": "alain-bédouet-paris-4",
+   "name": "Alain Bédouet",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gSzaJorwzWQHCnCxSbmnig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alain-b%C3%A9douet-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "osteopathicphysicians",
+     "title": "Osteopathic Physicians"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.327361,
+    "Latitude": 48.831247
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "17 rue Brézin",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75014",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "17 rue Brézin",
+     "75014 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140446940",
+   "display_phone": "+33 1 40 44 69 40",
+   "distance": 3354.314801596157
+  },
+  {
+   "id": "xzScfXacP7TE6hWEPrG-QQ",
+   "alias": "point-vision-puteaux-2",
+   "name": "Point Vision",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/point-vision-puteaux-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 11,
+   "categories": [
+    {
+     "alias": "laserlasikeyes",
+     "title": "Laser Eye Surgery/Lasik"
+    },
+    {
+     "alias": "opthamalogists",
+     "title": "Ophthalmologists"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.242565,
+    "Latitude": 48.889601
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "77 esplanade du Général de Gaulle",
+    "address2": "Rez-de-haussée arrière droit",
+    "address3": "Tour Opus 12",
+    "city": "Puteaux",
+    "zip_code": "92800",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "77 esplanade du Général de Gaulle",
+     "Rez-de-haussée arrière droit",
+     "Tour Opus 12",
+     "92800 Puteaux",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33184200710",
+   "display_phone": "+33 1 84 20 07 10",
+   "distance": 8818.058491296531
+  },
+  {
+   "id": "zQYzUbosMClXROC3JUE_Vg",
+   "alias": "pharmacie-européenne-paris-4",
+   "name": "Pharmacie Européenne",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1DQLuW1xgEVBFSbVP0R0YQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pharmacie-europ%C3%A9enne-paris-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "pharmacy",
+     "title": "Pharmacy"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.32802,
+    "Latitude": 48.88343
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6 place de Clichy",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "6 place de Clichy",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148746518",
+   "display_phone": "+33 1 48 74 65 18",
+   "distance": 3494.5484178255388
+  },
+  {
+   "id": "QcUB20NgaK1ZVHb6RybV4Q",
+   "alias": "claudie-boutteville-st-ouen",
+   "name": "Claudie Boutteville",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1dJZeAu5a-trQisucw_tyg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/claudie-boutteville-st-ouen?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 10,
+   "categories": [
+    {
+     "alias": "obgyn",
+     "title": "Obstetricians \u0026 Gynecologists"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3296274,
+    "Latitude": 48.9044544
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13 Rue Raspail",
+    "address2": "",
+    "address3": "",
+    "city": "St Ouen",
+    "zip_code": "93400",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "13 Rue Raspail",
+     "93400 St Ouen",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140121378",
+   "display_phone": "+33 1 40 12 13 78",
+   "distance": 5571.2937450193085
+  },
+  {
+   "id": "o4SnxP7AXZjX683rz87nAg",
+   "alias": "dominique-denjean-paris",
+   "name": "Dominique Denjean",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sE5NqqUx0ux3kxYaCM_8Hw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dominique-denjean-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "dermatology",
+     "title": "Dermatologists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.342386,
+    "Latitude": 48.87038
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "149 rue Montmartre",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "149 rue Montmartre",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142334660",
+   "display_phone": "+33 1 42 33 46 60",
+   "distance": 1692.101462770364
+  },
+  {
+   "id": "wNlSILaflbWCnv-tcwCTLA",
+   "alias": "alvarez-coiffure-paris-3",
+   "name": "Alvarez Coiffure",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Qjh3mIJ6yXBw4uWpdr_jxA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alvarez-coiffure-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "hairremoval",
+     "title": "Hair Removal"
+    },
+    {
+     "alias": "health",
+     "title": "Health \u0026 Medical"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.34,
+    "Latitude": 48.87967
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "41 rue des Martyrs",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "41 rue des Martyrs",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148781331",
+   "display_phone": "+33 1 48 78 13 31",
+   "distance": 2717.807328958547
+  },
+  {
+   "id": "PTcFtj-4JH3JyTEZQ9KxAA",
+   "alias": "hôpital-pitié-salpêtrière-paris-2",
+   "name": "Hôpital Pitié Salpêtrière",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3L603VA-R1lar3mX4iAJ2g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/h%C3%B4pital-piti%C3%A9-salp%C3%AAtri%C3%A8re-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.365043,
+    "Latitude": 48.837079
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "83 boulevard de l'Hôpital",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75013",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "83 boulevard de l'Hôpital",
+     "75013 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142160000",
+   "display_phone": "+33 1 42 16 00 00",
+   "distance": 2365.3404985337347
+  },
+  {
+   "id": "wRKCIFzAB3xVJs-kyNa5Bg",
+   "alias": "pharmacie-de-la-gare-roissy-en-brie-2",
+   "name": "Pharmacie de la Gare",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Wh9KdVHGkK57NTY9ArVulw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pharmacie-de-la-gare-roissy-en-brie-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "pharmacy",
+     "title": "Pharmacy"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.64966,
+    "Latitude": 48.7963
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5 place de la Révolution",
+    "address2": "",
+    "address3": "",
+    "city": "Roissy en Brie",
+    "zip_code": "77680",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "5 place de la Révolution",
+     "77680 Roissy en Brie",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33160642288",
+   "display_phone": "+33 1 60 64 22 88",
+   "distance": 22784.24094485358
+  },
+  {
+   "id": "hhaoTyS4HWhEw2CVQAp9yg",
+   "alias": "hammam-amel-l-orientale-paris",
+   "name": "Hammam Amel l'Orientale",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hammam-amel-l-orientale-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "saunas",
+     "title": "Saunas"
+    },
+    {
+     "alias": "tanning",
+     "title": "Tanning"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": 2.383984,
+    "Latitude": 48.886402
+   },
+   "transactions": [],
+   "price": "€€€",
+   "location": {
+    "address1": "137 Avenue Jean Jaures",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75019",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "137 Avenue Jean Jaures",
+     "75019 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142066052",
+   "display_phone": "+33 1 42 06 60 52",
+   "distance": 4047.883172783405
+  },
+  {
+   "id": "ogFKxdrK9qn85xXNwJXgnQ",
+   "alias": "piscine-le-canyon-épinay-sur-seine",
+   "name": "Piscine Le Canyon",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xbbL3bFnj-_KxE8G97bGzg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/piscine-le-canyon-%C3%A9pinay-sur-seine?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    },
+    {
+     "alias": "swimmingpools",
+     "title": "Swimming Pools"
+    },
+    {
+     "alias": "saunas",
+     "title": "Saunas"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3205547,
+    "Latitude": 48.95449474
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8 rue Henri Wallon",
+    "address2": "",
+    "address3": "",
+    "city": "Épinay sur Seine",
+    "zip_code": "93800",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "8 rue Henri Wallon",
+     "93800 Épinay sur Seine",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33149715464",
+   "display_phone": "+33 1 49 71 54 64",
+   "distance": 11106.69515474411
+  },
+  {
+   "id": "zEa2lCH36uiblYfQb2xNgw",
+   "alias": "jean-marie-compagnon-paris",
+   "name": "Jean-Marie Compagnon",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jean-marie-compagnon-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "health",
+     "title": "Health \u0026 Medical"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.30307,
+    "Latitude": 48.8558
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "60 avenue La Bourdonnais",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75007",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "60 avenue La Bourdonnais",
+     "75007 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153597110",
+   "display_phone": "+33 1 53 59 71 10",
+   "distance": 3595.4879442296537
+  },
+  {
+   "id": "tFrerPgfYmOtxY34xfeWKg",
+   "alias": "hôpital-saint-louis-paris-2",
+   "name": "Hôpital Saint-Louis",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rdxejy9QfP2xx8Df4c1QHA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/h%C3%B4pital-saint-louis-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 9,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.369768,
+    "Latitude": 48.873409
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1 avenue Claude Vellefaux",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "1 avenue Claude Vellefaux",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142494949",
+   "display_phone": "+33 1 42 49 49 49",
+   "distance": 2268.219472685484
+  },
+  {
+   "id": "bVR8EiKLdUSS0Zn-jtbD_w",
+   "alias": "hôpital-necker-paris-2",
+   "name": "Hôpital Necker",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kQawhSu22KujaSynUWDUlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/h%C3%B4pital-necker-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.313357,
+    "Latitude": 48.845344
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "149 rue de Sèvres",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "149 rue de Sèvres",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144494290",
+   "display_phone": "+33 1 44 49 42 90",
+   "distance": 3105.469447559808
+  },
+  {
+   "id": "B_QcPnCW-bUX40hzZLszkg",
+   "alias": "parapharmacie-bir-hakeim-paris",
+   "name": "Parapharmacie Bir Hakeim",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KnIDeJrWvxkpI3qH8C2H-A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/parapharmacie-bir-hakeim-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "pharmacy",
+     "title": "Pharmacy"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.28884,
+    "Latitude": 48.85389
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2 rue Nélaton",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "2 rue Nélaton",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145773330",
+   "display_phone": "+33 1 45 77 33 30",
+   "distance": 4645.245242199941
+  },
+  {
+   "id": "nd3JUNsahvzQCfFpSSb0og",
+   "alias": "martine-hatchuel-et-catherine-soulat-paris",
+   "name": "Martine Hatchuel et Catherine Soulat",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/martine-hatchuel-et-catherine-soulat-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "obgyn",
+     "title": "Obstetricians \u0026 Gynecologists"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.3703949,
+    "Latitude": 48.8567136
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "15 boulevard Richard Lenoir",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "15 boulevard Richard Lenoir",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143380040",
+   "display_phone": "+33 1 43 38 00 40",
+   "distance": 1331.2002251076544
+  },
+  {
+   "id": "zmoCNXnx0L7L1Tl73165tg",
+   "alias": "pharmacie-bader-paris-2",
+   "name": "Pharmacie Bader",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/l8VvY0VnDuQ6hfYpwnjJJg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pharmacie-bader-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "pharmacy",
+     "title": "Pharmacy"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3435332,
+    "Latitude": 48.8525771
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10-12 Boulevard St Michel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "10-12 Boulevard St Michel",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143269266",
+   "display_phone": "+33 1 43 26 92 66",
+   "distance": 775.9962900789585
+  },
+  {
+   "id": "cQ7djt0yCNj4bO7JrNBaDA",
+   "alias": "les-thermes-saint-germain-paris",
+   "name": "Les Thermes Saint-Germain",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/les-thermes-saint-germain-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "saunas",
+     "title": "Saunas"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.33563,
+    "Latitude": 48.85358
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5 passage de la Petite Boucherie",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75006",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "5 passage de la Petite Boucherie",
+     "75006 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33156813111",
+   "display_phone": "+33 1 56 81 31 11",
+   "distance": 1264.0208998614423
+  },
+  {
+   "id": "NHdW97xwNSpUxs6OfUODGQ",
+   "alias": "hôpital-cochin-paris-3",
+   "name": "Hôpital Cochin",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aCzO1FbfALwMZsh5-9PKvA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/h%C3%B4pital-cochin-paris-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 8,
+   "categories": [
+    {
+     "alias": "hospitals",
+     "title": "Hospitals"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.338534,
+    "Latitude": 48.83671
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "27 rue du Faubourg Saint-Jacques",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75014",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "27 rue du Faubourg Saint-Jacques",
+     "75014 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33158414141",
+   "display_phone": "+33 1 58 41 41 41",
+   "distance": 2427.2352903274814
+  }
+ ],
+ "total": 2900,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

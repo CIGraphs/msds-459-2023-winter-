@@ -1,0 +1,1828 @@
+{
+ "businesses": [
+  {
+   "id": "bDwrHzFrAQ4tIx9zJWkpwQ",
+   "alias": "american-safety-council-orlando",
+   "name": "American Safety Council",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3m4XFn9sdhbxD1Pf676OYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-safety-council-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 422,
+   "categories": [
+    {
+     "alias": "driving_schools",
+     "title": "Driving Schools"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -81.3744493,
+    "Latitude": 28.5461614
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "225 E Robinson St",
+    "address2": "Ste 570",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32801",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "225 E Robinson St",
+     "Ste 570",
+     "Orlando, FL 32801"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18003931063",
+   "display_phone": "(800) 393-1063",
+   "distance": 966.3444749819897
+  },
+  {
+   "id": "yFSqZ4ALzLDALQ9t1uMuIw",
+   "alias": "aveda-institute-orlando-winter-park",
+   "name": "Aveda Institute - Orlando",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jvp5MWlO6y0J1yED0SZi4A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aveda-institute-orlando-winter-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 176,
+   "categories": [
+    {
+     "alias": "cosmetology_schools",
+     "title": "Cosmetology Schools"
+    },
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "massage_schools",
+     "title": "Massage Schools"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -81.3056417,
+    "Latitude": 28.604058415183417
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "495 N Semoran Blvd.",
+    "address2": "Ste 6",
+    "address3": "",
+    "city": "Winter Park",
+    "zip_code": "32792",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "495 N Semoran Blvd.",
+     "Ste 6",
+     "Winter Park, FL 32792"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076570348",
+   "display_phone": "(407) 657-0348",
+   "distance": 10221.635904093077
+  },
+  {
+   "id": "iqyajowk7CMNWZFMpFVCMg",
+   "alias": "la-femme-du-fromage-orlando",
+   "name": "La Femme Du Fromage",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2OVWmWE6mIP9_s_qMOy-gg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-femme-du-fromage-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 148,
+   "categories": [
+    {
+     "alias": "cheese",
+     "title": "Cheese Shops"
+    },
+    {
+     "alias": "tapasmallplates",
+     "title": "Tapas/Small Plates"
+    },
+    {
+     "alias": "winetasteclasses",
+     "title": "Wine Tasting Classes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.34366,
+    "Latitude": 28.56832
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "3201 Corrine Dr",
+    "address2": "Ste 106",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32803",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "3201 Corrine Dr",
+     "Ste 106",
+     "Orlando, FL 32803"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14075719947",
+   "display_phone": "(407) 571-9947",
+   "distance": 4781.787365477072
+  },
+  {
+   "id": "D121TFxcXQVJ_uzFGKOZxw",
+   "alias": "full-sail-university-winter-park",
+   "name": "Full Sail University",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/e_PhN6KgBvzVHS-zIOCzFg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/full-sail-university-winter-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 128,
+   "categories": [
+    {
+     "alias": "collegeuniv",
+     "title": "Colleges \u0026 Universities"
+    },
+    {
+     "alias": "vocation",
+     "title": "Vocational \u0026 Technical School"
+    },
+    {
+     "alias": "artschools",
+     "title": "Art Schools"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -81.301344,
+    "Latitude": 28.5965501
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3300 University Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Winter Park",
+    "zip_code": "32792",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "3300 University Blvd",
+     "Winter Park, FL 32792"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076796333",
+   "display_phone": "(407) 679-6333",
+   "distance": 9958.572171619684
+  },
+  {
+   "id": "R2GQdJ780Kmlv2Tgz97uXw",
+   "alias": "abstract-orlando-orlando",
+   "name": "Abstract Orlando",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/muBF0SPPnGEpJH5VkiHyCg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/abstract-orlando-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 127,
+   "categories": [
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    },
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.4563549,
+    "Latitude": 28.4053273
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11062 International Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32821",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "11062 International Dr",
+     "Orlando, FL 32821"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16893488239",
+   "display_phone": "(689) 348-8239",
+   "distance": 16730.830533801483
+  },
+  {
+   "id": "8Eun0_m1HCoYWa1ko3i0Fg",
+   "alias": "university-of-central-florida-orlando",
+   "name": "University of Central Florida",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/kdfrCHeYwueSNSj7C9E5jw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/university-of-central-florida-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 77,
+   "categories": [
+    {
+     "alias": "collegeuniv",
+     "title": "Colleges \u0026 Universities"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.20006,
+    "Latitude": 28.602439
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4000 Central Florida Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32816",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "4000 Central Florida Blvd",
+     "Orlando, FL 32816"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14078232000",
+   "display_phone": "(407) 823-2000",
+   "distance": 18860.44183223159
+  },
+  {
+   "id": "e-O3vr2iIwLbD40e-oJ3wg",
+   "alias": "paul-mitchell-the-school-orlando-oviedo-2",
+   "name": "Paul Mitchell The School Orlando",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-SzW9XvZhMw-6geQWpRdyg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paul-mitchell-the-school-orlando-oviedo-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 56,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "cosmetology_schools",
+     "title": "Cosmetology Schools"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -81.2356282,
+    "Latitude": 28.6644075
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "1285 Oviedo Mall Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Oviedo",
+    "zip_code": "32765",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1285 Oviedo Mall Blvd",
+     "Oviedo, FL 32765"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076777695",
+   "display_phone": "(407) 677-7695",
+   "distance": 19837.74147092013
+  },
+  {
+   "id": "_u0Nko6Jl86amuffDY4Mcw",
+   "alias": "museum-of-illusions-orlando",
+   "name": "Museum of Illusions",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/k_i0ac6R7RE_7o6_DkJCJA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/museum-of-illusions-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 54,
+   "categories": [
+    {
+     "alias": "artmuseums",
+     "title": "Art Museums"
+    },
+    {
+     "alias": "souvenirs",
+     "title": "Souvenir Shops"
+    },
+    {
+     "alias": "education",
+     "title": "Education"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -81.469109,
+    "Latitude": 28.442592
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "8441 International Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32819",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "8441 International Dr",
+     "Orlando, FL 32819"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13862561001",
+   "display_phone": "(386) 256-1001",
+   "distance": 13827.185567971263
+  },
+  {
+   "id": "yePdvS6qgOW5B2yYQ58aqw",
+   "alias": "riegs-gunshop-and-shooting-range-orlando",
+   "name": "Rieg's Gunshop \u0026 Shooting Range",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NQgPKxPL6lU4yDPQyZEPqw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/riegs-gunshop-and-shooting-range-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 49,
+   "categories": [
+    {
+     "alias": "firearmtraining",
+     "title": "Firearm Training"
+    },
+    {
+     "alias": "guns_and_ammo",
+     "title": "Guns \u0026 Ammo"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -81.39694,
+    "Latitude": 28.48029
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5512 S Orange Blossom Trl",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32839",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "5512 S Orange Blossom Trl",
+     "Orlando, FL 32839"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14078595064",
+   "display_phone": "(407) 859-5064",
+   "distance": 6704.251226231886
+  },
+  {
+   "id": "bzHX2LRFs1Cb8C5_IffC5g",
+   "alias": "painting-with-a-twist-orlando",
+   "name": "Painting with a Twist",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8Yd2mk-9YTGnIZR42VZvWA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/painting-with-a-twist-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 48,
+   "categories": [
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    },
+    {
+     "alias": "paintandsip",
+     "title": "Paint \u0026 Sip"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.4739835,
+    "Latitude": 28.4927588
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6700 Conroy Windermere Rd",
+    "address2": "Ste 125",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32835",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "6700 Conroy Windermere Rd",
+     "Ste 125",
+     "Orlando, FL 32835"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076017800",
+   "display_phone": "(407) 601-7800",
+   "distance": 10586.012672193496
+  },
+  {
+   "id": "wq7Gpw8werNsg-WtuxWZQg",
+   "alias": "truffles-and-trifles-orlando",
+   "name": "Truffles \u0026 Trifles",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G4ziOGjvoVya2Sk4BwKkkg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/truffles-and-trifles-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 46,
+   "categories": [
+    {
+     "alias": "gourmet",
+     "title": "Specialty Food"
+    },
+    {
+     "alias": "cookingschools",
+     "title": "Cooking Schools"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -81.3897234946489,
+    "Latitude": 28.5720779746771
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "711 W Smith St",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32804",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "711 W Smith St",
+     "Orlando, FL 32804"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076480838",
+   "display_phone": "(407) 648-0838",
+   "distance": 3912.4495627155943
+  },
+  {
+   "id": "8ulsHNN--AVyVJyJZHABnw",
+   "alias": "the-orlando-gun-club-ocoee",
+   "name": "The Orlando Gun Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/78O4iR8CKAfotfMwH2KgUg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-orlando-gun-club-ocoee?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "guns_and_ammo",
+     "title": "Guns \u0026 Ammo"
+    },
+    {
+     "alias": "firearmtraining",
+     "title": "Firearm Training"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.55573,
+    "Latitude": 28.551
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "11814 W Colonial Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Ocoee",
+    "zip_code": "34761",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "11814 W Colonial Dr",
+     "Ocoee, FL 34761"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076548727",
+   "display_phone": "(407) 654-8727",
+   "distance": 17301.629414992018
+  },
+  {
+   "id": "c1SlbfR9ixPTw_km5V_qdg",
+   "alias": "publix-aprons-cooking-school-orlando",
+   "name": "Publix Apron's Cooking School",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MPHMdGTAF_dIFjE0oX-kbw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/publix-aprons-cooking-school-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 44,
+   "categories": [
+    {
+     "alias": "cookingschools",
+     "title": "Cooking Schools"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.4901758365,
+    "Latitude": 28.45358883128219
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7524 Dr Phillips Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32819",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "7524 Dr Phillips Blvd",
+     "Orlando, FL 32819"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14072269796",
+   "display_phone": "(407) 226-9796",
+   "distance": 14393.933172046796
+  },
+  {
+   "id": "ldhuiJhQzm1eWRM0SCuDtg",
+   "alias": "tims-wine-market-orlando",
+   "name": "Tim's Wine Market",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NH4LCtK-_xlpa9kCWU5veQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tims-wine-market-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 41,
+   "categories": [
+    {
+     "alias": "beer_and_wine",
+     "title": "Beer, Wine \u0026 Spirits"
+    },
+    {
+     "alias": "winetasteclasses",
+     "title": "Wine Tasting Classes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.372969,
+    "Latitude": 28.562224
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1223 N Orange Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32804",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1223 N Orange Ave",
+     "Orlando, FL 32804"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14078959463",
+   "display_phone": "(407) 895-9463",
+   "distance": 2711.7053541344053
+  },
+  {
+   "id": "O5Xn7rE5nQ_MvrLWJmZ7ow",
+   "alias": "orlando-ballet-school-orlando-2",
+   "name": "Orlando Ballet School",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/A65BRFzsmtAe3QQRfeMCMw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/orlando-ballet-school-orlando-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 41,
+   "categories": [
+    {
+     "alias": "dance_schools",
+     "title": "Dance Schools"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.3709776,
+    "Latitude": 28.5703385
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "600 N Lake Formosa Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32803",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "600 N Lake Formosa Dr",
+     "Orlando, FL 32803"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14074189818",
+   "display_phone": "(407) 418-9818",
+   "distance": 3661.565184612747
+  },
+  {
+   "id": "cbkhurBiOoyfPx3NjXnKpQ",
+   "alias": "allure-orlando-orlando",
+   "name": "Allure Orlando",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/blz7DPdHLE9ggRr23QLBfA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/allure-orlando-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 36,
+   "categories": [
+    {
+     "alias": "dancestudio",
+     "title": "Dance Studios"
+    },
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    },
+    {
+     "alias": "poledancingclasses",
+     "title": "Pole Dancing Classes"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.3507285,
+    "Latitude": 28.5390016
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2419 E South St",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32803",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "2419 E South St",
+     "Orlando, FL 32803"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14075192005",
+   "display_phone": "(407) 519-2005",
+   "distance": 2752.7187404405818
+  },
+  {
+   "id": "-SMf2NaRv12qo5XODKHbvg",
+   "alias": "super-awesome-cool-pottery-orlando-2",
+   "name": "Super Awesome Cool Pottery",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jaPWx9-OJYaL4VOfkckukw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/super-awesome-cool-pottery-orlando-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 34,
+   "categories": [
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    },
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    },
+    {
+     "alias": "paintyourownpottery",
+     "title": "Paint-Your-Own Pottery"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -81.366299,
+    "Latitude": 28.4750722
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "930 Hoffner Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32809",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "930 Hoffner Ave",
+     "Orlando, FL 32809"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14077203699",
+   "display_phone": "(407) 720-3699",
+   "distance": 7147.36920379161
+  },
+  {
+   "id": "FXImH-9DkeUBD1yFnZxloA",
+   "alias": "studio-k-orlando-2",
+   "name": "Studio K",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KLr5JVcyq9NJDnDPr6PAtg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/studio-k-orlando-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 32,
+   "categories": [
+    {
+     "alias": "dancestudio",
+     "title": "Dance Studios"
+    },
+    {
+     "alias": "dance_schools",
+     "title": "Dance Schools"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.467178,
+    "Latitude": 28.39066
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11951 International Dr S",
+    "address2": "Ste 2A3 \u0026 2A4",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32821",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "11951 International Dr S",
+     "Ste 2A3 \u0026 2A4",
+     "Orlando, FL 32821"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14077784607",
+   "display_phone": "(407) 778-4607",
+   "distance": 18556.48901301823
+  },
+  {
+   "id": "THfgJdP4lbs0cfJsIcBPjQ",
+   "alias": "dance-trance-orlando-orlando-4",
+   "name": "Dance Trance Orlando",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eSU0dQMS3KculzP45hGIYA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dance-trance-orlando-orlando-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 31,
+   "categories": [
+    {
+     "alias": "dance_schools",
+     "title": "Dance Schools"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.38965,
+    "Latitude": 28.56852
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1828 Edgewater Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32804",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1828 Edgewater Dr",
+     "Orlando, FL 32804"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14074163822",
+   "display_phone": "(407) 416-3822",
+   "distance": 3510.1364934619523
+  },
+  {
+   "id": "m7d-kIR04yjIN2W9f8yveQ",
+   "alias": "little-aquatics-orlando",
+   "name": "Little Aquatics",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kdiq8PijWeBjxY2CpsNSHQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/little-aquatics-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 29,
+   "categories": [
+    {
+     "alias": "swimminglessons",
+     "title": "Swimming Lessons/Schools"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -81.330861,
+    "Latitude": 28.571164
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32814",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "Orlando, FL 32814"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14079137946",
+   "display_phone": "(407) 913-7946",
+   "distance": 5940.28492971532
+  },
+  {
+   "id": "3eW9-jLxrv7mYq639o844w",
+   "alias": "art-and-history-museums-maitland-maitland",
+   "name": "Art \u0026 History Museums - Maitland",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1TNI6SKZx9Tmck7KRoHt3w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/art-and-history-museums-maitland-maitland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 29,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "artschools",
+     "title": "Art Schools"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -81.36743,
+    "Latitude": 28.62603
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "231 W Packwood Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Maitland",
+    "zip_code": "32751",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "231 W Packwood Ave",
+     "Maitland, FL 32751"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14075392181",
+   "display_phone": "(407) 539-2181",
+   "distance": 9816.116309088775
+  },
+  {
+   "id": "tvShIo-gbM_dsYXyYDxHkw",
+   "alias": "gold-coast-schools-orlando-2",
+   "name": "Gold Coast Schools",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MN5D9dlstjb733xSIRQ14w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gold-coast-schools-orlando-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 28,
+   "categories": [
+    {
+     "alias": "specialtyschools",
+     "title": "Specialty Schools"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.42162822824298,
+    "Latitude": 28.60452450185965
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5104 N Orange Blossom Trl",
+    "address2": "Ste 103",
+    "address3": "The Rosemont Building",
+    "city": "Orlando",
+    "zip_code": "32810",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "5104 N Orange Blossom Trl",
+     "Ste 103",
+     "The Rosemont Building",
+     "Orlando, FL 32810"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14078223926",
+   "display_phone": "(407) 822-3926",
+   "distance": 8454.142460915866
+  },
+  {
+   "id": "CNgVyaCKmR6ktzGYf8-K5Q",
+   "alias": "pure-aloha-surf-school-cape-canaveral-3",
+   "name": "Pure Aloha Surf School",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jCiaOSK3Yd9Zj2kA9Fh28w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pure-aloha-surf-school-cape-canaveral-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 26,
+   "categories": [
+    {
+     "alias": "surfing",
+     "title": "Surfing"
+    },
+    {
+     "alias": "surfschools",
+     "title": "Surf Schools"
+    },
+    {
+     "alias": "summer_camps",
+     "title": "Summer Camps"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -80.6053562,
+    "Latitude": 28.3809393
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7010 N Atlantic Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Cape Canaveral ",
+    "zip_code": "32920",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "7010 N Atlantic Ave",
+     "Cape Canaveral , FL 32920"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13213456641",
+   "display_phone": "(321) 345-6641",
+   "distance": 77619.83856780177
+  },
+  {
+   "id": "lb6B75aRALNnConl79izHQ",
+   "alias": "yaymaker-orlando",
+   "name": "Yaymaker",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6OU9_oaLOdDBGIX5bhk7QA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/yaymaker-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 26,
+   "categories": [
+    {
+     "alias": "eventplanning",
+     "title": "Party \u0026 Event Planning"
+    },
+    {
+     "alias": "paintandsip",
+     "title": "Paint \u0026 Sip"
+    },
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -81.3948036,
+    "Latitude": 28.5338343
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32805",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "Orlando, FL 32805"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18557674270",
+   "display_phone": "(855) 767-4270",
+   "distance": 1634.4137189928213
+  },
+  {
+   "id": "wm_F5IVanFqEf1Ag9oBlhQ",
+   "alias": "painting-with-a-twist-altamonte-springs",
+   "name": "Painting with a Twist",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ize5IEVLkAdOuv162bVvYg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/painting-with-a-twist-altamonte-springs?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 25,
+   "categories": [
+    {
+     "alias": "artclasses",
+     "title": "Art Classes"
+    },
+    {
+     "alias": "paintandsip",
+     "title": "Paint \u0026 Sip"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.41660821161507,
+    "Latitude": 28.66609294711974
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "851 W State Rd 436",
+    "address2": "Ste 1013",
+    "address3": "",
+    "city": "Altamonte Springs",
+    "zip_code": "32714",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "851 W State Rd 436",
+     "Ste 1013",
+     "Altamonte Springs, FL 32714"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14073472900",
+   "display_phone": "(407) 347-2900",
+   "distance": 14668.244925833926
+  },
+  {
+   "id": "5RyvGtQ7e0bAfRSTX1LdQQ",
+   "alias": "firefly-yoga-company-ocoee",
+   "name": "Firefly Yoga Company",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4kGBlGNASx97o_SjYRFLNA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/firefly-yoga-company-ocoee?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 25,
+   "categories": [
+    {
+     "alias": "yoga",
+     "title": "Yoga"
+    },
+    {
+     "alias": "specialtyschools",
+     "title": "Specialty Schools"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.5425249840506,
+    "Latitude": 28.5486488498789
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1575 Maguire Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Ocoee",
+    "zip_code": "34761",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1575 Maguire Rd",
+     "Ocoee, FL 34761"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14073429407",
+   "display_phone": "(407) 342-9407",
+   "distance": 16023.393117018866
+  },
+  {
+   "id": "-kX7Lr4t1VlscyVFk7hHPg",
+   "alias": "jones-brothers-air-and-seaplane-adventures-tavares-2",
+   "name": "Jones Brothers Air \u0026 Seaplane Adventures",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kH_Q8N4CCw9Dsfd5Hk9pFQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/jones-brothers-air-and-seaplane-adventures-tavares-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "flightinstruction",
+     "title": "Flight Instruction"
+    },
+    {
+     "alias": "aerialtours",
+     "title": "Aerial Tours"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.7267225,
+    "Latitude": 28.8013261
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "210 E Ruby St",
+    "address2": "",
+    "address3": "",
+    "city": "Tavares",
+    "zip_code": "32778",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "210 E Ruby St",
+     "Tavares, FL 32778"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13525081800",
+   "display_phone": "(352) 508-1800",
+   "distance": 44791.53271071916
+  },
+  {
+   "id": "EOg4Gpoy656h_bQfH9hCzA",
+   "alias": "winterclub-indoor-ski-and-snowboard-winter-park",
+   "name": "Winterclub Indoor Ski And Snowboard",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nmQARJn4f0VaBhCg8KHzzA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/winterclub-indoor-ski-and-snowboard-winter-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 24,
+   "categories": [
+    {
+     "alias": "skiresorts",
+     "title": "Ski Resorts"
+    },
+    {
+     "alias": "skischools",
+     "title": "Ski Schools"
+    },
+    {
+     "alias": "summer_camps",
+     "title": "Summer Camps"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.31181,
+    "Latitude": 28.60239
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2950 Aloma Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Winter Park",
+    "zip_code": "32792",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "2950 Aloma Ave",
+     "Winter Park, FL 32792"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076181123",
+   "display_phone": "(407) 618-1123",
+   "distance": 9696.858558896894
+  },
+  {
+   "id": "NXUUI5LHlo1gyeQGfQHaIg",
+   "alias": "valencia-college-west-campus-orlando-3",
+   "name": "Valencia College - West Campus",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JF6TD85ymtNYUFyoUDA0XA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/valencia-college-west-campus-orlando-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 22,
+   "categories": [
+    {
+     "alias": "collegeuniv",
+     "title": "Colleges \u0026 Universities"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.4647565774023,
+    "Latitude": 28.5222425406778
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1800 S Kirkman Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32811",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1800 S Kirkman Rd",
+     "Orlando, FL 32811"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14072995000",
+   "display_phone": "(407) 299-5000",
+   "distance": 8577.747136846354
+  },
+  {
+   "id": "IV1Us9gYRvDXc-mbizUbgw",
+   "alias": "mid-florida-cpr-longwood",
+   "name": "Mid-Florida CPR",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Y-2x2qXcE_e9QiSocbY5yQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mid-florida-cpr-longwood?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 21,
+   "categories": [
+    {
+     "alias": "cprclasses",
+     "title": "CPR Classes"
+    },
+    {
+     "alias": "firstaidclasses",
+     "title": "First Aid Classes"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.33396,
+    "Latitude": 28.73064
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2003 Longwood-Lake Mary Rd",
+    "address2": "Ste 1015",
+    "address3": "",
+    "city": "Longwood",
+    "zip_code": "32750",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "2003 Longwood-Lake Mary Rd",
+     "Ste 1015",
+     "Longwood, FL 32750"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14077324403",
+   "display_phone": "(407) 732-4403",
+   "distance": 21821.399056669212
+  },
+  {
+   "id": "0BoOkIHn0rWPrBjzeNgOVg",
+   "alias": "goldfish-swim-school-winter-park-winter-park",
+   "name": "Goldfish Swim School - Winter Park",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/N0TAgay6eMzV2_vZ4Y0oOQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/goldfish-swim-school-winter-park-winter-park?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 21,
+   "categories": [
+    {
+     "alias": "swimminglessons",
+     "title": "Swimming Lessons/Schools"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.3248,
+    "Latitude": 28.62301
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5445 Lake Howell Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Winter Park",
+    "zip_code": "32792",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "5445 Lake Howell Rd",
+     "Winter Park, FL 32792"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14074104660",
+   "display_phone": "(407) 410-4660",
+   "distance": 10790.307255092444
+  },
+  {
+   "id": "CJVkesKGjCoTgUA9DDrYuA",
+   "alias": "rollins-college-winter-park-2",
+   "name": "Rollins College",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eOrCWVP15d7U06ETNvaWZQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rollins-college-winter-park-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "collegeuniv",
+     "title": "Colleges \u0026 Universities"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.34854649957641,
+    "Latitude": 28.592263544398385
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1000 Holt Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Winter Park",
+    "zip_code": "32789",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1000 Holt Ave",
+     "Winter Park, FL 32789"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076462000",
+   "display_phone": "(407) 646-2000",
+   "distance": 6682.765665282239
+  },
+  {
+   "id": "FI7lA3RaV4u1k3G3RR9Tzw",
+   "alias": "arthur-murray-dance-centers-winter-park-winter-park-2",
+   "name": "Arthur Murray Dance Centers Winter Park",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LJ8kmvr4GV8aKqP23xTMlA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/arthur-murray-dance-centers-winter-park-winter-park-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "dancestudio",
+     "title": "Dance Studios"
+    },
+    {
+     "alias": "dance_schools",
+     "title": "Dance Schools"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.3232047110796,
+    "Latitude": 28.6241457921651
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5562 Lake Howell Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Winter Park",
+    "zip_code": "32792",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "5562 Lake Howell Rd",
+     "Winter Park, FL 32792"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14079154609",
+   "display_phone": "(407) 915-4609",
+   "distance": 10976.427975230552
+  },
+  {
+   "id": "32eF4wL3naZmE1TbNy2fnA",
+   "alias": "the-learning-experience-orlando-lake-nona-orlando",
+   "name": "The Learning Experience - Orlando-Lake Nona",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yzHGvPstbuv9fDD5Me8ooQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-learning-experience-orlando-lake-nona-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 20,
+   "categories": [
+    {
+     "alias": "childcare",
+     "title": "Child Care \u0026 Day Care"
+    },
+    {
+     "alias": "preschools",
+     "title": "Preschools"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -81.24472934847807,
+    "Latitude": 28.394113873546715
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "11800 Narcoossee Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32832",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "11800 Narcoossee Rd",
+     "Orlando, FL 32832"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14079019437",
+   "display_phone": "(407) 901-9437",
+   "distance": 20722.389694704536
+  },
+  {
+   "id": "Zi1-OdBhz9ID16s3Kii44Q",
+   "alias": "florida-safety-council-orlando-5",
+   "name": "Florida Safety Council",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ciSTXLKaRfAyuF9yqKPSGA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/florida-safety-council-orlando-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 19,
+   "categories": [
+    {
+     "alias": "driving_schools",
+     "title": "Driving Schools"
+    },
+    {
+     "alias": "trafficschools",
+     "title": "Traffic Schools"
+    },
+    {
+     "alias": "duischools",
+     "title": "DUI Schools"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -81.361175,
+    "Latitude": 28.553479
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1505 E Colonial Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32803",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1505 E Colonial Dr",
+     "Orlando, FL 32803"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14078961894",
+   "display_phone": "(407) 896-1894",
+   "distance": 2412.4948806413436
+  },
+  {
+   "id": "vqtazYO0XWNDrXe_3v4oUw",
+   "alias": "cortiva-institute-massage-therapy-and-skin-care-school-maitland",
+   "name": "Cortiva Institute Massage Therapy \u0026 Skin Care School",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ac7vBfoZMxiK_IhplMNlAw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cortiva-institute-massage-therapy-and-skin-care-school-maitland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 19,
+   "categories": [
+    {
+     "alias": "vocation",
+     "title": "Vocational \u0026 Technical School"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "massage_schools",
+     "title": "Massage Schools"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -81.39707349999999,
+    "Latitude": 28.6300132
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2600 Lake Lucien Dr",
+    "address2": "Ste 140",
+    "address3": "",
+    "city": "Maitland",
+    "zip_code": "32751",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "2600 Lake Lucien Dr",
+     "Ste 140",
+     "Maitland, FL 32751"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14072610319",
+   "display_phone": "(407) 261-0319",
+   "distance": 10340.309326064735
+  },
+  {
+   "id": "SUojgca9X0fmQVxJAwbHBw",
+   "alias": "the-roth-family-jcc-of-greater-orlando-maitland",
+   "name": "The Roth Family JCC of Greater Orlando",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ggiF5_KM-hgzkKdI8Sd55A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-roth-family-jcc-of-greater-orlando-maitland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 19,
+   "categories": [
+    {
+     "alias": "preschools",
+     "title": "Preschools"
+    },
+    {
+     "alias": "summer_camps",
+     "title": "Summer Camps"
+    },
+    {
+     "alias": "gyms",
+     "title": "Gyms"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -81.3666312,
+    "Latitude": 28.6344245
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "851 N Maitland Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Maitland",
+    "zip_code": "32751",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "851 N Maitland Ave",
+     "Maitland, FL 32751"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076455933",
+   "display_phone": "(407) 645-5933",
+   "distance": 10744.413955613243
+  },
+  {
+   "id": "52htC9BoDi_a2MCq-I-uOw",
+   "alias": "ifrec-real-estate-schools-orlando",
+   "name": "IFREC Real Estate Schools",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oGAQ1dM5otoJdc-Virn5Lg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ifrec-real-estate-schools-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 19,
+   "categories": [
+    {
+     "alias": "vocation",
+     "title": "Vocational \u0026 Technical School"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -81.40966,
+    "Latitude": 28.6008
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1912 B Lee Rd",
+    "address2": "Ste C1",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32810",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1912 B Lee Rd",
+     "Ste C1",
+     "Orlando, FL 32810"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14076447277",
+   "display_phone": "(407) 644-7277",
+   "distance": 7528.348900476292
+  },
+  {
+   "id": "lzijGKsQxGo2vxllR9vfAA",
+   "alias": "the-jupiter-school-preschool-downtown-orlando-orlando",
+   "name": "The Jupiter School - Preschool Downtown Orlando",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZVkFu9rtApII02ZVjGt5nw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-jupiter-school-preschool-downtown-orlando-orlando?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 19,
+   "categories": [
+    {
+     "alias": "preschools",
+     "title": "Preschools"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -81.3780131,
+    "Latitude": 28.5139856
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "25 W Jersey St",
+    "address2": "",
+    "address3": "",
+    "city": "Orlando",
+    "zip_code": "32806",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "25 W Jersey St",
+     "Orlando, FL 32806"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14072861887",
+   "display_phone": "(407) 286-1887",
+   "distance": 2716.1367894214086
+  },
+  {
+   "id": "rtNiiUo-WHIkifU5wm8xAQ",
+   "alias": "dont-be-a-sitting-duck-kissimmee",
+   "name": "Don't Be A Sitting Duck",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/2zSlbKYbXzHIYaUj5TduTQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dont-be-a-sitting-duck-kissimmee?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 19,
+   "categories": [
+    {
+     "alias": "guns_and_ammo",
+     "title": "Guns \u0026 Ammo"
+    },
+    {
+     "alias": "firearmtraining",
+     "title": "Firearm Training"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -81.398026,
+    "Latitude": 28.307475
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1700 Kelley Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Kissimmee",
+    "zip_code": "34744",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "1700 Kelley Ave",
+     "Kissimmee, FL 34744"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14074313825",
+   "display_phone": "(407) 431-3825",
+   "distance": 25745.687710408223
+  }
+ ],
+ "total": 870,
+ "region": {
+  "center": {
+   "longitude": -81.3789,
+   "Latitude": 28.5384
+  }
+ }
+}

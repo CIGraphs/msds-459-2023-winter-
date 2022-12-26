@@ -1,0 +1,1821 @@
+{
+ "businesses": [
+  {
+   "id": "kypo4-J4xuvri3rFiao84A",
+   "alias": "ikea-east-palo-alto",
+   "name": "IKEA",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-iSy5Jo63L6VItAFocpzwA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ikea-east-palo-alto?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2397,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "kitchenandbath",
+     "title": "Kitchen \u0026 Bath"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.139376,
+    "Latitude": 37.461065
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1700 E Bayshore Rd",
+    "address2": "",
+    "address3": "",
+    "city": "East Palo Alto",
+    "zip_code": "94303",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1700 E Bayshore Rd",
+     "East Palo Alto, CA 94303"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18888884532",
+   "display_phone": "(888) 888-4532",
+   "distance": 42732.69145977748
+  },
+  {
+   "id": "VfjlQX_8RXl_opJWYKO6IQ",
+   "alias": "ikea-emeryville",
+   "name": "IKEA",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iaCGf2rXFueXO_oD-FE5xg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ikea-emeryville?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1965,
+   "categories": [
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "kitchenandbath",
+     "title": "Kitchen \u0026 Bath"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.2919998,
+    "Latitude": 37.8309974
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4400 Shellmound St",
+    "address2": "",
+    "address3": "",
+    "city": "Emeryville",
+    "zip_code": "94608",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "4400 Shellmound St",
+     "Emeryville, CA 94608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18888884532",
+   "display_phone": "(888) 888-4532",
+   "distance": 12813.834650593408
+  },
+  {
+   "id": "U5nwKYa-69PZEnXmUbNbNQ",
+   "alias": "ferry-building-marketplace-san-francisco",
+   "name": "Ferry Building Marketplace",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q2YsCD484wAYpdV2EhuRRA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ferry-building-marketplace-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1853,
+   "categories": [
+    {
+     "alias": "publicmarkets",
+     "title": "Public Markets"
+    },
+    {
+     "alias": "farmersmarket",
+     "title": "Farmers Market"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.3937801,
+    "Latitude": 37.7958379
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1 Ferry Bldg",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1 Ferry Bldg",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159838000",
+   "display_phone": "(415) 983-8000",
+   "distance": 3238.7384541265405
+  },
+  {
+   "id": "JcVzpOTp7OH6l8AsM_wGdQ",
+   "alias": "japanese-tea-garden-san-francisco",
+   "name": "Japanese Tea Garden",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FQUyYN_1xZc4H_B09x-RJQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/japanese-tea-garden-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1588,
+   "categories": [
+    {
+     "alias": "tea",
+     "title": "Tea Rooms"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.47044111016271,
+    "Latitude": 37.77010327003028
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "75 Hagiwara Tea Garden Dr",
+    "address2": "",
+    "address3": "Golden Gate Park",
+    "city": "San Francisco",
+    "zip_code": "94118",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "75 Hagiwara Tea Garden Dr",
+     "Golden Gate Park",
+     "San Francisco, CA 94118"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15204516969",
+   "display_phone": "(520) 451-6969",
+   "distance": 4517.794027875731
+  },
+  {
+   "id": "orcyGlo40708zfMKRflZYg",
+   "alias": "airport-home-appliance-hayward-4",
+   "name": "Airport Home Appliance",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l5vMcweT6FIlZfukxj7-xw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/airport-home-appliance-hayward-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1555,
+   "categories": [
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.117947893143,
+    "Latitude": 37.6664076525091
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "20286 Hesperian Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Hayward",
+    "zip_code": "94541",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "20286 Hesperian Blvd",
+     "Hayward, CA 94541"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107833494",
+   "display_phone": "(510) 783-3494",
+   "distance": 29129.78576401958
+  },
+  {
+   "id": "B5e069dbuKZG9IJypIhkyg",
+   "alias": "pier-39-san-francisco",
+   "name": "PIER 39",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wpYTP0eFXysx1Um3J4D1qQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pier-39-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1450,
+   "categories": [
+    {
+     "alias": "shoppingcenters",
+     "title": "Shopping Centers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.409776610858,
+    "Latitude": 37.8087272035557
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "The Embarcadero And Beach St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94133",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "The Embarcadero And Beach St",
+     "San Francisco, CA 94133"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159817437",
+   "display_phone": "(415) 981-7437",
+   "distance": 3855.2905371689317
+  },
+  {
+   "id": "ngUUOEyCHdLkGnO1I5M4Vg",
+   "alias": "green-apple-books-san-francisco",
+   "name": "Green Apple Books",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o4Aq5cNKR9popVVJ8_InNQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/green-apple-books-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1391,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    },
+    {
+     "alias": "bookstores",
+     "title": "Bookstores"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.46472269989542,
+    "Latitude": 37.78315627054411
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "506 Clement St",
+    "address2": "at 6th Avenue",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94118",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "506 Clement St",
+     "at 6th Avenue",
+     "San Francisco, CA 94118"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153872272",
+   "display_phone": "(415) 387-2272",
+   "distance": 4087.661517107413
+  },
+  {
+   "id": "XScfuhb5WwiCxyWXh6kCYA",
+   "alias": "lowes-home-improvement-san-francisco",
+   "name": "Lowe's Home Improvement",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-RmCQAQ31485GUhrYQIUfw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lowes-home-improvement-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1365,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -122.40601201379589,
+    "Latitude": 37.74034428244389
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "491 Bayshore Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94124",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "491 Bayshore Blvd",
+     "San Francisco, CA 94124"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154868611",
+   "display_phone": "(415) 486-8611",
+   "distance": 4018.630705010402
+  },
+  {
+   "id": "dw3ynParaDTHdOanoxyf1Q",
+   "alias": "apple-union-square-san-francisco-2",
+   "name": "Apple Union Square",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LLZHsRkvqn4uoDLMa-NClQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/apple-union-square-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1351,
+   "categories": [
+    {
+     "alias": "computers",
+     "title": "Computers"
+    },
+    {
+     "alias": "mobilephones",
+     "title": "Mobile Phones"
+    },
+    {
+     "alias": "itservices",
+     "title": "IT Services \u0026 Computer Repair"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.407175,
+    "Latitude": 37.788693
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "300 Post St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "300 Post St",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154864800",
+   "display_phone": "(415) 486-4800",
+   "distance": 1872.5732328725478
+  },
+  {
+   "id": "k4m6f3xsxlfZD0OoPKp_cQ",
+   "alias": "sports-basement-san-francisco",
+   "name": "Sports Basement",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QCMYGksyGewJYYoZ1kyjSg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sports-basement-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1279,
+   "categories": [
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    },
+    {
+     "alias": "outdoorgear",
+     "title": "Outdoor Gear"
+    },
+    {
+     "alias": "bikes",
+     "title": "Bikes"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.459750175476,
+    "Latitude": 37.8027313175243
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "610 Old Mason St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94129",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "610 Old Mason St",
+     "San Francisco, CA 94129"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159342900",
+   "display_phone": "(415) 934-2900",
+   "distance": 4706.324316769434
+  },
+  {
+   "id": "llSsp6F1OYJ56jmZPygY-w",
+   "alias": "best-buy-san-francisco",
+   "name": "Best Buy",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MXALijlqrC6027k_GNe5nw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/best-buy-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1237,
+   "categories": [
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    },
+    {
+     "alias": "computers",
+     "title": "Computers"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.412942991332,
+    "Latitude": 37.7684511278912
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1717 Harrison St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1717 Harrison St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156269682",
+   "display_phone": "(415) 626-9682",
+   "distance": 914.4966579224016
+  },
+  {
+   "id": "8Jos9nqlts6DX6o2zKDAzA",
+   "alias": "destino-san-francisco-4",
+   "name": "Destino",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FGPDFqc-2_tKHYhSVCf2tg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/destino-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1191,
+   "categories": [
+    {
+     "alias": "catering",
+     "title": "Caterers"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.36559926104485,
+    "Latitude": 37.726701233660165
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "103 Horne Ave",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94124",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "103 Horne Ave",
+     "San Francisco, CA 94124"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155771677",
+   "display_phone": "(415) 577-1677",
+   "distance": 7148.283338720887
+  },
+  {
+   "id": "z6Di_ZlR9YbwdFle7BVseg",
+   "alias": "sports-basement-san-francisco-4",
+   "name": "Sports Basement",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wOZUqXYO_lx-LXdi09szGA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sports-basement-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1186,
+   "categories": [
+    {
+     "alias": "sportswear",
+     "title": "Sports Wear"
+    },
+    {
+     "alias": "bikes",
+     "title": "Bikes"
+    },
+    {
+     "alias": "outdoorgear",
+     "title": "Outdoor Gear"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.41112,
+    "Latitude": 37.76716
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1590 Bryant St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1590 Bryant St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155753001",
+   "display_phone": "(415) 575-3001",
+   "distance": 1124.5994812193078
+  },
+  {
+   "id": "rvstmHzJ4eb0oPKrtLQvLw",
+   "alias": "amoeba-music-san-francisco",
+   "name": "Amoeba Music",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/h7qE-A21C9yb7KZ4h1HxCw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/amoeba-music-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1158,
+   "categories": [
+    {
+     "alias": "musicvideo",
+     "title": "Music \u0026 DVDs"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.45289491543973,
+    "Latitude": 37.76916929799954
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1855 Haight St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94117",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1855 Haight St",
+     "San Francisco, CA 94117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158311200",
+   "display_phone": "(415) 831-1200",
+   "distance": 3012.1883959897546
+  },
+  {
+   "id": "ZaS7IfkSU5bBFiQWtExqRg",
+   "alias": "clutter-moving-and-storage-san-francisco-san-francisco-2",
+   "name": "Clutter Moving \u0026 Storage - San Francisco",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/no7NGMGmNsTw91weR9jOqw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/clutter-moving-and-storage-san-francisco-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1145,
+   "categories": [
+    {
+     "alias": "selfstorage",
+     "title": "Self Storage"
+    },
+    {
+     "alias": "movers",
+     "title": "Movers"
+    },
+    {
+     "alias": "packingsupplies",
+     "title": "Packing Supplies"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.394683837891,
+    "Latitude": 37.7872200012207
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16463742617",
+   "display_phone": "(646) 374-2617",
+   "distance": 2910.9698317908383
+  },
+  {
+   "id": "kf2xrDlgnmZkO_yuHG4yKw",
+   "alias": "borrowlenses-san-carlos",
+   "name": "BorrowLenses",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ANJ54uEmy7amAh44b5oABQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/borrowlenses-san-carlos?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1112,
+   "categories": [
+    {
+     "alias": "photographystores",
+     "title": "Photography Stores \u0026 Services"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.242432786895,
+    "Latitude": 37.4990435129128
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1664 Industrial Rd",
+    "address2": "",
+    "address3": "",
+    "city": "San Carlos",
+    "zip_code": "94070",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1664 Industrial Rd",
+     "San Carlos, CA 94070"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18448536737",
+   "display_phone": "(844) 853-6737",
+   "distance": 34427.38538765939
+  },
+  {
+   "id": "GMwurbj7bT89ltr8yS2mwg",
+   "alias": "macys-san-francisco-2",
+   "name": "Macy's",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4zaQna5DlfIG27plHycyFw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/macys-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1093,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "menscloth",
+     "title": "Men's Clothing"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.407419,
+    "Latitude": 37.78731305986244
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "170 Ofarrell St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "170 Ofarrell St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153973333",
+   "display_phone": "(415) 397-3333",
+   "distance": 1736.0322035616957
+  },
+  {
+   "id": "Q1p9NKEchS2Yzlq97V-H2A",
+   "alias": "flares-bridal-formal-walnut-creek-3",
+   "name": "Flares Bridal + Formal",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6DQ1HEUflfgYsxoS4rKenA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/flares-bridal-formal-walnut-creek-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1079,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.060846426736,
+    "Latitude": 37.9031121228457
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1700 N Broadway",
+    "address2": "Ste 100",
+    "address3": "",
+    "city": "Walnut Creek",
+    "zip_code": "94596",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1700 N Broadway",
+     "Ste 100",
+     "Walnut Creek, CA 94596"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19259393306",
+   "display_phone": "(925) 939-3306",
+   "distance": 34563.44642667621
+  },
+  {
+   "id": "HlNLTbcVHi2oltuPOA2kyw",
+   "alias": "westfield-san-francisco-centre-san-francisco-3",
+   "name": "Westfield San Francisco Centre",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lxErPbimAVz2HLglBDKZUw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/westfield-san-francisco-centre-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1069,
+   "categories": [
+    {
+     "alias": "shoppingcenters",
+     "title": "Shopping Centers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.4063857,
+    "Latitude": 37.7841178
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "865 Market St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "865 Market St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155126776",
+   "display_phone": "(415) 512-6776",
+   "distance": 1535.8295143730052
+  },
+  {
+   "id": "i_8RQQi5FNb--DvEMYXujQ",
+   "alias": "ghirardelli-square-san-francisco",
+   "name": "Ghirardelli Square",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/exOdIlnKOYtzvcUIH3-pug/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ghirardelli-square-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1059,
+   "categories": [
+    {
+     "alias": "shoppingcenters",
+     "title": "Shopping Centers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.422428034281,
+    "Latitude": 37.8055589703077
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "900 N Point St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "900 N Point St",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157755500",
+   "display_phone": "(415) 775-5500",
+   "distance": 3419.486246255559
+  },
+  {
+   "id": "JLcAGCR3d-oSUizRAfzAAQ",
+   "alias": "derco-fine-jewelers-san-francisco",
+   "name": "Derco Fine jewelers",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jkSKJQD1Dp0syzV1Wlph3Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/derco-fine-jewelers-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1018,
+   "categories": [
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.4052237,
+    "Latitude": 37.7718827
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "888 Brannan St",
+    "address2": "Ste 137",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "888 Brannan St",
+     "Ste 137",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156267442",
+   "display_phone": "(415) 626-7442",
+   "distance": 1290.3749366231891
+  },
+  {
+   "id": "sn2c7alrdos9KJUlxg6KWg",
+   "alias": "costco-san-francisco",
+   "name": "Costco",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qBTRn5fMc2BrH-rBKvq-IA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/costco-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 974,
+   "categories": [
+    {
+     "alias": "wholesale_stores",
+     "title": "Wholesale Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.41087411906597,
+    "Latitude": 37.770284588200944
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "450 10th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "450 10th St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156264388",
+   "display_phone": "(415) 626-4388",
+   "distance": 908.2630748502731
+  },
+  {
+   "id": "Y5e8Kln0iXO4WMXPnyDhOw",
+   "alias": "brilliant-earth-san-francisco",
+   "name": "Brilliant Earth",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HayZYj-f0vft55hWiDkkJQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/brilliant-earth-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 972,
+   "categories": [
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.40532140803816,
+    "Latitude": 37.7898731
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "300 Grant",
+    "address2": "Fl 3",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "300 Grant",
+     "Fl 3",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153544623",
+   "display_phone": "(415) 354-4623",
+   "distance": 2074.318467640968
+  },
+  {
+   "id": "JG6m9guRd8LCz0UH7DyaiQ",
+   "alias": "nordstrom-san-francisco-10",
+   "name": "Nordstrom",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SbHaiBFLw2dWGL5WkUvMFA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nordstrom-san-francisco-10?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 966,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "cosmetics",
+     "title": "Cosmetics \u0026 Beauty Supply"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.4071641,
+    "Latitude": 37.7839772
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "865 Market St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "865 Market St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152438500",
+   "display_phone": "(415) 243-8500",
+   "distance": 1474.8422063690025
+  },
+  {
+   "id": "mfaMGSUkFk_0ilsp5rvHbA",
+   "alias": "janenes-bridal-boutique-alameda",
+   "name": "Janene's Bridal Boutique",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/27wl8T_bHGRtr7fA_Q7e3Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/janenes-bridal-boutique-alameda?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 944,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "sewingalterations",
+     "title": "Sewing \u0026 Alterations"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.2517486,
+    "Latitude": 37.7567917
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2226 South Shore Ctr",
+    "address2": "",
+    "address3": "",
+    "city": "Alameda",
+    "zip_code": "94501",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2226 South Shore Ctr",
+     "Alameda, CA 94501"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15102638100",
+   "display_phone": "(510) 263-8100",
+   "distance": 14873.770973401772
+  },
+  {
+   "id": "zp21HwmrcmpA8ETVg-w3EA",
+   "alias": "davids-bridal-pinole-3",
+   "name": "David's Bridal",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qIVYbheM-x6QUrBDHo4gLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/davids-bridal-pinole-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 938,
+   "categories": [
+    {
+     "alias": "bridal",
+     "title": "Bridal"
+    },
+    {
+     "alias": "accessories",
+     "title": "Accessories"
+    },
+    {
+     "alias": "shoes",
+     "title": "Shoe Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.313463,
+    "Latitude": 37.985066
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1212 Fitzgerald Dr",
+    "address2": "",
+    "address3": "Pinole Vista Crossing",
+    "city": "Pinole",
+    "zip_code": "94564",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1212 Fitzgerald Dr",
+     "Pinole Vista Crossing",
+     "Pinole, CA 94564"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15102225640",
+   "display_phone": "(510) 222-5640",
+   "distance": 25147.508123875494
+  },
+  {
+   "id": "5XOSmCrA5_ZMEA_nTbRCfg",
+   "alias": "zebra-tattoo-and-body-piercing-walnut-creek-2",
+   "name": "Zebra Tattoo \u0026 Body Piercing",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UMKEbZaYhhRFSezoiKr2kA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zebra-tattoo-and-body-piercing-walnut-creek-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 928,
+   "categories": [
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "piercing",
+     "title": "Piercing"
+    },
+    {
+     "alias": "tattoo",
+     "title": "Tattoo"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.06018392268888,
+    "Latitude": 37.900043376436386
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1419 North Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Walnut Creek",
+    "zip_code": "94596",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1419 North Broadway",
+     "Walnut Creek, CA 94596"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19259461087",
+   "display_phone": "(925) 946-1087",
+   "distance": 34477.92358971215
+  },
+  {
+   "id": "CVpKlqrjYCyjxnlkBCUK5A",
+   "alias": "zebra-body-piercing-berkeley-2",
+   "name": "Zebra Body Piercing",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZTDIwW-DxgNyD1aheSeE_w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zebra-body-piercing-berkeley-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 922,
+   "categories": [
+    {
+     "alias": "piercing",
+     "title": "Piercing"
+    },
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.25828,
+    "Latitude": 37.86571
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "2467 Telegraph Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2467 Telegraph Ave",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106498002",
+   "display_phone": "(510) 649-8002",
+   "distance": 17382.118544154066
+  },
+  {
+   "id": "LJVOIvGhqcnvzAp7GGcctQ",
+   "alias": "industrial-tattoo-berkeley",
+   "name": "Industrial Tattoo",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gPNn9jB3b6rcAh1BsZWovA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/industrial-tattoo-berkeley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 921,
+   "categories": [
+    {
+     "alias": "piercing",
+     "title": "Piercing"
+    },
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.259107984061,
+    "Latitude": 37.864934616173
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2434 Dwight Way",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2434 Dwight Way",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106440968",
+   "display_phone": "(510) 644-0968",
+   "distance": 17276.106130171964
+  },
+  {
+   "id": "aK0XHwU3M4DmBwws5sIVLA",
+   "alias": "airport-home-appliance-redwood-city",
+   "name": "Airport Home Appliance",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xjVeWG2mQHUGxxOSB0wJ9A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/airport-home-appliance-redwood-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 918,
+   "categories": [
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.22236704938447,
+    "Latitude": 37.48737606093387
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1748 Broadway St",
+    "address2": "",
+    "address3": "",
+    "city": "Redwood City",
+    "zip_code": "94063",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1748 Broadway St",
+     "Redwood City, CA 94063"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16502610200",
+   "display_phone": "(650) 261-0200",
+   "distance": 36375.9842945738
+  },
+  {
+   "id": "BjWCMW1xM1oAJtTq--ItmA",
+   "alias": "eaze-san-francisco-7",
+   "name": "Eaze",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pejq6GYijr1EQbOOsQ4pVw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/eaze-san-francisco-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 913,
+   "categories": [
+    {
+     "alias": "cannabisdispensaries",
+     "title": "Cannabis Dispensaries"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.3961067,
+    "Latitude": 37.7953898
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 3062.854467851716
+  },
+  {
+   "id": "sEVw-f53w8Ja7pvzu0p0zA",
+   "alias": "wireless-solutions-iphone-ipod-and-ipad-repair-san-francisco",
+   "name": "Wireless Solutions Iphone, Ipod and Ipad Repair",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/M0KJ3CDsDMqj0R4mN8cWpg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wireless-solutions-iphone-ipod-and-ipad-repair-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 911,
+   "categories": [
+    {
+     "alias": "mobilephones",
+     "title": "Mobile Phones"
+    },
+    {
+     "alias": "electronicsrepair",
+     "title": "Electronics Repair"
+    },
+    {
+     "alias": "mobilephonerepair",
+     "title": "Mobile Phone Repair"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.47683034110446,
+    "Latitude": 37.728936060698864
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3251 20th Ave",
+    "address2": "Fl 1",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94132",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3251 20th Ave",
+     "Fl 1",
+     "San Francisco, CA 94132"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158405007",
+   "display_phone": "(415) 840-5007",
+   "distance": 7184.428388189559
+  },
+  {
+   "id": "37dbKnmupuMDM8eaV1xeEQ",
+   "alias": "the-home-depot-colma-3",
+   "name": "The Home Depot",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Kpm1w7neOWynPNUDBv852g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-home-depot-colma-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 909,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    },
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -122.46718336450645,
+    "Latitude": 37.67561856877419
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2 Colma Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Colma",
+    "zip_code": "94014",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2 Colma Blvd",
+     "Colma, CA 94014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16507559600",
+   "display_phone": "(650) 755-9600",
+   "distance": 11812.437537451478
+  },
+  {
+   "id": "BqUUe0Bs3RIj8lS_51AhPw",
+   "alias": "bloomingdales-san-francisco",
+   "name": "Bloomingdale's",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/N6xFWBr-Dbn86C5DmdGiEQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bloomingdales-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 904,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.405837774277,
+    "Latitude": 37.7839860047902
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "845 Market St",
+    "address2": "",
+    "address3": "Level 1",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "845 Market St",
+     "Level 1",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158565300",
+   "display_phone": "(415) 856-5300",
+   "distance": 1562.5051590419012
+  },
+  {
+   "id": "a6dazfZTENUZhmJUgVdDVg",
+   "alias": "best-buy-oakland",
+   "name": "Best Buy",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uuV1jSTAqcmnVxr2dLZCWQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/best-buy-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 904,
+   "categories": [
+    {
+     "alias": "computers",
+     "title": "Computers"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.28675370213678,
+    "Latitude": 37.827414895517016
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3700 Mandela Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94608",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3700 Mandela Pkwy",
+     "Oakland, CA 94608"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104200323",
+   "display_phone": "(510) 420-0323",
+   "distance": 13035.351398513947
+  },
+  {
+   "id": "jH37Hb9oQimBhGNl34pXZg",
+   "alias": "apple-broadway-plaza-walnut-creek",
+   "name": "Apple Broadway Plaza",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dVoCWjoBETVwpoVefgZ8eQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/apple-broadway-plaza-walnut-creek?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 902,
+   "categories": [
+    {
+     "alias": "mobilephones",
+     "title": "Mobile Phones"
+    },
+    {
+     "alias": "itservices",
+     "title": "IT Services \u0026 Computer Repair"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.059688,
+    "Latitude": 37.896375
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1200 S Main St",
+    "address2": "",
+    "address3": "",
+    "city": "Walnut Creek",
+    "zip_code": "94596",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1200 S Main St",
+     "Walnut Creek, CA 94596"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19259495463",
+   "display_phone": "(925) 949-5463",
+   "distance": 34356.08460313452
+  },
+  {
+   "id": "hfGwKCGCimNEBH_OgbR4Nw",
+   "alias": "cafe-van-kleef-oakland",
+   "name": "Cafe Van Kleef",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/PglQz6m1azFHTQHaMZZAcw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cafe-van-kleef-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 901,
+   "categories": [
+    {
+     "alias": "jazzandblues",
+     "title": "Jazz \u0026 Blues"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "galleries",
+     "title": "Art Galleries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.270403653383,
+    "Latitude": 37.8065065294504
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1621 Telegraph Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94620",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1621 Telegraph Ave",
+     "Oakland, CA 94620"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107637711",
+   "display_phone": "(510) 763-7711",
+   "distance": 13547.938577280504
+  },
+  {
+   "id": "lBpHzJLBI10oEOte7eFOaw",
+   "alias": "caliva-san-jose",
+   "name": "Caliva",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0ZOkhHEreJv9b_uHteGGGw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/caliva-san-jose?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 900,
+   "categories": [
+    {
+     "alias": "cannabis_clinics",
+     "title": "Cannabis Clinics"
+    },
+    {
+     "alias": "cannabisdispensaries",
+     "title": "Cannabis Dispensaries"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -121.865787,
+    "Latitude": 37.313794
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1695 S 7th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Jose",
+    "zip_code": "95112",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1695 S 7th St",
+     "San Jose, CA 95112"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18886880303",
+   "display_phone": "(888) 688-0303",
+   "distance": 70796.69068634568
+  },
+  {
+   "id": "iH8unhQplg_ETJlwNQUs7g",
+   "alias": "friedmans-appliance-pleasant-hill",
+   "name": "Friedmans Appliance",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dbEO6xe7tQJnYA3Kp5nAsg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/friedmans-appliance-pleasant-hill?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 870,
+   "categories": [
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.057618,
+    "Latitude": 37.943133
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2304 Monument Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Pleasant Hill",
+    "zip_code": "94523",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2304 Monument Blvd",
+     "Pleasant Hill, CA 94523"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19258082950",
+   "display_phone": "(925) 808-2950",
+   "distance": 36842.37212962065
+  },
+  {
+   "id": "Li2ELGw8JjOI9wC_MBkIUg",
+   "alias": "airport-home-appliance-concord-2",
+   "name": "Airport Home Appliance",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/auIEGvyunO8bDcdibcGV5g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/airport-home-appliance-concord-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 853,
+   "categories": [
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.048645,
+    "Latitude": 37.971375
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1505 Willow Pass Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Concord",
+    "zip_code": "94520",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1505 Willow Pass Rd",
+     "Concord, CA 94520"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19252657154",
+   "display_phone": "(925) 265-7154",
+   "distance": 39195.8241081225
+  }
+ ],
+ "total": 15000,
+ "region": {
+  "center": {
+   "longitude": -122.4194,
+   "Latitude": 37.7749
+  }
+ }
+}

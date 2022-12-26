@@ -1,0 +1,1848 @@
+{
+ "businesses": [
+  {
+   "id": "Vo7Vg3DYKUurgLWql614zg",
+   "alias": "american-handyman-in-paris-paris",
+   "name": "American Handyman in Paris",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j5hisRvBrxo8yEjgwVNO8g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/american-handyman-in-paris-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 7,
+   "categories": [
+    {
+     "alias": "handyman",
+     "title": "Handyman"
+    },
+    {
+     "alias": "electricians",
+     "title": "Electricians"
+    },
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.33371090888977,
+    "Latitude": 48.8633766174316
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75001",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "75001 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33612320439",
+   "display_phone": "+33 6 12 32 04 39",
+   "distance": 1754.8298778888018
+  },
+  {
+   "id": "hX7eUreogOH2-kqPiFqTHA",
+   "alias": "acacia-services-paris",
+   "name": "Acacia Services",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-sW18UA-gIBBM9akAIAQaw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/acacia-services-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "hvac",
+     "title": "Heating \u0026 Air Conditioning/HVAC"
+    },
+    {
+     "alias": "roofing",
+     "title": "Roofing"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.3482457,
+    "Latitude": 48.8654934
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "48 rue Greneta",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75002",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "48 rue Greneta",
+     "75002 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140264641",
+   "display_phone": "+33 1 40 26 46 41",
+   "distance": 1030.340212975245
+  },
+  {
+   "id": "87aIi2yH6kkSku0EEplkEw",
+   "alias": "entreprise-malar-paris-2",
+   "name": "Entreprise Malar",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5IYzUrx7VYtT2CIu70ajoQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/entreprise-malar-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "electricians",
+     "title": "Electricians"
+    },
+    {
+     "alias": "locksmiths",
+     "title": "Keys \u0026 Locksmiths"
+    },
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3880917,
+    "Latitude": 48.8504297
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13 rue Notre Dame de Nazareth",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75003",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "13 rue Notre Dame de Nazareth",
+     "75003 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144615160",
+   "display_phone": "+33 1 44 61 51 60",
+   "distance": 2714.155345392432
+  },
+  {
+   "id": "x58uQ-i7g3r_IpUSe9qynA",
+   "alias": "fcp-assistance-paris-26",
+   "name": "FCP Assistance",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_LwkbE5_2CkYXvIQnvsNlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fcp-assistance-paris-26?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 4,
+   "categories": [
+    {
+     "alias": "locksmiths",
+     "title": "Keys \u0026 Locksmiths"
+    },
+    {
+     "alias": "electricians",
+     "title": "Electricians"
+    },
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.3834271,
+    "Latitude": 48.8565745
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7 rue de Belfort",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "7 rue de Belfort",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33155690493",
+   "display_phone": "+33 1 55 69 04 93",
+   "distance": 2284.5819767419503
+  },
+  {
+   "id": "ODXnWmBpG8MAYU1Us41GUA",
+   "alias": "bruni-sanitaire-paris",
+   "name": "Bruni Sanitaire",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bruni-sanitaire-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "contractors",
+     "title": "General Contractors"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.4017476,
+    "Latitude": 48.83803
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "125 rue Picpus",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "125 rue Picpus",
+     "75012 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143438711",
+   "display_phone": "+33 1 43 43 87 11",
+   "distance": 4172.362535521785
+  },
+  {
+   "id": "zNxGYA8jwZbf3G0IxncqSg",
+   "alias": "ets-quentin-paris-2",
+   "name": "Ets Quentin",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/mhXl1EY9HoaP3FDsTkSLZA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ets-quentin-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": 2.28702,
+    "Latitude": 48.8444
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "87 rue de Lourmel",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75015",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "87 rue de Lourmel",
+     "75015 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33141088181",
+   "display_phone": "+33 1 41 08 81 81",
+   "distance": 4958.345335309435
+  },
+  {
+   "id": "bP4599HKx_gou6VPEDLj5A",
+   "alias": "gafsou-plomberie-serrurerie-montreuil",
+   "name": "Gafsou Plomberie serrurerie",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OyH0PPBTtA4Vi5juk8U4yA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/gafsou-plomberie-serrurerie-montreuil?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "locksmiths",
+     "title": "Keys \u0026 Locksmiths"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.4423845732121,
+    "Latitude": 48.8580418517485
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "36 rue Molière",
+    "address2": "",
+    "address3": "",
+    "city": "Montreuil",
+    "zip_code": "93100",
+    "country": "FR",
+    "state": "93",
+    "display_address": [
+     "36 rue Molière",
+     "93100 Montreuil",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33661217618",
+   "display_phone": "+33 6 61 21 76 18",
+   "distance": 6599.770122831218
+  },
+  {
+   "id": "nxVPzPaZGBzR3WYqgSUMrQ",
+   "alias": "fcp-assistance-paris-32",
+   "name": "FCP Assistance",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/krBSY1KF7pzyNk2KkxEJow/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fcp-assistance-paris-32?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "locksmiths",
+     "title": "Keys \u0026 Locksmiths"
+    },
+    {
+     "alias": "electricians",
+     "title": "Electricians"
+    },
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.32519224,
+    "Latitude": 48.82408842
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5 rue Poirier de Narçay",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75014",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "5 rue Poirier de Narçay",
+     "75014 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33139822642",
+   "display_phone": "+33 1 39 82 26 42",
+   "distance": 4123.622992707452
+  },
+  {
+   "id": "CJoEQxNKJFyIR72uCMztZQ",
+   "alias": "as-plomberie-gouvieux",
+   "name": "AS Plomberie",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/as-plomberie-gouvieux?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.4160981,
+    "Latitude": 49.1975602
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10 Rue Chaumont",
+    "address2": "",
+    "address3": "",
+    "city": "Gouvieux",
+    "zip_code": "60270",
+    "country": "FR",
+    "state": "60",
+    "display_address": [
+     "10 Rue Chaumont",
+     "60270 Gouvieux",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33344589170",
+   "display_phone": "+33 3 44 58 91 70",
+   "distance": 38198.1720878295
+  },
+  {
+   "id": "Q4nzPpvXgF-0UsMOoElEsg",
+   "alias": "plombier-dégorgement-paris",
+   "name": "Plombier Dégorgement",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/plombier-d%C3%A9gorgement-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": 2.381153,
+    "Latitude": 48.857993
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "43 rue d'Oberkampf",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "43 rue d'Oberkampf",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33149515120",
+   "display_phone": "+33 1 49 51 51 20",
+   "distance": 2123.832517423895
+  },
+  {
+   "id": "u6u4vFWZ-MCNyHW4iSm34g",
+   "alias": "entreprise-gosselin-paris",
+   "name": "Entreprise Gosselin",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/H7_i6D2v8ByBC5HuTZmiEA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/entreprise-gosselin-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "roofing",
+     "title": "Roofing"
+    },
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.31057,
+    "Latitude": 48.88495
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "99 Rue Cardinet",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "99 Rue Cardinet",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33155651155",
+   "display_phone": "+33 1 55 65 11 55",
+   "distance": 4382.719324421179
+  },
+  {
+   "id": "5GaoU2tYp-sslw1HQh-8yg",
+   "alias": "blue-gold-control-issy-les-moulineaux",
+   "name": "Blue Gold Control",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rqVbabubk54NOEK5Drrh4g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blue-gold-control-issy-les-moulineaux?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "electricians",
+     "title": "Electricians"
+    },
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "hvac",
+     "title": "Heating \u0026 Air Conditioning/HVAC"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.2724294,
+    "Latitude": 48.8244501
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "30 Rue Diderot",
+    "address2": "",
+    "address3": "",
+    "city": "Issy Les Moulineaux",
+    "zip_code": "92130",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "30 Rue Diderot",
+     "92130 Issy Les Moulineaux",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33610787740",
+   "display_phone": "+33 6 10 78 77 40",
+   "distance": 6845.512079787572
+  },
+  {
+   "id": "7HcWU-St-W5pMv7saNdZLw",
+   "alias": "decoren-paris",
+   "name": "Decoren",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/decoren-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.3811257,
+    "Latitude": 48.8553565
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "24 rue Godefroy Cavaignac",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "24 rue Godefroy Cavaignac",
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143701140",
+   "display_phone": "+33 1 43 70 11 40",
+   "distance": 2120.747490198172
+  },
+  {
+   "id": "ahJP_ewpw4qimhXZIAGV4Q",
+   "alias": "diderot-services-st-maur-des-fossés",
+   "name": "Diderot Services",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TkgmI_2ds0MZrV40KjT8cg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/diderot-services-st-maur-des-foss%C3%A9s?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "electricians",
+     "title": "Electricians"
+    },
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "contractors",
+     "title": "General Contractors"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.4823799,
+    "Latitude": 48.8023186
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "40 ave Diderot",
+    "address2": "",
+    "address3": "",
+    "city": "St Maur des Fossés",
+    "zip_code": "94100",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "40 ave Diderot",
+     "94100 St Maur des Fossés",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147303409",
+   "display_phone": "+33 1 47 30 34 09",
+   "distance": 11281.865358153125
+  },
+  {
+   "id": "_ZdZt1-kIjG2B4X35q3s_Q",
+   "alias": "zk-travaux-paris",
+   "name": "Zk Travaux",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/brZD3nS8DIwJcdDObViS5Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zk-travaux-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "contractors",
+     "title": "General Contractors"
+    },
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.35327,
+    "Latitude": 48.85607
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "131 ave de Clichy",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "131 ave de Clichy",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33663607249",
+   "display_phone": "+33 6 63 60 72 49",
+   "distance": 97.98553726867559
+  },
+  {
+   "id": "dNIQ1SBjdgwJYTOGsB5evQ",
+   "alias": "csy-la-celle-saint-cloud",
+   "name": "CSY",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/csy-la-celle-saint-cloud?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "hvac",
+     "title": "Heating \u0026 Air Conditioning/HVAC"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.1326666,
+    "Latitude": 48.8538675
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6 place du Marechal Leclerc",
+    "address2": "",
+    "address3": "",
+    "city": "La Celle-Saint-Cloud",
+    "zip_code": "78170",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "6 place du Marechal Leclerc",
+     "78170 La Celle-Saint-Cloud",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33130710202",
+   "display_phone": "+33 1 30 71 02 02",
+   "distance": 16064.405220971506
+  },
+  {
+   "id": "fiUSloupvjQDr4M4_47ILw",
+   "alias": "eric-clerno-paris",
+   "name": "Eric Clerno",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FbhPrciQ1R3nx0utHz_JbA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/eric-clerno-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": 2.3201572,
+    "Latitude": 48.8837247
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "21 rue Boursault",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75017",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "21 rue Boursault",
+     "75017 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145224456",
+   "display_phone": "+33 1 45 22 44 56",
+   "distance": 3819.6300712662764
+  },
+  {
+   "id": "RCUcf9-PRSjtypUReinxNw",
+   "alias": "artisan-berthier-paris",
+   "name": "Artisan Berthier",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/artisan-berthier-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "hvac",
+     "title": "Heating \u0026 Air Conditioning/HVAC"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.3187599,
+    "Latitude": 48.8804283
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "29 rue de Constantinople",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75008",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "29 rue de Constantinople",
+     "75008 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33153695830",
+   "display_phone": "+33 1 53 69 58 30",
+   "distance": 3601.3700059098705
+  },
+  {
+   "id": "c2VOIJCArhmOIlzxhHWNsQ",
+   "alias": "aquatech-versailles",
+   "name": "Aquatech",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ex-cSytlh5Fr1AXD4x6Lqw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aquatech-versailles?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.12507,
+    "Latitude": 48.79818
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13 Rue St Honoré",
+    "address2": "",
+    "address3": "",
+    "city": "Versailles",
+    "zip_code": "78000",
+    "country": "FR",
+    "state": "78",
+    "display_address": [
+     "13 Rue St Honoré",
+     "78000 Versailles",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33130211664",
+   "display_phone": "+33 1 30 21 16 64",
+   "distance": 17850.49687922139
+  },
+  {
+   "id": "v_m-tX7N1bWDwH2MV3CNOQ",
+   "alias": "plombier-st-mande-st-mandé",
+   "name": "Plombier St-Mande",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/plombier-st-mande-st-mand%C3%A9?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.4178639,
+    "Latitude": 48.842832
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13 rue de l'ecole",
+    "address2": "",
+    "address3": "",
+    "city": "St Mandé",
+    "zip_code": "75012",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "13 rue de l'ecole",
+     "75012 St Mandé",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33144792194",
+   "display_phone": "+33 1 44 79 21 94",
+   "distance": 5042.651115760625
+  },
+  {
+   "id": "McAgvEXFuIMw4iaaOaZ-cw",
+   "alias": "alain-père-et-fils-paris-35",
+   "name": "Alain Père et Fils",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/W9ZdSOjmX8z9DXERuZ2j6Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alain-p%C3%A8re-et-fils-paris-35?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "locksmiths",
+     "title": "Keys \u0026 Locksmiths"
+    },
+    {
+     "alias": "blinds",
+     "title": "Shades \u0026 Blinds"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": 2.396517,
+    "Latitude": 48.8792565
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3 rue Janssen",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75019",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "3 rue Janssen",
+     "75019 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142011556",
+   "display_phone": "+33 1 42 01 15 56",
+   "distance": 4105.380773389983
+  },
+  {
+   "id": "wM2qozYZw0e0NjbiCHADCA",
+   "alias": "la-plomberie-du-ruisseau-paris",
+   "name": "La plomberie du ruisseau",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mPGPblu3OLtV1NvNGDhB8Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-plomberie-du-ruisseau-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "hvac",
+     "title": "Heating \u0026 Air Conditioning/HVAC"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3401,
+    "Latitude": 48.8927
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "35 rue du Ruisseau",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75018",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "35 rue du Ruisseau",
+     "75018 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33142230540",
+   "display_phone": "+33 1 42 23 05 40",
+   "distance": 4110.515771255257
+  },
+  {
+   "id": "UWXHAA2WUz6QOO5g9ET9lw",
+   "alias": "bricoman-pontault-combault",
+   "name": "Bricoman",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bricoman-pontault-combault?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "electricians",
+     "title": "Electricians"
+    },
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "carpenters",
+     "title": "Carpenters"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.607598,
+    "Latitude": 48.801255
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "31 route de Paris RD 604",
+    "address2": "",
+    "address3": "",
+    "city": "Pontault-Combault",
+    "zip_code": "77340",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "31 route de Paris RD 604",
+     "77340 Pontault-Combault",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33160181380",
+   "display_phone": "+33 1 60 18 13 80",
+   "distance": 19682.1212522926
+  },
+  {
+   "id": "U8jEqwH5iMQ80pMLkyvl6g",
+   "alias": "atelier-alain-plomb-colombes",
+   "name": "Atelier Alain Plomb",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jGXm6VC9QUeVcWzB0z-lFA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/atelier-alain-plomb-colombes?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "windowsinstallation",
+     "title": "Windows Installation"
+    },
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "hvac",
+     "title": "Heating \u0026 Air Conditioning/HVAC"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.2516899,
+    "Latitude": 48.9232483
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10 rue Gabriel Péri",
+    "address2": "",
+    "address3": "",
+    "city": "Colombes",
+    "zip_code": "92700",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "10 rue Gabriel Péri",
+     "92700 Colombes",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33156471455",
+   "display_phone": "+33 1 56 47 14 55",
+   "distance": 10425.646510896127
+  },
+  {
+   "id": "f14-RMtRrMj4etIGUxjULg",
+   "alias": "sam-depanne-paris-11",
+   "name": "Sam Depanne",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xzGw-uqMbuMRDMFc63aNLg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sam-depanne-paris-11?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "locksmiths",
+     "title": "Keys \u0026 Locksmiths"
+    },
+    {
+     "alias": "windowsinstallation",
+     "title": "Windows Installation"
+    },
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.37886484074885,
+    "Latitude": 48.8636096663499
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "70 rue Saint-Maur",
+    "address2": "",
+    "address3": "",
+    "city": "Paris 11",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "70 rue Saint-Maur",
+     "75011 Paris 11",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143382626",
+   "display_phone": "+33 1 43 38 26 26",
+   "distance": 2100.625560200361
+  },
+  {
+   "id": "LW8y2eFQoy7U_xm0LeHu4g",
+   "alias": "pascal-swierczynski-villeparisis",
+   "name": "Pascal Swierczynski",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pascal-swierczynski-villeparisis?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.61196,
+    "Latitude": 48.94429
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "24 ave Aristide Briand",
+    "address2": "",
+    "address3": "",
+    "city": "Villeparisis",
+    "zip_code": "77270",
+    "country": "FR",
+    "state": "77",
+    "display_address": [
+     "24 ave Aristide Briand",
+     "77270 Villeparisis",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33664986777",
+   "display_phone": "+33 6 64 98 67 77",
+   "distance": 21344.730267720908
+  },
+  {
+   "id": "OeLw_zkrnXNQ5S02cqnA8w",
+   "alias": "richard-plomberie-du-marais-paris",
+   "name": "Richard Plomberie du Marais",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/richard-plomberie-du-marais-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "hvac",
+     "title": "Heating \u0026 Air Conditioning/HVAC"
+    },
+    {
+     "alias": "locksmiths",
+     "title": "Keys \u0026 Locksmiths"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.35729,
+    "Latitude": 48.85729
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "27 rue Vieille du Temple",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75004",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "27 rue Vieille du Temple",
+     "75004 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145330826",
+   "display_phone": "+33 1 45 33 08 26",
+   "distance": 379.89029914852154
+  },
+  {
+   "id": "EJHBWkbThE1p39up8sA5FA",
+   "alias": "ets-quentin-levallois-perret",
+   "name": "Ets Quentin",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pgqwcCgGt7Vzq2eQ1qdfAg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ets-quentin-levallois-perret?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.28229634,
+    "Latitude": 48.89328808
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "100 rue Marius Aufan",
+    "address2": "",
+    "address3": "",
+    "city": "Levallois Perret",
+    "zip_code": "92300",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "100 rue Marius Aufan",
+     "92300 Levallois Perret",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33147572727",
+   "display_phone": "+33 1 47 57 27 27",
+   "distance": 6536.9005331532735
+  },
+  {
+   "id": "C34U705j5zAbNqbJKAeoPQ",
+   "alias": "andré-travaux-paris-2",
+   "name": "André Travaux",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/andr%C3%A9-travaux-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "painters",
+     "title": "Painters"
+    },
+    {
+     "alias": "carpetinstallation",
+     "title": "Carpet Installation"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.38003754615784,
+    "Latitude": 48.859058380127
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75011",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "75011 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33625121348",
+   "display_phone": "+33 6 25 12 13 48",
+   "distance": 2123.832517423895
+  },
+  {
+   "id": "FasFsfh3qetQcJrWAdYIMA",
+   "alias": "abad-montmorency",
+   "name": "Abad",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/abad-montmorency?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.308413,
+    "Latitude": 48.9756325
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "83 rue Chesneaux",
+    "address2": "",
+    "address3": "",
+    "city": "Montmorency",
+    "zip_code": "95160",
+    "country": "FR",
+    "state": "95",
+    "display_address": [
+     "83 rue Chesneaux",
+     "95160 Montmorency",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33134285301",
+   "display_phone": "+33 1 34 28 53 01",
+   "distance": 13617.049784280478
+  },
+  {
+   "id": "SAnpHrBXzJ9ORwG_LOMefQ",
+   "alias": "acquatech-sceaux",
+   "name": "Acquatech",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/acquatech-sceaux?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.2920132,
+    "Latitude": 48.779295
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4 Rue Fontenay",
+    "address2": "",
+    "address3": "",
+    "city": "Sceaux",
+    "zip_code": "92330",
+    "country": "FR",
+    "state": "92",
+    "display_address": [
+     "4 Rue Fontenay",
+     "92330 Sceaux",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33146600915",
+   "display_phone": "+33 1 46 60 09 15",
+   "distance": 9659.633035961813
+  },
+  {
+   "id": "kA_RaFgaFGIhXtA1wECH5g",
+   "alias": "ets-gaulois-paris",
+   "name": "ETS Gaulois",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ets-gaulois-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "hvac",
+     "title": "Heating \u0026 Air Conditioning/HVAC"
+    },
+    {
+     "alias": "locksmiths",
+     "title": "Keys \u0026 Locksmiths"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.37177,
+    "Latitude": 48.87483
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "28 rue de Sambre et Meuse",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75010",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "28 rue de Sambre et Meuse",
+     "75010 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33140038405",
+   "display_phone": "+33 1 40 03 84 05",
+   "distance": 2481.572832547948
+  },
+  {
+   "id": "FcHUZU_ccC97bs5Ffy9FpQ",
+   "alias": "l-atelier-de-valentin-le-perreux-sur-marne-2",
+   "name": "L'Atelier de Valentin",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/l-atelier-de-valentin-le-perreux-sur-marne-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "electricians",
+     "title": "Electricians"
+    },
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "hvac",
+     "title": "Heating \u0026 Air Conditioning/HVAC"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.50032,
+    "Latitude": 48.8418884
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "55 avenue Ledru-Rollin",
+    "address2": "",
+    "address3": "",
+    "city": "Le Perreux-sur-Marne",
+    "zip_code": "94170",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "55 avenue Ledru-Rollin",
+     "94170 Le Perreux-sur-Marne",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148723553",
+   "display_phone": "+33 1 48 72 35 53",
+   "distance": 10953.30810890245
+  },
+  {
+   "id": "vUcb1jujdvGq00TM39Ao0A",
+   "alias": "axenthis-fontenay-sous-bois",
+   "name": "Axenthis",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/axenthis-fontenay-sous-bois?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": 2.46965,
+    "Latitude": 48.84714
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Rue Mauconseil",
+    "address2": "",
+    "address3": "",
+    "city": "Fontenay Sous Bois",
+    "zip_code": "94120",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "Rue Mauconseil",
+     "94120 Fontenay Sous Bois",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33148754094",
+   "display_phone": "+33 1 48 75 40 94",
+   "distance": 8657.612714820172
+  },
+  {
+   "id": "8y_OQ9kSfA_O1ZVjl_Uphg",
+   "alias": "entreprise-royer-palaiseau",
+   "name": "Entreprise Royer",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/entreprise-royer-palaiseau?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.2282837,
+    "Latitude": 48.7099915
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "13 Rue Royon",
+    "address2": "",
+    "address3": "",
+    "city": "Palaiseau",
+    "zip_code": "91120",
+    "country": "FR",
+    "state": "91",
+    "display_address": [
+     "13 Rue Royon",
+     "91120 Palaiseau",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33160106817",
+   "display_phone": "+33 1 60 10 68 17",
+   "distance": 18659.760363968526
+  },
+  {
+   "id": "rG5XuM07XJYV-en7rVnR2A",
+   "alias": "abs-plombier-paris",
+   "name": "ABS Plombier",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jzcjT2YHQuwRd_vfMz1AJg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/abs-plombier-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.34535544492189,
+    "Latitude": 48.8602280730773
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33664986777",
+   "display_phone": "+33 6 64 98 67 77",
+   "distance": 643.0249990532565
+  },
+  {
+   "id": "bHW9wOiE3ql82I-q9mW6yg",
+   "alias": "db-batiment-ivry-sur-seine",
+   "name": "DB Batiment",
+   "image_url": "",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/db-batiment-ivry-sur-seine?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "electricians",
+     "title": "Electricians"
+    },
+    {
+     "alias": "painters",
+     "title": "Painters"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3938799,
+    "Latitude": 48.8157883
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "55 rue Lenine",
+    "address2": "",
+    "address3": "",
+    "city": "Ivry-sur-Seine",
+    "zip_code": "94200",
+    "country": "FR",
+    "state": "94",
+    "display_address": [
+     "55 rue Lenine",
+     "94200 Ivry-sur-Seine",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 5468.924393001655
+  },
+  {
+   "id": "Pb3VGdfXstpBnsPPHmx_6A",
+   "alias": "cayenne-des-compagnons-des-devoirs-paris",
+   "name": "Cayenne des Compagnons des Devoirs",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VyI7qsoNsfueORccBnhf9g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cayenne-des-compagnons-des-devoirs-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.386883,
+    "Latitude": 48.8872897
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "161 ave Jean Jaures",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75019",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "161 ave Jean Jaures",
+     "75019 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "",
+   "display_phone": "",
+   "distance": 4252.04859492437
+  },
+  {
+   "id": "Uw0ZzNVFjuJOVVsCY0mPdg",
+   "alias": "artipec-paris-2",
+   "name": "ARTIPEC",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ub8HDGenUXVsaFn3InuS4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/artipec-paris-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    },
+    {
+     "alias": "hvac",
+     "title": "Heating \u0026 Air Conditioning/HVAC"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": 2.3448038,
+    "Latitude": 48.8758936
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "29 rue bleue",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75009",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "29 rue bleue",
+     "75009 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33145233501",
+   "display_phone": "+33 1 45 23 35 01",
+   "distance": 2212.5104307739175
+  },
+  {
+   "id": "uDIyMI34DyrRFb8QBehzCg",
+   "alias": "plomberie-du-20-ème-paris",
+   "name": "Plomberie du 20 ème",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/e7ZzK01SnyydydDT0jeHqA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/plomberie-du-20-%C3%A8me-paris?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1,
+   "categories": [
+    {
+     "alias": "plumbing",
+     "title": "Plumbing"
+    }
+   ],
+   "rating": 1,
+   "coordinates": {
+    "longitude": 2.39996,
+    "Latitude": 48.864
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "9 place Emile Landrin",
+    "address2": "",
+    "address3": "",
+    "city": "Paris",
+    "zip_code": "75020",
+    "country": "FR",
+    "state": "75",
+    "display_address": [
+     "9 place Emile Landrin",
+     "75020 Paris",
+     "France"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+33143159500",
+   "display_phone": "+33 1 43 15 95 00",
+   "distance": 3589.4571033478423
+  }
+ ],
+ "total": 72,
+ "region": {
+  "center": {
+   "longitude": 2.3522,
+   "Latitude": 48.8566
+  }
+ }
+}

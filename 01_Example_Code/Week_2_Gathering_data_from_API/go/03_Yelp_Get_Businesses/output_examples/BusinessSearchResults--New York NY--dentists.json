@@ -1,0 +1,1900 @@
+{
+ "businesses": [
+  {
+   "id": "7DtRXhtvrSVXzrGwTFK-dg",
+   "alias": "212-dental-care-new-york",
+   "name": "212 Dental Care",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i2M9qednpefItE2uPFYLBA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/212-dental-care-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 825,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "endodontists",
+     "title": "Endodontists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9803915,
+    "Latitude": 40.7517681
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "286 Madison Ave",
+    "address2": "Ste 1000",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10017",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "286 Madison Ave",
+     "Ste 1000",
+     "New York, NY 10017"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18885069583",
+   "display_phone": "(888) 506-9583",
+   "distance": 4840.586167438148
+  },
+  {
+   "id": "bzMZy8oT4OJmV7v61VqQRA",
+   "alias": "expert-dental-new-york-2",
+   "name": "Expert Dental",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FyBIVUCNSFYa_4Op-nSGBw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/expert-dental-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 654,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    },
+    {
+     "alias": "endodontists",
+     "title": "Endodontists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9779062569141,
+    "Latitude": 40.7504890859127
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "110 E 40th St",
+    "address2": "Ste 104",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "110 E 40th St",
+     "Ste 104",
+     "New York, NY 10016"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126822965",
+   "display_phone": "(212) 682-2965",
+   "distance": 4801.871069445569
+  },
+  {
+   "id": "SxHLg7PFpNSWr7vP7lCJtw",
+   "alias": "metropolitan-dental-associates-new-york",
+   "name": "Metropolitan Dental Associates",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/i8JxBGOrSwN6steU82S_3g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/metropolitan-dental-associates-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 390,
+   "categories": [
+    {
+     "alias": "periodontists",
+     "title": "Periodontists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -74.0085978,
+    "Latitude": 40.7118321
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "225 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10007",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "225 Broadway",
+     "New York, NY 10007"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127327400",
+   "display_phone": "(212) 732-7400",
+   "distance": 243.97703144146942
+  },
+  {
+   "id": "6PtHgS0Pdeu-N82DNdJ9Vg",
+   "alias": "pda-dental-new-york",
+   "name": "PDA Dental",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Qyx5RIBecPHnt3ax-Z5lzw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pda-dental-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 324,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    },
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.01009,
+    "Latitude": 40.70918
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "150 Broadway",
+    "address2": "Ste 1310",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10038",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "150 Broadway",
+     "Ste 1310",
+     "New York, NY 10038"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122351391",
+   "display_phone": "(212) 235-1391",
+   "distance": 529.9689257376677
+  },
+  {
+   "id": "CpSXDKQs6MiM4sSzIWOBOg",
+   "alias": "zen-dentistry-midtown-new-york",
+   "name": "Zen Dentistry - Midtown",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pZAbiS_5J38h8dKCSbxiGA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zen-dentistry-midtown-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 227,
+   "categories": [
+    {
+     "alias": "pediatric_dentists",
+     "title": "Pediatric Dentists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.97028925952453,
+    "Latitude": 40.76367810143168
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "30 E 60th St",
+    "address2": "Ste 401",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "30 E 60th St",
+     "Ste 401",
+     "New York, NY 10022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125373894",
+   "display_phone": "(212) 537-3894",
+   "distance": 6407.673176801483
+  },
+  {
+   "id": "Xa722iaL9opuciFrxMn-cg",
+   "alias": "209-nyc-dental-new-york",
+   "name": "209 NYC Dental",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/r-fcjx9ktYia1llLecZzzw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/209-nyc-dental-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 224,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "periodontists",
+     "title": "Periodontists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.96710317260268,
+    "Latitude": 40.7594392131987
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "209 E 56th St",
+    "address2": "Fl 1",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "209 E 56th St",
+     "Fl 1",
+     "New York, NY 10022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123552290",
+   "display_phone": "(212) 355-2290",
+   "distance": 6134.764748112036
+  },
+  {
+   "id": "pV8tuc-HCr81eTz3S6PjmA",
+   "alias": "the-exchange-dental-group-new-york",
+   "name": "The Exchange Dental Group",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ppEOftOVsOYjkecq9Rcs3w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-exchange-dental-group-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 192,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    },
+    {
+     "alias": "endodontists",
+     "title": "Endodontists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.01314,
+    "Latitude": 40.70622
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "39 Broadway",
+    "address2": "Ste 2115",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10006",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "39 Broadway",
+     "Ste 2115",
+     "New York, NY 10006"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124229229",
+   "display_phone": "(212) 422-9229",
+   "distance": 937.6234516223965
+  },
+  {
+   "id": "5s5jg8zjIpk6msz9igRJ2Q",
+   "alias": "smile-cafe-dental-spa-new-york-2",
+   "name": "Smile Cafe Dental Spa",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cdXWcSSFFulflM4IpOkDuw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/smile-cafe-dental-spa-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 192,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "periodontists",
+     "title": "Periodontists"
+    },
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9798207,
+    "Latitude": 40.7486562
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "45 Park Ave",
+    "address2": "Unit 1",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "45 Park Ave",
+     "Unit 1",
+     "New York, NY 10016"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127793494",
+   "display_phone": "(212) 779-3494",
+   "distance": 4556.57785334917
+  },
+  {
+   "id": "RGoa9vuXsrrRCJpMUtnw2g",
+   "alias": "group-health-dental-new-york",
+   "name": "Group Health Dental",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/67mhotA7wm4aS7Q9qd5OcQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/group-health-dental-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 190,
+   "categories": [
+    {
+     "alias": "periodontists",
+     "title": "Periodontists"
+    },
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.98879,
+    "Latitude": 40.75583
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "230 W 41st St",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10036",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "230 W 41st St",
+     "Fl 2",
+     "New York, NY 10036"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15164079561",
+   "display_phone": "(516) 407-9561",
+   "distance": 4985.863790379209
+  },
+  {
+   "id": "mHxdpcME9uY0-H6bDfx4Wg",
+   "alias": "midtown-dental-group-west-new-york",
+   "name": "Midtown Dental Group - West",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7OhCHksXs_F1QTTDGx5Pmw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/midtown-dental-group-west-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 179,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.9907784,
+    "Latitude": 40.7537442
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "241 W 37th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "241 W 37th St",
+     "New York, NY 10018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127647226",
+   "display_phone": "(212) 764-7226",
+   "distance": 4729.98495201317
+  },
+  {
+   "id": "r1BIfDszkm4FaB9yjZ0KLw",
+   "alias": "hanson-place-dental-associates-brooklyn-2",
+   "name": "Hanson Place Dental Associates",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fdXnW99FG1iAptDvdN-EYA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hanson-place-dental-associates-brooklyn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 174,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.9868,
+    "Latitude": 40.6902
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "177 Livingston St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "177 Livingston St",
+     "Brooklyn, NY 11201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184030700",
+   "display_phone": "(718) 403-0700",
+   "distance": 2977.4188748749184
+  },
+  {
+   "id": "F33RacaV7cO4b-yudHx87g",
+   "alias": "nyu-college-of-dentistry-new-york",
+   "name": "NYU College of Dentistry",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RYh6FE_Ry5aQbzlpLv4jYw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nyu-college-of-dentistry-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 171,
+   "categories": [
+    {
+     "alias": "dentists",
+     "title": "Dentists"
+    },
+    {
+     "alias": "dentalhygienists",
+     "title": "Dental Hygienists"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.97838,
+    "Latitude": 40.73781
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "345 E 24th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "345 E 24th St",
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129989800",
+   "display_phone": "(212) 998-9800",
+   "distance": 3647.0989629322094
+  },
+  {
+   "id": "AE0_gP5wVpWrae5s_UqR3g",
+   "alias": "tribeca-dental-care-new-york",
+   "name": "Tribeca Dental Care",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mpqxmaDgrddwMMc0kMjPOQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tribeca-dental-care-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 171,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.0021707,
+    "Latitude": 40.7186887
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "402 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10013",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "402 Broadway",
+     "New York, NY 10013"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124314582",
+   "display_phone": "(212) 431-4582",
+   "distance": 730.0083336877744
+  },
+  {
+   "id": "c0cM4kze_31oQCdxMaCDqQ",
+   "alias": "chatham-square-oral-and-maxillofacial-surgery-new-york-2",
+   "name": "Chatham Square Oral \u0026 Maxillofacial Surgery",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/k3zoxMXEEdKjusPVUXnwSA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/chatham-square-oral-and-maxillofacial-surgery-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 164,
+   "categories": [
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.9999428549215,
+    "Latitude": 40.7131345809789
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "217 Park Row",
+    "address2": "Ste 4B",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10038",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "217 Park Row",
+     "Ste 4B",
+     "New York, NY 10038"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122334934",
+   "display_phone": "(212) 233-4934",
+   "distance": 626.5727131659002
+  },
+  {
+   "id": "Fd65EXCDFk3dh7FdZkE-0g",
+   "alias": "cascada-dental-spa-new-york",
+   "name": "Cascada Dental Spa",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FtUmUbSsMnSZXXCah6K7_Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cascada-dental-spa-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 161,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9368024,
+    "Latitude": 40.8506319
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "719 W 181st St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10033",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "719 W 181st St",
+     "New York, NY 10033"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127951040",
+   "display_phone": "(212) 795-1040",
+   "distance": 16398.638830878466
+  },
+  {
+   "id": "Jdr93oYai3icEj6WQD8S7g",
+   "alias": "slim-dental-new-york-5",
+   "name": "New York Dentist- Slim Dental - Murray Hill",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IQBwr_hnL6FZcwes2H1z4g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/slim-dental-new-york-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 159,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.98092,
+    "Latitude": 40.74925
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "30 E 37th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "30 E 37th St",
+     "New York, NY 10016"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16467274188",
+   "display_phone": "(646) 727-4188",
+   "distance": 4560.853447693771
+  },
+  {
+   "id": "Kn7WUGuGCLsNsH-_hmObqg",
+   "alias": "manhattan-bridge-orthodontics-new-york-2",
+   "name": "Manhattan Bridge Orthodontics",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eLhCaw5lKPvureN7DEJ7OA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/manhattan-bridge-orthodontics-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 152,
+   "categories": [
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9954123,
+    "Latitude": 40.71658
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "77 Bowery",
+    "address2": "Fl 6",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10002",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "77 Bowery",
+     "Fl 6",
+     "New York, NY 10002"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122740477",
+   "display_phone": "(212) 274-0477",
+   "distance": 986.3868259036828
+  },
+  {
+   "id": "DATSwlpsnPvKk1xZ5sw8Mw",
+   "alias": "nyu-dental-clinic-new-york",
+   "name": "NYU Dental Clinic",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sTUbmihZWcpgItuHEvc6tQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nyu-dental-clinic-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 145,
+   "categories": [
+    {
+     "alias": "dentists",
+     "title": "Dentists"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.9782790839672,
+    "Latitude": 40.7379155662527
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129989800",
+   "display_phone": "(212) 998-9800",
+   "distance": 3640.904160110343
+  },
+  {
+   "id": "bfO6Spe_3D8n0MRAwus7HA",
+   "alias": "tribeca-dental-design-new-york",
+   "name": "Tribeca Dental Design",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KrbAQUKfhw8MiGle_0tx0g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tribeca-dental-design-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 145,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -74.009765,
+    "Latitude": 40.715541
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "144 Chambers St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10007",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "144 Chambers St",
+     "New York, NY 10007"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122279127",
+   "display_phone": "(212) 227-9127",
+   "distance": 442.6906023548938
+  },
+  {
+   "id": "qXB2T7dh7FQFyJZixipyUg",
+   "alias": "west-end-dental-associates-new-york",
+   "name": "West End Dental Associates",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/FUP-4EPzfI4TQo-LJCqp7A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/west-end-dental-associates-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 144,
+   "categories": [
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9850497,
+    "Latitude": 40.7793117
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "243 W End Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10023",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "243 W End Ave",
+     "New York, NY 10023"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125951100",
+   "display_phone": "(212) 595-1100",
+   "distance": 7603.425076519243
+  },
+  {
+   "id": "ohow3XTmxBQ-2_2GrKmVAw",
+   "alias": "tanya-vaysman-new-york-4",
+   "name": "Tanya Vaysman",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pYOEZCyGjjYCwyFAUvFYaQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tanya-vaysman-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 143,
+   "categories": [
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    },
+    {
+     "alias": "pediatric_dentists",
+     "title": "Pediatric Dentists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.95475802345666,
+    "Latitude": 40.7801685387819
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "153 E 87th St",
+    "address2": "Ste 1B",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10128",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "153 E 87th St",
+     "Ste 1B",
+     "New York, NY 10128"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19179814923",
+   "display_phone": "(917) 981-4923",
+   "distance": 8645.78273207978
+  },
+  {
+   "id": "EuyALWrU60E-C4NMznCSVA",
+   "alias": "clarence-loflin-dds-new-york-2",
+   "name": "Clarence Loflin, DDS",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/8wYUMkz_DCczt57Ku72Jxg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/clarence-loflin-dds-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 142,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.97978916650023,
+    "Latitude": 40.76658512867248
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "200 Central Park S",
+    "address2": "Ste 206",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10019",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "200 Central Park S",
+     "Ste 206",
+     "New York, NY 10019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124933309",
+   "display_phone": "(212) 493-3309",
+   "distance": 6375.292938760955
+  },
+  {
+   "id": "h6RwzYH0wZWVHbu63T_kww",
+   "alias": "robert-rosenkranz-dds-brooklyn-3",
+   "name": "Robert Rosenkranz, DDS",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ouq6BNpqPBNvh9Oyb8OBMA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/robert-rosenkranz-dds-brooklyn-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 142,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "pediatric_dentists",
+     "title": "Pediatric Dentists"
+    },
+    {
+     "alias": "periodontists",
+     "title": "Periodontists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9765090330047,
+    "Latitude": 40.669510158487
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "300 8th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11215",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "300 8th Ave",
+     "Brooklyn, NY 11215"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17184995323",
+   "display_phone": "(718) 499-5323",
+   "distance": 5417.855781139658
+  },
+  {
+   "id": "UyNGjLH6As6n00qe2wiqPg",
+   "alias": "dolman-oral-surgery-new-york",
+   "name": "Dolman Oral Surgery",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tbZa5bqSuaFRaNwxnoUJTg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dolman-oral-surgery-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 141,
+   "categories": [
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.97523,
+    "Latitude": 40.75924
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "16 E 52nd St",
+    "address2": "Ste 402",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "16 E 52nd St",
+     "Ste 402",
+     "New York, NY 10022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126960167",
+   "display_phone": "(212) 696-0167",
+   "distance": 5764.373885851291
+  },
+  {
+   "id": "RxcvDEi19fh01WTng3UD-Q",
+   "alias": "neal-vallins-dds-new-york",
+   "name": "Neal Vallins DDS",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cw3nBpbaRghTcNfVxpaYQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/neal-vallins-dds-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 136,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "periodontists",
+     "title": "Periodontists"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9720907704224,
+    "Latitude": 40.765445013374
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "800A 5th Ave",
+    "address2": "Ste 305",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10065",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "800A 5th Ave",
+     "Ste 305",
+     "New York, NY 10065"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123716887",
+   "display_phone": "(212) 371-6887",
+   "distance": 6513.78490688911
+  },
+  {
+   "id": "fsMYEcZFupnqhN8NXxpwLw",
+   "alias": "leading-edge-oral-surgery-elmhurst",
+   "name": "Leading Edge Oral Surgery",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7UnXplx9WnmuE1Cj1QYwLg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/leading-edge-oral-surgery-elmhurst?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 134,
+   "categories": [
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.872066,
+    "Latitude": 40.730062
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "6070 Woodhaven Blvd",
+    "address2": "Ste C2",
+    "address3": "",
+    "city": "Elmhurst",
+    "zip_code": "11373",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "6070 Woodhaven Blvd",
+     "Ste C2",
+     "Elmhurst, NY 11373"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188976400",
+   "display_phone": "(718) 897-6400",
+   "distance": 11449.125886676964
+  },
+  {
+   "id": "gxKVZu9kYWSFwshrpurqIA",
+   "alias": "dental365-citidentalgroup-new-york",
+   "name": "Dental365 CitiDentalGroup",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Eb0Rf6LZuSkqVaBvqTnwFQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dental365-citidentalgroup-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 134,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9816096,
+    "Latitude": 40.7500577
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "240 Madison Ave",
+    "address2": "Fl 12",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10016",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "240 Madison Ave",
+     "Fl 12",
+     "New York, NY 10016"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126852890",
+   "display_phone": "(212) 685-2890",
+   "distance": 4624.605047378944
+  },
+  {
+   "id": "xhCnORJ51DECZJxhqJH5xw",
+   "alias": "tribeca-dental-studio-new-york-8",
+   "name": "Tribeca Dental Studio",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/07sG3mNodJWJgCjMJaGfxA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tribeca-dental-studio-new-york-8?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 133,
+   "categories": [
+    {
+     "alias": "pediatric_dentists",
+     "title": "Pediatric Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.009037,
+    "Latitude": 40.714916
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "54 Warren St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10007",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "54 Warren St",
+     "New York, NY 10007"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125615303",
+   "display_phone": "(212) 561-5303",
+   "distance": 346.39068436420877
+  },
+  {
+   "id": "Cd10TSmaixSgsVrtuMxE-g",
+   "alias": "advanced-dds-garden-city-3",
+   "name": "Advanced, DDS",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dSfi69HgF2NOePDskgxCzg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/advanced-dds-garden-city-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 128,
+   "categories": [
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.6164319,
+    "Latitude": 40.7376065
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "200 Garden City Plz",
+    "address2": "Ste 101",
+    "address3": "",
+    "city": "Garden City",
+    "zip_code": "11530",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "200 Garden City Plz",
+     "Ste 101",
+     "Garden City, NY 11530"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15168251100",
+   "display_phone": "(516) 825-1100",
+   "distance": 32944.04693915913
+  },
+  {
+   "id": "s4ZqChHa7K-f7YwGoB4X1Q",
+   "alias": "vip-dental-care-forest-hills",
+   "name": "VIP Dental Care",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ZlIovn1tEsY5tEbzkK3Eiw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vip-dental-care-forest-hills?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 127,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "endodontists",
+     "title": "Endodontists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.8423978,
+    "Latitude": 40.7203775
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "108-62 Queens Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Forest Hills",
+    "zip_code": "11375",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "108-62 Queens Blvd",
+     "Forest Hills, NY 11375"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17185750060",
+   "display_phone": "(718) 575-0060",
+   "distance": 13813.42051478279
+  },
+  {
+   "id": "RUNrCpsHYK09I0SrMe1pnQ",
+   "alias": "smile-arts-of-ny-new-york-3",
+   "name": "Smile Arts of NY",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RU4-T9Csdzc9ONgsPBiVkQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/smile-arts-of-ny-new-york-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 126,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.9796012,
+    "Latitude": 40.7512201
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "30 E 40th St",
+    "address2": "Ste 105",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "94403",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "30 E 40th St",
+     "Ste 105",
+     "New York, NY 94403"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12125376923",
+   "display_phone": "(212) 537-6923",
+   "distance": 4816.5100434198575
+  },
+  {
+   "id": "JzG3_VhubxL2Ky_X3lW55g",
+   "alias": "emagen-dental-new-york",
+   "name": "Emagen Dental",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZgDPTs0EknH6PFYfWR6xug/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/emagen-dental-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 125,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.998397,
+    "Latitude": 40.744979
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "250 8th Ave",
+    "address2": "Ste 2S",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "250 8th Ave",
+     "Ste 2S",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123529300",
+   "display_phone": "(212) 352-9300",
+   "distance": 3631.400298286547
+  },
+  {
+   "id": "MsZrsuBa_Gkp4_ltHslS6A",
+   "alias": "steinway-family-dental-center-astoria-3",
+   "name": "Steinway Family Dental Center",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/i7b-8PP-HEqWTdTmGHD8yg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/steinway-family-dental-center-astoria-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 125,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "periodontists",
+     "title": "Periodontists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.9202959,
+    "Latitude": 40.757778
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "32-50 Steinway St",
+    "address2": "",
+    "address3": "",
+    "city": "Astoria",
+    "zip_code": "11103",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "32-50 Steinway St",
+     "Astoria, NY 11103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187283314",
+   "display_phone": "(718) 728-3314",
+   "distance": 8783.914596866336
+  },
+  {
+   "id": "D5b1LHafSu9eXxrYShZ51g",
+   "alias": "dental-care-of-stamford-stamford-5",
+   "name": "Dental Care of Stamford",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Vi6ksLhWJYZaruOdS-3Phw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dental-care-of-stamford-stamford-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 122,
+   "categories": [
+    {
+     "alias": "orthodontists",
+     "title": "Orthodontists"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.54272159776087,
+    "Latitude": 41.063025038662815
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1500 Summer St",
+    "address2": "",
+    "address3": "",
+    "city": "Stamford",
+    "zip_code": "06905",
+    "country": "US",
+    "state": "CT",
+    "display_address": [
+     "1500 Summer St",
+     "Stamford, CT 06905"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12038750572",
+   "display_phone": "(203) 875-0572",
+   "distance": 55074.58577630019
+  },
+  {
+   "id": "AAjhdSPg-t0tL0Cs1wxdRw",
+   "alias": "dental-made-easy-forest-hills",
+   "name": "Dental Made Easy",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0cORpC1HBU43mQT5Ayeijg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dental-made-easy-forest-hills?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 120,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.8333395,
+    "Latitude": 40.715453
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "116-20 Queens Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Forest Hills",
+    "zip_code": "11375",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "116-20 Queens Blvd",
+     "Forest Hills, NY 11375"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17185077781",
+   "display_phone": "(718) 507-7781",
+   "distance": 14555.28369071042
+  },
+  {
+   "id": "mZoj-5AAYig4B-wzIE0otA",
+   "alias": "yen-dentistry-and-implantology-flushing-2",
+   "name": "Yen Dentistry \u0026 Implantology",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zv40hUXbWsBlUjPpqTWiBw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/yen-dentistry-and-implantology-flushing-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 119,
+   "categories": [
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.8269448280334,
+    "Latitude": 40.7557096763643
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "136-30 Maple Ave",
+    "address2": "Ste 2E",
+    "address3": "",
+    "city": "Flushing",
+    "zip_code": "11355",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "136-30 Maple Ave",
+     "Ste 2E",
+     "Flushing, NY 11355"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183581200",
+   "display_phone": "(718) 358-1200",
+   "distance": 15823.205089885936
+  },
+  {
+   "id": "s2A-41TFvo-mvR_fAvxOAQ",
+   "alias": "ismile-dental-brooklyn",
+   "name": "iSmile Dental",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/PDTLoCji8FJZPXuxl9B3sg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ismile-dental-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 116,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9636165,
+    "Latitude": 40.71951565828673
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "144 N 8th St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11249",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "144 N 8th St",
+     "Brooklyn, NY 11249"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187093852",
+   "display_phone": "(718) 709-3852",
+   "distance": 3649.306722464419
+  },
+  {
+   "id": "Bg6D_pR2fTGkmBUguK1mmg",
+   "alias": "lumia-dental-new-york-4",
+   "name": "Lumia Dental",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uzU1yEG-VQ0tGAOvEpADIQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lumia-dental-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 113,
+   "categories": [
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "pediatric_dentists",
+     "title": "Pediatric Dentists"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -74.010138,
+    "Latitude": 40.709396
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "160 Broadway",
+    "address2": "Ste 1004",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10038",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "160 Broadway",
+     "Ste 1004",
+     "New York, NY 10038"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122871275",
+   "display_phone": "(212) 287-1275",
+   "distance": 507.50127180505456
+  },
+  {
+   "id": "Fk8VtEFck9SWbvgfnc1W_Q",
+   "alias": "tend-uws-new-york",
+   "name": "Tend - UWS",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Pn6GVfni3_5X4Oe4PMSJOQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tend-uws-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 112,
+   "categories": [
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.9757424,
+    "Latitude": 40.78877371004198
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2376 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10024",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "2376 Broadway",
+     "New York, NY 10024"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126863686",
+   "display_phone": "(212) 686-3686",
+   "distance": 8824.002683683324
+  },
+  {
+   "id": "djO8ptwcbGe9f1YxZ7W5Mw",
+   "alias": "presidental-care-new-york",
+   "name": "PresiDental Care",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/C6eQOGvxYRoh88OtTtMb1g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/presidental-care-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 112,
+   "categories": [
+    {
+     "alias": "oralsurgeons",
+     "title": "Oral Surgeons"
+    },
+    {
+     "alias": "generaldentistry",
+     "title": "General Dentistry"
+    },
+    {
+     "alias": "cosmeticdentists",
+     "title": "Cosmetic Dentists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9888164,
+    "Latitude": 40.7538172
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "526 7th Ave",
+    "address2": "Fl 3",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "526 7th Ave",
+     "Fl 3",
+     "New York, NY 10018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122213691",
+   "display_phone": "(212) 221-3691",
+   "distance": 4785.197132759354
+  }
+ ],
+ "total": 7300,
+ "region": {
+  "center": {
+   "longitude": -74.006,
+   "Latitude": 40.7128
+  }
+ }
+}

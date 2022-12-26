@@ -1,0 +1,1936 @@
+{
+ "businesses": [
+  {
+   "id": "M03AADwK3L7FCFtZdC5h3A",
+   "alias": "little-lucca-specialty-sandwich-shop-south-san-francisco",
+   "name": "Little Lucca Specialty Sandwich Shop",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Q5o2kPg-QzN2JHtuDsV7Gw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/little-lucca-specialty-sandwich-shop-south-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3329,
+   "categories": [
+    {
+     "alias": "sandwiches",
+     "title": "Sandwiches"
+    },
+    {
+     "alias": "catering",
+     "title": "Caterers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.43056,
+    "Latitude": 37.65091
+   },
+   "transactions": [
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "724 El Camino Real",
+    "address2": "",
+    "address3": "",
+    "city": "South San Francisco",
+    "zip_code": "94080",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "724 El Camino Real",
+     "South San Francisco, CA 94080"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16505898916",
+   "display_phone": "(650) 589-8916",
+   "distance": 13825.69948454629
+  },
+  {
+   "id": "6PzyzeiWjJ0fPpuKZffn9g",
+   "alias": "california-academy-of-sciences-san-francisco",
+   "name": "California Academy of Sciences",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CUhjEmCbFNP76WK6ENRVlg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/california-academy-of-sciences-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 3328,
+   "categories": [
+    {
+     "alias": "museums",
+     "title": "Museums"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "aquariums",
+     "title": "Aquariums"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.466041,
+    "Latitude": 37.769816
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "55 Music Concourse Dr",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94118",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "55 Music Concourse Dr",
+     "San Francisco, CA 94118"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153798000",
+   "display_phone": "(415) 379-8000",
+   "distance": 4138.258776192306
+  },
+  {
+   "id": "WxxE5kE8omgQhJE8sWIvmA",
+   "alias": "tadich-grill-san-francisco",
+   "name": "Tadich Grill",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/J1dQFK0WcNyaGxKSve56Kg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tadich-grill-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2647,
+   "categories": [
+    {
+     "alias": "seafood",
+     "title": "Seafood"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "wine_bars",
+     "title": "Wine Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.399468217791,
+    "Latitude": 37.793431560349
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "240 California St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94111",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "240 California St",
+     "San Francisco, CA 94111"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153911849",
+   "display_phone": "(415) 391-1849",
+   "distance": 2704.4859441996837
+  },
+  {
+   "id": "2DihFta_jZB8aAiL_zjp9A",
+   "alias": "epic-steak-san-francisco",
+   "name": "EPIC Steak",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ph28mtxiiStgTph26WFs5g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/epic-steak-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2613,
+   "categories": [
+    {
+     "alias": "steak",
+     "title": "Steakhouses"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.389469,
+    "Latitude": 37.790872
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$$$",
+   "location": {
+    "address1": "369 The Embarcadero",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "369 The Embarcadero",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153699955",
+   "display_phone": "(415) 369-9955",
+   "distance": 3173.8132430545265
+  },
+  {
+   "id": "r7Ggh7ejuBWjT0TQPW-ypA",
+   "alias": "cream-berkeley-5",
+   "name": "CREAM",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/sAHiMialTVt6_6EcwxBghg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cream-berkeley-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2338,
+   "categories": [
+    {
+     "alias": "desserts",
+     "title": "Desserts"
+    },
+    {
+     "alias": "icecream",
+     "title": "Ice Cream \u0026 Frozen Yogurt"
+    },
+    {
+     "alias": "catering",
+     "title": "Caterers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.25858,
+    "Latitude": 37.86721
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "2399 Telegraph Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2399 Telegraph Ave",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106491000",
+   "display_phone": "(510) 649-1000",
+   "distance": 17452.87286427708
+  },
+  {
+   "id": "7b3Gsc5rdyBVLeakDRZG1g",
+   "alias": "the-refuge-san-carlos",
+   "name": "The Refuge",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zZ9CUouYeu48-POFNY0SsA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-refuge-san-carlos?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2260,
+   "categories": [
+    {
+     "alias": "sandwiches",
+     "title": "Sandwiches"
+    },
+    {
+     "alias": "burgers",
+     "title": "Burgers"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.2552651,
+    "Latitude": 37.5018512
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "963 Laurel St",
+    "address2": "",
+    "address3": "",
+    "city": "San Carlos",
+    "zip_code": "94070",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "963 Laurel St",
+     "San Carlos, CA 94070"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16505989813",
+   "display_phone": "(650) 598-9813",
+   "distance": 33619.130961636816
+  },
+  {
+   "id": "QINiEjMRGA7pKfvhPQtfBg",
+   "alias": "isa-restaurant-san-francisco",
+   "name": "Isa Restaurant",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S_2-ONV6PA3vrNxh1AS6Zg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/isa-restaurant-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2226,
+   "categories": [
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.43749,
+    "Latitude": 37.8001099
+   },
+   "transactions": [
+    "restaurant_reservation",
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "3324 Steiner St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94123",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3324 Steiner St",
+     "San Francisco, CA 94123"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155679588",
+   "display_phone": "(415) 567-9588",
+   "distance": 3221.79806867221
+  },
+  {
+   "id": "gR9DTbKCvezQlqvD7_FzPw",
+   "alias": "north-india-restaurant-san-francisco-7",
+   "name": "North India Restaurant",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_nJ2VTeTZe5-gePr8PXTxg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/north-india-restaurant-san-francisco-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2184,
+   "categories": [
+    {
+     "alias": "indpak",
+     "title": "Indian"
+    },
+    {
+     "alias": "fooddeliveryservices",
+     "title": "Food Delivery Services"
+    },
+    {
+     "alias": "catering",
+     "title": "Caterers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.399305736113,
+    "Latitude": 37.787789124691
+   },
+   "transactions": [
+    "restaurant_reservation",
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "123 Second St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "123 Second St",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153481234",
+   "display_phone": "(415) 348-1234",
+   "distance": 2274.346967504332
+  },
+  {
+   "id": "68bV30ys1GMvVOLta6ylXQ",
+   "alias": "plank-oakland",
+   "name": "Plank",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/D1Dxm6wCA4myAHLa1IjCLA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/plank-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2170,
+   "categories": [
+    {
+     "alias": "bowling",
+     "title": "Bowling"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.2763133,
+    "Latitude": 37.7948519
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "98 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94607",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "98 Broadway",
+     "Oakland, CA 94607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15108170980",
+   "display_phone": "(510) 817-0980",
+   "distance": 12768.546034377177
+  },
+  {
+   "id": "gsf5yf5HS3h8Z8MHpJ4t3w",
+   "alias": "cafe-claude-san-francisco",
+   "name": "Cafe Claude",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/G3b_797Yeg7HckT2D_g18Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cafe-claude-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 2003,
+   "categories": [
+    {
+     "alias": "french",
+     "title": "French"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.4043122679,
+    "Latitude": 37.7899492532015
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "7 Claude Ln",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "7 Claude Ln",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153923505",
+   "display_phone": "(415) 392-3505",
+   "distance": 2157.2663997698855
+  },
+  {
+   "id": "I63u4dWV5EN2UXbKBTbBCw",
+   "alias": "hippies-brew-express-hayward-2",
+   "name": "Hippies Brew Express",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wLL74ClAGesX_7on7-_2mQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hippies-brew-express-hayward-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1877,
+   "categories": [
+    {
+     "alias": "coffee",
+     "title": "Coffee \u0026 Tea"
+    },
+    {
+     "alias": "breakfast_brunch",
+     "title": "Breakfast \u0026 Brunch"
+    },
+    {
+     "alias": "catering",
+     "title": "Caterers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.0832586310131,
+    "Latitude": 37.67115257081102
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$",
+   "location": {
+    "address1": "888 C St",
+    "address2": "",
+    "address3": "",
+    "city": "Hayward",
+    "zip_code": "94541",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "888 C St",
+     "Hayward, CA 94541"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104618629",
+   "display_phone": "(510) 461-8629",
+   "distance": 31735.50110770662
+  },
+  {
+   "id": "_ZC_Zvq5DqaPVXIqFzPkBQ",
+   "alias": "le-colonial-san-francisco",
+   "name": "Le Colonial",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mN3rRQRy81lr3-ZmGisqEA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/le-colonial-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1788,
+   "categories": [
+    {
+     "alias": "vietnamese",
+     "title": "Vietnamese"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "french",
+     "title": "French"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.41236,
+    "Latitude": 37.78839
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "20 Cosmo Pl",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "20 Cosmo Pl",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159313600",
+   "display_phone": "(415) 931-3600",
+   "distance": 1604.4378412417914
+  },
+  {
+   "id": "KXSWiM3g-yPoBhmsxiX-Kw",
+   "alias": "temple-nightclub-san-francisco-2",
+   "name": "Temple Nightclub",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6uo-iBkFKeYP35VdDyy4gA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/temple-nightclub-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1750,
+   "categories": [
+    {
+     "alias": "danceclubs",
+     "title": "Dance Clubs"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.397241,
+    "Latitude": 37.787965
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "540 Howard St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "540 Howard St",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158519551",
+   "display_phone": "(415) 851-9551",
+   "distance": 2431.8435975985353
+  },
+  {
+   "id": "vStWaPrdP4ysnKpj0WoHJQ",
+   "alias": "rangoon-ruby-palo-alto",
+   "name": "Rangoon Ruby",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/O-n1BhhQJ-dM8zkpFMoX_Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rangoon-ruby-palo-alto?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1729,
+   "categories": [
+    {
+     "alias": "asianfusion",
+     "title": "Asian Fusion"
+    },
+    {
+     "alias": "burmese",
+     "title": "Burmese"
+    },
+    {
+     "alias": "catering",
+     "title": "Caterers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.16305,
+    "Latitude": 37.44514
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "445 Emerson St",
+    "address2": "",
+    "address3": "",
+    "city": "Palo Alto",
+    "zip_code": "94301",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "445 Emerson St",
+     "Palo Alto, CA 94301"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16503236543",
+   "display_phone": "(650) 323-6543",
+   "distance": 43062.63786335418
+  },
+  {
+   "id": "UpXkkAMbb7LAMh2g7Xwddg",
+   "alias": "hopscotch-oakland",
+   "name": "Hopscotch",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5qdY7POV0Dl6Az6XLfQUtQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hopscotch-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1631,
+   "categories": [
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "breakfast_brunch",
+     "title": "Breakfast \u0026 Brunch"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.27316,
+    "Latitude": 37.80919
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "1915 San Pablo Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94612",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1915 San Pablo Ave",
+     "Oakland, CA 94612"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107886217",
+   "display_phone": "(510) 788-6217",
+   "distance": 13406.841054355406
+  },
+  {
+   "id": "f9ikTGTJL5RgvVKbQLNh4w",
+   "alias": "rickhouse-san-francisco",
+   "name": "Rickhouse",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zCYBHBVG_x9LKzXXz1ivxg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rickhouse-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1626,
+   "categories": [
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "whiskeybars",
+     "title": "Whiskey Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.403594970703,
+    "Latitude": 37.7904968261719
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "246 Kearny St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "246 Kearny St",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153982827",
+   "display_phone": "(415) 398-2827",
+   "distance": 2211.0258103274837
+  },
+  {
+   "id": "OFLNt6Zcis68TlujtZM-Gw",
+   "alias": "tacolicious-san-francisco-7",
+   "name": "Tacolicious",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5TkjIrHFNRmhmULzob0wbg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/tacolicious-san-francisco-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1608,
+   "categories": [
+    {
+     "alias": "catering",
+     "title": "Caterers"
+    },
+    {
+     "alias": "tacos",
+     "title": "Tacos"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.421331,
+    "Latitude": 37.76095
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "741 Valencia St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "741 Valencia St",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156496077",
+   "display_phone": "(415) 649-6077",
+   "distance": 1559.1789752802606
+  },
+  {
+   "id": "kmkM0EFlpK1HM_Tk4AlZ2w",
+   "alias": "the-westin-st-francis-san-francisco-on-union-square-san-francisco",
+   "name": "The Westin St. Francis San Francisco on Union Square",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fBaNbvdBCCOJ-AhH_sFvxA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-westin-st-francis-san-francisco-on-union-square-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1594,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.40879430645991,
+    "Latitude": 37.7877520297158
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "335 Powell St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "335 Powell St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153977000",
+   "display_phone": "(415) 397-7000",
+   "distance": 1706.1680424099022
+  },
+  {
+   "id": "EnClsPfQ3j-9triBsg3YnQ",
+   "alias": "san-francisco-zoo-san-francisco",
+   "name": "San Francisco Zoo",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/RzKcWijh2ZG6ccj7K-Yyaw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/san-francisco-zoo-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1586,
+   "categories": [
+    {
+     "alias": "zoos",
+     "title": "Zoos"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.503209,
+    "Latitude": 37.734824
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "Sloat Blvd At The Great Hwy",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94132",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "Sloat Blvd At The Great Hwy",
+     "San Francisco, CA 94132"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157537080",
+   "display_phone": "(415) 753-7080",
+   "distance": 8610.82267400569
+  },
+  {
+   "id": "9N2SyYEqGTL3pZnhyiFHzg",
+   "alias": "moss-beach-distillery-moss-beach",
+   "name": "Moss Beach Distillery",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/sYC8T_PEvi0UNLLgqeQ_Eg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/moss-beach-distillery-moss-beach?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1574,
+   "categories": [
+    {
+     "alias": "seafood",
+     "title": "Seafood"
+    },
+    {
+     "alias": "tradamerican",
+     "title": "American (Traditional)"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.51283,
+    "Latitude": 37.51778
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "140 Beach Way",
+    "address2": "",
+    "address3": "",
+    "city": "Moss Beach",
+    "zip_code": "94038",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "140 Beach Way",
+     "Moss Beach, CA 94038"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16507285595",
+   "display_phone": "(650) 728-5595",
+   "distance": 29755.438410228842
+  },
+  {
+   "id": "Uh932p9MfAXppaXbFPkykA",
+   "alias": "mission-rock-resort-san-francisco-2",
+   "name": "Mission Rock Resort",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qCS4VdRK8GIIyNtIqaAlyw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mission-rock-resort-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1524,
+   "categories": [
+    {
+     "alias": "seafood",
+     "title": "Seafood"
+    },
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.38659867,
+    "Latitude": 37.76552933
+   },
+   "transactions": [
+    "restaurant_reservation",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "817 Terry Francois Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94158",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "817 Terry Francois Blvd",
+     "San Francisco, CA 94158"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157017625",
+   "display_phone": "(415) 701-7625",
+   "distance": 3070.9436853983852
+  },
+  {
+   "id": "StDaVYW5FujmJj5Qe4IINQ",
+   "alias": "sundance-the-steakhouse-palo-alto",
+   "name": "Sundance The Steakhouse",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zh7qKyjCInFbgZcewppP2g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sundance-the-steakhouse-palo-alto?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1510,
+   "categories": [
+    {
+     "alias": "steak",
+     "title": "Steakhouses"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.149688,
+    "Latitude": 37.428448
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "1921 El Camino Real",
+    "address2": "",
+    "address3": "",
+    "city": "Palo Alto",
+    "zip_code": "94306",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1921 El Camino Real",
+     "Palo Alto, CA 94306"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16503216798",
+   "display_phone": "(650) 321-6798",
+   "distance": 45261.87738084779
+  },
+  {
+   "id": "zvIbFkcZwqhTuDF7t7eQsQ",
+   "alias": "25-lusk-san-francisco-3",
+   "name": "25 Lusk",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HKZMi7Mgrbtq_M_5yOreTw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/25-lusk-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1484,
+   "categories": [
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.394342,
+    "Latitude": 37.778506
+   },
+   "transactions": [
+    "restaurant_reservation",
+    "delivery"
+   ],
+   "price": "$$$",
+   "location": {
+    "address1": "25 Lusk St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94107",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "25 Lusk St",
+     "San Francisco, CA 94107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154955875",
+   "display_phone": "(415) 495-5875",
+   "distance": 2236.2179182941736
+  },
+  {
+   "id": "K_8iuGaMgmOGvt3JwQF50Q",
+   "alias": "shoreline-amphitheatre-mountain-view",
+   "name": "Shoreline Amphitheatre",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VhXAZ3syUMySn_dfI3Rrkg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/shoreline-amphitheatre-mountain-view?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1427,
+   "categories": [
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "musicvenues",
+     "title": "Music Venues"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.08070900722922,
+    "Latitude": 37.42683313498922
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1 Amphitheatre Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Mountain View",
+    "zip_code": "94043",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1 Amphitheatre Pkwy",
+     "Mountain View, CA 94043"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16509674040",
+   "display_phone": "(650) 967-4040",
+   "distance": 48869.484842125494
+  },
+  {
+   "id": "jwVyTCiKPUkqYPIXwEFgsA",
+   "alias": "hilton-san-francisco-union-square-san-francisco-5",
+   "name": "Hilton San Francisco Union Square",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/TtRgH7NdnVF46Ut42TSjqQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hilton-san-francisco-union-square-san-francisco-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1383,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.41011723876,
+    "Latitude": 37.7857305962995
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "333 O'farrell St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "333 O'farrell St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157711400",
+   "display_phone": "(415) 771-1400",
+   "distance": 1454.6136673006267
+  },
+  {
+   "id": "-gUxYX1lnebBrTIHL0wFUA",
+   "alias": "parc-55-san-francisco-a-hilton-hotel-san-francisco",
+   "name": "Parc 55 San Francisco - a Hilton Hotel",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MSp4-irhtHBdMqaCOhRLmQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/parc-55-san-francisco-a-hilton-hotel-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1367,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.40906094019,
+    "Latitude": 37.7848243182855
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "55 Cyril Magnin St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "55 Cyril Magnin St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153928000",
+   "display_phone": "(415) 392-8000",
+   "distance": 1429.4850146962372
+  },
+  {
+   "id": "cX5dOMkwZ5rqWbeIJpw_Ig",
+   "alias": "novela-san-francisco-2",
+   "name": "Novela",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/BMME0TMEneVykmQyxMJnYg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/novela-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1338,
+   "categories": [
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.401239,
+    "Latitude": 37.787047
+   },
+   "transactions": [
+    "pickup",
+    "restaurant_reservation",
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "662 Mission St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "662 Mission St",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158966500",
+   "display_phone": "(415) 896-6500",
+   "distance": 2090.8713482920025
+  },
+  {
+   "id": "lnZGaqRt113sUawMUJ_3bg",
+   "alias": "the-ritz-carlton-half-moon-bay-half-moon-bay-2",
+   "name": "The Ritz-Carlton, Half Moon Bay",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/k5hCjjrt3qQ2S6VwqoYfyw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-ritz-carlton-half-moon-bay-half-moon-bay-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1314,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.441504181807,
+    "Latitude": 37.4336827684647
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "1 Miramontes Point Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Half Moon Bay",
+    "zip_code": "94019",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1 Miramontes Point Rd",
+     "Half Moon Bay, CA 94019"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16507127000",
+   "display_phone": "(650) 712-7000",
+   "distance": 37991.51748561774
+  },
+  {
+   "id": "LW4VZkeEuh6xbrqmWw45rg",
+   "alias": "fairmont-san-francisco-san-francisco",
+   "name": "Fairmont San Francisco",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uU-LO3oe8tra0k8KKkcqIg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fairmont-san-francisco-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1287,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.410663910663,
+    "Latitude": 37.7924352804106
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "950 Mason St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "950 Mason St",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157725000",
+   "display_phone": "(415) 772-5000",
+   "distance": 2095.5328763831967
+  },
+  {
+   "id": "l9Jjhf6etOB1k5SDrmfO5A",
+   "alias": "palace-hotel-a-luxury-collection-hotel-san-francisco-san-francisco",
+   "name": "Palace Hotel, a Luxury Collection Hotel, San Francisco",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5KGxX6LhbIKMQuyddYKNJA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/palace-hotel-a-luxury-collection-hotel-san-francisco-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1282,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.401775,
+    "Latitude": 37.788111
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "2 New Montgomery St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2 New Montgomery St",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155121111",
+   "display_phone": "(415) 512-1111",
+   "distance": 2134.750648113406
+  },
+  {
+   "id": "I7qM3f_vBtI3VC7jYK37NA",
+   "alias": "marriott-marquis-san-francisco-san-francisco",
+   "name": "Marriott Marquis San Francisco",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Psrep_tRGMGq3tJh3I9HUA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/marriott-marquis-san-francisco-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1275,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.404481490667,
+    "Latitude": 37.7852269082415
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "780 Mission St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "780 Mission St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158961600",
+   "display_phone": "(415) 896-1600",
+   "distance": 1742.8714934096963
+  },
+  {
+   "id": "bqSZc4Xh2o253DZXr5QOmg",
+   "alias": "marrakech-magic-theater-san-francisco-5",
+   "name": "Marrakech Magic Theater",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mrb-ogGx0z123lRYlAvuWQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/marrakech-magic-theater-san-francisco-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1255,
+   "categories": [
+    {
+     "alias": "comedyclubs",
+     "title": "Comedy Clubs"
+    },
+    {
+     "alias": "magicians",
+     "title": "Magicians"
+    },
+    {
+     "alias": "dinnertheater",
+     "title": "Dinner Theater"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.411816,
+    "Latitude": 37.785843
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "419 O'Farrell St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "419 O'Farrell St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157946893",
+   "display_phone": "(415) 794-6893",
+   "distance": 1382.4501680241092
+  },
+  {
+   "id": "6Wzy5p_0lLajjMhDIs0i1g",
+   "alias": "mourad-restaurant-san-francisco",
+   "name": "Mourad Restaurant",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ycTDN606tTKUIzzNw9KWZw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mourad-restaurant-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1254,
+   "categories": [
+    {
+     "alias": "moroccan",
+     "title": "Moroccan"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.4,
+    "Latitude": 37.78661
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "140 New Montgomery St",
+    "address2": "Ste 1",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "140 New Montgomery St",
+     "Ste 1",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156602500",
+   "display_phone": "(415) 660-2500",
+   "distance": 2142.054072717684
+  },
+  {
+   "id": "mDM7-ho67ePJXd5TodtCOg",
+   "alias": "acquerello-san-francisco",
+   "name": "Acquerello",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-8zaekWtiI-d50ybEJBtEA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/acquerello-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1216,
+   "categories": [
+    {
+     "alias": "italian",
+     "title": "Italian"
+    },
+    {
+     "alias": "wine_bars",
+     "title": "Wine Bars"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4213296,
+    "Latitude": 37.79157
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "1722 Sacramento St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1722 Sacramento St",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155675432",
+   "display_phone": "(415) 567-5432",
+   "distance": 1859.8229992893628
+  },
+  {
+   "id": "NG0P6XWKug_ueCM3UV8Tdw",
+   "alias": "620-jones-san-francisco-3",
+   "name": "620 Jones",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Eona8mKxrd3prGDWksW1zA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/620-jones-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1208,
+   "categories": [
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "bars",
+     "title": "Bars"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.41289,
+    "Latitude": 37.78716
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "620 Jones St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "620 Jones St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158452257",
+   "display_phone": "(415) 845-2257",
+   "distance": 1467.4664198554183
+  },
+  {
+   "id": "Fvn-UN7IQvxlfLBpJdbMUA",
+   "alias": "press-club-san-francisco",
+   "name": "Press Club",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qQ_GmlThzCqg0AteUQW2Qg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/press-club-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1207,
+   "categories": [
+    {
+     "alias": "wine_bars",
+     "title": "Wine Bars"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "lounges",
+     "title": "Lounges"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.404646873474,
+    "Latitude": 37.7859531718409
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "20 Yerba Buena Ln",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "20 Yerba Buena Ln",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157445000",
+   "display_phone": "(415) 744-5000",
+   "distance": 1786.524577692573
+  },
+  {
+   "id": "1vBdmC99kh3KsrPU97brzg",
+   "alias": "barrel-house-tavern-sausalito",
+   "name": "Barrel House Tavern",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xzT8UVVd0jWj_oaIazAAaA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/barrel-house-tavern-sausalito?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1205,
+   "categories": [
+    {
+     "alias": "newamerican",
+     "title": "American (New)"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    },
+    {
+     "alias": "cocktailbars",
+     "title": "Cocktail Bars"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.478824,
+    "Latitude": 37.855224
+   },
+   "transactions": [
+    "delivery",
+    "pickup"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "660 Bridgeway",
+    "address2": "",
+    "address3": "",
+    "city": "Sausalito",
+    "zip_code": "94965",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "660 Bridgeway",
+     "Sausalito, CA 94965"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157299593",
+   "display_phone": "(415) 729-9593",
+   "distance": 10347.592700098334
+  },
+  {
+   "id": "Bab9bdd3SUkXPo6jIVO55Q",
+   "alias": "w-san-francisco-san-francisco-4",
+   "name": "W San Francisco",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nzTasSGMN32dMORfMBtzJw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/w-san-francisco-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1194,
+   "categories": [
+    {
+     "alias": "hotels",
+     "title": "Hotels"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.39685500784384,
+    "Latitude": 37.78661419687235
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "181 3rd St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "181 3rd St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157775300",
+   "display_phone": "(415) 777-5300",
+   "distance": 2371.1563798554084
+  },
+  {
+   "id": "8Jos9nqlts6DX6o2zKDAzA",
+   "alias": "destino-san-francisco-4",
+   "name": "Destino",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FGPDFqc-2_tKHYhSVCf2tg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/destino-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1191,
+   "categories": [
+    {
+     "alias": "catering",
+     "title": "Caterers"
+    },
+    {
+     "alias": "cookingclasses",
+     "title": "Cooking Classes"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.36559926104485,
+    "Latitude": 37.726701233660165
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "103 Horne Ave",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94124",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "103 Horne Ave",
+     "San Francisco, CA 94124"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155771677",
+   "display_phone": "(415) 577-1677",
+   "distance": 7148.283338720887
+  },
+  {
+   "id": "if7l8HVMz7kmW0tG9l2LQA",
+   "alias": "e-and-o-kitchen-and-bar-san-francisco",
+   "name": "E\u0026O Kitchen and Bar",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/9CHJxodw65D_f_anIxZdlA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/e-and-o-kitchen-and-bar-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1187,
+   "categories": [
+    {
+     "alias": "asianfusion",
+     "title": "Asian Fusion"
+    },
+    {
+     "alias": "venues",
+     "title": "Venues \u0026 Event Spaces"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.405846,
+    "Latitude": 37.789719
+   },
+   "transactions": [
+    "delivery"
+   ],
+   "price": "$$",
+   "location": {
+    "address1": "314 Sutter St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "314 Sutter St",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156930303",
+   "display_phone": "(415) 693-0303",
+   "distance": 2033.2439591381778
+  }
+ ],
+ "total": 10800,
+ "region": {
+  "center": {
+   "longitude": -122.4194,
+   "Latitude": 37.7749
+  }
+ }
+}

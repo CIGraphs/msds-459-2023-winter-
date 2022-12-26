@@ -1,0 +1,1927 @@
+{
+ "businesses": [
+  {
+   "id": "bB8S7ifeb7ZJsUbE4XuBrA",
+   "alias": "ikea-brooklyn-3",
+   "name": "IKEA",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tGweXDAixU7hzLp1wOzT-Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ikea-brooklyn-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1753,
+   "categories": [
+    {
+     "alias": "kitchenandbath",
+     "title": "Kitchen \u0026 Bath"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.0110997,
+    "Latitude": 40.67149591355515
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1 Beard St",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11231",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1 Beard St",
+     "Brooklyn, NY 11231"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18888884532",
+   "display_phone": "(888) 888-4532",
+   "distance": 4612.881305879999
+  },
+  {
+   "id": "i7dBaPqvBSOKh4eOgvABOQ",
+   "alias": "aj-madison-kitchen-and-home-appliances-showroom-brooklyn",
+   "name": "AJ Madison Home \u0026 Kitchen Appliances Showroom",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TjP3iX4Znf3kZc6rvFPxmw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aj-madison-kitchen-and-home-appliances-showroom-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1065,
+   "categories": [
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    },
+    {
+     "alias": "kitchenandbath",
+     "title": "Kitchen \u0026 Bath"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -80.1407764,
+    "Latitude": 25.9270624
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2983 NE 163rd St",
+    "address2": "",
+    "address3": "",
+    "city": "North Miami Beach",
+    "zip_code": "33160",
+    "country": "US",
+    "state": "FL",
+    "display_address": [
+     "2983 NE 163rd St",
+     "North Miami Beach, FL 33160"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18005703355",
+   "display_phone": "(800) 570-3355",
+   "distance": 8085.4175104622755
+  },
+  {
+   "id": "p63Csa_foF2KSPwrzIDNJg",
+   "alias": "kaiyo-new-york",
+   "name": "Kaiyo",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_Hi_JSUlBW1J1nRzDRTyoA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kaiyo-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 702,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.98265292246107,
+    "Latitude": 40.73910701115598
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16468448585",
+   "display_phone": "(646) 844-8585",
+   "distance": 3525.265467398681
+  },
+  {
+   "id": "-dI3227I8yYUFi3Im8ybSA",
+   "alias": "target-brooklyn",
+   "name": "Target",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GNdZ8w0Tcqtus-6ZUNX54A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 570,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.97748,
+    "Latitude": 40.68449
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "139 Flatbush Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11217",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "139 Flatbush Ave",
+     "Brooklyn, NY 11217"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182901109",
+   "display_phone": "(718) 290-1109",
+   "distance": 3961.0729108765327
+  },
+  {
+   "id": "N9aq65qGa8oVthkOb41hrQ",
+   "alias": "bob-s-discount-furniture-and-mattress-store-new-york",
+   "name": "Bob’s Discount Furniture and Mattress Store",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qYYsJa4Dmwl3EOqgr_dlLQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bob-s-discount-furniture-and-mattress-store-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 533,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.9306488633702,
+    "Latitude": 40.795244
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "517 E 117th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10035",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "517 E 117th St",
+     "New York, NY 10035"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16464006180",
+   "display_phone": "(646) 400-6180",
+   "distance": 11150.088775982977
+  },
+  {
+   "id": "rrzDiA-c_uLtlxdL7CJdNA",
+   "alias": "the-home-depot-new-york-4",
+   "name": "The Home Depot",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Z8qr5_zScltxOuoFZX8l7A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-home-depot-new-york-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 525,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    },
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9913159,
+    "Latitude": 40.7420095
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "40 West 23rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "40 West 23rd St",
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129299571",
+   "display_phone": "(212) 929-9571",
+   "distance": 3475.6619683753775
+  },
+  {
+   "id": "tY-LYS27HulsgCjjffLF2w",
+   "alias": "ikea-elizabeth",
+   "name": "IKEA",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/RPawBdJAkMCpB2wx-9nbig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ikea-elizabeth?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 507,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "kitchenandbath",
+     "title": "Kitchen \u0026 Bath"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.1697393,
+    "Latitude": 40.67517437077799
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1000 Ikea Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Elizabeth",
+    "zip_code": "07201",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "1000 Ikea Dr",
+     "Elizabeth, NJ 07201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18888884532",
+   "display_phone": "(888) 888-4532",
+   "distance": 14424.630241540699
+  },
+  {
+   "id": "bGeR9Ddnsh49S5-k-nUP_A",
+   "alias": "ikea-paramus",
+   "name": "IKEA",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bclJLtJpriNj0Eb70JWGKw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ikea-paramus?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 418,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "kitchenandbath",
+     "title": "Kitchen \u0026 Bath"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.07330219,
+    "Latitude": 40.92434035
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "100 Ikea Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Paramus",
+    "zip_code": "07652",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "100 Ikea Dr",
+     "Paramus, NJ 07652"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18888884532",
+   "display_phone": "(888) 888-4532",
+   "distance": 24194.389119744807
+  },
+  {
+   "id": "5CowEPr5wWrcOYZ-CDGwdw",
+   "alias": "fishs-eddy-new-york",
+   "name": "Fishs Eddy",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fPhD9E2KapYhqVfqUB7XFw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/fishs-eddy-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 418,
+   "categories": [
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.9900828828033,
+    "Latitude": 40.7387110604145
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "889 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "889 Broadway",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124209020",
+   "display_phone": "(212) 420-9020",
+   "distance": 3178.091572805114
+  },
+  {
+   "id": "TgSKKjlhd8f4qZ2lxuurAw",
+   "alias": "pearl-river-mart-new-york",
+   "name": "Pearl River Mart",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GUhiXDa05xrNmoWNtiQfHg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pearl-river-mart-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 388,
+   "categories": [
+    {
+     "alias": "fashion",
+     "title": "Fashion"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "giftshops",
+     "title": "Gift Shops"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -74.00055,
+    "Latitude": 40.720332
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "452 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10013",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "452 Broadway",
+     "New York, NY 10013"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18008782446",
+   "display_phone": "(800) 878-2446",
+   "distance": 958.1359398717011
+  },
+  {
+   "id": "dj2YLXDMrZrL8g9mjRTGNg",
+   "alias": "west-elm-new-york",
+   "name": "west elm",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1SBxxR_qE6by1cwk1vY5iA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/west-elm-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 377,
+   "categories": [
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.9960174560547,
+    "Latitude": 40.7398719787598
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "112 W 18th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "112 W 18th St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129294464",
+   "display_phone": "(212) 929-4464",
+   "distance": 3143.604548385881
+  },
+  {
+   "id": "LXc52YsjkQz1smRHEwOZ1Q",
+   "alias": "lowes-home-improvement-brooklyn-3",
+   "name": "Lowe's Home Improvement",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/c4RidSpfDA9WbrStqAh0FQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/lowes-home-improvement-brooklyn-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 373,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.99509,
+    "Latitude": 40.671931
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "118 2nd Avenue",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11215",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "118 2nd Avenue",
+     "Brooklyn, NY 11215"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182491151",
+   "display_phone": "(718) 249-1151",
+   "distance": 4644.9419854436455
+  },
+  {
+   "id": "ka14Aus4FV-MkjxMpEI01g",
+   "alias": "abc-carpet-and-home-new-york",
+   "name": "abc carpet \u0026 home",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0jq66V4b9zEgW-assVTL_A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/abc-carpet-and-home-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 344,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "rugs",
+     "title": "Rugs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.9898637573811,
+    "Latitude": 40.7382921
+   },
+   "transactions": [],
+   "price": "$$$$",
+   "location": {
+    "address1": "888 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10003",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "888 Broadway",
+     "New York, NY 10003"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12124733000",
+   "display_phone": "(212) 473-3000",
+   "distance": 3143.8635196341424
+  },
+  {
+   "id": "52hT9Qifpac0s0QUaOUp0g",
+   "alias": "bob-s-discount-furniture-and-mattress-store-glendale",
+   "name": "Bob’s Discount Furniture and Mattress Store",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Sr1lzBJIal_zxr1KjU-FPQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bob-s-discount-furniture-and-mattress-store-glendale?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 343,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.85918185117583,
+    "Latitude": 40.7110512140727
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "72-25 Woodhaven Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Glendale",
+    "zip_code": "11385",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "72-25 Woodhaven Blvd",
+     "Glendale, NY 11385"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17186855915",
+   "display_phone": "(718) 685-5915",
+   "distance": 12376.16802045803
+  },
+  {
+   "id": "HCSiq9e7iUILu0ZGgEaK9g",
+   "alias": "joybird-brooklyn",
+   "name": "Joybird",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jaOisCjX6JRfzPze7_V-Xg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/joybird-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 325,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "rugs",
+     "title": "Rugs"
+    }
+   ],
+   "rating": 1.5,
+   "coordinates": {
+    "longitude": -73.982916623354,
+    "Latitude": 40.690991123983
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "445 Albee Square W",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11201",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "445 Albee Square W",
+     "Brooklyn, NY 11201"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17188551600",
+   "display_phone": "(718) 855-1600",
+   "distance": 3109.222529511911
+  },
+  {
+   "id": "N5v4UiAhzTPcMC7gVsYfEg",
+   "alias": "puregreen-carpet-and-upholstery-cleaning-new-york",
+   "name": "PureGreen Carpet \u0026 Upholstery Cleaning",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/41oYiey4JpxnrPnpEXZkdA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/puregreen-carpet-and-upholstery-cleaning-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 310,
+   "categories": [
+    {
+     "alias": "carpet_cleaning",
+     "title": "Carpet Cleaning"
+    },
+    {
+     "alias": "rugs",
+     "title": "Rugs"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.98774,
+    "Latitude": 40.74464
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "244 5th Ave",
+    "address2": "Ste 1830",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10001",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "244 5th Ave",
+     "Ste 1830",
+     "New York, NY 10001"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183746719",
+   "display_phone": "(718) 374-6719",
+   "distance": 3861.8877175501743
+  },
+  {
+   "id": "vGMvG0-M0nvncwN2ENFJ7A",
+   "alias": "bed-bath-and-beyond-new-york",
+   "name": "Bed Bath \u0026 Beyond",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/B9rUuDB2ckUDCRXdjqRgEA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bed-bath-and-beyond-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 308,
+   "categories": [
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "kitchenandbath",
+     "title": "Kitchen \u0026 Bath"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.99446429210596,
+    "Latitude": 40.73999271727208
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "620 6th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "620 6th Ave",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122553550",
+   "display_phone": "(212) 255-3550",
+   "distance": 3176.104039245843
+  },
+  {
+   "id": "J45M4ZLsVhrB1EAQNeEWwA",
+   "alias": "scotts-flowers-nyc-new-york",
+   "name": "Scotts Flowers NYC",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ND7PUQ6KhQoIRA7TcfEz9Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/scotts-flowers-nyc-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 308,
+   "categories": [
+    {
+     "alias": "florists",
+     "title": "Florists"
+    },
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -73.984287,
+    "Latitude": 40.751028
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "15 W 37th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10018",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "15 W 37th St",
+     "New York, NY 10018"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12127272800",
+   "display_phone": "(212) 727-2800",
+   "distance": 4622.039131043432
+  },
+  {
+   "id": "O5Ca_te7kWEx-3AC0NYwkQ",
+   "alias": "art-to-frames-brooklyn",
+   "name": "Art To Frames",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Wi0kkS-8a0phd5Tl7xLqig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/art-to-frames-brooklyn?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 304,
+   "categories": [
+    {
+     "alias": "framing",
+     "title": "Framing"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.997649,
+    "Latitude": 40.657891
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "770 5th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11232",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "770 5th Ave",
+     "Brooklyn, NY 11232"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187886200",
+   "display_phone": "(718) 788-6200",
+   "distance": 6146.065551919349
+  },
+  {
+   "id": "LP_rUztEMP92sQaAwdMnLA",
+   "alias": "bobs-discount-furniture-secaucus-secaucus",
+   "name": "Bob's Discount Furniture - Secaucus",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6A4taaE4FA_Q1J2I362v8w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bobs-discount-furniture-secaucus-secaucus?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 304,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -74.0510038,
+    "Latitude": 40.7941729
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "3 Mill Creek Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Secaucus",
+    "zip_code": "07094",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "3 Mill Creek Dr",
+     "Secaucus, NJ 07094"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12016431370",
+   "display_phone": "(201) 643-1370",
+   "distance": 9810.24281296648
+  },
+  {
+   "id": "Nbvx3drtGZ7iGnm-FEqMtQ",
+   "alias": "the-home-depot-new-york-5",
+   "name": "The Home Depot",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/L_jVpO8D0bJZyTTxVfFjJQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-home-depot-new-york-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 296,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    },
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.966938,
+    "Latitude": 40.761837
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "980 3rd Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10022",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "980 3rd Ave",
+     "New York, NY 10022"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12128881512",
+   "display_phone": "(212) 888-1512",
+   "distance": 6368.898070426631
+  },
+  {
+   "id": "b4TW_-d_YfTkVmRTMgkHVQ",
+   "alias": "target-jersey-city",
+   "name": "Target",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FHjKjOIYpAqOkQn1pIDFDw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-jersey-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 285,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -74.03572,
+    "Latitude": 40.732336
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "100 14th St",
+    "address2": "",
+    "address3": "",
+    "city": "Jersey City",
+    "zip_code": "07310",
+    "country": "US",
+    "state": "NJ",
+    "display_address": [
+     "100 14th St",
+     "Jersey City, NJ 07310"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12014990017",
+   "display_phone": "(201) 499-0017",
+   "distance": 3315.379163610424
+  },
+  {
+   "id": "9GI89fuPCaaWsZpo8wWXRQ",
+   "alias": "p-c-richard-and-son-new-york-24",
+   "name": "P.C. Richard \u0026 Son",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/akk4aYgt7q79t0T0jdBpeg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/p-c-richard-and-son-new-york-24?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 281,
+   "categories": [
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -73.991527,
+    "Latitude": 40.742725
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "53 West 23rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "53 West 23rd St",
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12129240200",
+   "display_phone": "(212) 924-0200",
+   "distance": 3543.9591632437896
+  },
+  {
+   "id": "fYVo3PMZAlQ-zI8GsCSP1w",
+   "alias": "the-home-depot-brooklyn-11",
+   "name": "The Home Depot",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Vw1myMsYWB4V7Xlho6RLwg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-home-depot-brooklyn-11?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 279,
+   "categories": [
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    },
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.95294581298782,
+    "Latitude": 40.69165857945715
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "230 Nostrand Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11205",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "230 Nostrand Ave",
+     "Brooklyn, NY 11205"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182300833",
+   "display_phone": "(718) 230-0833",
+   "distance": 5052.548840702688
+  },
+  {
+   "id": "0W5d7z24XtsPhAKbqnLDvQ",
+   "alias": "target-flushing-3",
+   "name": "Target",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/71pT1_-CHao6vU4RgD-mxQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-flushing-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 270,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.83572,
+    "Latitude": 40.75723
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "4024 College Point Blvd",
+    "address2": "Ste F600",
+    "address3": "",
+    "city": "Flushing",
+    "zip_code": "11354",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "4024 College Point Blvd",
+     "Ste F600",
+     "Flushing, NY 11354"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+13475329942",
+   "display_phone": "(347) 532-9942",
+   "distance": 15173.932892459306
+  },
+  {
+   "id": "1LMRqKzTxMFOKTPrhg4Wyw",
+   "alias": "the-container-store-new-york",
+   "name": "The Container Store",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KCl_tRIzcAWZQM5sWatdVw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-container-store-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 268,
+   "categories": [
+    {
+     "alias": "homeandgarden",
+     "title": "Home \u0026 Garden"
+    },
+    {
+     "alias": "interiordesign",
+     "title": "Interior Design"
+    },
+    {
+     "alias": "home_organization",
+     "title": "Home Organization"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.994956,
+    "Latitude": 40.740161
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "629 6th Ave",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "629 6th Ave",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123664200",
+   "display_phone": "(212) 366-4200",
+   "distance": 3181.5570260473437
+  },
+  {
+   "id": "_UYXTiO5qPIETIAS-Z8iDA",
+   "alias": "target-elmhurst",
+   "name": "Target",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VSF6I6_qnc11XrYku4NOig/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-elmhurst?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 267,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.8749,
+    "Latitude": 40.73533
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "8801 Queens Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Elmhurst",
+    "zip_code": "11373",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "8801 Queens Blvd",
+     "Elmhurst, NY 11373"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187605656",
+   "display_phone": "(718) 760-5656",
+   "distance": 11328.296696822166
+  },
+  {
+   "id": "RfDGx52UbQHbJf4a-ERWEw",
+   "alias": "best-buy-new-york-new-york",
+   "name": "Best Buy - New York",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ElBFwtADVlre8g2Bwx7jmg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/best-buy-new-york-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 265,
+   "categories": [
+    {
+     "alias": "computers",
+     "title": "Computers"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.9927146705534,
+    "Latitude": 40.742624288475426
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "60 W 23rd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10010",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "60 W 23rd St",
+     "New York, NY 10010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12123661373",
+   "display_phone": "(212) 366-1373",
+   "distance": 3500.1648666771143
+  },
+  {
+   "id": "ye1wEv3ny4KBFia_ao6ZCQ",
+   "alias": "p-c-richard-and-son-bayside-2",
+   "name": "P.C. Richard \u0026 Son",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/E7qlhooW6fcdR3iU1aT5HA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/p-c-richard-and-son-bayside-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 257,
+   "categories": [
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.78329,
+    "Latitude": 40.75832
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "42-99 Francis Lewis Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Bayside",
+    "zip_code": "11361",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "42-99 Francis Lewis Blvd",
+     "Bayside, NY 11361"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182246400",
+   "display_phone": "(718) 224-6400",
+   "distance": 19437.84344247828
+  },
+  {
+   "id": "uFSou9ht_6D3zmZhUvc1vQ",
+   "alias": "p-c-richard-and-son-brooklyn-13",
+   "name": "P.C. Richard \u0026 Son",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GLbSOl4HIjU_POnPwv_Aaw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/p-c-richard-and-son-brooklyn-13?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 251,
+   "categories": [
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -73.978124,
+    "Latitude": 40.683903
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "590 Atlantic Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11217",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "590 Atlantic Ave",
+     "Brooklyn, NY 11217"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183996500",
+   "display_phone": "(718) 399-6500",
+   "distance": 3981.20770901012
+  },
+  {
+   "id": "XTs917M9D45fJU3f7em7Qw",
+   "alias": "france-and-son-new-york",
+   "name": "France \u0026 Son",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bF9RH-NE1bxDIQj5-HOcpw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/france-and-son-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 249,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "lightingstores",
+     "title": "Lighting Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.99604,
+    "Latitude": 40.74018
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "122 W 18th St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "122 W 18th St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122061200",
+   "display_phone": "(212) 206-1200",
+   "distance": 3151.7685319177076
+  },
+  {
+   "id": "VkRAnw7Pni4SlzARHQnexA",
+   "alias": "bobs-discount-furniture-carle-place-carle-place",
+   "name": "Bob's Discount Furniture - Carle Place",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LrDHyBvQ-mzYMHqACaVMEQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bobs-discount-furniture-carle-place-carle-place?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 245,
+   "categories": [
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "mattresses",
+     "title": "Mattresses"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.6162356287787,
+    "Latitude": 40.743973457607
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "175 Old Country Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Carle Place",
+    "zip_code": "11514",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "175 Old Country Rd",
+     "Carle Place, NY 11514"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15164081190",
+   "display_phone": "(516) 408-1190",
+   "distance": 33025.74899208652
+  },
+  {
+   "id": "DqOHTaPEi-bod560QYtakw",
+   "alias": "target-new-york",
+   "name": "Target",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2lR7DcNE-FyB-wLREIXA5g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 237,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.931192,
+    "Latitude": 40.795561
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "517 E 117th St",
+    "address2": "Ste 201",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10035",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "517 E 117th St",
+     "Ste 201",
+     "New York, NY 10035"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12128350860",
+   "display_phone": "(212) 835-0860",
+   "distance": 11153.168003028453
+  },
+  {
+   "id": "I6-80sb28Q8RXv2agfRxUg",
+   "alias": "furnish-my-space-new-york",
+   "name": "Furnish My Space",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AzVsciS32x97cLXYxneqzA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/furnish-my-space-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 233,
+   "categories": [
+    {
+     "alias": "interiordesign",
+     "title": "Interior Design"
+    },
+    {
+     "alias": "furnitureassembly",
+     "title": "Furniture Assembly"
+    },
+    {
+     "alias": "kitchenandbath",
+     "title": "Kitchen \u0026 Bath"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -73.956788,
+    "Latitude": 40.8045959
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "372 Manhattan Ave",
+    "address2": "Ste 2A",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10026",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "372 Manhattan Ave",
+     "Ste 2A",
+     "New York, NY 10026"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19173127401",
+   "display_phone": "(917) 312-7401",
+   "distance": 11016.715738521452
+  },
+  {
+   "id": "KdpIR2lcK3kjaKew2ZH38w",
+   "alias": "ny-cake-new-york-2",
+   "name": "NY Cake",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EvN8mc5GKvsoK_S2F9rUbQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ny-cake-new-york-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 230,
+   "categories": [
+    {
+     "alias": "kitchensupplies",
+     "title": "Kitchen Supplies"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.994323,
+    "Latitude": 40.742521
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "118 W 22nd St",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10011",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "118 W 22nd St",
+     "New York, NY 10011"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12126752253",
+   "display_phone": "(212) 675-2253",
+   "distance": 3448.1930819029944
+  },
+  {
+   "id": "PIAyQfFLS6V7w7tnChEkCg",
+   "alias": "target-brooklyn-2",
+   "name": "Target",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vGQj8yhtyfiZzvzcn1QKTg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-brooklyn-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 229,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -73.946639,
+    "Latitude": 40.631538
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1598 Flatbush Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Brooklyn",
+    "zip_code": "11210",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "1598 Flatbush Ave",
+     "Brooklyn, NY 11210"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17186375005",
+   "display_phone": "(718) 637-5005",
+   "distance": 10330.068357271746
+  },
+  {
+   "id": "y7VGaDG9uclpWQYSCUxejQ",
+   "alias": "target-bronx",
+   "name": "Target",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Gb5b1gbpgfb9nl-iDJE9Ww/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/target-bronx?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 221,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.907803,
+    "Latitude": 40.87353
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "40 W 225th St",
+    "address2": "Ste 50",
+    "address3": "",
+    "city": "Bronx",
+    "zip_code": "10463",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "40 W 225th St",
+     "Ste 50",
+     "Bronx, NY 10463"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17187337199",
+   "display_phone": "(718) 733-7199",
+   "distance": 19691.497032939184
+  },
+  {
+   "id": "JKZpW5gVDKGwz-hf2Tuo3g",
+   "alias": "best-buy-rego-park-elmhurst",
+   "name": "Best Buy - Rego Park",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/b08lY-0QZCo7KuVd0G0o7g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/best-buy-rego-park-elmhurst?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 220,
+   "categories": [
+    {
+     "alias": "computers",
+     "title": "Computers"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    },
+    {
+     "alias": "electronics",
+     "title": "Electronics"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -73.874352,
+    "Latitude": 40.735562
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "8801 Queens Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Elmhurst",
+    "zip_code": "11373",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "8801 Queens Blvd",
+     "Elmhurst, NY 11373"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17183932690",
+   "display_phone": "(718) 393-2690",
+   "distance": 11379.029254171368
+  },
+  {
+   "id": "Ye_vCEJJWLSmOmEOiXjmiw",
+   "alias": "the-home-depot-long-island-city",
+   "name": "The Home Depot",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/w8f7d1DVHM8knpGR35Cjxw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-home-depot-long-island-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 220,
+   "categories": [
+    {
+     "alias": "gardening",
+     "title": "Nurseries \u0026 Gardening"
+    },
+    {
+     "alias": "appliances",
+     "title": "Appliances"
+    },
+    {
+     "alias": "hardware",
+     "title": "Hardware Stores"
+    }
+   ],
+   "rating": 2,
+   "coordinates": {
+    "longitude": -73.9126007,
+    "Latitude": 40.7527848
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "50-10 Northern Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Long Island City",
+    "zip_code": "11101",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "50-10 Northern Blvd",
+     "Long Island City, NY 11101"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17182789031",
+   "display_phone": "(718) 278-9031",
+   "distance": 9038.83891310518
+  },
+  {
+   "id": "_HjctmsZPlYnTdWM-VYyPg",
+   "alias": "cb2-new-york",
+   "name": "CB2",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p_5LrgCeFoNNaznSHKacpw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cb2-new-york?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 219,
+   "categories": [
+    {
+     "alias": "homedecor",
+     "title": "Home Decor"
+    },
+    {
+     "alias": "furniture",
+     "title": "Furniture Stores"
+    },
+    {
+     "alias": "rugs",
+     "title": "Rugs"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -74.0010045,
+    "Latitude": 40.7205829
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "451 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "New York",
+    "zip_code": "10013",
+    "country": "US",
+    "state": "NY",
+    "display_address": [
+     "451 Broadway",
+     "New York, NY 10013"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+12122191454",
+   "display_phone": "(212) 219-1454",
+   "distance": 962.3952477925719
+  }
+ ],
+ "total": 5000,
+ "region": {
+  "center": {
+   "longitude": -74.006,
+   "Latitude": 40.7128
+  }
+ }
+}

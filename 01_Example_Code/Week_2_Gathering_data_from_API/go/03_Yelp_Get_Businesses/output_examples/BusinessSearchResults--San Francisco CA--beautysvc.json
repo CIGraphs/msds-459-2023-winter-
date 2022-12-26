@@ -1,0 +1,1843 @@
+{
+ "businesses": [
+  {
+   "id": "XG4b9gj4N4cMOxk7xzcmOw",
+   "alias": "sunset-nails-san-francisco",
+   "name": "Sunset Nails",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AGWppayPzb3yA9KxLbBFRQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sunset-nails-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1304,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.477506399155,
+    "Latitude": 37.7637156241751
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1810 Irving St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94122",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1810 Irving St",
+     "San Francisco, CA 94122"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155669888",
+   "display_phone": "(415) 566-9888",
+   "distance": 5256.646645311625
+  },
+  {
+   "id": "0rMDyrHJkvYyycN1AVVumw",
+   "alias": "kabuki-springs-and-spa-san-francisco-2",
+   "name": "Kabuki Springs \u0026 Spa",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rfznaeU3su7nKVQPky0uyg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kabuki-springs-and-spa-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1209,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.4326231972024,
+    "Latitude": 37.78477643321141
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1750 Geary Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94115",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1750 Geary Blvd",
+     "San Francisco, CA 94115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159226000",
+   "display_phone": "(415) 922-6000",
+   "distance": 1598.9336155170652
+  },
+  {
+   "id": "XObNX4XmxoYi0GQCDsvChw",
+   "alias": "taylor-monroe-san-francisco-2",
+   "name": "Taylor / Monroe",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i4ktGv-omiNJyqxgj0B1RQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/taylor-monroe-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1199,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.424119,
+    "Latitude": 37.777885
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "448 Grove St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "448 Grove St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152529723",
+   "display_phone": "(415) 252-9723",
+   "distance": 531.2112730363941
+  },
+  {
+   "id": "viS6waBsgRtR95lHDT23Tg",
+   "alias": "body-manipulations-san-francisco",
+   "name": "Body Manipulations",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cHQ_x0otbTumr-ek8AECaw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/body-manipulations-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1134,
+   "categories": [
+    {
+     "alias": "piercing",
+     "title": "Piercing"
+    },
+    {
+     "alias": "tattoo",
+     "title": "Tattoo"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.38799553979098,
+    "Latitude": 37.7585432
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2455 3rd St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94107",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2455 3rd St",
+     "San Francisco, CA 94107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156210408",
+   "display_phone": "(415) 621-0408",
+   "distance": 3305.785536898312
+  },
+  {
+   "id": "XqzT99hrRLi9UOCH6UA3UQ",
+   "alias": "peoples-barber-and-shop-san-francisco-3",
+   "name": "Peoples Barber \u0026 Shop",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oST4N-E__OjPyQF_CS2tjQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/peoples-barber-and-shop-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1096,
+   "categories": [
+    {
+     "alias": "barbers",
+     "title": "Barbers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.420411,
+    "Latitude": 37.788578
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1259 Polk St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1259 Polk St",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152924099",
+   "display_phone": "(415) 292-4099",
+   "distance": 1523.515525107867
+  },
+  {
+   "id": "kG42_Vig-Y3mM4Mpb-njtw",
+   "alias": "code-salon-san-francisco",
+   "name": "CODE Salon",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TGfgQPhLVlQ87D4C8gvNgA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/code-salon-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1085,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.40028437301636,
+    "Latitude": 37.78101152037808
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "370 4th St",
+    "address2": "Second Floor",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94107",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "370 4th St",
+     "Second Floor",
+     "San Francisco, CA 94107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156248340",
+   "display_phone": "(415) 624-8340",
+   "distance": 1812.2603021680372
+  },
+  {
+   "id": "alrQX7OE6ZMbbowzXVC59A",
+   "alias": "cinta-aveda-institute-san-francisco",
+   "name": "Cinta Aveda Institute",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QBckwzq848VeSIR4af_cYQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cinta-aveda-institute-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 1056,
+   "categories": [
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "cosmetology_schools",
+     "title": "Cosmetology Schools"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.404199204281,
+    "Latitude": 37.7908085365768
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "305 Kearny St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "305 Kearny St",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159894400",
+   "display_phone": "(415) 989-4400",
+   "distance": 2216.690814285372
+  },
+  {
+   "id": "74Bi5oq1YTUKaYOaEzIjiQ",
+   "alias": "siam-orchid-traditional-thai-massage-san-francisco-2",
+   "name": "Siam Orchid Traditional Thai Massage",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/z0u9Gl9IIyr7ABJSO5JGCA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/siam-orchid-traditional-thai-massage-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 996,
+   "categories": [
+    {
+     "alias": "massage",
+     "title": "Massage"
+    },
+    {
+     "alias": "reflexology",
+     "title": "Reflexology"
+    },
+    {
+     "alias": "massage_therapy",
+     "title": "Massage Therapy"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.41811,
+    "Latitude": 37.77693
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "39 Polk St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "39 Polk St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158729645",
+   "display_phone": "(415) 872-9645",
+   "distance": 255.71903149189163
+  },
+  {
+   "id": "HJzPV58NlaXOMQz-leY7yA",
+   "alias": "pearl-spa-and-sauna-san-francisco-2",
+   "name": "Pearl Spa \u0026 Sauna",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Xsmbg2os_7yyBZQIveR_Ug/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pearl-spa-and-sauna-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 995,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "saunas",
+     "title": "Saunas"
+    },
+    {
+     "alias": "massage",
+     "title": "Massage"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.42908275337375,
+    "Latitude": 37.7858437
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1654 Post St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94115",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1654 Post St",
+     "San Francisco, CA 94115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155807142",
+   "display_phone": "(415) 580-7142",
+   "distance": 1484.9048337298825
+  },
+  {
+   "id": "LVpc4HYrTH3OZK6ONLbxEw",
+   "alias": "burke-williams-day-spa-san-francisco-2",
+   "name": "Burke Williams Day Spa",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4ULP04tzjC0d8ov1gI1xVg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/burke-williams-day-spa-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 982,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "massage_therapy",
+     "title": "Massage Therapy"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.406587147759,
+    "Latitude": 37.7843884934863
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "845 Market St",
+    "address2": "",
+    "address3": "Level 5",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "845 Market St",
+     "Level 5",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156947980",
+   "display_phone": "(415) 694-7980",
+   "distance": 1543.1106434470764
+  },
+  {
+   "id": "JG6m9guRd8LCz0UH7DyaiQ",
+   "alias": "nordstrom-san-francisco-10",
+   "name": "Nordstrom",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SbHaiBFLw2dWGL5WkUvMFA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nordstrom-san-francisco-10?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 966,
+   "categories": [
+    {
+     "alias": "deptstores",
+     "title": "Department Stores"
+    },
+    {
+     "alias": "cosmetics",
+     "title": "Cosmetics \u0026 Beauty Supply"
+    },
+    {
+     "alias": "womenscloth",
+     "title": "Women's Clothing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.4071641,
+    "Latitude": 37.7839772
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "865 Market St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "865 Market St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14152438500",
+   "display_phone": "(415) 243-8500",
+   "distance": 1474.8422063690025
+  },
+  {
+   "id": "PiRPnW20VkhIx0gdc1X75w",
+   "alias": "public-barber-salon-san-francisco-4",
+   "name": "Public Barber Salon",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ouzh_aFrztijOVguTbZdyA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/public-barber-salon-san-francisco-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 965,
+   "categories": [
+    {
+     "alias": "barbers",
+     "title": "Barbers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.412664,
+    "Latitude": 37.786702
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "571 Geary St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "571 Geary St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154418599",
+   "display_phone": "(415) 441-8599",
+   "distance": 1438.246324619599
+  },
+  {
+   "id": "_kr3-oj2hUvDo7dPBNruFw",
+   "alias": "cocoon-day-spa-san-francisco-3",
+   "name": "Cocoon Day Spa",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w54Bz0vuYr6ICz-iBoasxw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cocoon-day-spa-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 964,
+   "categories": [
+    {
+     "alias": "massage",
+     "title": "Massage"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.3942574,
+    "Latitude": 37.7868162
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "330 1st St",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94105",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "330 1st St",
+     "Fl 2",
+     "San Francisco, CA 94105"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157770100",
+   "display_phone": "(415) 777-0100",
+   "distance": 2576.45875295162
+  },
+  {
+   "id": "mavHYq-pCN7U_ELFh2U0lA",
+   "alias": "patrick-evan-hair-salon-san-francisco-2",
+   "name": "Patrick Evan Hair Salon",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/U9h0kvdACevg5Wgw4fvPow/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/patrick-evan-hair-salon-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 946,
+   "categories": [
+    {
+     "alias": "hairstylists",
+     "title": "Hair Stylists"
+    },
+    {
+     "alias": "blowoutservices",
+     "title": "Blow Dry/Out Services"
+    },
+    {
+     "alias": "hair_extensions",
+     "title": "Hair Extensions"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.4051181,
+    "Latitude": 37.7874891
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "55 Grant Ave",
+    "address2": "Fl 4",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "55 Grant Ave",
+     "Fl 4",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154211111",
+   "display_phone": "(415) 421-1111",
+   "distance": 1880.1445890856048
+  },
+  {
+   "id": "vhxsAOnpQLTb3rTadUAXjw",
+   "alias": "rosehip-nail-spa-fremont",
+   "name": "Rosehip Nail Spa",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i3lOyo_5CrGGmid9HeBXbA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/rosehip-nail-spa-fremont?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 944,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "eyelashservice",
+     "title": "Eyelash Service"
+    },
+    {
+     "alias": "permanentmakeup",
+     "title": "Permanent Makeup"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -121.9999721,
+    "Latitude": 37.5340471
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5174 Mowry Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Fremont",
+    "zip_code": "94538",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "5174 Mowry Ave",
+     "Fremont, CA 94538"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107923539",
+   "display_phone": "(510) 792-3539",
+   "distance": 45762.857477562306
+  },
+  {
+   "id": "NcuLkkfEysraUx_edTaJnQ",
+   "alias": "leanns-nails-alameda",
+   "name": "Leann's Nails",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NrxoSBGO_asmVzRDHcP6rQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/leanns-nails-alameda?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 940,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.27647,
+    "Latitude": 37.77559
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1612 Webster St",
+    "address2": "",
+    "address3": "",
+    "city": "Alameda",
+    "zip_code": "94501",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1612 Webster St",
+     "Alameda, CA 94501"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15108644117",
+   "display_phone": "(510) 864-4117",
+   "distance": 12560.900415009704
+  },
+  {
+   "id": "5XOSmCrA5_ZMEA_nTbRCfg",
+   "alias": "zebra-tattoo-and-body-piercing-walnut-creek-2",
+   "name": "Zebra Tattoo \u0026 Body Piercing",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UMKEbZaYhhRFSezoiKr2kA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zebra-tattoo-and-body-piercing-walnut-creek-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 928,
+   "categories": [
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    },
+    {
+     "alias": "piercing",
+     "title": "Piercing"
+    },
+    {
+     "alias": "tattoo",
+     "title": "Tattoo"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.06018392268888,
+    "Latitude": 37.900043376436386
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "1419 North Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Walnut Creek",
+    "zip_code": "94596",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1419 North Broadway",
+     "Walnut Creek, CA 94596"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19259461087",
+   "display_phone": "(925) 946-1087",
+   "distance": 34477.92358971215
+  },
+  {
+   "id": "CVpKlqrjYCyjxnlkBCUK5A",
+   "alias": "zebra-body-piercing-berkeley-2",
+   "name": "Zebra Body Piercing",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZTDIwW-DxgNyD1aheSeE_w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/zebra-body-piercing-berkeley-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 922,
+   "categories": [
+    {
+     "alias": "piercing",
+     "title": "Piercing"
+    },
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.25828,
+    "Latitude": 37.86571
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "2467 Telegraph Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2467 Telegraph Ave",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106498002",
+   "display_phone": "(510) 649-8002",
+   "distance": 17382.118544154066
+  },
+  {
+   "id": "LJVOIvGhqcnvzAp7GGcctQ",
+   "alias": "industrial-tattoo-berkeley",
+   "name": "Industrial Tattoo",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gPNn9jB3b6rcAh1BsZWovA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/industrial-tattoo-berkeley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 921,
+   "categories": [
+    {
+     "alias": "piercing",
+     "title": "Piercing"
+    },
+    {
+     "alias": "jewelry",
+     "title": "Jewelry"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.259107984061,
+    "Latitude": 37.864934616173
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2434 Dwight Way",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94704",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2434 Dwight Way",
+     "Berkeley, CA 94704"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106440968",
+   "display_phone": "(510) 644-0968",
+   "distance": 17276.106130171964
+  },
+  {
+   "id": "Bi5Wz48_B3Lp1rUBLJ_-4w",
+   "alias": "yvonnes-nails-fremont",
+   "name": "Yvonne's Nails",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZyWNWIu74YR4H0JAjifwIQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/yvonnes-nails-fremont?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 861,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.000011,
+    "Latitude": 37.535258
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5205 Mowry Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Fremont",
+    "zip_code": "94538",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "5205 Mowry Ave",
+     "Fremont, CA 94538"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107428888",
+   "display_phone": "(510) 742-8888",
+   "distance": 45531.86477519435
+  },
+  {
+   "id": "2MJzSgwVK_IgqJ9y3XpaKQ",
+   "alias": "hair-international-palo-alto",
+   "name": "Hair International",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/AopL-RUTFz1PqhkSx_8eaA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hair-international-palo-alto?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 850,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.1707968,
+    "Latitude": 37.4423771
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "232 Stanford Shopping Ctr",
+    "address2": "",
+    "address3": "",
+    "city": "Palo Alto",
+    "zip_code": "94304",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "232 Stanford Shopping Ctr",
+     "Palo Alto, CA 94304"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16503242007",
+   "display_phone": "(650) 324-2007",
+   "distance": 42968.52820101678
+  },
+  {
+   "id": "1cDA8E7fQGLO6zKVdVmUqQ",
+   "alias": "edo-salon-san-francisco-3",
+   "name": "Edo Salon",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UT3p9_4TNgBdVKcg8mKnGQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/edo-salon-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 774,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4322383,
+    "Latitude": 37.7716255
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "601 Haight St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94117",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "601 Haight St",
+     "San Francisco, CA 94117"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158610131",
+   "display_phone": "(415) 861-0131",
+   "distance": 1185.6859312542515
+  },
+  {
+   "id": "iG03eb4nJ2UJb93hFgo96g",
+   "alias": "classy-nail-spa-alameda-2",
+   "name": "Classy Nail Spa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/3oF5TeOdEbg16PXAwK1-lQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/classy-nail-spa-alameda-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 771,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.2440562,
+    "Latitude": 37.7630722
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1317 Park St",
+    "address2": "",
+    "address3": "",
+    "city": "Alameda",
+    "zip_code": "94501",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1317 Park St",
+     "Alameda, CA 94501"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15108647303",
+   "display_phone": "(510) 864-7303",
+   "distance": 15468.381553339213
+  },
+  {
+   "id": "hlnS5wF_8DgPwMUJJF_agA",
+   "alias": "imperial-spa-san-francisco",
+   "name": "Imperial Spa",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/LMYL8Sgs_Fpy12KGV5NvRw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/imperial-spa-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 765,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "massage",
+     "title": "Massage"
+    },
+    {
+     "alias": "saunas",
+     "title": "Saunas"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.433985,
+    "Latitude": 37.783973
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1875 Geary Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94115",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1875 Geary Blvd",
+     "San Francisco, CA 94115"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14157711114",
+   "display_phone": "(415) 771-1114",
+   "distance": 1631.2141753420024
+  },
+  {
+   "id": "_kREEOgUXSF9buheGkfHPw",
+   "alias": "blake-charles-salon-san-francisco-2",
+   "name": "Blake Charles Salon",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/R4YXtl2G78eyJw-m3RacCw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/blake-charles-salon-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 749,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "makeupartists",
+     "title": "Makeup Artists"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4046785,
+    "Latitude": 37.7881788
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "77 Maiden Ln",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "77 Maiden Ln",
+     "Fl 2",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154333030",
+   "display_phone": "(415) 433-3030",
+   "distance": 1963.1592631318026
+  },
+  {
+   "id": "YkItq03tAvPSMh8ieR-NaA",
+   "alias": "nails-by-vivian-el-cerrito-4",
+   "name": "Nails By Vivian",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KgxUqDZLuXTbmenYGxkhQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nails-by-vivian-el-cerrito-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 748,
+   "categories": [
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.3022945,
+    "Latitude": 37.89953
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "9943 San Pablo Ave",
+    "address2": "",
+    "address3": "",
+    "city": "El Cerrito",
+    "zip_code": "94530",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "9943 San Pablo Ave",
+     "El Cerrito, CA 94530"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105254909",
+   "display_phone": "(510) 525-4909",
+   "distance": 17257.087927196542
+  },
+  {
+   "id": "X4w2KGsGnaPUHm3UEG3Nvg",
+   "alias": "3sixty-salon-fremont",
+   "name": "3Sixty Salon",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t4vgi9t_yPCGUCXboxcZWw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/3sixty-salon-fremont?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 743,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "makeupartists",
+     "title": "Makeup Artists"
+    },
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -121.998659,
+    "Latitude": 37.533017
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "5154 Mowry Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Fremont",
+    "zip_code": "94538",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "5154 Mowry Ave",
+     "Fremont, CA 94538"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105740881",
+   "display_phone": "(510) 574-0881",
+   "distance": 45774.85035567673
+  },
+  {
+   "id": "bXwn7D-N6EpudL9TBtl4Rg",
+   "alias": "hair-play-san-francisco-2",
+   "name": "Hair Play",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vQ8f6yRlqte5eczqrhKiWQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/hair-play-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 741,
+   "categories": [
+    {
+     "alias": "hairstylists",
+     "title": "Hair Stylists"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.42236,
+    "Latitude": 37.74418
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "695 San Jose Ave",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94110",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "695 San Jose Ave",
+     "San Francisco, CA 94110"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158630703",
+   "display_phone": "(415) 863-0703",
+   "distance": 3427.5567387224423
+  },
+  {
+   "id": "t2JLdT6ZAdf2J4rcdwrxBw",
+   "alias": "retreat-salon-and-nail-spa-redwood-city",
+   "name": "Retreat Salon \u0026 Nail Spa",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7Ga2QKC6gbCJis4sODLICA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/retreat-salon-and-nail-spa-redwood-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 716,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    },
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.22767,
+    "Latitude": 37.4868
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2072 Broadway",
+    "address2": "",
+    "address3": "",
+    "city": "Redwood City",
+    "zip_code": "94063",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2072 Broadway",
+     "Redwood City, CA 94063"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16506663025",
+   "display_phone": "(650) 666-3025",
+   "distance": 36210.019689540175
+  },
+  {
+   "id": "ug40QN01xRgT8YrkbaFalg",
+   "alias": "oceanic-foot-spa-burlingame",
+   "name": "Oceanic Foot Spa",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jFEDngefli7f5UCy5fYtTA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/oceanic-foot-spa-burlingame?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 696,
+   "categories": [
+    {
+     "alias": "massage",
+     "title": "Massage"
+    },
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.345944,
+    "Latitude": 37.5767868
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1321 Howard Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Burlingame",
+    "zip_code": "94010",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1321 Howard Ave",
+     "Burlingame, CA 94010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16502000939",
+   "display_phone": "(650) 200-0939",
+   "distance": 22958.15371108937
+  },
+  {
+   "id": "IcJEQaK16eqo86qjh4efBA",
+   "alias": "kume-spa-oakland-4",
+   "name": "Kume Spa",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/LKgogTLxxQYKHBmNhzSmJA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/kume-spa-oakland-4?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 696,
+   "categories": [
+    {
+     "alias": "massage",
+     "title": "Massage"
+    },
+    {
+     "alias": "reflexology",
+     "title": "Reflexology"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.2495211,
+    "Latitude": 37.8097764
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "614 Grand Ave",
+    "address2": "Ste B",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94610",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "614 Grand Ave",
+     "Ste B",
+     "Oakland, CA 94610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107359868",
+   "display_phone": "(510) 735-9868",
+   "distance": 15422.829751476358
+  },
+  {
+   "id": "T87JUBRAlwYwBYqjB2OlsA",
+   "alias": "sephora-san-francisco-3",
+   "name": "SEPHORA",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Mt-hDgqsEjWIEVAvaVZgEw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sephora-san-francisco-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 694,
+   "categories": [
+    {
+     "alias": "cosmetics",
+     "title": "Cosmetics \u0026 Beauty Supply"
+    },
+    {
+     "alias": "skincare",
+     "title": "Skin Care"
+    },
+    {
+     "alias": "perfume",
+     "title": "Perfume"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.40816082453068,
+    "Latitude": 37.784955
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "33 Powell St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94102",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "33 Powell St",
+     "San Francisco, CA 94102"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153629360",
+   "display_phone": "(415) 362-9360",
+   "distance": 1491.8868537340184
+  },
+  {
+   "id": "UXzklpX-xgFSf_Ky8EjayQ",
+   "alias": "nail-spa-boutique-union-city",
+   "name": "Nail Spa Boutique",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HliKoLqp1xmDUSZbrX3dUw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/nail-spa-boutique-union-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 693,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.08034,
+    "Latitude": 37.59584
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "31080 Union City Blvd",
+    "address2": "Ste 104",
+    "address3": "",
+    "city": "Union City",
+    "zip_code": "94587",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "31080 Union City Blvd",
+     "Ste 104",
+     "Union City, CA 94587"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104003253",
+   "display_phone": "(510) 400-3253",
+   "distance": 35869.96999062162
+  },
+  {
+   "id": "_rvVIXjCerqc8dTStpZHkg",
+   "alias": "richmond-nail-salon-san-francisco",
+   "name": "Richmond Nail Salon",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bfmMx5WpGsbfyaGnITmTdA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/richmond-nail-salon-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 684,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.48243,
+    "Latitude": 37.78046
+   },
+   "transactions": [],
+   "price": "$",
+   "location": {
+    "address1": "5856 Geary Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94121",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "5856 Geary Blvd",
+     "San Francisco, CA 94121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158763888",
+   "display_phone": "(415) 876-3888",
+   "distance": 5571.468858733338
+  },
+  {
+   "id": "Hfl35kz4GbpAswpL71zfmw",
+   "alias": "mani-pedi-spa-san-francisco-2",
+   "name": "Mani Pedi Spa",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ywn336amL5v8x8UxxXN5rA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/mani-pedi-spa-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 681,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.421104431152,
+    "Latitude": 37.7912483215332
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1545 Polk St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1545 Polk St",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158729686",
+   "display_phone": "(415) 872-9686",
+   "distance": 1825.7821606356945
+  },
+  {
+   "id": "UMhkUmhdGmkvAyqJfd4soA",
+   "alias": "cinta-salon-san-francisco-2",
+   "name": "Cinta Salon",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sjSGvDvh_WHeyt0S7OPXJA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/cinta-salon-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 680,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.404990196228,
+    "Latitude": 37.7872165403078
+   },
+   "transactions": [],
+   "price": "$$$",
+   "location": {
+    "address1": "23 Grant Ave",
+    "address2": "Fl 2",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94108",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "23 Grant Ave",
+     "Fl 2",
+     "San Francisco, CA 94108"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14159891000",
+   "display_phone": "(415) 989-1000",
+   "distance": 1865.3045328597557
+  },
+  {
+   "id": "8XaHpEdcccW4ytWi0mqNeg",
+   "alias": "silk-nails-spa-san-francisco",
+   "name": "Silk Nails Spa",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OtwsGdXLRxzye9V3N_Qj_g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/silk-nails-spa-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 664,
+   "categories": [
+    {
+     "alias": "spas",
+     "title": "Day Spas"
+    },
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.42372,
+    "Latitude": 37.78764
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "1425 Franklin St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1425 Franklin St",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158853277",
+   "display_phone": "(415) 885-3277",
+   "distance": 1477.3020694737156
+  },
+  {
+   "id": "i7ii4jm5_m3DbaoaaSFxYw",
+   "alias": "l-amor-salon-oakland-2",
+   "name": "L'amor Salon",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kXK7WtEC48y4KIXtXM_yOA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/l-amor-salon-oakland-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 662,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.2543719,
+    "Latitude": 37.8089497
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "386 Grand Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94610",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "386 Grand Ave",
+     "Oakland, CA 94610"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104652848",
+   "display_phone": "(510) 465-2848",
+   "distance": 14976.694007735403
+  },
+  {
+   "id": "png0RXToWqyX1LqXfgrL-w",
+   "alias": "la-jolie-nail-spa-palo-alto-2",
+   "name": "La Jolie Nail Spa",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9Tq5MTX50uTN5d0irkzQIg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/la-jolie-nail-spa-palo-alto-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 653,
+   "categories": [
+    {
+     "alias": "othersalons",
+     "title": "Nail Salons"
+    },
+    {
+     "alias": "waxing",
+     "title": "Waxing"
+    },
+    {
+     "alias": "massage",
+     "title": "Massage"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.14469,
+    "Latitude": 37.42699
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "364 S California Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Palo Alto",
+    "zip_code": "94306",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "364 S California Ave",
+     "Palo Alto, CA 94306"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16503228882",
+   "display_phone": "(650) 322-8882",
+   "distance": 45648.441827899565
+  },
+  {
+   "id": "sZfpCIov_FsD5k2OHqS7Cw",
+   "alias": "keter-salon-berkeley",
+   "name": "Keter Salon - 4th\u0026U",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/FLGV2i0qo8Pm5va9sV350A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/keter-salon-berkeley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 652,
+   "categories": [
+    {
+     "alias": "hair",
+     "title": "Hair Salons"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.29982017608027,
+    "Latitude": 37.866930998080946
+   },
+   "transactions": [],
+   "price": "$$",
+   "location": {
+    "address1": "2030 4th St",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94710",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2030 4th St",
+     "Berkeley, CA 94710"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15108490306",
+   "display_phone": "(510) 849-0306",
+   "distance": 14664.380902332176
+  }
+ ],
+ "total": 11200,
+ "region": {
+  "center": {
+   "longitude": -122.4194,
+   "Latitude": 37.7749
+  }
+ }
+}

@@ -1,0 +1,1819 @@
+{
+ "businesses": [
+  {
+   "id": "exoLIWVE5l0LEUEZKJUxGw",
+   "alias": "alpha-grooming-pet-salon-burlingame-5",
+   "name": "Alpha Grooming Pet Salon",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pnW7FqPBeILnEIvznTDazA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/alpha-grooming-pet-salon-burlingame-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 718,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.3460144,
+    "Latitude": 37.5768045
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1325 Howard Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Burlingame",
+    "zip_code": "94010",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1325 Howard Ave",
+     "Burlingame, CA 94010"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16502714282",
+   "display_phone": "(650) 271-4282",
+   "distance": 22954.52095551323
+  },
+  {
+   "id": "8bnqNVMzIYkzWNh9OUrUfg",
+   "alias": "wag-hotels-san-francisco-2",
+   "name": "Wag Hotels",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OlADC_JGPKiGp5ElAeGkLw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wag-hotels-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 718,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.414164,
+    "Latitude": 37.7683693757177
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "25 14th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "25 14th St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18889245463",
+   "display_phone": "(888) 924-5463",
+   "distance": 859.7238849917215
+  },
+  {
+   "id": "J228eCgRKgdMT0nLrFqsIQ",
+   "alias": "vca-bay-area-veterinary-specialists-and-emergency-hospital-san-leandro",
+   "name": "VCA Bay Area Veterinary Specialists \u0026 Emergency Hospital",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/drahRdeJJf5OzsoN6j8wpw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vca-bay-area-veterinary-specialists-and-emergency-hospital-san-leandro?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 667,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.138958,
+    "Latitude": 37.697106
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "14790 Washington Ave",
+    "address2": "",
+    "address3": "",
+    "city": "San Leandro",
+    "zip_code": "94578",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "14790 Washington Ave",
+     "San Leandro, CA 94578"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104837387",
+   "display_phone": "(510) 483-7387",
+   "distance": 26134.377891195025
+  },
+  {
+   "id": "uVe_qrU4Wtlqwkis9ve9Gg",
+   "alias": "pets-referral-center-berkeley",
+   "name": "PETS Referral Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WMKngaABTIBb-wkhiTwjAA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pets-referral-center-berkeley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 656,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.29301910486993,
+    "Latitude": 37.8687146275062
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1048 University Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Berkeley",
+    "zip_code": "94710",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1048 University Ave",
+     "Berkeley, CA 94710"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105486684",
+   "display_phone": "(510) 548-6684",
+   "distance": 15233.04150549137
+  },
+  {
+   "id": "bc8dnKm_2AbfplokBSifJg",
+   "alias": "sage-veterinary-centers-concord",
+   "name": "SAGE Veterinary Centers",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xQ13Aeke1qq4TAljlgr32Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sage-veterinary-centers-concord?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 576,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.0559913695909,
+    "Latitude": 37.97426899195064
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2055 Meridian Park Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Concord",
+    "zip_code": "94520",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2055 Meridian Park Blvd",
+     "Concord, CA 94520"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19256277243",
+   "display_phone": "(925) 627-7243",
+   "distance": 38844.360665284126
+  },
+  {
+   "id": "HLC6nnTy8WfYxQfCsQVJEw",
+   "alias": "sage-veterinary-centers-redwood-city-2",
+   "name": "SAGE Veterinary Centers",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/e_gHwwxymwIo3GWrVWi0aQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sage-veterinary-centers-redwood-city-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 537,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.211227,
+    "Latitude": 37.485392
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "934 Charter St",
+    "address2": "",
+    "address3": "",
+    "city": "Redwood City",
+    "zip_code": "94063",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "934 Charter St",
+     "Redwood City, CA 94063"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16504177243",
+   "display_phone": "(650) 417-7243",
+   "distance": 37045.673031404214
+  },
+  {
+   "id": "qZCNtGZcWAgO8WAL6Fdnfg",
+   "alias": "6th-ave-aquarium-san-francisco",
+   "name": "6th Ave Aquarium",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bcnEDU2cS4ajxuMASR01tA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/6th-ave-aquarium-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 526,
+   "categories": [
+    {
+     "alias": "aquariumservices",
+     "title": "Aquarium Services"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.4638671875,
+    "Latitude": 37.7827262878418
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "425 Clement St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94118",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "425 Clement St",
+     "San Francisco, CA 94118"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156687190",
+   "display_phone": "(415) 668-7190",
+   "distance": 4007.854753374987
+  },
+  {
+   "id": "Pcbbf5htIK39a5WI-F1yVw",
+   "alias": "bishop-ranch-veterinary-center-and-urgent-care-san-ramon",
+   "name": "Bishop Ranch Veterinary Center \u0026 Urgent Care",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pRPzBm1AR0ppUetdede-Pg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bishop-ranch-veterinary-center-and-urgent-care-san-ramon?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 525,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -121.97117,
+    "Latitude": 37.77132
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2000 Bishop Dr",
+    "address2": "",
+    "address3": "",
+    "city": "San Ramon",
+    "zip_code": "94583",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2000 Bishop Dr",
+     "San Ramon, CA 94583"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19258668387",
+   "display_phone": "(925) 866-8387",
+   "distance": 39381.46703428002
+  },
+  {
+   "id": "jhKXCpizJQ2VisyzKrSyAw",
+   "alias": "arf-tony-la-russas-animal-rescue-foundation-walnut-creek",
+   "name": "ARF - Tony La Russa's Animal Rescue Foundation",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AuCKIuGRgWgRuYuuI-9JRw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/arf-tony-la-russas-animal-rescue-foundation-walnut-creek?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 509,
+   "categories": [
+    {
+     "alias": "animalshelters",
+     "title": "Animal Shelters"
+    },
+    {
+     "alias": "petservices",
+     "title": "Pet Services"
+    },
+    {
+     "alias": "petadoption",
+     "title": "Pet Adoption"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.020704,
+    "Latitude": 37.93289
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2890 Mitchell Dr",
+    "address2": "",
+    "address3": "",
+    "city": "Walnut Creek",
+    "zip_code": "94598",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2890 Mitchell Dr",
+     "Walnut Creek, CA 94598"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19252561273",
+   "display_phone": "(925) 256-1273",
+   "distance": 39165.29559403909
+  },
+  {
+   "id": "1TBS-4unbmt4euYfeewpUg",
+   "alias": "sage-veterinary-centers-dublin",
+   "name": "SAGE Veterinary Centers",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/plJuFp6QSq9aOrgrpvYHdw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sage-veterinary-centers-dublin?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 493,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -121.9278359,
+    "Latitude": 37.70732
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "7121 Amador Plaza Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Dublin",
+    "zip_code": "94568",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "7121 Amador Plaza Rd",
+     "Dublin, CA 94568"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19255747243",
+   "display_phone": "(925) 574-7243",
+   "distance": 43872.07951852297
+  },
+  {
+   "id": "RPDyFpw9L4ebTeqJWDbWCA",
+   "alias": "wag-hotels-redwood-city",
+   "name": "Wag Hotels",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lOp7fZ2FdJkHs8ATIOBrRw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wag-hotels-redwood-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 479,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.21911593,
+    "Latitude": 37.49043464
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1025 Hansen Way",
+    "address2": "",
+    "address3": "",
+    "city": "Redwood City",
+    "zip_code": "94063",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1025 Hansen Way",
+     "Redwood City, CA 94063"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18889245463",
+   "display_phone": "(888) 924-5463",
+   "distance": 36215.818819914806
+  },
+  {
+   "id": "VRTd1g8V3FXjrZExlyZscA",
+   "alias": "petsmart-daly-city",
+   "name": "PetSmart",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/wILxHJjlljpGGkVf_1JkFA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsmart-daly-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 465,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.46682,
+    "Latitude": 37.66756
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "315 Gellert Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Daly City",
+    "zip_code": "94015",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "315 Gellert Blvd",
+     "Daly City, CA 94015"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16509970395",
+   "display_phone": "(650) 997-0395",
+   "distance": 12655.668031178331
+  },
+  {
+   "id": "GaXSxLNkF3G-OFYY7-Y7ug",
+   "alias": "petsmart-fremont",
+   "name": "PetSmart",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/p19RuE15ir49ldqQ8wVZQg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/petsmart-fremont?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 426,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -121.98559,
+    "Latitude": 37.54334
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "39410 Argonaut Way",
+    "address2": "",
+    "address3": "",
+    "city": "Fremont",
+    "zip_code": "94538",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "39410 Argonaut Way",
+     "Fremont, CA 94538"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107901459",
+   "display_phone": "(510) 790-1459",
+   "distance": 46066.83863188925
+  },
+  {
+   "id": "Iosf_nlBC3v4SBYz-yLDgg",
+   "alias": "bluepearl-pet-hospital-daly-city",
+   "name": "BluePearl Pet Hospital",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Il6oJOAxbtnel4I40VWZyw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bluepearl-pet-hospital-daly-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 415,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.470136580357,
+    "Latitude": 37.6972321865225
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2201 Junipero Serra Blvd",
+    "address2": "Ste C",
+    "address3": "",
+    "city": "Daly City",
+    "zip_code": "94014",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2201 Junipero Serra Blvd",
+     "Ste C",
+     "Daly City, CA 94014"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154137363",
+   "display_phone": "(415) 413-7363",
+   "distance": 9720.651384501021
+  },
+  {
+   "id": "cui6Dp47PLIwWzIoBDXo4w",
+   "alias": "pet-food-express-san-francisco-2",
+   "name": "Pet Food Express",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CpWFhipDeWpZAZivu79CLQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pet-food-express-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 403,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "petservices",
+     "title": "Pet Services"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.42625,
+    "Latitude": 37.7692
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1975 Market St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1975 Market St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154314567",
+   "display_phone": "(415) 431-4567",
+   "distance": 858.4661660312997
+  },
+  {
+   "id": "nH8sMAyjPPFQKMU0srgm1A",
+   "alias": "pet-emergency-and-specialty-center-of-marin-san-rafael-2",
+   "name": "Pet Emergency \u0026 Specialty Center of Marin",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zCi9Sw_NfSnO_YeKLUQwEA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pet-emergency-and-specialty-center-of-marin-san-rafael-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 400,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.506942,
+    "Latitude": 37.961734
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "901 Francisco Blvd E",
+    "address2": "",
+    "address3": "",
+    "city": "San Rafael",
+    "zip_code": "94901",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "901 Francisco Blvd E",
+     "San Rafael, CA 94901"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154567372",
+   "display_phone": "(415) 456-7372",
+   "distance": 22153.2319741933
+  },
+  {
+   "id": "OSzYutviLuLoPHZ2QHaZXQ",
+   "alias": "solano-napa-pet-emergency-clinic-fairfield",
+   "name": "Solano-Napa Pet Emergency Clinic",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3VRd4vBNACQxnpOgUNP_jQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/solano-napa-pet-emergency-clinic-fairfield?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 400,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.12513,
+    "Latitude": 38.2219399
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4437 Central Pl",
+    "address2": "Ste B3",
+    "address3": "",
+    "city": "Fairfield",
+    "zip_code": "94534",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "4437 Central Pl",
+     "Ste B3",
+     "Fairfield, CA 94534"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+17078641444",
+   "display_phone": "(707) 864-1444",
+   "distance": 55993.22938694221
+  },
+  {
+   "id": "X0q2nqnmQU6jU6koPvE1Mw",
+   "alias": "ace-animal-hospital-fremont",
+   "name": "Ace Animal Hospital",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aAL89dQTJhII0Ew4cx6Aog/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/ace-animal-hospital-fremont?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 398,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    },
+    {
+     "alias": "pethospice",
+     "title": "Pet Hospice"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -121.98595,
+    "Latitude": 37.55001
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3750 Mowry Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Fremont",
+    "zip_code": "94538",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3750 Mowry Ave",
+     "Fremont, CA 94538"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15107902525",
+   "display_phone": "(510) 790-2525",
+   "distance": 45625.83875585249
+  },
+  {
+   "id": "AdW5W3iGgdUCwy_EJuVvqw",
+   "alias": "vca-bay-area-animal-hospital-oakland",
+   "name": "VCA Bay Area Animal Hospital",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bJ49XMtTGH4CIPO6h3ggtw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vca-bay-area-animal-hospital-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 395,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 3,
+   "coordinates": {
+    "longitude": -122.263828,
+    "Latitude": 37.833274
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "4501 Shattuck Ave",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94609",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "4501 Shattuck Ave",
+     "Oakland, CA 94609"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106548375",
+   "display_phone": "(510) 654-8375",
+   "distance": 15130.930626570063
+  },
+  {
+   "id": "KFDLDa5BSqpq0rTwSornIA",
+   "alias": "classy-canine-s-wiggle-rumps-castro-valley",
+   "name": "Classy Canine’s Wiggle Rumps",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EWsDQco599g0AKJCYfD2Mg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/classy-canine-s-wiggle-rumps-castro-valley?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 386,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.088142,
+    "Latitude": 37.693715
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2602 Castro Valley Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Castro Valley",
+    "zip_code": "94546",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2602 Castro Valley Blvd",
+     "Castro Valley, CA 94546"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105837297",
+   "display_phone": "(510) 583-7297",
+   "distance": 30497.24173322745
+  },
+  {
+   "id": "MWHa01KIhVGVuOHzgxL8CA",
+   "alias": "california-pet-pharmacy-hayward",
+   "name": "California Pet Pharmacy",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/hgBack-LxIJ8qsyEur08Sg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/california-pet-pharmacy-hayward?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 376,
+   "categories": [
+    {
+     "alias": "petservices",
+     "title": "Pet Services"
+    }
+   ],
+   "rating": 2.5,
+   "coordinates": {
+    "longitude": -122.1104191,
+    "Latitude": 37.6251627
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3157 Corporate Pl",
+    "address2": "",
+    "address3": "",
+    "city": "Hayward",
+    "zip_code": "94545",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3157 Corporate Pl",
+     "Hayward, CA 94545"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18775544797",
+   "display_phone": "(877) 554-4797",
+   "distance": 31877.843001291934
+  },
+  {
+   "id": "GicmbQDE1ZvW4GlKfNCk2Q",
+   "alias": "aussie-pet-mobile-south-bay-san-jose-3",
+   "name": "Aussie Pet Mobile South Bay",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/n-PtUI2QZgVn0_YWwvIV-g/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/aussie-pet-mobile-south-bay-san-jose-3?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 370,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -121.87693,
+    "Latitude": 37.33545
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "San Jose",
+    "zip_code": "95112",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "San Jose, CA 95112"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14083339681",
+   "display_phone": "(408) 333-9681",
+   "distance": 67079.2717968544
+  },
+  {
+   "id": "oOUMT8GZiqThGbb582ADtQ",
+   "alias": "vca-encina-veterinary-medical-center-walnut-creek-2",
+   "name": "VCA Encina Veterinary Medical Center",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3GSliv2YdFMZAVZ_cUqd-A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/vca-encina-veterinary-medical-center-walnut-creek-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 371,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.0181351,
+    "Latitude": 37.9258003
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2803 Ygnacio Valley Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Walnut Creek",
+    "zip_code": "94598",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2803 Ygnacio Valley Rd",
+     "Walnut Creek, CA 94598"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19259375000",
+   "display_phone": "(925) 937-5000",
+   "distance": 39043.93782055882
+  },
+  {
+   "id": "pEu8FMq2ym4YjVu3OFRF2w",
+   "alias": "woodminster-veterinary-hospital-oakland",
+   "name": "Woodminster Veterinary Hospital",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/kQst8VhHRr84bY79nXcj-w/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/woodminster-veterinary-hospital-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 369,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.1976335,
+    "Latitude": 37.8118213
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5045 Woodminster Ln",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94602",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "5045 Woodminster Ln",
+     "Oakland, CA 94602"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105310121",
+   "display_phone": "(510) 531-0121",
+   "distance": 19914.18111191184
+  },
+  {
+   "id": "cVRHIc5JrdIpP_ag7A-K7A",
+   "alias": "dog-gone-good-san-francisco",
+   "name": "Dog Gone Good!",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8jD4vlf1AKDazcS9S7XsYw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dog-gone-good-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 358,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.48491,
+    "Latitude": 37.74826
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94016",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "San Francisco, CA 94016"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154204768",
+   "display_phone": "(415) 420-4768",
+   "distance": 7701.821327822588
+  },
+  {
+   "id": "tZRaPNVtD2YQm1S6oQR5PQ",
+   "alias": "dan-perata-dog-training-san-francisco",
+   "name": "Dan Perata Dog Training",
+   "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mNXQ7T6SAa1dQWOKnJ6_bQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/dan-perata-dog-training-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 351,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.404212355613,
+    "Latitude": 37.7370043453734
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "80 Elmira St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94124",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "80 Elmira St",
+     "San Francisco, CA 94124"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14153730889",
+   "display_phone": "(415) 373-0889",
+   "distance": 4420.278878761759
+  },
+  {
+   "id": "4Yd2tMzATbNEYCli44Oo0A",
+   "alias": "beacon-veterinary-specialists-fremont-2",
+   "name": "Beacon Veterinary Specialists",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NBOrZr2t-98lZwXIqK7qXA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/beacon-veterinary-specialists-fremont-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 346,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -121.93748937,
+    "Latitude": 37.53065169
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1618 Washington Blvd",
+    "address2": "",
+    "address3": "",
+    "city": "Fremont",
+    "zip_code": "94539",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1618 Washington Blvd",
+     "Fremont, CA 94539"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15106576343",
+   "display_phone": "(510) 657-6343",
+   "distance": 50373.87809899968
+  },
+  {
+   "id": "hGD8hZoVDQVkQPMZ9hNsPg",
+   "alias": "sf-puppy-prep-san-francisco",
+   "name": "SF Puppy Prep",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IX1A1vBKY5GHS1rL1Ak_4Q/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/sf-puppy-prep-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 344,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.40626628155,
+    "Latitude": 37.779171609019
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "251 6th St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94103",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "251 6th St",
+     "San Francisco, CA 94103"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156180828",
+   "display_phone": "(415) 618-0828",
+   "distance": 1248.2066488567639
+  },
+  {
+   "id": "ed_GRJ8hVnsrFPdtzBaZMg",
+   "alias": "the-pawington-south-san-francisco",
+   "name": "The Pawington",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AHS5oTY8LYApNR7AXtw9nA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/the-pawington-south-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 344,
+   "categories": [
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.40382,
+    "Latitude": 37.64147
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "116 Beacon St",
+    "address2": "",
+    "address3": "",
+    "city": "South San Francisco",
+    "zip_code": "94080",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "116 Beacon St",
+     "South San Francisco, CA 94080"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+16505887788",
+   "display_phone": "(650) 588-7788",
+   "distance": 14902.309059319181
+  },
+  {
+   "id": "mYMc2LfRemO1yInFNGNQrQ",
+   "alias": "protege-photography-san-francisco-2",
+   "name": "PROTEGE Photography",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0Kh48xbeYLGwRUfj-7bc6A/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/protege-photography-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 335,
+   "categories": [
+    {
+     "alias": "petphotography",
+     "title": "Pet Photography"
+    },
+    {
+     "alias": "sessionphotography",
+     "title": "Session Photography"
+    }
+   ],
+   "rating": 5,
+   "coordinates": {
+    "longitude": -122.39688,
+    "Latitude": 37.78471
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "631 Folsom St",
+    "address2": "Ste 8",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94107",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "631 Folsom St",
+     "Ste 8",
+     "San Francisco, CA 94107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19259889876",
+   "display_phone": "(925) 988-9876",
+   "distance": 2259.8712926729686
+  },
+  {
+   "id": "57gyW3YrwIqfV4nQEt2Z5g",
+   "alias": "club-k9-castro-valley-8",
+   "name": "Club K9",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mKPow4U76b-0x_fg5IlTHg/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/club-k9-castro-valley-8?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 334,
+   "categories": [
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.0218141,
+    "Latitude": 37.7634205
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "10671 Crow Canyon Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Castro Valley",
+    "zip_code": "94552",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "10671 Crow Canyon Rd",
+     "Castro Valley, CA 94552"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15102479600",
+   "display_phone": "(510) 247-9600",
+   "distance": 34970.20417423024
+  },
+  {
+   "id": "ZztyMVRuo56-COJtt_8Auw",
+   "alias": "all-bay-animal-hospital-concord",
+   "name": "All Bay Animal Hospital",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GxCvKjT5y3joXwM-OEArjQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/all-bay-animal-hospital-concord?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 329,
+   "categories": [
+    {
+     "alias": "vet",
+     "title": "Veterinarians"
+    },
+    {
+     "alias": "emergencypethospital",
+     "title": "Emergency Pet Hospital"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.04082,
+    "Latitude": 37.9744699
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "1739 Willow Pass Rd",
+    "address2": "",
+    "address3": "",
+    "city": "Concord",
+    "zip_code": "94520",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "1739 Willow Pass Rd",
+     "Concord, CA 94520"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+19256877346",
+   "display_phone": "(925) 687-7346",
+   "distance": 39954.29399787708
+  },
+  {
+   "id": "-qAJsvf2ziRk2mndqesMyg",
+   "alias": "happy-hound-play-and-daycare-oakland-2",
+   "name": "Happy Hound Play \u0026 Daycare",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/rnBlYijJ7CurazH93F6MCQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/happy-hound-play-and-daycare-oakland-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 323,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petboarding",
+     "title": "Pet Boarding"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.29005,
+    "Latitude": 37.816034
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2101 Mandela Pkwy",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94607",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2101 Mandela Pkwy",
+     "Oakland, CA 94607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15105473647",
+   "display_phone": "(510) 547-3647",
+   "distance": 12251.358541668247
+  },
+  {
+   "id": "2d_JMM9xfbqn477WhO3_0A",
+   "alias": "bow-wow-meow-san-francisco-san-francisco",
+   "name": "Bow Wow Meow - San Francisco",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zDBULU2gLQfB3OSqlPxwQQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/bow-wow-meow-san-francisco-san-francisco?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 320,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.421615600586,
+    "Latitude": 37.7966728210449
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "2150 Polk St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94109",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "2150 Polk St",
+     "San Francisco, CA 94109"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154402845",
+   "display_phone": "(415) 440-2845",
+   "distance": 2426.858615892501
+  },
+  {
+   "id": "X2z0eeWdaHuk7ucOdDFT_w",
+   "alias": "wag-hotels-oakland",
+   "name": "Wag Hotels",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iT-bYO2oS7rF1bEPGvLXLQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/wag-hotels-oakland?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 317,
+   "categories": [
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 4,
+   "coordinates": {
+    "longitude": -122.26518,
+    "Latitude": 37.79322
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "39 4th St",
+    "address2": "",
+    "address3": "",
+    "city": "Oakland",
+    "zip_code": "94607",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "39 4th St",
+     "Oakland, CA 94607"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+18889245463",
+   "display_phone": "(888) 924-5463",
+   "distance": 13703.919783939047
+  },
+  {
+   "id": "KWz2bOIq0UKKtVAXWmALtw",
+   "alias": "five-brooks-ranch-olema",
+   "name": "Five Brooks Ranch",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cLViHBl7SZ8ldKcbqdJAOw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/five-brooks-ranch-olema?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 316,
+   "categories": [
+    {
+     "alias": "horsebackriding",
+     "title": "Horseback Riding"
+    },
+    {
+     "alias": "horse_boarding",
+     "title": "Horse Boarding"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.758462429047,
+    "Latitude": 37.9968001749514
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "8001 State Route 1 N",
+    "address2": "",
+    "address3": "",
+    "city": "Olema",
+    "zip_code": "94950",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "8001 State Route 1 N",
+     "Olema, CA 94950"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14156631570",
+   "display_phone": "(415) 663-1570",
+   "distance": 38655.06606001127
+  },
+  {
+   "id": "AOt6LIoQ0k-uWdJ0rH2DTw",
+   "alias": "koru-k9-dog-training-and-rehabilitation-san-francisco-2",
+   "name": "Koru K9 Dog Training \u0026 Rehabilitation",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/occjibtFws6XvQ6qQLOXMw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/koru-k9-dog-training-and-rehabilitation-san-francisco-2?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 315,
+   "categories": [
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.505599292057,
+    "Latitude": 37.7751571644794
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94121",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "San Francisco, CA 94121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14155835412",
+   "display_phone": "(415) 583-5412",
+   "distance": 7576.180659393263
+  },
+  {
+   "id": "aN3ZbV-AIlQVkpMRhyVRxQ",
+   "alias": "who-let-the-dogs-out-san-francisco-7",
+   "name": "Who Let the Dogs Out!",
+   "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/X6NHsxCtXudEL0wMTUI1UQ/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/who-let-the-dogs-out-san-francisco-7?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 308,
+   "categories": [
+    {
+     "alias": "dogwalkers",
+     "title": "Dog Walkers"
+    },
+    {
+     "alias": "pet_sitting",
+     "title": "Pet Sitting"
+    },
+    {
+     "alias": "pet_training",
+     "title": "Pet Training"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.4810763,
+    "Latitude": 37.7838853
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "5915 California St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94121",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "5915 California St",
+     "San Francisco, CA 94121"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14154198777",
+   "display_phone": "(415) 419-8777",
+   "distance": 5511.7722851936405
+  },
+  {
+   "id": "wAbyqCbjBPyKB2f_ID_2wg",
+   "alias": "pawtrero-hill-bathhouse-and-feed-san-francisco-5",
+   "name": "Pawtrero Hill BathHouse \u0026 Feed",
+   "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/e1jPO8rt8O7LOUnBckGIHA/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/pawtrero-hill-bathhouse-and-feed-san-francisco-5?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 297,
+   "categories": [
+    {
+     "alias": "petstore",
+     "title": "Pet Stores"
+    },
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    },
+    {
+     "alias": "petadoption",
+     "title": "Pet Adoption"
+    }
+   ],
+   "rating": 4.5,
+   "coordinates": {
+    "longitude": -122.389331,
+    "Latitude": 37.78386
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "199 Brannan St",
+    "address2": "",
+    "address3": "",
+    "city": "San Francisco",
+    "zip_code": "94107",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "199 Brannan St",
+     "San Francisco, CA 94107"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+14158827297",
+   "display_phone": "(415) 882-7297",
+   "distance": 2823.8576088630352
+  },
+  {
+   "id": "8xHwrtWrUejsclHWL5tCQQ",
+   "alias": "paw-prints-salon-union-city",
+   "name": "Paw Prints Salon",
+   "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Sw1K8x41FKRw3SNv8Tikuw/o.jpg",
+   "is_closed": false,
+   "url": "https://www.yelp.com/biz/paw-prints-salon-union-city?adjust_creative=IzarSvF9UMdk3fDyxetRgQ\u0026utm_campaign=yelp_api_v3\u0026utm_medium=api_v3_business_search\u0026utm_source=IzarSvF9UMdk3fDyxetRgQ",
+   "review_count": 292,
+   "categories": [
+    {
+     "alias": "groomer",
+     "title": "Pet Groomers"
+    }
+   ],
+   "rating": 3.5,
+   "coordinates": {
+    "longitude": -122.08029,
+    "Latitude": 37.59533
+   },
+   "transactions": [],
+   "price": "",
+   "location": {
+    "address1": "3986 Horner St",
+    "address2": "",
+    "address3": "",
+    "city": "Union City",
+    "zip_code": "94587",
+    "country": "US",
+    "state": "CA",
+    "display_address": [
+     "3986 Horner St",
+     "Union City, CA 94587"
+    ],
+    "phone": "",
+    "display_phone": "",
+    "distance": 0
+   },
+   "phone": "+15104711851",
+   "display_phone": "(510) 471-1851",
+   "distance": 35904.95157698287
+  }
+ ],
+ "total": 2200,
+ "region": {
+  "center": {
+   "longitude": -122.4194,
+   "Latitude": 37.7749
+  }
+ }
+}
